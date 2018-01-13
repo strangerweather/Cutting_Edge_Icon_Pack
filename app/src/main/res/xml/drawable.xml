@@ -3,7 +3,9 @@
 	<version>1</version>
 
 	<category title="All" />
+	<item drawable="chromer" />
 	<item drawable="just_six_weeks" />
+	<item drawable="tiempo" />
 	<item drawable="shuttle" />
 	<item drawable="edupage" />
 	<item drawable="espn" />
@@ -152,6 +154,7 @@
 
 	<category title="Apps" />
 	<item drawable="shuttle" />
+	<item drawable="tiempo" />
 	<item drawable="espn" />
 	<item drawable="just_six_weeks" />
 	<item drawable="lightning" />
@@ -207,6 +210,7 @@
 	<item drawable="huawei_themes" />
 	<item drawable="vudu" />
 	<item drawable="edupage" />
+	<item drawable="chromer" />
 
 
 	<category title="Games" />
