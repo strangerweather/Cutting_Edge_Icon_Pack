@@ -4,6 +4,7 @@
 
 	<category title="All" />
 	<item drawable="just_six_weeks" />
+	<item drawable="shuttle" />
 	<item drawable="edupage" />
 	<item drawable="espn" />
 	<item drawable="dumb_ways" />
@@ -150,6 +151,7 @@
 	<item drawable="google_translate" />
 
 	<category title="Apps" />
+	<item drawable="shuttle" />
 	<item drawable="espn" />
 	<item drawable="just_six_weeks" />
 	<item drawable="lightning" />
