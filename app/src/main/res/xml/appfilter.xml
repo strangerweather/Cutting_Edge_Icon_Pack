@@ -341,7 +341,7 @@
         <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.LOCK/com.android.vending.billing.InAppBillingService.LOCK.MainActivity-Original}" drawable="lucky_patcher"/>
         <item component="ComponentInfo{com.android.vending/com.android.vending.AssetBrowserActivity}" drawable="play_store" />
         <item component="ComponentInfo{com.android.videoeditor/com.android.videoeditor.ProjectsActivity}" drawable="movie_studio" />
-        <item component="ComponentInfo{com.android2.calculator3/com.android2.calculator3.Calculator}" drawable="calculator" />
+        <!--<item component="ComponentInfo{com.android2.calculator3/com.android2.calculator3.Calculator}" drawable="calculator" />-->
         <item component="ComponentInfo{com.androidauthority.app/com.androidauthority.app.ui.activity.SplashActivity}" drawable="android_authority" />
         <item component="ComponentInfo{com.androidcentral.app/com.androidcentral.app.HomeActivity}" drawable="android_central" />
         <item component="ComponentInfo{com.androidvip.hebf/com.androidvip.hebf.MainActivity}" drawable="hebf" />

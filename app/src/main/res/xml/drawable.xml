@@ -3,6 +3,9 @@
 	<version>1</version>
 
 	<category title="All" />
+    <item drawable="movie_studio" />
+    <item drawable="terminal" />
+    <item drawable="theme_chooser" />
     <item drawable="dev_tools" />
     <item drawable="es_file_explorer" />
     <item drawable="documents" />
@@ -181,6 +184,8 @@
 	<item drawable="sound_recorder" />
 	<item drawable="music" />
 	<item drawable="dev_tools" />
+    <item drawable="theme_chooser" />
+    <item drawable="movie_studio" />
 
 	<category title="Google" />
 	<item drawable="chrome" />
@@ -203,6 +208,7 @@
 
 	<category title="Apps" />
     <item drawable="es_file_explorer" />
+    <item drawable="terminal" />
 	<item drawable="bubbleupnp" />
 	<item drawable="quran_indonesia" />
 	<item drawable="reddit_is_fun" />
