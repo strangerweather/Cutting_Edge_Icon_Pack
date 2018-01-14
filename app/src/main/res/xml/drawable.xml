@@ -3,7 +3,14 @@
 	<version>1</version>
 
 	<category title="All" />
+	<item drawable="adobe_lightroom" />
+	<item drawable="adobe_capture" />
+	<item drawable="adobe_fill_and_signdc" />
+	<item drawable="adobe_comp" />
+	<item drawable="adobe_draw" />
+	<item drawable="action_launcher" />
 	<item drawable="accu_weather" />
+	<item drawable="ac_display" />
 	<item drawable="slidebox" />
 	<item drawable="vine" />
 	<item drawable="wps_office" />
@@ -172,6 +179,7 @@
 	<item drawable="google_translate" />
 
 	<category title="Apps" />
+	<item drawable="ac_display" />
 	<item drawable="vine" />
 	<item drawable="accu_weather" />
 	<item drawable="xender" />
@@ -219,6 +227,11 @@
 	<item drawable="game_launcher" />
 	<item drawable="amaze" />
 	<item drawable="adobe_reader" />
+	<item drawable="adobe_comp" />
+	<item drawable="adobe_draw" />
+	<item drawable="adobe_capture" />
+	<item drawable="adobe_fill_and_signdc" />
+	<item drawable="adobe_lightroom" />
 	<item drawable="aquamail" />
 	<item drawable="huawei_backup" />
 	<item drawable="huawei_files" />
@@ -272,6 +285,7 @@
 	<item drawable="microsoft_onenote" />
 
 	<category title="Launchers" />
+	<item drawable="action_launcher" />
 	<item drawable="apex_launcher" />
 	<item drawable="nova_launcher" />
 	<item drawable="nova_settings" />
