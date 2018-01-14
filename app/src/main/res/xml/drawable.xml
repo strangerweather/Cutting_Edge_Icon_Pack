@@ -3,6 +3,15 @@
 	<version>1</version>
 
 	<category title="All" />
+	<item drawable="accu_weather" />
+	<item drawable="slidebox" />
+	<item drawable="vine" />
+	<item drawable="wps_office" />
+	<item drawable="xender" />
+	<item drawable="proton_mail" />
+	<item drawable="bring" />
+	<item drawable="timely" />
+	<item drawable="sleep_timer" />
 	<item drawable="dict_cc" />
 	<item drawable="noten_rechner" />
 	<item drawable="acesso" />
@@ -163,6 +172,15 @@
 	<item drawable="google_translate" />
 
 	<category title="Apps" />
+	<item drawable="vine" />
+	<item drawable="accu_weather" />
+	<item drawable="xender" />
+	<item drawable="slidebox" />
+	<item drawable="bring" />
+	<item drawable="wps_office" />
+	<item drawable="sleep_timer" />
+	<item drawable="proton_mail" />
+	<item drawable="timely" />
 	<item drawable="noten_rechner" />
 	<item drawable="cbc_news" />
 	<item drawable="dict_cc" />

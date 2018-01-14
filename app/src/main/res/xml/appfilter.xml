@@ -158,16 +158,16 @@
         <item component="ComponentInfo{ch.aboutlucerne.notenrechner/ch.aboutlucerne.notenrechner.ui.MainActivity}" drawable="noten_rechner" />
         <item component="ComponentInfo{ch.bitspin.timely/ch.bitspin.timely.activity.MainActivity_}" drawable="timely"/>
         <item component="ComponentInfo{ch.pboos.android.SleepTimer/ch.pboos.android.SleepTimer.ActivityMain}" drawable="sleep_timer" />
-        <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="proton__mail" />
+        <item component="ComponentInfo{ch.protonmail.android/ch.protonmail.android.activities.SplashActivity}" drawable="proton_mail" />
         <item component="ComponentInfo{ch.publisheria.bring/ch.publisheria.bring.activities.BringMainActivity}" drawable="bring" />
         <item component="ComponentInfo{cn.nubia.calendar.preset/cn.nubia.calendar.CTAStartActivity}" drawable="calendar" />
         <item component="ComponentInfo{cn.wps.moffice_eng/cn.wps.moffice.documentmanager.PreStartActivity}" drawable="wps_office"/>
         <item component="ComponentInfo{cn.xender/cn.xender.ui.activity.SplashActivity}" drawable="xender" />
         <item component="ComponentInfo{co.slidebox/co.slidebox.controller.startup.WelcomeActivity}" drawable="slidebox"/>
         <item component="ComponentInfo{co.vine.android/co.vine.android.StartActivity}" drawable="vine" />
-        <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.LauncherActivity}" drawable="accu__weather" />
-        <item component="ComponentInfo{com.accuweather.android/com.accuweather.app.SplashScreen}" drawable="accu__weather" />
-        <item component="ComponentInfo{com.accuweather.paid.android/com.accuweather.app.SplashScreen}" drawable="accu__weather" />
+        <item component="ComponentInfo{com.accuweather.android/com.accuweather.android.LauncherActivity}" drawable="accu_weather" />
+        <item component="ComponentInfo{com.accuweather.android/com.accuweather.app.SplashScreen}" drawable="accu_weather" />
+        <item component="ComponentInfo{com.accuweather.paid.android/com.accuweather.app.SplashScreen}" drawable="accu_weather" />
         <item component="ComponentInfo{com.achep.acdisplay/com.achep.acdisplay.ui.activities.MainActivity}" drawable="ac__display" />
         <item component="ComponentInfo{com.actionlauncher.playstore/com.actionlauncher.ActionLauncherActivity}" drawable="action_launcher" />
         <item component="ComponentInfo{com.adobe.comp/com.adobe.comp.activities.SplashScreenActivity}" drawable="adobe_comp"/>
