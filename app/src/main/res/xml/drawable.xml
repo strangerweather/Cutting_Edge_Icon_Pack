@@ -3,7 +3,16 @@
 	<version>1</version>
 
 	<category title="All" />
+	<item drawable="amazon_music" />
+	<item drawable="amazon_fire_tv" />
+	<item drawable="quran_indonesia" />
+	<item drawable="alexa" />
+	<item drawable="all_trails" />
+	<item drawable="hindu_calendar" />
+	<item drawable="quick_pic" />
+	<item drawable="ali_express" />
 	<item drawable="airbnb" />
+	<item drawable="aldiko" />
 	<item drawable="synapse" />
 	<item drawable="one_password" />
 	<item drawable="adobe_clip" />
@@ -185,6 +194,12 @@
 	<item drawable="google_translate" />
 
 	<category title="Apps" />
+	<item drawable="quran_indonesia" />
+	<item drawable="hindu_calendar" />
+	<item drawable="aldiko" />
+	<item drawable="ali_express" />
+	<item drawable="all_trails" />
+	<item drawable="quick_pic" />
 	<item drawable="one_password" />
 	<item drawable="airbnb" />
 	<item drawable="autodesk_sketchbook" />
@@ -284,9 +299,12 @@
 	<item drawable="dumb_ways" />
 
 	<category title="Amazon" />
+	<item drawable="amazon_fire_tv" />
 	<item drawable="amazon" />
 	<item drawable="kindle" />
 	<item drawable="amazon_video" />
+	<item drawable="amazon_music" />
+	<item drawable="alexa" />
 
 	<category title="Microsoft" />
 	<item drawable="onedrive" />

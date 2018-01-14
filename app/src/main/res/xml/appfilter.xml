@@ -184,11 +184,11 @@
         <item component="ComponentInfo{com.agilebits.onepassword/com.agilebits.onepassword.activity.LoginActivity}" drawable="one_password"/>
         <item component="ComponentInfo{com.airbnb.android/com.airbnb.android.activities.MainActivity}" drawable="airbnb"/>
         <item component="ComponentInfo{com.aldiko.android/com.aldiko.android.ui.AliasHomeScreen}" drawable="aldiko" />
-        <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="quick__pic" />
+        <item component="ComponentInfo{com.alensw.PicFolder/com.alensw.PicFolder.GalleryActivity}" drawable="quick_pic" />
         <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.MainActivity}" drawable="ali_express" />
         <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.module.home.SplashActivity}" drawable="ali_express" />
         <item component="ComponentInfo{com.alibaba.aliexpresshd/com.alibaba.aliexpresshd.SplashActivity}" drawable="ali_express" />
-        <item component="ComponentInfo{com.alltrails.alltrails/com.alltrails.alltrails.StartActivity}" drawable="all__trails" />
+        <item component="ComponentInfo{com.alltrails.alltrails/com.alltrails.alltrails.StartActivity}" drawable="all_trails" />
         <item component="ComponentInfo{com.alokmandavgane.hinducalendar/com.alokmandavgane.hinducalendar.MainActivity}" drawable="hindu_calendar"/>
         <item component="ComponentInfo{com.alorma.github/com.alorma.github.ui.activity.LoginActivity}" drawable="gitskarios" />
         <item component="ComponentInfo{com.alorma.github/com.alorma.github.ui.activity.MainActivity}" drawable="gitskarios" />
@@ -205,7 +205,7 @@
         <item component="ComponentInfo{com.amazon.mp3/com.amazon.mp3.library.activity.LaunchActivity}" drawable="amazon_music" />
         <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
         <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
-        <item component="ComponentInfo{com.amazon.storm.lightning.client.aosp/com.amazon.storm.lightning.client.main.MainActivity}" drawable="fire__tv" />
+        <item component="ComponentInfo{com.amazon.storm.lightning.client.aosp/com.amazon.storm.lightning.client.main.MainActivity}" drawable="amazon_fire_tv" />
         <item component="ComponentInfo{com.amazon.windowshop/com.amazon.windowshop.home.HomeLauncherActivity}" drawable="amazon" />
         <item component="ComponentInfo{com.anddoes.launcher.pro/com.anddoes.launcher.pro.ApexLauncherProActivity}" drawable="apex_launcher"/>
         <item component="ComponentInfo{com.anddoes.launcher/com.anddoes.launcher.Launcher}" drawable="apex_launcher"/>
