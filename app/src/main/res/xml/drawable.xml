@@ -3,7 +3,13 @@
 	<version>1</version>
 
 	<category title="All" />
+	<item drawable="airbnb" />
+	<item drawable="synapse" />
+	<item drawable="one_password" />
+	<item drawable="adobe_clip" />
+	<item drawable="autodesk_sketchbook" />
 	<item drawable="adobe_lightroom" />
+	<item drawable="adobe_photoshop_mix" />
 	<item drawable="adobe_capture" />
 	<item drawable="adobe_fill_and_signdc" />
 	<item drawable="adobe_comp" />
@@ -179,7 +185,11 @@
 	<item drawable="google_translate" />
 
 	<category title="Apps" />
+	<item drawable="one_password" />
+	<item drawable="airbnb" />
+	<item drawable="autodesk_sketchbook" />
 	<item drawable="ac_display" />
+	<item drawable="synapse" />
 	<item drawable="vine" />
 	<item drawable="accu_weather" />
 	<item drawable="xender" />
@@ -232,6 +242,8 @@
 	<item drawable="adobe_capture" />
 	<item drawable="adobe_fill_and_signdc" />
 	<item drawable="adobe_lightroom" />
+	<item drawable="adobe_photoshop_mix" />
+	<item drawable="adobe_clip" />
 	<item drawable="aquamail" />
 	<item drawable="huawei_backup" />
 	<item drawable="huawei_files" />
