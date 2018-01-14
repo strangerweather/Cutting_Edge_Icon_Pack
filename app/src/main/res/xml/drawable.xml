@@ -3,6 +3,12 @@
 	<version>1</version>
 
 	<category title="All" />
+    <item drawable="dev_tools" />
+    <item drawable="es_file_explorer" />
+    <item drawable="documents" />
+	<item drawable="reddit_is_fun" />
+	<item drawable="bubbleupnp" />
+	<item drawable="twenty_fortyeight" />
 	<item drawable="amazon_music" />
 	<item drawable="amazon_fire_tv" />
 	<item drawable="quran_indonesia" />
@@ -76,7 +82,7 @@
 	<item drawable="huawei_files" />
 	<item drawable="clock" />
 	<item drawable="contacts" />
-	<item drawable="aosp_mail" />
+	<item drawable="mail" />
 	<item drawable="camera" />
 	<item drawable="my_files" />
 	<item drawable="gallery" />
@@ -156,9 +162,10 @@
 	<item drawable="lightning" />
 
 	<category title="System" />
+    <item drawable="documents" />
 	<item drawable="clock" />
 	<item drawable="contacts" />
-	<item drawable="aosp_mail" />
+	<item drawable="mail" />
 	<item drawable="camera" />
 	<item drawable="my_files" />
 	<item drawable="gallery" />
@@ -173,6 +180,7 @@
 	<item drawable="emui_updater" />
 	<item drawable="sound_recorder" />
 	<item drawable="music" />
+	<item drawable="dev_tools" />
 
 	<category title="Google" />
 	<item drawable="chrome" />
@@ -194,7 +202,10 @@
 	<item drawable="google_translate" />
 
 	<category title="Apps" />
+    <item drawable="es_file_explorer" />
+	<item drawable="bubbleupnp" />
 	<item drawable="quran_indonesia" />
+	<item drawable="reddit_is_fun" />
 	<item drawable="hindu_calendar" />
 	<item drawable="aldiko" />
 	<item drawable="ali_express" />
@@ -297,6 +308,7 @@
 	<item drawable="monument_valley" />
 	<item drawable="shredder_chess" />
 	<item drawable="dumb_ways" />
+	<item drawable="twenty_fortyeight" />
 
 	<category title="Amazon" />
 	<item drawable="amazon_fire_tv" />
