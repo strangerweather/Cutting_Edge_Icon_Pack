@@ -189,6 +189,7 @@
 	<!--<item drawable="wow_companion" />-->
 	<!--<item drawable="hearthstone" />-->
 	<!--<item drawable="adv_screen_recorder" />-->
+	<!--<item drawable="bodyspace" />-->
 
 	<category title="System" />
     <item drawable="documents" />
@@ -233,6 +234,7 @@
 	<item drawable="google_translate" />
 
 	<category title="Apps" />
+    <item drawable="bodyspace" />
     <item drawable="battlenet_authenticator" />
     <item drawable="adv_screen_recorder" />
     <item drawable="bit_torrent" />
