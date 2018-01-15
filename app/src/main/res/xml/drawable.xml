@@ -3,9 +3,20 @@
 	<version>1</version>
 
 	<category title="All" />
+    <item drawable="behance" />
+    <item drawable="candid" />
+    <item drawable="bbm" />
+    <item drawable="seriesguide" />
+    <item drawable="basecamp" />
+    <item drawable="eye_em" />
+    <item drawable="antutu_benchmark" />
+    <item drawable="bank" />
+    <item drawable="anydo" />
+    <item drawable="anghami" />
     <item drawable="movie_studio" />
     <item drawable="android_authority" />
     <item drawable="android_central" />
+    <item drawable="hebf" />
     <item drawable="terminal" />
     <item drawable="theme_chooser" />
     <item drawable="dev_tools" />
@@ -209,6 +220,17 @@
 	<item drawable="google_translate" />
 
 	<category title="Apps" />
+    <item drawable="behance" />
+    <item drawable="bbm" />
+    <item drawable="candid" />
+    <item drawable="seriesguide" />
+    <item drawable="basecamp" />
+    <item drawable="bank" />
+    <item drawable="eye_em" />
+    <item drawable="anydo" />
+    <item drawable="antutu_benchmark" />
+    <item drawable="hebf" />
+    <item drawable="anghami" />
 	<item drawable="android_authority" />
 	<item drawable="android_central" />
     <item drawable="es_file_explorer" />

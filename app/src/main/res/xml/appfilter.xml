@@ -396,7 +396,7 @@
         <item component="ComponentInfo{com.bamnetworks.mobile.android.gameday.atbat/com.bamnetworks.mobile.android.gameday.appstart.viewcontrollers.SplashScreenActivity}" drawable="at_bat" />
         <item component="ComponentInfo{com.banksimple/com.banksimple.ui.LauncherActivity}" drawable="simple_bank" />
         <item component="ComponentInfo{com.barclays.android.barclaysmobilebanking/com.barclays.android.registration.NRegSplashActivity}" drawable="bank" />
-        <item component="ComponentInfo{com.baseapp.eyeem/com.baseapp.eyeem.Start}" drawable="eye__em"/>
+        <item component="ComponentInfo{com.baseapp.eyeem/com.baseapp.eyeem.Start}" drawable="eye_em"/>
         <item component="ComponentInfo{com.basecamp.app/com.basecamp.activities.AccountActivity}" drawable="basecamp" />
         <item component="ComponentInfo{com.basecamp.bc3/com.basecamp.bc3.activities.MyStuffActivity}" drawable="basecamp" />
         <item component="ComponentInfo{com.battlelancer.seriesguide/com.battlelancer.seriesguide.ui.ShowsActivity}" drawable="seriesguide"/>
