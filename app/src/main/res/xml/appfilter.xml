@@ -410,20 +410,19 @@
         <item component="ComponentInfo{com.behance.behance/com.behance.network.ui.activities.MainActivity}" drawable="behance" />
         <item component="ComponentInfo{com.bendigobank.mobile/au.com.ferocia.johanna.views.activities.LaunchActivity}" drawable="bank" />
         <item component="ComponentInfo{com.bergfex.mobile.weather/com.bergfex.mobile.activity.WelcomeActivity}" drawable="bergfex"/>
-        <item component="ComponentInfo{com.beta.colorselector/com.colorselector.ui.DashBoard}" drawable="pipette" />
         <item component="ComponentInfo{com.bethsoft.falloutshelter/com.bhvr.Prime31MainActivityWithMemoryWarning}" drawable="fallout_shelter" />
         <item component="ComponentInfo{com.billApps.saver500px/com.billApps.saver500px.Activity.SplashScreen}" drawable="fivehundredpx_saver" />
-        <item component="ComponentInfo{com.bitdefender.tuneup/com.bitdefender.tuneup.EulaFirstactivity}" drawable="power_tuneup" />
+        <item component="ComponentInfo{com.bitdefender.security/com.bitdefender.security.material.DashboardActivity}" drawable="bitdefender_antivirus" />
         <item component="ComponentInfo{com.bitly.app/com.bitly.app.activity.LandingActivity}" drawable="bitly" />
         <item component="ComponentInfo{com.bitsmedia.android.muslimpro/com.bitsmedia.android.muslimpro.activities.SplashActivity}" drawable="muslim_pro" />
         <item component="ComponentInfo{com.bitstrips.imoji/com.bitstrips.imoji.ui.LoginActivity}" drawable="bitmoji" />
-        <item component="ComponentInfo{com.bittorrent.client.pro/com.bittorrent.client.EntryActivity}" drawable="bit__torrent"/>
-        <item component="ComponentInfo{com.bittorrent.client/com.bittorrent.client.EntryActivity}" drawable="bit__torrent"/>
-        <item component="ComponentInfo{com.bleacherreport.android.teamstream/com.bleacherreport.android.teamstream.TsLaunchActivity}" drawable="bleacherreport" />
+        <item component="ComponentInfo{com.bittorrent.client.pro/com.bittorrent.client.EntryActivity}" drawable="bit_torrent"/>
+        <item component="ComponentInfo{com.bittorrent.client/com.bittorrent.client.EntryActivity}" drawable="bit_torrent"/>
+        <item component="ComponentInfo{com.bleacherreport.android.teamstream/com.bleacherreport.android.teamstream.TsLaunchActivity}" drawable="bleacher_report" />
         <item component="ComponentInfo{com.blizzard.bma/com.blizzard.bma.ui.welcome.SplashActivity}" drawable="battlenet_authenticator"/>
         <item component="ComponentInfo{com.blizzard.wowcompanion/com.blizzard.wowcompanion.CompanionNativeActivity}" drawable="wow_companion" />
         <item component="ComponentInfo{com.blizzard.wtcg.hearthstone/com.blizzard.wtcg.hearthstone.HearthstoneNativeActivity}" drawable="hearthstone" />
-        <item component="ComponentInfo{com.blogspot.byterevapps.lollipopscreenrecorder/com.blogspot.byterevapps.lollipopscreenrecorder.MainActivity}" drawable="avd_screen_recorder" />
+        <item component="ComponentInfo{com.blogspot.byterevapps.lollipopscreenrecorder/com.blogspot.byterevapps.lollipopscreenrecorder.MainActivity}" drawable="adv_screen_recorder" />
         <item component="ComponentInfo{com.bodybuilding.mobile/com.bodybuilding.mobile.activity.LoginActivity}" drawable="body_space" />
         <item component="ComponentInfo{com.bodybuilding.mobile/com.bodybuilding.mobile.activity.SplashActivity}" drawable="body_space" />
         <item component="ComponentInfo{com.box.android/com.box.android.activities.login.SplashScreenActivity}" drawable="box"/>
