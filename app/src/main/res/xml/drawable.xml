@@ -4,6 +4,10 @@
 
 	<category title="All" />
     <item drawable="battlenet_authenticator" />
+    <item drawable="hike" />
+    <item drawable="brave_browser" />
+    <item drawable="box" />
+    <item drawable="boxer_email" />
     <item drawable="bleacher_report" />
     <item drawable="bitmoji" />
     <item drawable="bit_torrent" />
@@ -190,6 +194,9 @@
 	<item drawable="hearthstone" />
 	<item drawable="adv_screen_recorder" />
 	<item drawable="bodyspace" />
+	<item drawable="wynk" />
+	<item drawable="bookmyshow" />
+	<item drawable="link_to_sd" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -234,7 +241,14 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="link_to_sd" />-->
+    <!--<item drawable="bookmyshow" />-->
     <!--<item drawable="bodyspace" />-->
+    <!--<item drawable="hike" />-->
+    <!--<item drawable="box" />-->
+    <!--<item drawable="wynk" />-->
+    <!--<item drawable="boxer_email" />-->
+    <!--<item drawable="brave_browser" />-->
     <!--<item drawable="battlenet_authenticator" />-->
     <!--<item drawable="adv_screen_recorder" />-->
     <!--<item drawable="bit_torrent" />-->

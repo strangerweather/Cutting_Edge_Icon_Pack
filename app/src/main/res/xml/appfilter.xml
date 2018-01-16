@@ -425,12 +425,10 @@
         <item component="ComponentInfo{com.blogspot.byterevapps.lollipopscreenrecorder/com.blogspot.byterevapps.lollipopscreenrecorder.MainActivity}" drawable="adv_screen_recorder" />
         <item component="ComponentInfo{com.bodybuilding.mobile/com.bodybuilding.mobile.activity.LoginActivity}" drawable="bodyspace" />
         <item component="ComponentInfo{com.bodybuilding.mobile/com.bodybuilding.mobile.activity.SplashActivity}" drawable="bodyspace" />
-        <!--<item component="ComponentInfo{com.box.android/com.box.android.activities.login.SplashScreenActivity}" drawable="box"/>-->
-        <item component="ComponentInfo{com.boxer.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar" />
-        <item component="ComponentInfo{com.boxer.calendar/com.android.calendar.AllInOneActivity}" drawable="today_calendar" />
-        <item component="ComponentInfo{com.boxer.email/com.boxer.email.activity.Welcome}" drawable="boxer" />
+        <item component="ComponentInfo{com.box.android/com.box.android.activities.login.SplashScreenActivity}" drawable="box"/>
+        <item component="ComponentInfo{com.boxer.email/com.boxer.email.activity.Welcome}" drawable="boxer_email" />
         <item component="ComponentInfo{com.bradesco/br.com.bradesco.integrador.splash.SplashScreen}" drawable="bank" />
-        <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave"/>
+        <item component="ComponentInfo{com.brave.browser/com.google.android.apps.chrome.Main}" drawable="brave_browser"/>
         <item component="ComponentInfo{com.bsb.hike/com.bsb.hike.ui.HomeActivity}" drawable="hike" />
         <item component="ComponentInfo{com.bsbportal.music/com.bsbportal.music.activities.LauncherScreenActivity}" drawable="wynk"/>
         <item component="ComponentInfo{com.bt.bms/com.bt.bms.activities.SplashActivity}" drawable="bookmyshow" />

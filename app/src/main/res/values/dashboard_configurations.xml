@@ -35,7 +35,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="home_image">wall</string>
+    <string name="home_image"></string>
 
     <!-- Home image style
     * Available choices:
@@ -69,7 +69,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="navigation_view_header">wall</string>
+    <string name="navigation_view_header"></string>
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
@@ -178,7 +178,7 @@
     *
     * If you want to use solid color, you can put hex color code here
     * ex: <string name="navigation_view_header">#000000</string> -->
-    <string name="about_image">wall</string>
+    <string name="about_image"></string>
 
     <!-- About profile image
     * If you want to use image from url, just put the url here
