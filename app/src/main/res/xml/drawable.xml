@@ -3,6 +3,7 @@
 	<version>1</version>
 
 	<category title="All" />
+    <item drawable="one_plus_fm_radio" />
     <item drawable="battlenet_authenticator" />
     <item drawable="hike" />
     <item drawable="brave_browser" />
@@ -197,6 +198,8 @@
 	<item drawable="wynk" />
 	<item drawable="bookmyshow" />
 	<item drawable="link_to_sd" />
+	<item drawable="destiny" />
+	<item drawable="mood" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -241,6 +244,8 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="mood" />-->
+	<!--<item drawable="one_plus_fm_radio" />-->
     <!--<item drawable="link_to_sd" />-->
     <!--<item drawable="bookmyshow" />-->
     <!--<item drawable="bodyspace" />-->
@@ -382,6 +387,7 @@
 	<!--<item drawable="twenty_fortyeight" />-->
 	<!--<item drawable="wow_companion" />-->
 	<!--<item drawable="hearthstone" />-->
+	<!--<item drawable="destiny" />-->
 
 	<!--<category title="Amazon" />-->
 	<!--<item drawable="amazon_fire_tv" />-->

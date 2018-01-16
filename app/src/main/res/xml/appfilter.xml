@@ -435,7 +435,7 @@
         <item component="ComponentInfo{com.buak.Link2SD/com.buak.Link2SD.Link2SD}" drawable="link_to_sd" />
         <item component="ComponentInfo{com.buak.link2sdplus/com.buak.link2sdplus.MainActivity}" drawable="link_to_sd" />
         <item component="ComponentInfo{com.bungieinc.bungiemobile/com.bungieinc.bungiemobile.LoaderActivity}" drawable="destiny" />
-        <item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="one__plusfm_radio" />
+        <item component="ComponentInfo{com.caf.fmradio/com.caf.fmradio.FMRadio}" drawable="one_plus_fm_radio" />
         <item component="ComponentInfo{com.caisseepargne.android.mobilebanking/com.caisseepargne.android.mobilebanking.activities.ADashBoard}" drawable="bank"/>
         <item component="ComponentInfo{com.calea.echo/com.calea.echo.MainActivity}" drawable="mood" />
         <item component="ComponentInfo{com.callpod.android_apps.keeper/com.callpod.android_apps.keeper.ResultsActivity}" drawable="keeper"/>
