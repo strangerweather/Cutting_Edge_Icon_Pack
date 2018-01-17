@@ -200,6 +200,20 @@
 	<item drawable="link_to_sd" />
 	<item drawable="destiny" />
 	<item drawable="mood" />
+	<item drawable="keeper" />
+	<item drawable="snow" />
+	<item drawable="month_widget" />
+	<item drawable="c_locker" />
+	<item drawable="gravity_box" />
+	<item drawable="my_q" />
+	<item drawable="charity_miles" />
+	<item drawable="chase" />
+	<item drawable="chefling" />
+	<item drawable="hermit" />
+	<item drawable="chipotle" />
+	<item drawable="chrome_canary" />
+	<item drawable="chrome_dev" />
+	<item drawable="asap_launcher" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -226,6 +240,8 @@
 
 	<!--<category title="Google" />-->
 	<!--<item drawable="chrome" />-->
+	<!--<item drawable="chrome_canary" />-->
+	<!--<item drawable="chrome_dev" />-->
 	<!--<item drawable="google" />-->
 	<!--<item drawable="google_search" />-->
 	<!--<item drawable="google_drive" />-->
@@ -244,7 +260,15 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="chipotle" />-->
+	<!--<item drawable="hermit" />-->
+	<!--<item drawable="gravity_box" />-->
+	<!--<item drawable="my_q" />-->
+	<!--<item drawable="month_widget" />-->
+	<!--<item drawable="c_locker" />-->
 	<!--<item drawable="mood" />-->
+	<!--<item drawable="keeper" />-->
+	<!--<item drawable="snow" />-->
 	<!--<item drawable="one_plus_fm_radio" />-->
     <!--<item drawable="link_to_sd" />-->
     <!--<item drawable="bookmyshow" />-->
@@ -376,6 +400,9 @@
 	<!--<item drawable="edupage" />-->
 	<!--<item drawable="chromer" />-->
 	<!--<item drawable="eat_smarter" />-->
+	<!--<item drawable="chase" />-->
+	<!--<item drawable="charity_miles" />-->
+	<!--<item drawable="chefling" />-->
 
 	<!--<category title="Games" />-->
     <!--<item drawable="fallout_shelter" />-->
@@ -407,6 +434,7 @@
 
 	<!--<category title="Launchers" />-->
 	<!--<item drawable="action_launcher" />-->
+	<!--<item drawable="asap_launcher" />-->
 	<!--<item drawable="apex_launcher" />-->
 	<!--<item drawable="nova_launcher" />-->
 	<!--<item drawable="nova_settings" />-->

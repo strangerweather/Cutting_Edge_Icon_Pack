@@ -442,14 +442,13 @@
         <item component="ComponentInfo{com.campmobile.snow/com.campmobile.snow.feature.intro.SplashActivity}" drawable="snow" />
         <item component="ComponentInfo{com.candl.chronos/com.candl.chronos.MainActivity}" drawable="month_widget" />
         <item component="ComponentInfo{com.ccs.lockscreen_pro/com.ccs.lockscreen_pro.SettingsLockerMain}" drawable="c_locker"/>
-        <item component="ComponentInfo{com.ceco.kitkat.gravitybox/com.ceco.kitkat.gravitybox.GravityBoxSettingsAlias}" drawable="gravitybox" />
-        <item component="ComponentInfo{com.chamberlain.myq.chamberlain/com.chamberlain.myq.features.splashscreen.SplashActivity}" drawable="chamberlain"/>
+        <item component="ComponentInfo{com.ceco.kitkat.gravitybox/com.ceco.kitkat.gravitybox.GravityBoxSettingsAlias}" drawable="gravity_box" />
+        <item component="ComponentInfo{com.chamberlain.myq.chamberlain/com.chamberlain.myq.features.splashscreen.SplashActivity}" drawable="my_q"/>
         <item component="ComponentInfo{com.charitymilescm.android/com.charitymilescm.android.mvp.splash.SplashActivity}" drawable="charity_miles" />
         <item component="ComponentInfo{com.chase.sig.android/com.chase.sig.android.activity.HomeActivity}" drawable="chase" />
         <item component="ComponentInfo{com.chefling.chefling/com.chefling.chefling.MainActivity}" drawable="chefling"/>
         <item component="ComponentInfo{com.chimbori.hermitcrab/com.chimbori.hermitcrab.AdminActivity}" drawable="hermit" />
         <item component="ComponentInfo{com.chipotle.ordering/com.chipotle.ordering.ui.splash.SplashActivity}" drawable="chipotle" />
-        <item component="ComponentInfo{com.chris.tholotis/com.chris.tholotis.MainActivity}" drawable="tholotis"/>
         <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="chrome_beta" />
         <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="chrome_canary" />
         <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="chrome_dev" />
