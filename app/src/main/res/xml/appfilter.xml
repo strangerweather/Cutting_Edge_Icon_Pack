@@ -452,7 +452,6 @@
         <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="chrome_beta" />
         <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="chrome_canary" />
         <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="chrome_dev" />
-        <item component="ComponentInfo{com.citc.asap/com.citc.asap.activities.LaunchActivity}" drawable="asap_launcher" />
         <item component="ComponentInfo{com.citc.weather/com.citc.weather.activities.Main}" drawable="eye_in_sky" />
         <item component="ComponentInfo{com.citi.citimobile/com.citi.mobile.pt3.GlobalPhoneActivity}" drawable="bank" />
         <item component="ComponentInfo{com.citibanamex.banamexmobile/com.citibanamex.banamexmobile.views.init.SplashActivity}" drawable="bank" />

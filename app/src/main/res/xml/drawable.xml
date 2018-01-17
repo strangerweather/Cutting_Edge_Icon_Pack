@@ -213,7 +213,6 @@
 	<item drawable="chipotle" />
 	<item drawable="chrome_canary" />
 	<item drawable="chrome_dev" />
-	<item drawable="asap_launcher" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -434,7 +433,6 @@
 
 	<!--<category title="Launchers" />-->
 	<!--<item drawable="action_launcher" />-->
-	<!--<item drawable="asap_launcher" />-->
 	<!--<item drawable="apex_launcher" />-->
 	<!--<item drawable="nova_launcher" />-->
 	<!--<item drawable="nova_settings" />-->
