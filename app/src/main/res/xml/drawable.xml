@@ -213,6 +213,12 @@
 	<item drawable="chipotle" />
 	<item drawable="chrome_canary" />
 	<item drawable="chrome_dev" />
+	<item drawable="asap_launcher" />
+	<item drawable="eye_in_sky_weather" />
+	<item drawable="citymapper" />
+	<item drawable="clean_master" />
+	<item drawable="clean_master_security" />
+	<item drawable="cleartrip" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -259,7 +265,12 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="clean_master" />-->
+	<!--<item drawable="cleartrip" />-->
+	<!--<item drawable="clean_master_security" />-->
+	<!--<item drawable="citymapper" />-->
 	<!--<item drawable="chipotle" />-->
+	<!--<item drawable="eye_in_sky_weather" />-->
 	<!--<item drawable="hermit" />-->
 	<!--<item drawable="gravity_box" />-->
 	<!--<item drawable="my_q" />-->
@@ -433,6 +444,7 @@
 
 	<!--<category title="Launchers" />-->
 	<!--<item drawable="action_launcher" />-->
+	<!--<item drawable="asap_launcher" />-->
 	<!--<item drawable="apex_launcher" />-->
 	<!--<item drawable="nova_launcher" />-->
 	<!--<item drawable="nova_settings" />-->

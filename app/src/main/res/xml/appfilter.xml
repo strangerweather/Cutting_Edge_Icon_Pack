@@ -452,13 +452,14 @@
         <item component="ComponentInfo{com.chrome.beta/com.google.android.apps.chrome.Main}" drawable="chrome_beta" />
         <item component="ComponentInfo{com.chrome.canary/com.google.android.apps.chrome.Main}" drawable="chrome_canary" />
         <item component="ComponentInfo{com.chrome.dev/com.google.android.apps.chrome.Main}" drawable="chrome_dev" />
-        <item component="ComponentInfo{com.citc.weather/com.citc.weather.activities.Main}" drawable="eye_in_sky" />
+        <item component="ComponentInfo{com.citc.asap/com.citc.asap.activities.LaunchActivity}" drawable="asap_launcher" />
+        <item component="ComponentInfo{com.citc.weather/com.citc.weather.activities.Main}" drawable="eye_in_sky_weather" />
         <item component="ComponentInfo{com.citi.citimobile/com.citi.mobile.pt3.GlobalPhoneActivity}" drawable="bank" />
         <item component="ComponentInfo{com.citibanamex.banamexmobile/com.citibanamex.banamexmobile.views.init.SplashActivity}" drawable="bank" />
         <item component="ComponentInfo{com.citiuat/com.citiuat.mobeix}" drawable="bank" />
         <item component="ComponentInfo{com.citymapper.app.release/com.citymapper.app.MainActivity}" drawable="citymapper" />
-        <item component="ComponentInfo{com.cleanmaster.mguard/com.keniu.security.main.MainActivity}" drawable="cleanmaster" />
-        <item component="ComponentInfo{com.cleanmaster.security/ks.cm.antivirus.main.SplashActivity}" drawable="cm_security"/>
+        <item component="ComponentInfo{com.cleanmaster.mguard/com.keniu.security.main.MainActivity}" drawable="clean_master" />
+        <item component="ComponentInfo{com.cleanmaster.security/ks.cm.antivirus.main.SplashActivity}" drawable="clean_master_security"/>
         <item component="ComponentInfo{com.cleartrip.android/com.cleartrip.android.activity.common.SplashActivity}" drawable="cleartrip" />
         <item component="ComponentInfo{com.cleevio.spendee/com.cleevio.spendee.ui.MainActivity}" drawable="spendee" />
         <item component="ComponentInfo{com.cmcm.lite/com.cleanmaster.function.main.MiniSplashActivity}" drawable="cleanmaster" />
