@@ -219,6 +219,17 @@
 	<item drawable="clean_master" />
 	<item drawable="clean_master_security" />
 	<item drawable="cleartrip" />
+	<item drawable="spendee" />
+	<item drawable="piano_tiles_two" />
+	<item drawable="blablacar" />
+	<item drawable="cpu_z" />
+	<item drawable="f_colors" />
+	<item drawable="credit_karma" />
+	<item drawable="crowdscores" />
+	<item drawable="crunchyroll" />
+	<item drawable="rmv" />
+	<item drawable="curiosity" />
+	<item drawable="two_gis" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -265,7 +276,17 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="curiosity" />-->
+	<!--<item drawable="two_gis" />-->
+	<!--<item drawable="rmv" />-->
+	<!--<item drawable="crunchyroll" />-->
+	<!--<item drawable="crowdscores" />-->
+	<!--<item drawable="credit_karma" />-->
+	<!--<item drawable="f_colors" />-->
+	<!--<item drawable="blablacar" />-->
+	<!--<item drawable="cpu_z" />-->
 	<!--<item drawable="clean_master" />-->
+	<!--<item drawable="spendee" />-->
 	<!--<item drawable="cleartrip" />-->
 	<!--<item drawable="clean_master_security" />-->
 	<!--<item drawable="citymapper" />-->
@@ -425,6 +446,7 @@
 	<!--<item drawable="wow_companion" />-->
 	<!--<item drawable="hearthstone" />-->
 	<!--<item drawable="destiny" />-->
+	<!--<item drawable="piano_tiles_two" />-->
 
 	<!--<category title="Amazon" />-->
 	<!--<item drawable="amazon_fire_tv" />-->
