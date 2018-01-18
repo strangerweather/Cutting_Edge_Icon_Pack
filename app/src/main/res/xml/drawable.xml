@@ -237,6 +237,13 @@
 	<item drawable="feedly" />
 	<item drawable="deviant_art" />
 	<item drawable="dictionary_com" />
+	<item drawable="accubattery" />
+	<item drawable="digical" />
+	<item drawable="lost_in_harmony" />
+	<item drawable="discord" />
+	<item drawable="piktures" />
+	<item drawable="stream" />
+	<item drawable="atom_launcher" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -283,6 +290,11 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="stream" />-->
+	<!--<item drawable="piktures" />-->
+	<!--<item drawable="discord" />-->
+	<!--<item drawable="digical" />-->
+	<!--<item drawable="accubattery" />-->
 	<!--<item drawable="dictionary_com" />-->
 	<!--<item drawable="deviant_art" />-->
 	<!--<item drawable="feedly" />-->
@@ -457,6 +469,7 @@
 	<!--<item drawable="hearthstone" />-->
 	<!--<item drawable="destiny" />-->
 	<!--<item drawable="piano_tiles_two" />-->
+	<!--<item drawable="lost_in_harmony" />-->
 
 	<!--<category title="Amazon" />-->
 	<!--<item drawable="amazon_fire_tv" />-->
@@ -476,6 +489,7 @@
 
 	<!--<category title="Launchers" />-->
 	<!--<item drawable="action_launcher" />-->
+	<!--<item drawable="atom_launcher" />-->
 	<!--<item drawable="asap_launcher" />-->
 	<!--<item drawable="apex_launcher" />-->
 	<!--<item drawable="nova_launcher" />-->
