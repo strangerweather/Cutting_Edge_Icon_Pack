@@ -244,6 +244,11 @@
 	<item drawable="piktures" />
 	<item drawable="stream" />
 	<item drawable="atom_launcher" />
+	<item drawable="app_lock" />
+	<item drawable="double_twist" />
+	<item drawable="mindly" />
+	<item drawable="drippler" />
+	<item drawable="wallet" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -290,6 +295,11 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="wallet" />-->
+	<!--<item drawable="drippler" />-->
+	<!--<item drawable="mindly" />-->
+	<!--<item drawable="double_twist" />-->
+	<!--<item drawable="app_lock" />-->
 	<!--<item drawable="stream" />-->
 	<!--<item drawable="piktures" />-->
 	<!--<item drawable="discord" />-->

@@ -495,9 +495,8 @@
         <item component="ComponentInfo{com.djit.apps.stream/com.djit.apps.stream.Launcher}" drawable="stream" />
         <item component="ComponentInfo{com.dlto.atom.launcher/com.nemustech.slauncher.LauncherAlias}" drawable="atom_launcher"/>
         <item component="ComponentInfo{com.dlto.atom.launcher/com.nemustech.slauncher.Launcher}" drawable="atom_launcher"/>
-        <item component="ComponentInfo{com.dolby.daxappUI/com.dolby.daxappUI.MainActivity}" drawable="dolby_atmos" />
         <item component="ComponentInfo{com.domobile.applock/com.domobile.applock.LauncherActivity}" drawable="app_lock" />
-        <item component="ComponentInfo{com.doubleTwist.androidPlayer/com.doubleTwist.androidPlayer.HomePagerActivity}" drawable="double__twist" />
+        <item component="ComponentInfo{com.doubleTwist.androidPlayer/com.doubleTwist.androidPlayer.HomePagerActivity}" drawable="double_twist" />
         <item component="ComponentInfo{com.dripgrind.mindly/com.dripgrind.mindly.highlights.MainActivity}" drawable="mindly" />
         <item component="ComponentInfo{com.drippler.android.updates/com.drippler.android.updates.SplashActivity}" drawable="drippler" />
         <item component="ComponentInfo{com.droid4you.application.wallet/com.droid4you.application.wallet.SplashScreenActivity}" drawable="wallet" />
