@@ -484,10 +484,8 @@
         <item component="ComponentInfo{com.delphicoder.flud.paid/com.delphicoder.flud.MainActivity}" drawable="flud" />
         <item component="ComponentInfo{com.delphicoder.flud/com.delphicoder.flud.MainActivity}" drawable="flud" />
         <item component="ComponentInfo{com.devhd.feedly/com.devhd.feedly.Main}" drawable="feedly" />
-        <item component="ComponentInfo{com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity}" drawable="deviant__art" />
-        <item component="ComponentInfo{com.devolver.downwell/com.devolver.downwell.RunnerActivity}" drawable="downwell"/>
+        <item component="ComponentInfo{com.deviantart.android.damobile/com.deviantart.android.damobile.activity.HomeActivity}" drawable="deviant_art" />
         <item component="ComponentInfo{com.devuni.flashlight/com.devuni.flashlight.MainActivity}" drawable="flashlight" />
-        <item component="ComponentInfo{com.devwild.zermelo/com.devwild.zermelo.MainActivity}" drawable="zermelo"/>
         <item component="ComponentInfo{com.dictionary.paid/com.dictionary.Splash}" drawable="dictionary_com" />
         <item component="ComponentInfo{com.digibites.accubattery/com.digibites.abatterysaver.BatterySaverActivity}" drawable="accubattery" />
         <item component="ComponentInfo{com.digibites.calendar/com.digibites.calendar.WeekAgendaActivity}" drawable="digical" />

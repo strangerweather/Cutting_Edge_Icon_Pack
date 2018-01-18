@@ -230,6 +230,13 @@
 	<item drawable="rmv" />
 	<item drawable="curiosity" />
 	<item drawable="two_gis" />
+	<item drawable="dailymotion" />
+	<item drawable="dashlane" />
+	<item drawable="dc_comics" />
+	<item drawable="flud" />
+	<item drawable="feedly" />
+	<item drawable="deviant_art" />
+	<item drawable="dictionary_com" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -276,6 +283,9 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="dictionary_com" />-->
+	<!--<item drawable="deviant_art" />-->
+	<!--<item drawable="feedly" />-->
 	<!--<item drawable="curiosity" />-->
 	<!--<item drawable="two_gis" />-->
 	<!--<item drawable="rmv" />-->
