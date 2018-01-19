@@ -377,7 +377,6 @@
         <item component="ComponentInfo{com.asus.music/com.asus.music.MusicMainActivity}" drawable="music" />
         <item component="ComponentInfo{com.asus.supernote/com.asus.supernote.picker.NoteBookPickerActivity}" drawable="memo" />
         <item component="ComponentInfo{com.asus.task/com.asus.task.activity.TaskActivity}" drawable="do_it_later" />
-        <item component="ComponentInfo{com.atmos.daxappUI/com.atmos.daxappUI.MainActivity}" drawable="dolby_atmos" />
         <item component="ComponentInfo{com.audible.application/com.audible.application.SplashScreen}" drawable="audible" />
         <item component="ComponentInfo{com.audlabs.viperfx/com.audlabs.viperfx.main.MainActivity}" drawable="viper" />
         <item component="ComponentInfo{com.authy.authy/com.authy.authy.activities.InitializationActivity}" drawable="authy" />

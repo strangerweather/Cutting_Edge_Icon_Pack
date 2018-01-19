@@ -262,6 +262,7 @@
 	<item drawable="better_battery_stats" />
 	<item drawable="tidal" />
 	<item drawable="do_it_later" />
+	<item drawable="audible" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -508,6 +509,7 @@
 	<!--<item drawable="lost_in_harmony" />-->
 
 	<!--<category title="Amazon" />-->
+	<!--<item drawable="audible" />-->
 	<!--<item drawable="amazon_fire_tv" />-->
 	<!--<item drawable="amazon" />-->
 	<!--<item drawable="kindle" />-->
