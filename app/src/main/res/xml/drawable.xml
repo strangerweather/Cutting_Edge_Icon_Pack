@@ -254,6 +254,14 @@
 	<item drawable="apple_music" />
 	<item drawable="zomato" />
 	<item drawable="app_cloner" />
+	<item drawable="kleptocats" />
+	<item drawable="apus_browser" />
+	<item drawable="guitar_pro" />
+	<item drawable="asana" />
+	<item drawable="askfm" />
+	<item drawable="better_battery_stats" />
+	<item drawable="tidal" />
+	<item drawable="do_it_later" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -300,6 +308,13 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="do_it_later" />-->
+	<!--<item drawable="tidal" />-->
+	<!--<item drawable="better_battery_stats" />-->
+	<!--<item drawable="askfm" />-->
+	<!--<item drawable="asana" />-->
+	<!--<item drawable="guitar_pro" />-->
+	<!--<item drawable="apus_browser" />-->
 	<!--<item drawable="app_cloner" />-->
 	<!--<item drawable="zomato" />-->
 	<!--<item drawable="apple_music" />-->
@@ -478,6 +493,7 @@
 	<!--<item drawable="chefling" />-->
 
 	<!--<category title="Games" />-->
+    <!--<item drawable="kleptocats" />-->
     <!--<item drawable="fallout_shelter" />-->
 	<!--<item drawable="wordfeud" />-->
 	<!--<item drawable="quizgeek" />-->

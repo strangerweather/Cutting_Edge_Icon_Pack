@@ -358,12 +358,10 @@
         <item component="ComponentInfo{com.appsorama.kleptocats/com.unity3d.player.UnityPlayerNativeActivity}" drawable="kleptocats"/>
         <item component="ComponentInfo{com.apusapps.browser/com.apusapps.browser.main.AppEnterActivity}" drawable="apus_browser" />
         <item component="ComponentInfo{com.arobasmusic.guitarpro/com.arobasmusic.guitarpro.GuitarProActivity}" drawable="guitar_pro" />
-        <item component="ComponentInfo{com.arun.kustomiconpack/com.arun.kustomiconpack.MainActivity}" drawable="kustom_icon_plugin" />
-        <item component="ComponentInfo{com.arun.themeutil.kolorette/com.arun.themeutil.kolorette.MainActivity}" drawable="kolorette" />
         <item component="ComponentInfo{com.asana.app/com.asana.ui.activities.LaunchActivity}" drawable="asana" />
-        <item component="ComponentInfo{com.askfm/com.askfm.welcome.SplashScreenActivity}" drawable="ask_fm" />
-        <item component="ComponentInfo{com.asksven.betterbatterystats/com.asksven.betterbatterystats.StatsActivity}" drawable="better__battery__stats"/>
-        <item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="better__battery__stats"/>
+        <item component="ComponentInfo{com.askfm/com.askfm.welcome.SplashScreenActivity}" drawable="askfm" />
+        <item component="ComponentInfo{com.asksven.betterbatterystats/com.asksven.betterbatterystats.StatsActivity}" drawable="better_battery_stats"/>
+        <item component="ComponentInfo{com.asksven.betterbatterystats_xdaedition/com.asksven.betterbatterystats.StatsActivity}" drawable="better_battery_stats"/>
         <item component="ComponentInfo{com.aspiro.tidal/com.aspiro.wamp.LoginFragmentActivity}" drawable="tidal"/>
         <item component="ComponentInfo{com.asus.browser/com.android.browser.BrowserActivity}" drawable="internet" />
         <item component="ComponentInfo{com.asus.calculator/com.asus.calculator.Calculator}" drawable="calculator" />
@@ -372,7 +370,6 @@
         <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.DialtactsActivity}" drawable="phone" />
         <item component="ComponentInfo{com.asus.contacts/com.android.contacts.activities.PeopleActivity}" drawable="contacts" />
         <item component="ComponentInfo{com.asus.deskclock/com.asus.deskclock.DeskClock}" drawable="clock" />
-        <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="cyanogenmod_file_manager" />
         <item component="ComponentInfo{com.asus.flashlight/com.asus.flashlight.FlashLightMainActivity}" drawable="flashlight" />
         <item component="ComponentInfo{com.asus.fmradio/com.asus.fmradio.FMRadioUIv3}" drawable="fm_radio" />
         <item component="ComponentInfo{com.asus.gallery/com.asus.gallery.app.EPhotoActivity}" drawable="gallery"/>
