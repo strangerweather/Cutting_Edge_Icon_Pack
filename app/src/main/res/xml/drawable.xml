@@ -249,6 +249,11 @@
 	<item drawable="mindly" />
 	<item drawable="drippler" />
 	<item drawable="wallet" />
+	<item drawable="australian_open" />
+	<item drawable="business_calendar" />
+	<item drawable="apple_music" />
+	<item drawable="zomato" />
+	<item drawable="app_cloner" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -295,7 +300,12 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="app_cloner" />-->
+	<!--<item drawable="zomato" />-->
+	<!--<item drawable="apple_music" />-->
 	<!--<item drawable="wallet" />-->
+	<!--<item drawable="business_calendar" />-->
+	<!--<item drawable="australian_open" />-->
 	<!--<item drawable="drippler" />-->
 	<!--<item drawable="mindly" />-->
 	<!--<item drawable="double_twist" />-->

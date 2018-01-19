@@ -25,6 +25,7 @@
     <item component="ComponentInfo{air.ITVMobilePlayer/com.candyspace.itvplayer.sharedviews.screens.main.MainActivity}" drawable="itv_hub" />
     <item component="ComponentInfo{com.texty.sms/com.texty.sms.MainActivity}" drawable="mightytext" />
     <item component="ComponentInfo{com.android.hwmirror/com.android.hwmirror.Mirror}" drawable="mirror" />
+    <item component="ComponentInfo{com.ibm.events.android.ausopen/au.com.tennis.australianopen.activity.MainActivity}" drawable="australian_open" />
 
     <!-- Nova Launcher Default App Drawer -->
 	<item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="home_home2apps_button" />
@@ -350,8 +351,6 @@
         <item component="ComponentInfo{com.antutu.benchmark.full/com.antutu.benchmark.full.MainActivity}" drawable="antutu_benchmark"/>
         <item component="ComponentInfo{com.anydo/com.anydo.activity.SplashActivity}" drawable="anydo"/>
         <item component="ComponentInfo{com.anz.android.gomoney/com.anz.android.gomoney.controller.GoMoneyActivity}" drawable="bank" />
-        <item component="ComponentInfo{com.aol.mobile.aim/com.aol.mobile.aim.ui.AimActivity}" drawable="aim" />
-        <item component="ComponentInfo{com.aol.mobile.altomail/com.aol.mobile.mail.ui.StartActivity}" drawable="alto" />
         <item component="ComponentInfo{com.appgenix.bizcal/com.appgenix.bizcal.LaunchActivity}" drawable="business_calendar" />
         <item component="ComponentInfo{com.apple.android.music/com.apple.android.music.onboarding.activities.SplashActivity}" drawable="apple_music"/>
         <item component="ComponentInfo{com.application.zomato/com.application.zomato.activities.Splash}" drawable="zomato" />
