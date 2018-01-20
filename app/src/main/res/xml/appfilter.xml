@@ -499,8 +499,8 @@
         <item component="ComponentInfo{com.ds.avare/com.ds.avare.MainActivity }" drawable="avare"/>
         <item component="ComponentInfo{com.dsemu.drastic/com.dsemu.drastic.DraSticActivity}" drawable="drastic" />
         <item component="ComponentInfo{com.duolingo/com.duolingo.app.LoginActivity}" drawable="duolingo" />
-        <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="adm" />
-        <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="adm" />
+        <item component="ComponentInfo{com.dv.adm.pay/com.dv.adm.pay.Main}" drawable="advanced_download_manager" />
+        <item component="ComponentInfo{com.dv.adm/com.dv.adm.Main}" drawable="advanced_download_manager" />
         <item component="ComponentInfo{com.dvtonder.chronus/com.dvtonder.chronus.preference.PreferencesMain}" drawable="chronus" />
         <item component="ComponentInfo{com.ea.bf3bl.bv/com.ea.bf3bl.bv.MainActivity}" drawable="battlefield" />
         <item component="ComponentInfo{com.ea.gp.fifaultimate/com.ea.fifaultimate.FUTMobileActivity}" drawable="fifa_companion" />
