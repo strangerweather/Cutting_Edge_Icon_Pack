@@ -263,6 +263,21 @@
 	<item drawable="tidal" />
 	<item drawable="do_it_later" />
 	<item drawable="audible" />
+	<item drawable="viper" />
+	<item drawable="authy" />
+	<item drawable="simplenote" />
+	<item drawable="avast" />
+	<item drawable="aviary" />
+	<item drawable="babbel" />
+	<item drawable="backdrops" />
+	<item drawable="badoo" />
+	<item drawable="true_balance" />
+	<item drawable="podcast_addict" />
+	<item drawable="at_bat" />
+	<item drawable="simple_bank" />
+	<item drawable="dropbox" />
+	<item drawable="avare" />
+	<item drawable="drastic" />
 
 	<!--<category title="System" />-->
     <!--<item drawable="documents" />-->
@@ -309,6 +324,21 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="drastic" />-->
+	<!--<item drawable="avare" />-->
+	<!--<item drawable="dropbox" />-->
+	<!--<item drawable="simple_bank" />-->
+	<!--<item drawable="at_bat" />-->
+	<!--<item drawable="podcast_addict" />-->
+	<!--<item drawable="true_balance" />-->
+	<!--<item drawable="badoo" />-->
+	<!--<item drawable="backdrops" />-->
+	<!--<item drawable="babbel" />-->
+	<!--<item drawable="aviary" />-->
+	<!--<item drawable="avast" />-->
+	<!--<item drawable="simplenote" />-->
+	<!--<item drawable="authy" />-->
+	<!--<item drawable="viper" />-->
 	<!--<item drawable="do_it_later" />-->
 	<!--<item drawable="tidal" />-->
 	<!--<item drawable="better_battery_stats" />-->
