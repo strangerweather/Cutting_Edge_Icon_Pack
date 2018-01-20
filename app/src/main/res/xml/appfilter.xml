@@ -29,7 +29,7 @@
 
     <!-- Nova Launcher Default App Drawer -->
 	<item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="home_home2apps_button" />
-    
+
     <!-- Google Calendar -->
  	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.LaunchActivity}" drawable="calendar_12" />
  	<item component="ComponentInfo{com.google.android.calendar/com.android.calendar.AllInOneActivity}" drawable="calendar_12" />
@@ -509,7 +509,7 @@
         <item component="ComponentInfo{com.ebay.mobile/com.ebay.mobile.activities.eBay}" drawable="ebay"/>
         <item component="ComponentInfo{com.eclipsim.gpsstatus2/com.eclipsim.gpsstatus2.GPSStatus}" drawable="gps_status"/>
         <item component="ComponentInfo{com.eg.android.AlipayGphone/com.eg.android.AlipayGphone.AlipayLogin}" drawable="alipay" />
-        <item component="ComponentInfo{com.elixsr.somnio/com.elixsr.somnio.LoginActivity}" drawable="sky_map" />
+        <item component="ComponentInfo{com.elixsr.somnio/com.elixsr.somnio.LoginActivity}" drawable="somnio" />
         <item component="ComponentInfo{com.embermitre.pixolor.app/com.embermitre.pixolor.app.StartProjectionManagerActivity}" drawable="pixolor" />
         <item component="ComponentInfo{com.enki.insights/com.enki.insights.MainActivity}" drawable="enki"/>
         <item component="ComponentInfo{com.erc.software.absolutelywallpapers/com.viztushar.osumwalls.MainActivity}" drawable="absolutely_wallpapers" />

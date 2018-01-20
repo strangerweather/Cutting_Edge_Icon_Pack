@@ -287,6 +287,17 @@
 	<item drawable="chronus" />
 	<item drawable="battlefield" />
 	<item drawable="fifa_companion" />
+	<item drawable="alipay" />
+	<item drawable="somnio" />
+	<item drawable="pixolor" />
+	<item drawable="enki" />
+	<item drawable="absolutely_wallpapers" />
+	<item drawable="mobile_security" />
+	<item drawable="wave_calendar" />
+	<item drawable="espn_fantasy" />
+	<item drawable="alzip" />
+	<item drawable="pro_metronome" />
+	<item drawable="evernote" />
 
 
 	<!--<category title="System" />-->
@@ -334,6 +345,17 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="evernote" />-->
+    <!--<item drawable="pro_metronome" />-->
+    <!--<item drawable="alzip" />-->
+    <!--<item drawable="espn_fantasy" />-->
+    <!--<item drawable="wave_calendar" />-->
+    <!--<item drawable="mobile_security" />-->
+    <!--<item drawable="absolutely_wallpapers" />-->
+    <!--<item drawable="enki" />-->
+    <!--<item drawable="pixolor" />-->
+    <!--<item drawable="somnio" />-->
+    <!--<item drawable="alipay" />-->
     <!--<item drawable="gps_status" />-->
     <!--<item drawable="ebay" />-->
     <!--<item drawable="ebay_kleinanzeigen" />-->
