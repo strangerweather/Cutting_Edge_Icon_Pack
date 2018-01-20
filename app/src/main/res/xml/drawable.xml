@@ -298,6 +298,14 @@
 	<item drawable="alzip" />
 	<item drawable="pro_metronome" />
 	<item drawable="evernote" />
+	<item drawable="facebook" />
+	<item drawable="facebook_lite" />
+	<item drawable="facebook_messenger_lite" />
+	<item drawable="facebook_messenger" />
+	<item drawable="fb_page_manager" />
+	<item drawable="fandango" />
+	<item drawable="my_boy" />
+	<item drawable="bacon_camera" />
 
 
 	<!--<category title="System" />-->
@@ -345,6 +353,14 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="bacon_camera" />-->
+    <!--<item drawable="my_boy" />-->
+    <!--<item drawable="fandango" />-->
+    <!--<item drawable="fb_page_manager" />-->
+    <!--<item drawable="facebook_messenger_lite" />-->
+    <!--<item drawable="facebook_messenger" />-->
+    <!--<item drawable="facebook_lite" />-->
+    <!--<item drawable="facebook" />-->
     <!--<item drawable="evernote" />-->
     <!--<item drawable="pro_metronome" />-->
     <!--<item drawable="alzip" />-->

@@ -533,8 +533,8 @@
         <item component="ComponentInfo{com.facebook.pages.app/com.facebook.pages.app.activity.PagesManagerLoginActivity}" drawable="fb_page_manager" />
         <item component="ComponentInfo{com.fandango/com.fandango.Fandango}" drawable="fandango" />
         <item component="ComponentInfo{com.fastemulator.gba/com.fastemulator.gba.MainActivity}" drawable="my_boy" />
-        <item component="ComponentInfo{com.fgnm.baconcamera/com.fgnm.baconcamera.CameraActivity}" drawable="camera_alt_three"/>
-        <item component="ComponentInfo{com.fi6715.godough/com.fi6715.godough.ornlfcu}" drawable="ornlfcu"/>
+        <item component="ComponentInfo{com.fgnm.baconcamera/com.fgnm.baconcamera.CameraActivity}" drawable="bacon_camera"/>
+        <item component="ComponentInfo{com.fi6715.godough/com.fi6715.godough.ornlfcu}" drawable="bank"/>
         <item component="ComponentInfo{com.fihtdc.music/com.fihtdc.music.ui.activities.MainActivity}" drawable="music" />
         <item component="ComponentInfo{com.fineco.it/com.fineco.it.Splash}" drawable="fineco"/>
         <item component="ComponentInfo{com.firsttouchgames.story/com.firsttouchgames.story.MainActivity}" drawable="score_hero" />
