@@ -3,6 +3,7 @@
 	<version>1</version>
 
 	<category title="All" />
+    <item drawable="kijiji" />
     <item drawable="one_plus_fm_radio" />
     <item drawable="battlenet_authenticator" />
     <item drawable="hike" />
@@ -330,6 +331,7 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="kijiji" />-->
 	<!--<item drawable="chronus" />-->
 	<!--<item drawable="advanced_download_manager" />-->
 	<!--<item drawable="duolingo" />-->
