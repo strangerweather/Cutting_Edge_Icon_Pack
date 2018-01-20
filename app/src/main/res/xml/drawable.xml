@@ -306,6 +306,15 @@
 	<item drawable="fandango" />
 	<item drawable="my_boy" />
 	<item drawable="bacon_camera" />
+	<item drawable="score_hero" />
+	<item drawable="fitbit" />
+	<item drawable="fivehundredpx" />
+	<item drawable="the_score" />
+	<item drawable="camera_fv_five" />
+	<item drawable="flipkart" />
+	<item drawable="moon_reader" />
+	<item drawable="flynx" />
+	<item drawable="flyperlink" />
 
 
 	<!--<category title="System" />-->
@@ -353,6 +362,14 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="flyperlink" />-->
+    <!--<item drawable="flynx" />-->
+    <!--<item drawable="moon_reader" />-->
+    <!--<item drawable="flipkart" />-->
+    <!--<item drawable="camera_fv_five" />-->
+    <!--<item drawable="the_score" />-->
+    <!--<item drawable="fivehundredpx" />-->
+    <!--<item drawable="fitbit" />-->
     <!--<item drawable="bacon_camera" />-->
     <!--<item drawable="my_boy" />-->
     <!--<item drawable="fandango" />-->
@@ -579,6 +596,7 @@
 	<!--<item drawable="chefling" />-->
 
 	<!--<category title="Games" />-->
+    <!--<item drawable="score_hero" />-->
     <!--<item drawable="fifa_companion" />-->
     <!--<item drawable="battlefield" />-->
     <!--<item drawable="kleptocats" />-->

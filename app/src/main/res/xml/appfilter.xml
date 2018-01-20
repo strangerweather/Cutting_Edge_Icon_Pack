@@ -536,11 +536,11 @@
         <item component="ComponentInfo{com.fgnm.baconcamera/com.fgnm.baconcamera.CameraActivity}" drawable="bacon_camera"/>
         <item component="ComponentInfo{com.fi6715.godough/com.fi6715.godough.ornlfcu}" drawable="bank"/>
         <item component="ComponentInfo{com.fihtdc.music/com.fihtdc.music.ui.activities.MainActivity}" drawable="music" />
-        <item component="ComponentInfo{com.fineco.it/com.fineco.it.Splash}" drawable="fineco"/>
+        <item component="ComponentInfo{com.fineco.it/com.fineco.it.Splash}" drawable="bank"/>
         <item component="ComponentInfo{com.firsttouchgames.story/com.firsttouchgames.story.MainActivity}" drawable="score_hero" />
         <item component="ComponentInfo{com.fitbit.FitbitMobile/com.fitbit.FirstActivity}" drawable="fitbit" />
         <item component="ComponentInfo{com.fivehundredpx.viewer/com.fivehundredpx.viewer.main.RootActivity}" drawable="fivehundredpx"/>
-        <item component="ComponentInfo{com.fivemobile.thescore/com.fivemobile.thescore.SplashActivity}" drawable="the__score" />
+        <item component="ComponentInfo{com.fivemobile.thescore/com.fivemobile.thescore.SplashActivity}" drawable="the_score" />
         <item component="ComponentInfo{com.flavionet.android.camera.pro/com.flavionet.android.camera.pro.Main}" drawable="camera_fv_five" />
         <item component="ComponentInfo{com.flayvr.flayvr/com.flayvr.screens.folders.FolderSelectionActivity}" drawable="gallery"/>
         <item component="ComponentInfo{com.flipkart.android/com.flipkart.android.SplashActivity}" drawable="flipkart" />
