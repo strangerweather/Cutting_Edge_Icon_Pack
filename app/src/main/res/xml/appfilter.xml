@@ -13,7 +13,7 @@
     <item component="ComponentInfo{com.bt.btsport/com.accenture.btsport.login.SplashActivity}" drawable="bt_sport" />
     <item component="ComponentInfo{com.huawei.KoBackup/com.huawei.KoBackup.InitializeActivity}" drawable="huawei_backup" />
     <item component="ComponentInfo{uk.co.bbc.android.iplayerradio/uk.co.bbc.android.iplayerradiov2.ui.toplevelcomponents.mainactivity.MainActivity}" drawable="bbc_iplayer_radio" />
-    <item component="ComponentInfo{com.strangerweather.nextgenicons/com.strangerweather.nextgenicons.activities.SplashActivity}" drawable="papercut" />
+    <item component="ComponentInfo{com.strangerweather.nextgenicons/com.strangerweather.nextgenicons.activities.SplashActivity}" drawable="cutting_edge" />
     <item component="ComponentInfo{com.chilternrailways/com.masabi.ukrail.android.app.mainmenu.DynamicMenuActivity}" drawable="chiltern_railways" />
     <item component="ComponentInfo{com.notquiteinsane.galaxybuttonlights2/com.notquiteinsane.galaxybuttonlights2.MainActivity}" drawable="galaxy_button_lights2" />
     <item component="ComponentInfo{com.shredderchess.android/com.shredderchess.android.SplashController}" drawable="shredder_chess" />
@@ -558,12 +558,11 @@
         <item component="ComponentInfo{com.franco.focus/com.franco.focus.Original}" drawable="focus"/>
         <item component="ComponentInfo{com.franco.kernel/com.franco.kernel.activities.MainActivity}" drawable="franco_kernel_updater" />
         <item component="ComponentInfo{com.franco.timer/com.franco.timer.activities.MainActivity}" drawable="five_two_one_seven" />
-        <item component="ComponentInfo{com.freevpnintouch/com.pages.Starter}" drawable="betternet" />
+        <item component="ComponentInfo{com.freevpnintouch/com.pages.Starter}" drawable="betternet_vpn" />
         <item component="ComponentInfo{com.froschmedia.skater/com.prime31.UnityPlayerNativeActivity}" drawable="skater"/>
         <item component="ComponentInfo{com.fueled.afterlight/com.fueled.afterlight.HomeActivity}" drawable="afterlight" />
         <item component="ComponentInfo{com.fundevs.app.mediaconverter/com.fundevs.app.mediaconverter.SplashActivity}" drawable="mp_three_video_converter" />
         <item component="ComponentInfo{com.g.pocketmal/com.g.pocketmal.ui.SplashActivity}" drawable="pocket_mal" />
-        <item component="ComponentInfo{com.GabrielR.grod46.Inside.Gaming/com.appyet.activity.SplashActivity}" drawable="funhaus"/>
         <item component="ComponentInfo{com.gameloft.android.ANMP.GloftA8HM/com.gameloft.android.ANMP.GloftA8HM.MainActivity}" drawable="asphalt_eight"/>
         <item component="ComponentInfo{com.gamelounge.chroomakeyboard/org.smc.inputmethod.indic.settings.StartActivity}" drawable="chrooma_keyboard" />
         <item component="ComponentInfo{com.gbwhatsapp/com.gbwhatsapp.Main0}" drawable="whatsapp"/>

@@ -108,7 +108,7 @@
 	<item drawable="memo" />
 	<item drawable="duo" />
 	<item drawable="compass" />
-	<item drawable="papercut" />
+	<item drawable="cutting_edge" />
 	<item drawable="chiltern_railways" />
 	<item drawable="adobe_reader" />
 	<item drawable="bbc_iplayer_radio" />
@@ -323,6 +323,12 @@
 	<item drawable="focus" />
 	<item drawable="franco_kernel_updater" />
 	<item drawable="five_two_one_seven" />
+	<item drawable="betternet_vpn" />
+	<item drawable="skater" />
+	<item drawable="afterlight" />
+	<item drawable="mp_three_video_converter" />
+	<item drawable="pocket_mal" />
+	<item drawable="asphalt_eight" />
 
 
 	<!--<category title="System" />-->
@@ -370,6 +376,10 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="pocket_mal" />-->
+    <!--<item drawable="mp_three_video_converter" />-->
+    <!--<item drawable="afterlight" />-->
+    <!--<item drawable="betternet_vpn" />-->
     <!--<item drawable="five_two_one_seven" />-->
     <!--<item drawable="franco_kernel_updater" />-->
     <!--<item drawable="focus" />-->
@@ -585,7 +595,7 @@
 	<!--<item drawable="hicare" />-->
 	<!--<item drawable="higame" />-->
 	<!--<item drawable="bbc_iplayer_radio" />-->
-	<!--<item drawable="papercut" />-->
+	<!--<item drawable="cutting_edge" />-->
 	<!--<item drawable="chiltern_railways" />-->
 	<!--<item drawable="compass" />-->
 	<!--<item drawable="galaxy_button_lights2" />-->
@@ -612,6 +622,8 @@
 	<!--<item drawable="chefling" />-->
 
 	<!--<category title="Games" />-->
+    <!--<item drawable="asphalt_eight" />-->
+    <!--<item drawable="skater" />-->
     <!--<item drawable="score_hero" />-->
     <!--<item drawable="fifa_companion" />-->
     <!--<item drawable="battlefield" />-->

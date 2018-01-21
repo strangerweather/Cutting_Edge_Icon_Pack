@@ -26,7 +26,7 @@
     <!-- CONFIG: HOME -->
 
     <!-- Home title must be defined -->
-    <string name="home_title">Papercut</string>
+    <string name="home_title">Cutting Edge</string>
 
     <!-- Home image
     * If you want to use image from url, just put the url here
@@ -73,7 +73,7 @@
 
     <!-- Navigation view header text
     * Leave empty if you don't want to show any text -->
-    <string name="navigation_view_header_title">Papercut</string>
+    <string name="navigation_view_header_title">Cutting Edge</string>
     
     <!-- CONFIG: APPLY -->
     <!-- Enable or disable apply section -->
@@ -187,7 +187,7 @@
     <string name="about_profile_image"></string>
 
     <!-- About title above description -->
-    <string name="about_title"><b>Papercut</b>\n \n<i>by Nat Strangerweather</i></string>
+    <string name="about_title"><b>Cutting Edge</b>\n \n<i>by Nat Strangerweather</i></string>
 
     <!-- About description below title -->
     <string name="about_desc"></string>
