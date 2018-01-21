@@ -548,15 +548,12 @@
         <item component="ComponentInfo{com.flyersoft.moonreaderp/com.flyersoft.moonreaderp.ActivityMain}" drawable="moon_reader" />
         <item component="ComponentInfo{com.flynx/com.flynx.MainActivity}" drawable="flynx" />
         <item component="ComponentInfo{com.flyperinc.flyperlink/com.flyperinc.flyperlink.activity.Loading}" drawable="flyperlink" />
-        <item component="ComponentInfo{com.flyperinc.flytube/com.flyperinc.flytube.activity.Loading}" drawable="flytube" />
         <item component="ComponentInfo{com.footej.camera/com.footej.camera.SplashActivity}" drawable="footej"/>
         <item component="ComponentInfo{com.formagrid.airtable/com.formagrid.airtable.activity.homescreenactivity}" drawable="airtable" />
         <item component="ComponentInfo{com.formagrid.airtable/com.formagrid.airtable.activity.HomescreenActivity}" drawable="airtable" />
         <item component="ComponentInfo{com.formagrid.airtable/com.formagrid.airtable.activity.HomeScreenActivity}" drawable="airtable" />
         <item component="ComponentInfo{com.forshared/com.forshared.SplashActivity}" drawable="four_shared" />
-        <item component="ComponentInfo{com.fortafygames.colorswitch/com.migal.android.SplashActivity}" drawable="color_switch" />
-        <item component="ComponentInfo{com.fourquarters.PleaseDontTouchAnything/com.fourquarters.PleaseDontTouchAnything.RunnerActivity}" drawable="pdta"/>
-        <item component="ComponentInfo{com.foursquare.robin/com.foursquare.robin.activities.MainActivity}" drawable="swarm"/>
+        <item component="ComponentInfo{com.foursquare.robin/com.foursquare.robin.activities.MainActivity}" drawable="foursquare_swarm"/>
         <item component="ComponentInfo{com.franco.doze/com.franco.doze.activities.MainActivity}" drawable="naptime" />
         <item component="ComponentInfo{com.franco.focus/com.franco.focus.Original}" drawable="focus"/>
         <item component="ComponentInfo{com.franco.kernel/com.franco.kernel.activities.MainActivity}" drawable="franco_kernel_updater" />

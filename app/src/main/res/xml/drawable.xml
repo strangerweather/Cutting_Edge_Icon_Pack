@@ -315,6 +315,14 @@
 	<item drawable="moon_reader" />
 	<item drawable="flynx" />
 	<item drawable="flyperlink" />
+	<item drawable="footej" />
+	<item drawable="airtable" />
+	<item drawable="four_shared" />
+	<item drawable="foursquare_swarm" />
+	<item drawable="naptime" />
+	<item drawable="focus" />
+	<item drawable="franco_kernel_updater" />
+	<item drawable="five_two_one_seven" />
 
 
 	<!--<category title="System" />-->
@@ -362,6 +370,14 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="five_two_one_seven" />-->
+    <!--<item drawable="franco_kernel_updater" />-->
+    <!--<item drawable="focus" />-->
+    <!--<item drawable="naptime" />-->
+    <!--<item drawable="foursquare_swarm" />-->
+    <!--<item drawable="four_shared" />-->
+    <!--<item drawable="airtable" />-->
+    <!--<item drawable="footej" />-->
     <!--<item drawable="flyperlink" />-->
     <!--<item drawable="flynx" />-->
     <!--<item drawable="moon_reader" />-->
