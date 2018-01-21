@@ -329,6 +329,30 @@
 	<item drawable="mp_three_video_converter" />
 	<item drawable="pocket_mal" />
 	<item drawable="asphalt_eight" />
+	<item drawable="chrooma_keyboard" />
+	<item drawable="genius" />
+	<item drawable="applock_fingerprint" />
+	<item drawable="pebble" />
+	<item drawable="samosa" />
+	<item drawable="headspace" />
+	<item drawable="total_commander" />
+	<item drawable="giphy" />
+	<item drawable="fitnotes" />
+	<item drawable="ampere" />
+	<item drawable="goodreads" />
+	<item drawable="find_my_device" />
+	<item drawable="google_adsense" />
+	<item drawable="google_authenticator" />
+	<item drawable="google_home" />
+	<item drawable="google_docs" />
+	<item drawable="google_sheets" />
+	<item drawable="google_slides" />
+	<item drawable="allo" />
+	<item drawable="google_fit" />
+	<item drawable="google_news_and_weather" />
+	<item drawable="google_analytics" />
+	<item drawable="inbox" />
+	<item drawable="google_opinion_rewards" />
 
 
 	<!--<category title="System" />-->
@@ -355,6 +379,19 @@
     <!--<item drawable="movie_studio" />-->
 
 	<!--<category title="Google" />-->
+	<!--<item drawable="google_opinion_rewards" />-->
+	<!--<item drawable="inbox" />-->
+	<!--<item drawable="google_analytics" />-->
+	<!--<item drawable="google_news_and_weather" />-->
+	<!--<item drawable="google_fit" />-->
+	<!--<item drawable="allo" />-->
+	<!--<item drawable="google_slides" />-->
+	<!--<item drawable="google_sheets" />-->
+	<!--<item drawable="google_docs" />-->
+	<!--<item drawable="google_home" />-->
+	<!--<item drawable="google_authenticator" />-->
+	<!--<item drawable="google_adsense" />-->
+	<!--<item drawable="find_my_device" />-->
 	<!--<item drawable="chrome" />-->
 	<!--<item drawable="chrome_canary" />-->
 	<!--<item drawable="chrome_dev" />-->
@@ -376,6 +413,17 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="goodreads" />-->
+    <!--<item drawable="ampere" />-->
+    <!--<item drawable="fitnotes" />-->
+    <!--<item drawable="giphy" />-->
+    <!--<item drawable="total_commander" />-->
+    <!--<item drawable="headspace" />-->
+    <!--<item drawable="samosa" />-->
+    <!--<item drawable="pebble" />-->
+    <!--<item drawable="applock_fingerprint" />-->
+    <!--<item drawable="genius" />-->
+    <!--<item drawable="chrooma_keyboard" />-->
     <!--<item drawable="pocket_mal" />-->
     <!--<item drawable="mp_three_video_converter" />-->
     <!--<item drawable="afterlight" />-->
