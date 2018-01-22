@@ -636,8 +636,7 @@
         <item component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="gboard" />
         <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gboard"/>
         <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="google_keep" />
-        <item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}" drawable="google" />
-        <item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}" drawable="google_launcher" />
+        <item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}" drawable="google_now_launcher" />
         <item component="ComponentInfo{com.google.android.music/com.android.music.activitymanagement.TopLevelActivity}" drawable="play_music"/>
         <item component="ComponentInfo{com.google.android.play.games/com.google.android.gms.games.ui.destination.main.MainActivity}" drawable="play_games" />
         <item component="ComponentInfo{com.google.android.projection.gearhead/com.google.android.projection.gearhead.companion.SplashScreenActivity}" drawable="android_auto" />

@@ -368,6 +368,8 @@
 	<item drawable="google_japanese_input" />
 	<item drawable="gboard" />
 	<item drawable="google_keep" />
+	<item drawable="google_now_launcher" />
+	<item drawable="android_auto" />
 
 
 	<!--<category title="System" />-->
@@ -394,6 +396,8 @@
     <!--<item drawable="movie_studio" />-->
 
 	<!--<category title="Google" />-->
+	<!--<item drawable="android_auto" />-->
+	<!--<item drawable="google_now_launcher" />-->
 	<!--<item drawable="google_keep" />-->
 	<!--<item drawable="gboard" />-->
 	<!--<item drawable="google_japanese_input" />-->
