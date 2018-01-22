@@ -360,6 +360,14 @@
 	<item drawable="google_project_fi" />
 	<item drawable="android_pay" />
 	<item drawable="google_wallpapers" />
+	<item drawable="youtube_studio" />
+	<item drawable="youtube_gaming" />
+	<item drawable="youtube_kids" />
+	<item drawable="youtube_music" />
+	<item drawable="play_services" />
+	<item drawable="google_japanese_input" />
+	<item drawable="gboard" />
+	<item drawable="google_keep" />
 
 
 	<!--<category title="System" />-->
@@ -386,6 +394,14 @@
     <!--<item drawable="movie_studio" />-->
 
 	<!--<category title="Google" />-->
+	<!--<item drawable="google_keep" />-->
+	<!--<item drawable="gboard" />-->
+	<!--<item drawable="google_japanese_input" />-->
+	<!--<item drawable="play_services" />-->
+	<!--<item drawable="youtube_music" />-->
+	<!--<item drawable="youtube_kids" />-->
+	<!--<item drawable="youtube_gaming" />-->
+	<!--<item drawable="youtube_studio" />-->
 	<!--<item drawable="google_wallpapers" />-->
 	<!--<item drawable="android_pay" />-->
 	<!--<item drawable="google_project_fi" />-->

@@ -633,8 +633,8 @@
         <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.SearchActivity}" drawable="google" />
         <item component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.googlequicksearchbox.VoiceSearchActivity}" drawable="google_search" />
         <item component="ComponentInfo{com.google.android.inputmethod.japanese/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_japanese_input" />
-        <item component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="google_keyboard" />
-        <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="google_keyboard"/>
+        <item component="ComponentInfo{com.google.android.inputmethod.latin/com.android.inputmethod.latin.setup.SetupActivity}" drawable="gboard" />
+        <item component="ComponentInfo{com.google.android.inputmethod.latin/com.google.android.apps.inputmethod.libs.framework.core.LauncherActivity}" drawable="gboard"/>
         <item component="ComponentInfo{com.google.android.keep/com.google.android.keep.activities.BrowseActivity}" drawable="google_keep" />
         <item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}" drawable="google" />
         <item component="ComponentInfo{com.google.android.launcher/com.google.android.launcher.StubApp}" drawable="google_launcher" />
