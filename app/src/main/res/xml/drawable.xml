@@ -373,6 +373,11 @@
 	<item drawable="sky_map" />
 	<item drawable="google_street_view" />
 	<item drawable="android_tv_remote" />
+	<item drawable="android_wear" />
+	<item drawable="chrome_remote_desktop" />
+	<item drawable="google_earth" />
+	<item drawable="cardboard" />
+	<item drawable="barcode_scanner" />
 
 
 	<!--<category title="System" />-->
@@ -399,6 +404,10 @@
     <!--<item drawable="movie_studio" />-->
 
 	<!--<category title="Google" />-->
+	<!--<item drawable="cardboard" />-->
+	<!--<item drawable="google_earth" />-->
+	<!--<item drawable="chrome_remote_desktop" />-->
+	<!--<item drawable="android_wear" />-->
 	<!--<item drawable="android_tv_remote" />-->
 	<!--<item drawable="google_street_view" />-->
 	<!--<item drawable="sky_map" />-->
@@ -453,6 +462,7 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="barcode_scanner" />-->
     <!--<item drawable="goodreads" />-->
     <!--<item drawable="ampere" />-->
     <!--<item drawable="fitnotes" />-->
