@@ -370,6 +370,9 @@
 	<item drawable="google_keep" />
 	<item drawable="google_now_launcher" />
 	<item drawable="android_auto" />
+	<item drawable="sky_map" />
+	<item drawable="google_street_view" />
+	<item drawable="android_tv_remote" />
 
 
 	<!--<category title="System" />-->
@@ -396,6 +399,9 @@
     <!--<item drawable="movie_studio" />-->
 
 	<!--<category title="Google" />-->
+	<!--<item drawable="android_tv_remote" />-->
+	<!--<item drawable="google_street_view" />-->
+	<!--<item drawable="sky_map" />-->
 	<!--<item drawable="android_auto" />-->
 	<!--<item drawable="google_now_launcher" />-->
 	<!--<item drawable="google_keep" />-->

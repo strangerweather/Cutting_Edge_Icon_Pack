@@ -643,7 +643,7 @@
         <item component="ComponentInfo{com.google.android.stardroid/com.google.android.stardroid.activities.SplashScreenActivity}" drawable="sky_map" />
         <item component="ComponentInfo{com.google.android.street/com.google.android.apps.dragonfly.activities.main.MainActivity}" drawable="google_street_view" />
         <item component="ComponentInfo{com.google.android.talk/com.google.android.talk.SigningInActivity}" drawable="hangouts" />
-        <item component="ComponentInfo{com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity}" drawable="androidtv_remote" />
+        <item component="ComponentInfo{com.google.android.tv.remote/com.google.android.tv.remote.RemoteActivity}" drawable="android_tv_remote" />
         <item component="ComponentInfo{com.google.android.videos/com.google.android.videos.activity.LauncherActivity}" drawable="play_movies"/>
         <item component="ComponentInfo{com.google.android.videos/com.google.android.youtube.videos.EntryPoint}" drawable="play_movies"/>
         <item component="ComponentInfo{com.google.android.wearable.app/com.google.android.clockwork.companion.launcher.LauncherActivity}" drawable="android_wear"/>
