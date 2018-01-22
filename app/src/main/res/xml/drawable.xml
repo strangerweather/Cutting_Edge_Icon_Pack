@@ -353,6 +353,13 @@
 	<item drawable="google_analytics" />
 	<item drawable="inbox" />
 	<item drawable="google_opinion_rewards" />
+	<item drawable="google_photoscan" />
+	<item drawable="play_developer_console" />
+	<item drawable="playbook" />
+	<item drawable="google_trips" />
+	<item drawable="google_project_fi" />
+	<item drawable="android_pay" />
+	<item drawable="google_wallpapers" />
 
 
 	<!--<category title="System" />-->
@@ -379,6 +386,13 @@
     <!--<item drawable="movie_studio" />-->
 
 	<!--<category title="Google" />-->
+	<!--<item drawable="google_wallpapers" />-->
+	<!--<item drawable="android_pay" />-->
+	<!--<item drawable="google_project_fi" />-->
+	<!--<item drawable="google_trips" />-->
+	<!--<item drawable="playbook" />-->
+	<!--<item drawable="play_developer_console" />-->
+	<!--<item drawable="google_photoscan" />-->
 	<!--<item drawable="google_opinion_rewards" />-->
 	<!--<item drawable="inbox" />-->
 	<!--<item drawable="google_analytics" />-->
