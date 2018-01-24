@@ -378,6 +378,24 @@
 	<item drawable="google_earth" />
 	<item drawable="cardboard" />
 	<item drawable="barcode_scanner" />
+	<item drawable="nfl_mobile" />
+	<item drawable="collateral" />
+	<item drawable="grab" />
+	<item drawable="kernel_adiutor" />
+	<item drawable="grindr" />
+	<item drawable="group_me" />
+	<item drawable="mega_curioso" />
+	<item drawable="tecmundo" />
+	<item drawable="gsam_battery_monitor" />
+	<item drawable="next_launcher" />
+	<item drawable="the_guardian" />
+	<item drawable="swipe" />
+	<item drawable="harvest" />
+	<item drawable="hbo_go" />
+	<item drawable="our_groceries" />
+	<item drawable="az_screen_recorder" />
+	<item drawable="houseparty" />
+
 
 
 	<!--<category title="System" />-->
@@ -462,6 +480,22 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="houseparty" />-->
+    <!--<item drawable="az_screen_recorder" />-->
+    <!--<item drawable="our_groceries" />-->
+    <!--<item drawable="hbo_go" />-->
+    <!--<item drawable="harvest" />-->
+    <!--<item drawable="swipe" />-->
+    <!--<item drawable="the_guardian" />-->
+    <!--<item drawable="gsam_battery_monitor" />-->
+    <!--<item drawable="tecmundo" />-->
+    <!--<item drawable="mega_curioso" />-->
+    <!--<item drawable="group_me" />-->
+    <!--<item drawable="grindr" />-->
+    <!--<item drawable="kernel_adiutor" />-->
+    <!--<item drawable="grab" />-->
+    <!--<item drawable="collateral" />-->
+    <!--<item drawable="nfl_mobile" />-->
     <!--<item drawable="barcode_scanner" />-->
     <!--<item drawable="goodreads" />-->
     <!--<item drawable="ampere" />-->
@@ -757,6 +791,7 @@
 	<!--<item drawable="microsoft_onenote" />-->
 
 	<!--<category title="Launchers" />-->
+    <!--<item drawable="next_launcher" />-->
 	<!--<item drawable="action_launcher" />-->
 	<!--<item drawable="atom_launcher" />-->
 	<!--<item drawable="asap_launcher" />-->
