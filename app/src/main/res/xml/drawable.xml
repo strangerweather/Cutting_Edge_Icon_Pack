@@ -395,6 +395,14 @@
 	<item drawable="our_groceries" />
 	<item drawable="az_screen_recorder" />
 	<item drawable="houseparty" />
+	<item drawable="dev_rant" />
+	<item drawable="material_islands" />
+	<item drawable="hootsuite" />
+	<item drawable="htc_file_manager" />
+	<item drawable="boost_plus_speed" />
+	<item drawable="nfc" />
+	<item drawable="huawei_smart_controller" />
+	<item drawable="hulu" />
 
 
 
@@ -480,6 +488,14 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="hulu" />-->
+    <!--<item drawable="huawei_smart_controller" />-->
+    <!--<item drawable="nfc" />-->
+    <!--<item drawable="boost_plus_speed" />-->
+    <!--<item drawable="htc_file_manager" />-->
+    <!--<item drawable="hootsuite" />-->
+    <!--<item drawable="material_islands" />-->
+    <!--<item drawable="dev_rant" />-->
     <!--<item drawable="houseparty" />-->
     <!--<item drawable="az_screen_recorder" />-->
     <!--<item drawable="our_groceries" />-->

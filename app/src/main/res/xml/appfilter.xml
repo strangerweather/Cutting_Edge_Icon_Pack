@@ -679,7 +679,7 @@
         <item component="ComponentInfo{com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.main.MainActivity}" drawable="az_screen_recorder" />
         <item component="ComponentInfo{com.here.app.maps/com.here.app.OneAppLauncherAlias}" drawable="here_maps" />
         <item component="ComponentInfo{com.herzick.houseparty/com.lifeonair.houseparty.view.LandingActivity}" drawable="houseparty" />
-        <item component="ComponentInfo{com.hexicallabs.devrant/com.hexicallabs.devrant.DevrantActivity}" drawable="dev__rant"/>
+        <item component="ComponentInfo{com.hexicallabs.devrant/com.hexicallabs.devrant.DevrantActivity}" drawable="dev_rant"/>
         <item component="ComponentInfo{com.hippotech.materialislands/com.hippotech.materialislands.MainActivity}" drawable="material_islands" />
         <item component="ComponentInfo{com.hootsuite.droid.full/com.hootsuite.droid.full.SplashActivity}" drawable="hootsuite" />
         <item component="ComponentInfo{com.htc.album/com.htc.album.AlbumMain.ActivityMainTabHost}" drawable="gallery"/>
@@ -692,16 +692,16 @@
         <item component="ComponentInfo{com.htc.camera2/com.htc.camera2.CameraEntry}" drawable="camera"/>
         <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.BrowseLayerCarouselActivity}" drawable="contacts" />
         <item component="ComponentInfo{com.htc.contacts/com.htc.contacts.DialerTabActivity}" drawable="phone" />
-        <item component="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}" drawable="cyanogenmod_file_manager" />
+        <item component="ComponentInfo{com.htc.filemanager/com.htc.filemanager.FileManagerActivity}" drawable="htc_file_manager" />
         <item component="ComponentInfo{com.htc.music/com.htc.music.browserlayer.MusicBrowserTabActivity}" drawable="music" />
-        <item component="ComponentInfo{com.htc.pitroad/com.htc.pitroad.landingpage.activity.LandingPageActivity}" drawable="htc_pitroad" />
+        <item component="ComponentInfo{com.htc.pitroad/com.htc.pitroad.landingpage.activity.LandingPageActivity}" drawable="boost_plus_speed" />
         <item component="ComponentInfo{com.htc.sense.mms/com.htc.sense.mms.ui.ConversationList}" drawable="messaging" />
         <item component="ComponentInfo{com.huaqin.mynotes/com.huaqin.mynotes.FoldersListActivity}" drawable="memo" />
         <item component="ComponentInfo{com.huawei.android.dialer/com.huawei.android.dialer.TwelveKeyDialer}" drawable="phone" />
         <item component="ComponentInfo{com.huawei.android.FMRadio/com.huawei.android.FMRadio.FMRadioMainActivity}" drawable="fm_radio" />
         <item component="ComponentInfo{com.huawei.android.hwouc/com.huawei.android.hwouc.ui.activities.MainEntranceActivity}" drawable="emui_updater" />
         <item component="ComponentInfo{com.huawei.android.nfctag/com.huawei.android.nfctag.activity.SceneListActivity}" drawable="nfc" />
-        <item component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.StartActivity}" drawable="huawei_remote" />
+        <item component="ComponentInfo{com.huawei.android.remotecontroller/com.huawei.android.remotecontroller.StartActivity}" drawable="huawei_smart_controller" />
         <item component="ComponentInfo{com.huawei.android.StkLauncher/com.huawei.android.StkLauncher.StkLauncher2}" drawable="sim_toolkit"/>
         <item component="ComponentInfo{com.huawei.android.thememanager/com.huawei.android.thememanager.HwThemeManagerActivity}" drawable="huawei_themes"/>
         <item component="ComponentInfo{com.huawei.android.totemweather/com.huawei.android.totemweather.WeatherHome}" drawable="weather" />
