@@ -403,6 +403,23 @@
 	<item drawable="nfc" />
 	<item drawable="huawei_smart_controller" />
 	<item drawable="hulu" />
+	<item drawable="hype_machine" />
+	<item drawable="pocket" />
+	<item drawable="ifttt" />
+	<item drawable="wonderwall" />
+	<item drawable="battery_doctor" />
+	<item drawable="imdb" />
+	<item drawable="imgur" />
+	<item drawable="indeed" />
+	<item drawable="bank_of_america" />
+	<item drawable="polaris_office" />
+	<item drawable="inoreader" />
+	<item drawable="instagram" />
+	<item drawable="boomerang_instagram" />
+	<item drawable="follow_cop" />
+	<item drawable="layout_instagram" />
+	<item drawable="web_video_caster" />
+	<item drawable="instapaper" />
 
 
 
@@ -488,6 +505,23 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="instapaper" />-->
+    <!--<item drawable="web_video_caster" />-->
+    <!--<item drawable="layout_instagram" />-->
+    <!--<item drawable="follow_cop" />-->
+    <!--<item drawable="boomerang_instagram" />-->
+    <!--<item drawable="instagram" />-->
+    <!--<item drawable="inoreader" />-->
+    <!--<item drawable="polaris_office" />-->
+    <!--<item drawable="bank_of_america" />-->
+    <!--<item drawable="indeed" />-->
+    <!--<item drawable="imgur" />-->
+    <!--<item drawable="imdb" />-->
+    <!--<item drawable="battery_doctor" />-->
+    <!--<item drawable="wonderwall" />-->
+    <!--<item drawable="ifttt" />-->
+    <!--<item drawable="pocket" />-->
+    <!--<item drawable="hype_machine" />-->
     <!--<item drawable="hulu" />-->
     <!--<item drawable="huawei_smart_controller" />-->
     <!--<item drawable="nfc" />-->
