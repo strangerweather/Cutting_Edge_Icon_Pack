@@ -420,6 +420,18 @@
 	<item drawable="layout_instagram" />
 	<item drawable="web_video_caster" />
 	<item drawable="instapaper" />
+	<item drawable="canvas" />
+	<item drawable="nsb" />
+	<item drawable="brightest_led_flashlight" />
+	<item drawable="cam_scanner" />
+	<item drawable="invi" />
+	<item drawable="decora_digital" />
+	<item drawable="castro" />
+	<item drawable="photo_editor" />
+	<item drawable="tv_guide" />
+	<item drawable="ml_manager" />
+	<item drawable="up" />
+	<item drawable="foursquare" />
 
 
 
@@ -447,6 +459,7 @@
     <!--<item drawable="movie_studio" />-->
 
 	<!--<category title="Google" />-->
+	<!--<item drawable="nsb" />-->
 	<!--<item drawable="cardboard" />-->
 	<!--<item drawable="google_earth" />-->
 	<!--<item drawable="chrome_remote_desktop" />-->
@@ -505,6 +518,17 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="foursquare" />-->
+	<!--<item drawable="up" />-->
+	<!--<item drawable="ml_manager" />-->
+	<!--<item drawable="tv_guide" />-->
+	<!--<item drawable="photo_editor" />-->
+	<!--<item drawable="castro" />-->
+	<!--<item drawable="decora_digital" />-->
+	<!--<item drawable="invi" />-->
+	<!--<item drawable="brightest_led_flashlight" />-->
+    <!--<item drawable="cam_scanner" />-->
+    <!--<item drawable="canvas" />-->
     <!--<item drawable="instapaper" />-->
     <!--<item drawable="web_video_caster" />-->
     <!--<item drawable="layout_instagram" />-->

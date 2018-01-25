@@ -736,8 +736,8 @@
         <item component="ComponentInfo{com.instapaper.android/com.instapaper.android.MainActivity}" drawable="instapaper" />
         <item component="ComponentInfo{com.instructure.candroid/com.instructure.candroid.activity.LoginActivity}" drawable="canvas"/>
         <item component="ComponentInfo{com.intele.nsbmob.app/com.intele.nsbmob.app.activities.old.main.Splash}" drawable="nsb" />
-        <item component="ComponentInfo{com.intellectualflame.ledflashlight.washer/com.intellectualflame.ledflashlight.washer.FlashlightActivity}" drawable="flashlight" />
-        <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="cam__scanner"/>
+        <item component="ComponentInfo{com.intellectualflame.ledflashlight.washer/com.intellectualflame.ledflashlight.washer.FlashlightActivity}" drawable="brightest_led_flashlight" />
+        <item component="ComponentInfo{com.intsig.camscanner/com.intsig.camscanner.WelcomeActivity}" drawable="cam_scanner"/>
         <item component="ComponentInfo{com.invi/com.invi.messenger.activities.MainActivity}" drawable="invi"/>
         <item component="ComponentInfo{com.ionicframework.bledimmerela220575/com.ionicframework.bledimmerela220575.MainActivity}" drawable="decora_digital"/>
         <item component="ComponentInfo{com.itemstudio.castro/com.itemstudio.castro.activity.BaseActivity}" drawable="castro" />
