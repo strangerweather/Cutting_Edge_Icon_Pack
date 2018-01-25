@@ -432,6 +432,27 @@
 	<item drawable="ml_manager" />
 	<item drawable="up" />
 	<item drawable="foursquare" />
+	<item drawable="candy_camera" />
+	<item drawable="journey" />
+	<item drawable="rocket_player" />
+	<item drawable="build_prop_editor" />
+	<item drawable="telerama_tv" />
+	<item drawable="browsec" />
+	<item drawable="insta_size" />
+	<item drawable="flux" />
+	<item drawable="crowdfire" />
+	<item drawable="falcon_pro" />
+	<item drawable="trigger" />
+	<item drawable="marvel_champions" />
+	<item drawable="phonograph" />
+	<item drawable="kakao_talk" />
+	<item drawable="kamcord" />
+	<item drawable="llama" />
+	<item drawable="titanium_backup" />
+	<item drawable="kickstarter" />
+	<item drawable="keepsafe" />
+	<item drawable="candy_crush" />
+	<item drawable="evolve_sms" />
 
 
 
@@ -518,6 +539,25 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="evolve_sms" />-->
+	<!--<item drawable="keepsafe" />-->
+	<!--<item drawable="kickstarter" />-->
+	<!--<item drawable="titanium_backup" />-->
+	<!--<item drawable="llama" />-->
+	<!--<item drawable="kamcord" />-->
+	<!--<item drawable="kakao_talk" />-->
+	<!--<item drawable="phonograph" />-->
+	<!--<item drawable="trigger" />-->
+	<!--<item drawable="falcon_pro" />-->
+	<!--<item drawable="crowdfire" />-->
+	<!--<item drawable="flux" />-->
+	<!--<item drawable="insta_size" />-->
+	<!--<item drawable="browsec" />-->
+	<!--<item drawable="telerama_tv" />-->
+	<!--<item drawable="build_prop_editor" />-->
+	<!--<item drawable="rocket_player" />-->
+	<!--<item drawable="journey" />-->
+	<!--<item drawable="candy_camera" />-->
 	<!--<item drawable="foursquare" />-->
 	<!--<item drawable="up" />-->
 	<!--<item drawable="ml_manager" />-->
@@ -828,6 +868,8 @@
 	<!--<item drawable="chefling" />-->
 
 	<!--<category title="Games" />-->
+    <!--<item drawable="candy_crush" />-->
+    <!--<item drawable="marvel_champions" />-->
     <!--<item drawable="asphalt_eight" />-->
     <!--<item drawable="skater" />-->
     <!--<item drawable="score_hero" />-->

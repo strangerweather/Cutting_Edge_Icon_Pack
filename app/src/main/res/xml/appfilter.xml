@@ -26,6 +26,8 @@
     <item component="ComponentInfo{com.texty.sms/com.texty.sms.MainActivity}" drawable="mightytext" />
     <item component="ComponentInfo{com.android.hwmirror/com.android.hwmirror.Mirror}" drawable="mirror" />
     <item component="ComponentInfo{com.ibm.events.android.ausopen/au.com.tennis.australianopen.activity.MainActivity}" drawable="australian_open" />
+    <item component="ComponentInfo{com.telerama.fr/com.telerama.fr.ui.activity.SplashActivity}" drawable="telerama_tv" />
+    <item component="ComponentInfo{com.browsec.vpn/com.browsec.vpn.MainActivity}" drawable="browsec" />
 
     <!-- Nova Launcher Default App Drawer -->
 	<item component=":LAUNCHER_ACTION_APP_DRAWER" drawable="home_home2apps_button" />
@@ -748,13 +750,13 @@
         <item component="ComponentInfo{com.jawbone.upopen/com.jawbone.up.oobe.LaunchActivity}" drawable="up" />
         <item component="ComponentInfo{com.joelapenna.foursquared/com.joelapenna.foursquared.MainActivity}" drawable="foursquare"/>
         <item component="ComponentInfo{com.joeware.android.gpulumera/com.joeware.android.gpulumera.activity.activitycameralaunch}" drawable="candy_camera" />
-        <item component="ComponentInfo{com.joeware.android.gpulumera/com.joeware.android.gpulumera.activity.ActivityCamera}" drawable="camera"/>
+        <item component="ComponentInfo{com.joeware.android.gpulumera/com.joeware.android.gpulumera.activity.ActivityCamera}" drawable="candy_camera"/>
         <item component="ComponentInfo{com.journey.app/com.journey.app.SplashActivity}" drawable="journey" />
         <item component="ComponentInfo{com.jrdcom.android.gallery3d/com.jrdcom.android.gallery3d.app.Gallery}" drawable="gallery"/>
         <item component="ComponentInfo{com.jrdcom.music/com.jrdcom.music.SplashActivity}" drawable="music" />
         <item component="ComponentInfo{com.jrtstudio.AnotherMusicPlayer/com.jrtstudio.AnotherMusicPlayer.ActivityMusicBrowser}" drawable="rocket_player"/>
-        <item component="ComponentInfo{com.jrummy.apps.build.prop.editor/com.jrummy.apps.build.prop.editor.MainActivity}" drawable="build__prop_editor" />
-        <item component="ComponentInfo{com.jsdev.instasize/com.jsdev.instasize.activity.EditorActivity}" drawable="insta__size" />
+        <item component="ComponentInfo{com.jrummy.apps.build.prop.editor/com.jrummy.apps.build.prop.editor.MainActivity}" drawable="build_prop_editor" />
+        <item component="ComponentInfo{com.jsdev.instasize/com.jsdev.instasize.activity.EditorActivity}" drawable="insta_size" />
         <item component="ComponentInfo{com.justgetflux.flux/com.justgetflux.flux.FluxActivity}" drawable="flux" />
         <item component="ComponentInfo{com.justunfollow.android/com.justunfollow.android.activity.HomeActivity}" drawable="crowdfire"/>
         <item component="ComponentInfo{com.justunfollow.android/com.justunfollow.android.shared.activity.SplashScreenActivity}" drawable="crowdfire"/>
@@ -763,17 +765,15 @@
         <item component="ComponentInfo{com.jwsoft.nfcactionlauncher/com.tagstand.launcher.activity.MainActivity}" drawable="trigger"/>
         <item component="ComponentInfo{com.kabam.marvelbattle/com.explodingbarrel.Activity}" drawable="marvel_champions" />
         <item component="ComponentInfo{com.kabouzeid.gramophone/com.kabouzeid.gramophone.ui.activities.MainActivity}" drawable="phonograph"/>
-        <item component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.SplashActivity}" drawable="kakao__talk"/>
+        <item component="ComponentInfo{com.kakao.talk/com.kakao.talk.activity.SplashActivity}" drawable="kakao_talk"/>
         <item component="ComponentInfo{com.kamcord.app/com.kamcord.app.activity.SplashActivity}" drawable="kamcord" />
         <item component="ComponentInfo{com.kebab.Llama/com.kebab.Llama.LlamaUi}" drawable="llama" />
-        <item component="ComponentInfo{com.kennyc.open.imgur/com.kenny.openimgur.activities.MainActivity}" drawable="opengur" />
         <item component="ComponentInfo{com.keramidas.TitaniumBackup/com.keramidas.TitaniumBackup.MainActivity}" drawable="titanium_backup"/>
         <item component="ComponentInfo{com.kerneladiutor.mod/com.grarak.kerneladiutor.MainActivity}" drawable="kernel_adiutor"/>
         <item component="ComponentInfo{com.kfactormedia.mycalendarmobile/com.kfactormedia.mycalendarmobile.MyCalendarActivity}" drawable="calendar" />
         <item component="ComponentInfo{com.kickstarter.kickstarter/com.kickstarter.ui.activities.DiscoveryActivity}" drawable="kickstarter" />
         <item component="ComponentInfo{com.kii.safe/com.kii.safe.FrontDoorActivity}" drawable="keepsafe" />
         <item component="ComponentInfo{com.king.candycrushsaga/com.king.candycrushsaga.CandyCrushSagaActivity}" drawable="candy_crush" />
-        <item component="ComponentInfo{com.kk.launcher/com.kk.launcher.Launcher}" drawable="kk_launcher"/>
         <item component="ComponentInfo{com.klinker.android.evolve_sms/com.klinker.android.evolve_sms.ui.MainActivity}" drawable="evolve_sms"/>
         <item component="ComponentInfo{com.klinker.android.twitter_l/com.klinker.android.twitter_l.activities.MainActivity}" drawable="talon"/>
         <item component="ComponentInfo{com.klinker.android.twitter_l/com.klinker.android.twitter_l.ui.MainActivity}" drawable="talon"/>
