@@ -819,8 +819,8 @@
         <item component="ComponentInfo{com.lightricks.facetune/com.lightricks.facetune.MainFragmentActivity}" drawable="facetune" />
         <item component="ComponentInfo{com.linecorp.b612.android/com.linecorp.b612.android.activity.ActivityCamera}" drawable="b_six_twelve" />
         <item component="ComponentInfo{com.linecorp.foodcam.android/com.linecorp.foodcam.android.camera.CameraActivity}" drawable="foodie" />
-        <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linked__in" />
-        <item component="ComponentInfo{com.livae.apphunt.app/com.livae.apphunt.app.ui.activity.AppHuntActivity}" drawable="app__hunt"/>
+        <item component="ComponentInfo{com.linkedin.android/com.linkedin.android.authenticator.LaunchActivity}" drawable="linked_in" />
+        <item component="ComponentInfo{com.livae.apphunt.app/com.livae.apphunt.app.ui.activity.AppHuntActivity}" drawable="app_hunt"/>
         <item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}" drawable="automate" />
         <item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.activities.MainActivity}" drawable="ue_boom"/>
         <item component="ComponentInfo{com.loudtalks/com.loudtalks.client.ui.App}" drawable="zello"/>
