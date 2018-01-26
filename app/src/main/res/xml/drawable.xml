@@ -453,6 +453,21 @@
 	<item drawable="keepsafe" />
 	<item drawable="candy_crush" />
 	<item drawable="evolve_sms" />
+	<item drawable="talon" />
+	<item drawable="blackplayer" />
+	<item drawable="helium" />
+	<item drawable="last_pass_authenticator" />
+	<item drawable="last_pass" />
+	<item drawable="sync" />
+	<item drawable="share_it" />
+	<item drawable="cm_browser" />
+	<item drawable="lenovo_file_browser" />
+	<item drawable="private_zone" />
+	<item drawable="palabre" />
+	<item drawable="lg_app_manager" />
+	<item drawable="horizon_go" />
+	<item drawable="lifx" />
+	<item drawable="facetune" />
 
 
 
@@ -539,6 +554,21 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="facetune" />-->
+	<!--<item drawable="lifx" />-->
+	<!--<item drawable="horizon_go" />-->
+	<!--<item drawable="lg_app_manager" />-->
+	<!--<item drawable="palabre" />-->
+	<!--<item drawable="private_zone" />-->
+	<!--<item drawable="lenovo_file_browser" />-->
+	<!--<item drawable="cm_browser" />-->
+	<!--<item drawable="share_it" />-->
+	<!--<item drawable="sync" />-->
+	<!--<item drawable="last_pass" />-->
+	<!--<item drawable="last_pass_authenticator" />-->
+	<!--<item drawable="helium" />-->
+	<!--<item drawable="blackplayer" />-->
+	<!--<item drawable="talon" />-->
 	<!--<item drawable="evolve_sms" />-->
 	<!--<item drawable="keepsafe" />-->
 	<!--<item drawable="kickstarter" />-->

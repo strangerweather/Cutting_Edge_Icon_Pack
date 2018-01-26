@@ -784,8 +784,8 @@
         <item component="ComponentInfo{com.koushikdutta.backup/com.koushikdutta.backup.MainActivity}" drawable="helium" />
         <item component="ComponentInfo{com.ksmobile.cb/com.ijinshan.browser.screen.BrowserActivity}" drawable="cm_browser"/>
         <item component="ComponentInfo{com.ksmobile.cb/com.ijinshan.browser.screen.SplashActivity}" drawable="cm_browser"/>
-        <item component="ComponentInfo{com.lastpass.authenticator/com.lastpass.authenticator.activities.SplashActivity}" drawable="last__pass_authenticator" />
-        <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.WebBrowserActivity}" drawable="last__pass" />
+        <item component="ComponentInfo{com.lastpass.authenticator/com.lastpass.authenticator.activities.SplashActivity}" drawable="last_pass_authenticator" />
+        <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.WebBrowserActivity}" drawable="last_pass" />
         <item component="ComponentInfo{com.latuabancaperandroid/com.latuabancaperandroid.ELoadingPageActivity}" drawable="bank" />
         <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync"/>
         <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync"/>
@@ -794,20 +794,20 @@
         <item component="ComponentInfo{com.lenovo.app.Calendar/com.lenovo.app.Calendar.MonthActivityNew}" drawable="calendar" />
         <item component="ComponentInfo{com.lenovo.calendar/com.lenovo.calendar.AllInOneActivity}" drawable="calendar" />
         <item component="ComponentInfo{com.lenovo.deskclock/com.lenovo.deskclock.DeskClock}" drawable="clock" />
-        <item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="cyanogenmod_file_manager" />
+        <item component="ComponentInfo{com.lenovo.FileBrowser2/com.lenovo.FileBrowser.activities.FileBrowserMain}" drawable="lenovo_file_browser" />
         <item component="ComponentInfo{com.lenovo.gallery/com.lenovo.gallery.app.GalleryActivity}" drawable="gallery"/>
         <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.DialtactsActivity}" drawable="phone"/>
         <item component="ComponentInfo{com.lenovo.ideafriend/com.lenovo.ideafriend.alias.PeopleActivity}" drawable="contacts" />
         <item component="ComponentInfo{com.lenovo.scg/com.lenovo.scg.camera.CameraLauncher}" drawable="camera" />
         <item component="ComponentInfo{com.lenovo.StkSelection/com.lenovo.StkSelection.StkSelection}" drawable="sim_toolkit"/>
-        <item component="ComponentInfo{com.lenovo.videoplayer/com.lenovo.videoplayer.VideoPlayerActivity}" drawable="sony_video" />
-        <item component="ComponentInfo{com.leo.appmaster/com.leo.appmaster.home.SplashActivity}" drawable="leo_privacy" />
+        <item component="ComponentInfo{com.lenovo.videoplayer/com.lenovo.videoplayer.VideoPlayerActivity}" drawable="video" />
+        <item component="ComponentInfo{com.leo.appmaster/com.leo.appmaster.home.SplashActivity}" drawable="private_zone" />
         <item component="ComponentInfo{com.levelup.palabre/com.levelup.palabre.ui.activity.MainActivity}" drawable="palabre"/>
         <item component="ComponentInfo{com.lge.appbox.client/com.lge.appbox.client.AppBoxClient}" drawable="lg_app_manager" />
         <item component="ComponentInfo{com.lge.camera/com.lge.camera.CameraAppLauncher}" drawable="camera" />
         <item component="ComponentInfo{com.lge.clock/com.lge.clock.AlarmClockActivity}" drawable="clock" />
         <item component="ComponentInfo{com.lge.email/com.lge.email.ui.setupwizard.Welcome}" drawable="mail" />
-        <item component="ComponentInfo{com.lge.filemanager/com.lge.filemanager.view.LaunchActivity}" drawable="cyanogenmod_file_manager" />
+        <item component="ComponentInfo{com.lge.filemanager/com.lge.filemanager.view.LaunchActivity}" drawable="my_files" />
         <item component="ComponentInfo{com.lge.fmradio/com.lge.fmradio.IntroActivity}" drawable="fm_radio" />
         <item component="ComponentInfo{com.lge.music/com.lge.music.MusicBrowserActivity}" drawable="music" />
         <item component="ComponentInfo{com.lge.qmemoplus/com.lge.qmemoplus.ui.main.MainActivity}" drawable="memo" />
