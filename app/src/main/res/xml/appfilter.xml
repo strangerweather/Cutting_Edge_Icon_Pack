@@ -824,7 +824,6 @@
         <item component="ComponentInfo{com.llamalab.automate/com.llamalab.automate.FlowListActivity}" drawable="automate" />
         <item component="ComponentInfo{com.logitech.ueboom/com.logitech.ue.activities.MainActivity}" drawable="ue_boom"/>
         <item component="ComponentInfo{com.loudtalks/com.loudtalks.client.ui.App}" drawable="zello"/>
-        <item component="ComponentInfo{com.lovejoy777.rroandlayersmanager/com.lovejoy777.rroandlayersmanager.MainActivity}" drawable="layers_manager"/>
         <item component="ComponentInfo{com.luckydroid.droidbase/com.luckydroid.droidbase.DroidBaseActivity2}" drawable="memento" />
         <item component="ComponentInfo{com.mail.mobile.android.mail/com.fsck.k9.activity.Accounts}" drawable="mail_com" />
         <item component="ComponentInfo{com.mantano.reader.android/com.mantano.android.library.activities.BookariSplashScreen}" drawable="mantano_reader"/>

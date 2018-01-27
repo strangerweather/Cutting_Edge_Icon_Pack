@@ -471,6 +471,12 @@
 	<item drawable="b_six_twelve" />
 	<item drawable="foodie" />
 	<item drawable="linked_in" />
+	<item drawable="app_hunt" />
+	<item drawable="automate" />
+	<item drawable="ue_boom" />
+	<item drawable="zello" />
+	<item drawable="memento" />
+	<item drawable="mail_com" />
 
 
 
@@ -557,6 +563,12 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="mail_com" />-->
+	<!--<item drawable="memento" />-->
+	<!--<item drawable="zello" />-->
+	<!--<item drawable="ue_boom" />-->
+	<!--<item drawable="automate" />-->
+	<!--<item drawable="app_hunt" />-->
 	<!--<item drawable="linked_in" />-->
 	<!--<item drawable="foodie" />-->
 	<!--<item drawable="b_six_twelve" />-->
