@@ -516,6 +516,9 @@
 	<item drawable="mx_player" />
 	<item drawable="my_mail" />
 	<item drawable="wickr_me" />
+	<item drawable="meetme" />
+	<item drawable="metal" />
+	<item drawable="one_piece_treasure_cruise" />
 
 
 
@@ -602,6 +605,9 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="one_piece_treasure_cruise" />-->
+	<!--<item drawable="metal" />-->
+	<!--<item drawable="meetme" />-->
 	<!--<item drawable="wickr_me" />-->
 	<!--<item drawable="my_mail" />-->
 	<!--<item drawable="mx_player" />-->
