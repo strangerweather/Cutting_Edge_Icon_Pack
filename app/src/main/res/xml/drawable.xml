@@ -499,6 +499,10 @@
 	<item drawable="mint" />
 	<item drawable="mi_xplorer" />
 	<item drawable="ign" />
+	<item drawable="dubsmash" />
+	<item drawable="appy_gamer" />
+	<item drawable="appy_geek" />
+	<item drawable="file_commander" />
 
 
 
@@ -585,6 +589,10 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="file_commander" />-->
+	<!--<item drawable="appy_geek" />-->
+	<!--<item drawable="appy_gamer" />-->
+	<!--<item drawable="dubsmash" />-->
 	<!--<item drawable="ign" />-->
 	<!--<item drawable="mi_xplorer" />-->
 	<!--<item drawable="mint" />-->
