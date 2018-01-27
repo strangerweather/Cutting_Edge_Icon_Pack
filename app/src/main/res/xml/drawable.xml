@@ -503,6 +503,19 @@
 	<item drawable="appy_gamer" />
 	<item drawable="appy_geek" />
 	<item drawable="file_commander" />
+	<item drawable="m_indicator" />
+	<item drawable="minecraft" />
+	<item drawable="yubrowser" />
+	<item drawable="monefy" />
+	<item drawable="mooshimeter" />
+	<item drawable="after_focus" />
+	<item drawable="moto_actions" />
+	<item drawable="moto_alert" />
+	<item drawable="moto_connect" />
+	<item drawable="musixmatch" />
+	<item drawable="mx_player" />
+	<item drawable="my_mail" />
+	<item drawable="wickr_me" />
 
 
 
@@ -589,6 +602,18 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="wickr_me" />-->
+	<!--<item drawable="my_mail" />-->
+	<!--<item drawable="mx_player" />-->
+	<!--<item drawable="musixmatch" />-->
+	<!--<item drawable="moto_connect" />-->
+	<!--<item drawable="moto_alert" />-->
+	<!--<item drawable="moto_actions" />-->
+	<!--<item drawable="after_focus" />-->
+	<!--<item drawable="mooshimeter" />-->
+	<!--<item drawable="monefy" />-->
+	<!--<item drawable="yubrowser" />-->
+	<!--<item drawable="m_indicator" />-->
 	<!--<item drawable="file_commander" />-->
 	<!--<item drawable="appy_geek" />-->
 	<!--<item drawable="appy_gamer" />-->
@@ -961,6 +986,7 @@
 
 	<!--<category title="Games" />-->
     <!--<item drawable="eight_ball_pool" />-->
+	<!--<item drawable="minecraft" />-->
     <!--<item drawable="candy_crush" />-->
     <!--<item drawable="marvel_champions" />-->
     <!--<item drawable="asphalt_eight" />-->

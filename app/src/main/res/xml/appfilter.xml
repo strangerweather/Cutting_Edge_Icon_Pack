@@ -901,10 +901,10 @@
         <item component="ComponentInfo{com.musixmatch.android.lyrify/com.designfuture.music.ui.phone.DashBoardActivity}" drawable="musixmatch" />
         <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityMediaList}" drawable="mx_player" />
         <item component="ComponentInfo{com.mxtech.videoplayer.pro/com.mxtech.videoplayer.pro.ActivityMediaList}" drawable="mx_player" />
-        <item component="ComponentInfo{com.my.mail/ru.mail.mailapp.SplashScreenActivity}" drawable="my__mail" />
+        <item component="ComponentInfo{com.my.mail/ru.mail.mailapp.SplashScreenActivity}" drawable="my_mail" />
         <item component="ComponentInfo{com.myfitnesspal.android/com.myfitnesspal.android.login.Welcome}" drawable="myfitnesspal"/>
         <item component="ComponentInfo{com.myos.camera/com.myos.camera.CameraLauncher2}" drawable="camera" />
-        <item component="ComponentInfo{com.mywickr.wickr2/com.mywickr.gui.WickrInboxFragmentActivity}" drawable="wickr" />
+        <item component="ComponentInfo{com.mywickr.wickr2/com.mywickr.gui.WickrInboxFragmentActivity}" drawable="wickr_me" />
         <item component="ComponentInfo{com.myyearbook.m/com.myyearbook.m.activity.LaunchActivity}" drawable="meetme" />
         <item component="ComponentInfo{com.nam.fbwrapper/com.danvelazco.fbwrapper.SplashActivity}" drawable="metal" />
         <item component="ComponentInfo{com.namcobandaigames.spmoja010E/com.namcobandaigames.spmoja010E.kizakura}" drawable="one_piece_treasure_cruise" />
