@@ -488,6 +488,17 @@
 	<item drawable="merriam_webster" />
 	<item drawable="photomath" />
 	<item drawable="bing" />
+	<item drawable="cortana" />
+	<item drawable="microsoft_launcher" />
+	<item drawable="microsoft_authenticator" />
+	<item drawable="office_lens" />
+	<item drawable="microsoft_groove" />
+	<item drawable="xbox" />
+	<item drawable="wallsplash" />
+	<item drawable="eight_ball_pool" />
+	<item drawable="mint" />
+	<item drawable="mi_xplorer" />
+	<item drawable="ign" />
 
 
 
@@ -574,7 +585,10 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
-	<!--<item drawable="bing" />-->
+	<!--<item drawable="ign" />-->
+	<!--<item drawable="mi_xplorer" />-->
+	<!--<item drawable="mint" />-->
+	<!--<item drawable="wallsplash" />-->
 	<!--<item drawable="photomath" />-->
 	<!--<item drawable="merriam_webster" />-->
 	<!--<item drawable="memrise" />-->
@@ -938,6 +952,7 @@
 	<!--<item drawable="chefling" />-->
 
 	<!--<category title="Games" />-->
+    <!--<item drawable="eight_ball_pool" />-->
     <!--<item drawable="candy_crush" />-->
     <!--<item drawable="marvel_champions" />-->
     <!--<item drawable="asphalt_eight" />-->
@@ -969,6 +984,13 @@
 	<!--<item drawable="alexa" />-->
 
 	<!--<category title="Microsoft" />-->
+	<!--<item drawable="xbox" />-->
+	<!--<item drawable="microsoft_groove" />-->
+	<!--<item drawable="office_lens" />-->
+	<!--<item drawable="microsoft_authenticator" />-->
+	<!--<item drawable="microsoft_launcher" />-->
+	<!--<item drawable="cortana" />-->
+	<!--<item drawable="bing" />-->
 	<!--<item drawable="onedrive" />-->
 	<!--<item drawable="microsoft_excel" />-->
 	<!--<item drawable="microsoft_word" />-->

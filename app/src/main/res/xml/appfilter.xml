@@ -847,10 +847,10 @@
         <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.MainActivity}" drawable="photomath" />
         <item component="ComponentInfo{com.microsoft.bing/com.microsoft.clients.bing.app.MainActivity}" drawable="bing" />
         <item component="ComponentInfo{com.microsoft.cortana/com.microsoft.bing.dss.SplashActivity}" drawable="cortana" />
-        <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.EntryActivity}" drawable="arrow_launcher" />
-        <item component="ComponentInfo{com.microsoft.msa.authenticator/com.microsoft.onlineid.authenticator.LauncherActivity}" drawable="microsoft_account" />
+        <item component="ComponentInfo{com.microsoft.launcher/com.microsoft.launcher.EntryActivity}" drawable="microsoft_launcher" />
+        <item component="ComponentInfo{com.microsoft.msa.authenticator/com.microsoft.onlineid.authenticator.LauncherActivity}" drawable="microsoft_authenticator" />
         <item component="ComponentInfo{com.microsoft.office.excel/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_excel" />
-        <item component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_office_lens" />
+        <item component="ComponentInfo{com.microsoft.office.officelens/com.microsoft.office.apphost.LaunchActivity}" drawable="office_lens" />
         <item component="ComponentInfo{com.microsoft.office.onenote/com.microsoft.office.onenote.ui.ONMSplashActivity}" drawable="microsoft_onenote" />
         <item component="ComponentInfo{com.microsoft.office.outlook/com.microsoft.office.outlook.MainActivity}" drawable="microsoft_outlook" />
         <item component="ComponentInfo{com.microsoft.office.powerpoint/com.microsoft.office.apphost.LaunchActivity}" drawable="microsoft_powerpoint" />
@@ -867,8 +867,8 @@
         <item component="ComponentInfo{com.miui.gallery/com.miui.gallery.activity.HomePageActivity}" drawable="gallery"/>
         <item component="ComponentInfo{com.miui.notes/com.miui.notes.ui.NotesListActivity}" drawable="memo" />
         <item component="ComponentInfo{com.miui.player/com.miui.player.ui.MusicBrowserActivity}" drawable="music" />
-        <item component="ComponentInfo{com.miui.video/com.miui.video.HomeActivity}" drawable="sony_video" />
-        <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mi__xplorer" />
+        <item component="ComponentInfo{com.miui.video/com.miui.video.HomeActivity}" drawable="video" />
+        <item component="ComponentInfo{com.mixplorer/com.mixplorer.activities.BrowseActivity}" drawable="mi_xplorer" />
         <item component="ComponentInfo{com.mobile.ign/com.mobile.ign.MainActivity}" drawable="ign"/>
         <item component="ComponentInfo{com.mobilemotion.dubsmash/com.mobilemotion.dubsmash.core.home.activities.SplashActivity}" drawable="dubsmash" />
         <item component="ComponentInfo{com.mobilesrepublic.appygamer/com.mobilesrepublic.appygamer.SplashActivity}" drawable="appy_gamer" />
