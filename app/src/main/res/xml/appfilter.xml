@@ -826,22 +826,22 @@
         <item component="ComponentInfo{com.loudtalks/com.loudtalks.client.ui.App}" drawable="zello"/>
         <item component="ComponentInfo{com.luckydroid.droidbase/com.luckydroid.droidbase.DroidBaseActivity2}" drawable="memento" />
         <item component="ComponentInfo{com.mail.mobile.android.mail/com.fsck.k9.activity.Accounts}" drawable="mail_com" />
-        <item component="ComponentInfo{com.mantano.reader.android/com.mantano.android.library.activities.BookariSplashScreen}" drawable="mantano_reader"/>
+        <item component="ComponentInfo{com.mantano.reader.android/com.mantano.android.library.activities.BookariSplashScreen}" drawable="bookari"/>
         <item component="ComponentInfo{com.mapswithme.maps.pro/com.mapswithme.maps.DownloadResourcesActivity}" drawable="maps_me"/>
         <item component="ComponentInfo{com.maxmpz.audioplayer/com.maxmpz.audioplayer.StartupActivity}" drawable="poweramp"/>
         <item component="ComponentInfo{com.mdv.swbicompanion/com.mdv.swbicompanion.StartupScreen}" drawable="mobiel" />
         <item component="ComponentInfo{com.mdv.SWBICompanion/com.mdv.SWBICompanion.StartupScreen}" drawable="mobiel" />
         <item component="ComponentInfo{com.mediatek.camera/com.android.camera.CameraLauncher}" drawable="camera"/>
         <item component="ComponentInfo{com.mediatek.datatransfer/com.mediatek.datatransfer.BootActivity}" drawable="mediatek_backup" />
-        <item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}" drawable="cyanogenmod_file_manager" />
+        <item component="ComponentInfo{com.mediatek.filemanager/com.mediatek.filemanager.FileManagerOperationActivity}" drawable="my_files" />
         <item component="ComponentInfo{com.mediatek.fmradio/com.mediatek.fmradio.FmRadioActivity}" drawable="fm_radio" />
         <item component="ComponentInfo{com.mediatek.FMRadio/com.mediatek.FMRadio.FMRadio}" drawable="fm_radio" />
         <item component="ComponentInfo{com.mediatek.StkSelection/com.mediatek.StkSelection.StkSelection}" drawable="sim_toolkit"/>
-        <item component="ComponentInfo{com.mediatek.videoplayer/com.mediatek.videoplayer.MovieListActivity}" drawable="sony_video" />
+        <item component="ComponentInfo{com.mediatek.videoplayer/com.mediatek.videoplayer.MovieListActivity}" drawable="video" />
         <item component="ComponentInfo{com.medium.reader/com.medium.android.donkey.start.SignInActivity}" drawable="medium" />
         <item component="ComponentInfo{com.meizu.media.gallery/com.meizu.media.gallery.GalleryActivity}" drawable="gallery"/>
-        <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="sound__hound" />
-        <item component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="sound__hound" />
+        <item component="ComponentInfo{com.melodis.midomiMusicIdentifier.freemium/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="sound_hound" />
+        <item component="ComponentInfo{com.melodis.midomiMusicIdentifier/com.soundhound.android.appcommon.activity.SplashScreenActivity}" drawable="sound_hound" />
         <item component="ComponentInfo{com.memrise.android.memrisecompanion/com.memrise.android.memrisecompanion.ui.activity.LauncherActivity}" drawable="memrise" />
         <item component="ComponentInfo{com.merriamwebster/com.merriamwebster.dictionary.activity.dictionary.DictionaryActivity}" drawable="merriam_webster" />
         <item component="ComponentInfo{com.microblink.photomath/com.microblink.photomath.main.MainActivity}" drawable="photomath" />

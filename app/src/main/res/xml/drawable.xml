@@ -477,6 +477,17 @@
 	<item drawable="zello" />
 	<item drawable="memento" />
 	<item drawable="mail_com" />
+	<item drawable="bookari" />
+	<item drawable="maps_me" />
+	<item drawable="poweramp" />
+	<item drawable="mobiel" />
+	<item drawable="mediatek_backup" />
+	<item drawable="medium" />
+	<item drawable="sound_hound" />
+	<item drawable="memrise" />
+	<item drawable="merriam_webster" />
+	<item drawable="photomath" />
+	<item drawable="bing" />
 
 
 
@@ -563,6 +574,17 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="bing" />-->
+	<!--<item drawable="photomath" />-->
+	<!--<item drawable="merriam_webster" />-->
+	<!--<item drawable="memrise" />-->
+	<!--<item drawable="sound_hound" />-->
+	<!--<item drawable="medium" />-->
+	<!--<item drawable="mediatek_backup" />-->
+	<!--<item drawable="mobiel" />-->
+	<!--<item drawable="poweramp" />-->
+	<!--<item drawable="maps_me" />-->
+	<!--<item drawable="bookari" />-->
 	<!--<item drawable="mail_com" />-->
 	<!--<item drawable="memento" />-->
 	<!--<item drawable="zello" />-->
