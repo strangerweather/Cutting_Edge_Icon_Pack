@@ -548,6 +548,20 @@
 	<item drawable="sleep_cycle" />
 	<item drawable="vibratemode" />
 	<item drawable="swype" />
+	<item drawable="ny_times" />
+	<item drawable="greenify" />
+	<item drawable="pipette" />
+	<item drawable="ola_cabs" />
+	<item drawable="abbey" />
+	<item drawable="bacon_reader" />
+	<item drawable="ooma" />
+	<item drawable="opentable" />
+	<item drawable="opera_beta" />
+	<item drawable="opera" />
+	<item drawable="opera_mini_beta" />
+	<item drawable="opera_mini" />
+	<item drawable="operavpn" />
+
 
 
 
@@ -634,6 +648,19 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="operavpn" />-->
+    <!--<item drawable="opera_beta" />-->
+    <!--<item drawable="opera" />-->
+    <!--<item drawable="opera_mini_beta" />-->
+    <!--<item drawable="opera_mini" />-->
+	<!--<item drawable="opentable" />-->
+	<!--<item drawable="ooma" />-->
+	<!--<item drawable="bacon_reader" />-->
+	<!--<item drawable="abbey" />-->
+	<!--<item drawable="ola_cabs" />-->
+	<!--<item drawable="pipette" />-->
+	<!--<item drawable="greenify" />-->
+	<!--<item drawable="ny_times" />-->
 	<!--<item drawable="swype" />-->
 	<!--<item drawable="vibratemode" />-->
 	<!--<item drawable="sleep_cycle" />-->
