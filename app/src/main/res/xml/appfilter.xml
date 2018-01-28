@@ -925,11 +925,11 @@
         <item component="ComponentInfo{com.nextcloud.client/com.owncloud.android.ui.activity.FileDisplayActivity}" drawable="nextcloud" />
         <item component="ComponentInfo{com.nextdoor/com.nextdoor.nux.NuxActivity}" drawable="nextdoor" />
         <item component="ComponentInfo{com.nhn.android.band/com.nhn.android.band.SplashActivity}" drawable="band"/>
-        <item component="ComponentInfo{com.nianticlabs.pokemongo/com.unity3d.player.UnityPlayerActivity}" drawable="pokemongo"/>
-        <item component="ComponentInfo{com.nianticlabs.pokemongo/com.unity3d.player.UnityPlayerNativeActivity}" drawable="pokemongo"/>
-        <item component="ComponentInfo{com.nianticlabs.pokemongo_fixgps/com.unity3d.player.UnityPlayerNativeActivity}" drawable="pokemongo"/>
+        <item component="ComponentInfo{com.nianticlabs.pokemongo/com.unity3d.player.UnityPlayerActivity}" drawable="pokemon_go"/>
+        <item component="ComponentInfo{com.nianticlabs.pokemongo/com.unity3d.player.UnityPlayerNativeActivity}" drawable="pokemon_go"/>
+        <item component="ComponentInfo{com.nianticlabs.pokemongo_fixgps/com.unity3d.player.UnityPlayerNativeActivity}" drawable="pokemon_go"/>
         <item component="ComponentInfo{com.nianticproject.ingress/com.nianticproject.ingress.NemesisActivity}" drawable="ingress" />
-        <item component="ComponentInfo{com.nike.snkrs/com.nike.snkrs.activities.TheWallActivity}" drawable="nike_sneakrs" />
+        <item component="ComponentInfo{com.nike.snkrs/com.nike.snkrs.activities.TheWallActivity}" drawable="nike_snkrs" />
         <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.MainActivity}" drawable="snapseed" />
         <item component="ComponentInfo{com.ninegag.android.app/com.ninegag.android.app.ui.SplashScreenActivity}" drawable="nine_gag" />
         <item component="ComponentInfo{com.ninegag.android.tv/com.ninegag.android.tv.ui.activity.MainActivity}" drawable="nine_gag_tv" />

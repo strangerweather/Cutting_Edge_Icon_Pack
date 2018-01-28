@@ -528,6 +528,16 @@
 	<item drawable="kicker" />
 	<item drawable="marvel_future_fight" />
 	<item drawable="prisma" />
+	<item drawable="blurone" />
+	<item drawable="nextbus" />
+	<item drawable="nextcloud" />
+	<item drawable="nextdoor" />
+	<item drawable="band" />
+	<item drawable="pokemon_go" />
+	<item drawable="ingress" />
+	<item drawable="nike_snkrs" />
+	<item drawable="snapseed" />
+	<item drawable="nine_gag" />
 
 
 
@@ -614,6 +624,15 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="nine_gag" />-->
+	<!--<item drawable="snapseed" />-->
+	<!--<item drawable="nike_snkrs" />-->
+	<!--<item drawable="ingress" />-->
+	<!--<item drawable="band" />-->
+	<!--<item drawable="nextdoor" />-->
+	<!--<item drawable="nextcloud" />-->
+	<!--<item drawable="nextbus" />-->
+	<!--<item drawable="blurone" />-->
 	<!--<item drawable="prisma" />-->
 	<!--<item drawable="kicker" />-->
 	<!--<item drawable="nest" />-->
@@ -1009,6 +1028,7 @@
 
 	<!--<category title="Games" />-->
     <!--<item drawable="marvel_future_fight" />-->
+	<!--<item drawable="pokemon_go" />-->
     <!--<item drawable="eight_ball_pool" />-->
 	<!--<item drawable="minecraft" />-->
     <!--<item drawable="candy_crush" />-->
