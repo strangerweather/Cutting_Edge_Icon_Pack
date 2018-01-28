@@ -963,30 +963,29 @@
         <item component="ComponentInfo{com.opera.mini.native/com.opera.mini.android.Browser}" drawable="opera_mini"/>
         <item component="ComponentInfo{com.opera.vpn/com.opera.operavpn.SplashActivity}" drawable="operavpn"/>
         <item component="ComponentInfo{com.oppo.camera/com.oppo.camera.Camera}" drawable="camera" />
-        <item component="ComponentInfo{com.oppo.filemanager/com.oppo.filemanager.Main}" drawable="cyanogenmod_file_manager" />
-        <item component="ComponentInfo{com.outerminds.tubular/com.unity3d.player.UnityPlayerNativeActivity}" drawable="pewds" />
-        <item component="ComponentInfo{com.ovelin.guitartuna/com.unity3d.player.UnityPlayerNativeActivity}" drawable="guitar_tuna" />
-        <item component="ComponentInfo{com.painless.pc/com.painless.pc.settings.LaunchActivity}" drawable="power_toggles"/>
+        <item component="ComponentInfo{com.oppo.filemanager/com.oppo.filemanager.Main}" drawable="my_files" />
+        <item component="ComponentInfo{com.outerminds.tubular/com.unity3d.player.UnityPlayerNativeActivity}" drawable="pewdiepie" />
+        <item component="ComponentInfo{com.ovelin.guitartuna/com.unity3d.player.UnityPlayerNativeActivity}" drawable="guitartuna" />
         <item component="ComponentInfo{com.pandora.android/com.pandora.android.Main}" drawable="pandora"/>
         <item component="ComponentInfo{com.path/com.path.activities.EntryPointActivity}" drawable="path"/>
         <item component="ComponentInfo{com.patreon.android/com.patreon.app.RootActivity}" drawable="patreon"/>
-        <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="pay__pal"/>
-        <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="pay__pal"/>
+        <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.activity.IntroActivity}" drawable="paypal"/>
+        <item component="ComponentInfo{com.paypal.android.p2pmobile/com.paypal.android.p2pmobile.startup.activities.StartupActivity}" drawable="paypal"/>
         <item component="ComponentInfo{com.pcfinancial.mobile/com.cibc.base.android.mobi.activity.MainActivity}" drawable="bank" />
-        <item component="ComponentInfo{com.period.tracker.deluxe/com.period.tracker.activity.ActivitySplash}" drawable="p_tracker" />
-        <item component="ComponentInfo{com.period.tracker.lite/com.period.tracker.activity.ActivitySplash}" drawable="p_tracker" />
+        <item component="ComponentInfo{com.period.tracker.deluxe/com.period.tracker.activity.ActivitySplash}" drawable="period_tracker" />
+        <item component="ComponentInfo{com.period.tracker.lite/com.period.tracker.activity.ActivitySplash}" drawable="period_tracker" />
         <item component="ComponentInfo{com.phhhoto.android/com.phhhoto.android.ui.login.SplashActivity}" drawable="phhhoto" />
-        <item component="ComponentInfo{com.philips.lighting.hue2/com.philips.lighting.hue2.ContentActivity}" drawable="philipps_hue" />
+        <item component="ComponentInfo{com.philips.lighting.hue2/com.philips.lighting.hue2.ContentActivity}" drawable="philips_hue" />
         <item component="ComponentInfo{com.phyora.apps.reddit_now/com.phyora.apps.reddit_now.activities.ActivityRedditNow}" drawable="now" />
         <item component="ComponentInfo{com.phyora.apps.reddit_now/com.phyora.apps.reddit_now.ActivityRedditNow}" drawable="now" />
-        <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="pics__art"/>
+        <item component="ComponentInfo{com.picsart.studio/com.socialin.android.photo.picsinphoto.MainPagerActivity}" drawable="picsart"/>
         <item component="ComponentInfo{com.pinterest/com.pinterest.activity.PinterestActivity}" drawable="pinterest"/>
         <item component="ComponentInfo{com.piriform.ccleaner/com.piriform.ccleaner.ui.activity.MainActivity}" drawable="ccleaner" />
         <item component="ComponentInfo{com.pixelcrater.diaro/com.pixelcrater.diaro.MainActivity}" drawable="diaro" />
-        <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="autodesk_pixlr" />
+        <item component="ComponentInfo{com.pixlr.express/com.pixlr.express.StartupActivity}" drawable="pixlr" />
         <item component="ComponentInfo{com.pl.premierleague/com.pl.premierleague.LaunchActivity}" drawable="premier_league"/>
         <item component="ComponentInfo{com.playdead.limbo.full/com.playdead.limbo.LimboActivity}" drawable="limbo" />
-        <item component="ComponentInfo{com.playstation.mobilemessenger/com.playstation.mobilemessenger.activity.WelcomeActivity}" drawable="play__station_messages"/>
+        <item component="ComponentInfo{com.playstation.mobilemessenger/com.playstation.mobilemessenger.activity.WelcomeActivity}" drawable="playstation_messages"/>
         <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.mobile.PickUserActivity}" drawable="plex" />
         <item component="ComponentInfo{com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity}" drawable="mat__log"/>
         <item component="ComponentInfo{com.pnc.ecommerce.mobile/com.pnc.ecommerce.mobile.PncMobileActivity}" drawable="bank" />

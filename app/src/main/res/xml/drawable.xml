@@ -561,6 +561,25 @@
 	<item drawable="opera_mini_beta" />
 	<item drawable="opera_mini" />
 	<item drawable="operavpn" />
+	<item drawable="pewdiepie" />
+	<item drawable="guitartuna" />
+	<item drawable="pandora" />
+	<item drawable="path" />
+	<item drawable="patreon" />
+	<item drawable="paypal" />
+	<item drawable="period_tracker" />
+	<item drawable="phhhoto" />
+	<item drawable="philips_hue" />
+	<item drawable="now" />
+	<item drawable="picsart" />
+	<item drawable="pinterest" />
+	<item drawable="ccleaner" />
+	<item drawable="diaro" />
+	<item drawable="pixlr" />
+	<item drawable="premier_league" />
+	<item drawable="limbo" />
+	<item drawable="playstation_messages" />
+	<item drawable="plex" />
 
 
 
@@ -648,6 +667,23 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="plex" />-->
+    <!--<item drawable="playstation_messages" />-->
+    <!--<item drawable="premier_league" />-->
+    <!--<item drawable="pixlr" />-->
+    <!--<item drawable="diaro" />-->
+    <!--<item drawable="ccleaner" />-->
+    <!--<item drawable="pinterest" />-->
+    <!--<item drawable="picsart" />-->
+    <!--<item drawable="now" />-->
+    <!--<item drawable="philips_hue" />-->
+    <!--<item drawable="phhhoto" />-->
+    <!--<item drawable="period_tracker" />-->
+    <!--<item drawable="paypal" />-->
+    <!--<item drawable="patreon" />-->
+    <!--<item drawable="path" />-->
+    <!--<item drawable="pandora" />-->
+    <!--<item drawable="guitartuna" />-->
     <!--<item drawable="operavpn" />-->
     <!--<item drawable="opera_beta" />-->
     <!--<item drawable="opera" />-->
@@ -1071,6 +1107,8 @@
 	<!--<item drawable="chefling" />-->
 
 	<!--<category title="Games" />-->
+    <!--<item drawable="limbo" />-->
+    <!--<item drawable="pewdiepie" />-->
     <!--<item drawable="altos_adventure" />-->
     <!--<item drawable="bloons_td" />-->
     <!--<item drawable="marvel_future_fight" />-->
