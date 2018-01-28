@@ -538,6 +538,16 @@
 	<item drawable="nike_snkrs" />
 	<item drawable="snapseed" />
 	<item drawable="nine_gag" />
+	<item drawable="nine_gag_tv" />
+	<item drawable="bloons_td" />
+	<item drawable="inshorts" />
+	<item drawable="g_reader" />
+	<item drawable="noisli" />
+	<item drawable="lmt" />
+	<item drawable="altos_adventure" />
+	<item drawable="sleep_cycle" />
+	<item drawable="vibratemode" />
+	<item drawable="swype" />
 
 
 
@@ -624,6 +634,13 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+	<!--<item drawable="swype" />-->
+	<!--<item drawable="vibratemode" />-->
+	<!--<item drawable="sleep_cycle" />-->
+	<!--<item drawable="noisli" />-->
+	<!--<item drawable="g_reader" />-->
+	<!--<item drawable="inshorts" />-->
+	<!--<item drawable="nine_gag_tv" />-->
 	<!--<item drawable="nine_gag" />-->
 	<!--<item drawable="snapseed" />-->
 	<!--<item drawable="nike_snkrs" />-->
@@ -1027,6 +1044,8 @@
 	<!--<item drawable="chefling" />-->
 
 	<!--<category title="Games" />-->
+    <!--<item drawable="altos_adventure" />-->
+    <!--<item drawable="bloons_td" />-->
     <!--<item drawable="marvel_future_fight" />-->
 	<!--<item drawable="pokemon_go" />-->
     <!--<item drawable="eight_ball_pool" />-->
@@ -1077,6 +1096,7 @@
 	<!--<item drawable="microsoft_onenote" />-->
 
 	<!--<category title="Launchers" />-->
+    <!--<item drawable="lmt" />-->
     <!--<item drawable="next_launcher" />-->
 	<!--<item drawable="action_launcher" />-->
 	<!--<item drawable="atom_launcher" />-->
