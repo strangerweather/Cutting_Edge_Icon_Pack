@@ -583,6 +583,17 @@
 	<item drawable="matlog" />
 	<item drawable="podbean" />
 	<item drawable="seven_minutes" />
+	<item drawable="thirty_day_fitness_challenge" />
+	<item drawable="programm_navigator" />
+	<item drawable="geekbench" />
+	<item drawable="the_rock_clock" />
+	<item drawable="portal" />
+	<item drawable="pushbullet" />
+	<item drawable="three_sixty_mobile_security" />
+	<item drawable="wink" />
+	<item drawable="quizlet" />
+	<item drawable="tapatalk" />
+	<item drawable="quora" />
 
 
 
@@ -670,6 +681,17 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="quora" />-->
+    <!--<item drawable="tapatalk" />-->
+    <!--<item drawable="quizlet" />-->
+    <!--<item drawable="wink" />-->
+    <!--<item drawable="three_sixty_mobile_security" />-->
+    <!--<item drawable="pushbullet" />-->
+    <!--<item drawable="portal" />-->
+    <!--<item drawable="the_rock_clock" />-->
+    <!--<item drawable="geekbench" />-->
+    <!--<item drawable="programm_navigator" />-->
+    <!--<item drawable="thirty_day_fitness_challenge" />-->
     <!--<item drawable="seven_minutes" />-->
     <!--<item drawable="podbean" />-->
     <!--<item drawable="matlog" />-->
