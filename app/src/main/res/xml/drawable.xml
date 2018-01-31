@@ -597,6 +597,11 @@
 	<item drawable="rar" />
 	<item drawable="voez" />
 	<item drawable="natwest" />
+	<item drawable="bestme" />
+	<item drawable="reddit" />
+	<item drawable="rediffmail" />
+	<item drawable="unified_remote" />
+	<item drawable="anymote" />
 
 
 
@@ -684,6 +689,11 @@
 	<!--<item drawable="google_translate" />-->
 
 	<!--<category title="Apps" />-->
+    <!--<item drawable="anymote" />-->
+    <!--<item drawable="unified_remote" />-->
+    <!--<item drawable="rediffmail" />-->
+    <!--<item drawable="reddit" />-->
+    <!--<item drawable="bestme" />-->
     <!--<item drawable="natwest" />-->
     <!--<item drawable="rar" />-->
     <!--<item drawable="quora" />-->
