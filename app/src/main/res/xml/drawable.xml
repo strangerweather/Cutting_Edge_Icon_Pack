@@ -136,6 +136,7 @@
     <item drawable="better_battery_stats" />
     <item drawable="bring" />
     <item drawable="battlefield" />
+    <item drawable="bible" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -384,6 +385,7 @@
     <item drawable="lightning" />
     <item drawable="limbo" />
     <item drawable="lost_in_harmony" />
+    <item drawable="lifesum" />
 
     <category title="M" />
     <item drawable="my_mail" />
@@ -594,6 +596,11 @@
     <item drawable="settings" />
     <item drawable="sky_map" />
     <item drawable="shuttle" />
+    <item drawable="scribd" />
+    <item drawable="samsung_health" />
+    <item drawable="samsung_smart_switch" />
+    <item drawable="shazam_lite" />
+    <item drawable="shazam" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -618,6 +625,9 @@
     <item drawable="theme_chooser" />
     <item drawable="tecmundo" />
     <item drawable="the_score" />
+    <item drawable="termius" />
+    <item drawable="tapet" />
+    <item drawable="tphone" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -652,6 +662,8 @@
     <item drawable="wordfeud" />
     <item drawable="wow_companion" />
     <item drawable="wps_office" />
+    <item drawable="wxllpaper" />
+    <item drawable="weibo" />
 
     <category title="X"/>
     <item drawable="xbox" />
