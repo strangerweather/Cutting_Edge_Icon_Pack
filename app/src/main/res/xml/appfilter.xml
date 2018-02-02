@@ -1058,9 +1058,9 @@
         <item component="ComponentInfo{com.samsung.voiceserviceplatform/com.samsung.voiceserviceplatform.ui.SVoiceMainActivity}" drawable="s_voice" />
         <item component="ComponentInfo{com.samsung.vvm/com.samsung.vvm.vvmapp.VVMApplication}" drawable="voicemail"/>
         <item component="ComponentInfo{com.sand.airdroid/com.sand.airdroid.ui.splash.SplashActivity_}" drawable="airdroid" />
-        <item component="ComponentInfo{com.scee.psxandroid/com.digitaljigsaw.psxandroid.activities.SplashActivity}" drawable="play__station"/>
-        <item component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.EulaActivity}" drawable="play__station"/>
-        <item component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity}" drawable="play__station"/>
+        <item component="ComponentInfo{com.scee.psxandroid/com.digitaljigsaw.psxandroid.activities.SplashActivity}" drawable="playstation"/>
+        <item component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.EulaActivity}" drawable="playstation"/>
+        <item component="ComponentInfo{com.scee.psxandroid/com.scee.psxandroid.activity.TopActivity}" drawable="playstation"/>
         <item component="ComponentInfo{com.scores365/com.scores365.ui.NewSplash}" drawable="three_six_five_scores" />
         <item component="ComponentInfo{com.scores365/com.scores365.ui.Splash}" drawable="three_six_five_scores" />
         <item component="ComponentInfo{com.scotiabank.mobile/com.scotiabank.mobile.MobileBanking}" drawable="bank" />
