@@ -386,6 +386,8 @@
     <item drawable="limbo" />
     <item drawable="lost_in_harmony" />
     <item drawable="lifesum" />
+    <item drawable="look_of_disapproval" />
+
 
     <category title="M" />
     <item drawable="my_mail" />
@@ -601,6 +603,7 @@
     <item drawable="samsung_smart_switch" />
     <item drawable="shazam_lite" />
     <item drawable="shazam" />
+    <item drawable="slack" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />

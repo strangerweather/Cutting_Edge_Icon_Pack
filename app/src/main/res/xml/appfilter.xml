@@ -1098,7 +1098,6 @@
         <item component="ComponentInfo{com.sina.weibo/com.sina.weibo.SplashActivity}" drawable="weibo"/>
         <item component="ComponentInfo{com.sirma.mobile.bible.android/com.youversion.ui.MainActivity}" drawable="bible" />
         <item component="ComponentInfo{com.skt.prod.tphonelite/com.skt.prod.dialer.activities.main.MainActivity}" drawable="tphone" />
-        <item component="ComponentInfo{com.skykonig.acornicons/com.skykonig.acornicons.ui.MainActivity}" drawable="acorn" />
         <item component="ComponentInfo{com.skype.raider/com.skype.raider.Main}" drawable="skype"/>
         <item component="ComponentInfo{com.Slack/com.Slack.ui.HomeActivity}" drawable="slack"/>
         <item component="ComponentInfo{com.slaughter.look.of.disapproval/com.slaughter.look.of.disapproval.LODActivity}" drawable="look_of_disapproval" />
