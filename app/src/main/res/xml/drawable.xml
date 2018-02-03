@@ -365,6 +365,7 @@
     <item drawable="journey" />
     <item drawable="just_six_weeks" />
     <item drawable="juicessh" />
+    <item drawable="jodel" />
 
     <category title="K" />
     <item drawable="kicker" />
@@ -558,6 +559,9 @@
     <item drawable="quran_indonesia" />
     <item drawable="quick_pic" />
     <item drawable="quizgeek" />
+    <item drawable="qq" />
+    <item drawable="qq_lite" />
+    <item drawable="qq_pinyin" />
 
     <category title="R" />
     <item drawable="rediffmail" />
@@ -659,6 +663,9 @@
     <item drawable="team_speak" />
     <item drawable="treehouse" />
     <item drawable="teamviewer" />
+    <item drawable="ted" />
+    <item drawable="tesla_unread" />
+    <item drawable="textra" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -696,6 +703,7 @@
     <item drawable="wps_office" />
     <item drawable="wxllpaper" />
     <item drawable="weibo" />
+    <item drawable="wechat" />
 
     <category title="X"/>
     <item drawable="xbox" />

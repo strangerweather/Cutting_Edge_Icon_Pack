@@ -1158,20 +1158,20 @@
         <item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
         <item component="ComponentInfo{com.ted.android/com.ted.android.view.splash.SplashActivity}" drawable="ted"/>
         <item component="ComponentInfo{com.tellm.android.app/com.jodelapp.jodelandroidv3.view.Launcher}" drawable="jodel" />
-        <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="we__chat"/>
+        <item component="ComponentInfo{com.tencent.mm/com.tencent.mm.ui.LauncherUI}" drawable="wechat"/>
         <item component="ComponentInfo{com.tencent.mobileqq/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" />
         <item component="ComponentInfo{com.tencent.mobileqqi/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" />
         <item component="ComponentInfo{com.tencent.qq/com.tencent.qq.SplashActivity}" drawable="qq" />
-        <item component="ComponentInfo{com.tencent.qqlite/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq" />
-        <item component="ComponentInfo{com.tencent.qqlite/com.tencent.qqlite.activity.SplashActivity}" drawable="qq" />
-        <item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.GuideDialogActivity}" drawable="qq" />
+        <item component="ComponentInfo{com.tencent.qqlite/com.tencent.mobileqq.activity.SplashActivity}" drawable="qq_lite" />
+        <item component="ComponentInfo{com.tencent.qqlite/com.tencent.qqlite.activity.SplashActivity}" drawable="qq_lite" />
+        <item component="ComponentInfo{com.tencent.qqpinyin/com.tencent.qqpinyin.activity.GuideDialogActivity}" drawable="qq_pinyin" />
         <item component="ComponentInfo{com.termux/com.termux.app.TermuxActivity}" drawable="terminal"/>
         <item component="ComponentInfo{com.teslacoilsw.launcher.prime/com.teslacoilsw.launcher.prime.NovaLauncherPrimeActivity}" drawable="nova_launcher_prime"/>
         <item component="ComponentInfo{com.teslacoilsw.launcher/com.android.launcher2.Launcher}" drawable="nova_launcher"/>
         <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.NovaShortcutHandler}" drawable="nova_launcher"/>
         <item component="ComponentInfo{com.teslacoilsw.launcher/com.teslacoilsw.launcher.preferences.SettingsActivity}" drawable="nova_settings" />
         <item component="ComponentInfo{com.teslacoilsw.launcher/preferences.SettingsActivity}" drawable="nova_settings"/>
-        <item component="ComponentInfo{com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings}" drawable="teslaunread"/>
+        <item component="ComponentInfo{com.teslacoilsw.notifier/com.teslacoilsw.notifier.NotifierSettings}" drawable="tesla_unread"/>
         <item component="ComponentInfo{com.textra/com.mplus.lib.Main_*}" drawable="textra"/>
         <item component="ComponentInfo{com.textra/com.mplus.lib.Main_ff0097a7}" drawable="textra"/>
         <item component="ComponentInfo{com.textra/com.mplus.lib.Main_ff1b5e20}" drawable="textra"/>
@@ -1185,7 +1185,7 @@
         <item component="ComponentInfo{com.textra/com.mplus.lib.Main_ff90a4ae}" drawable="textra"/>
         <item component="ComponentInfo{com.textra/com.mplus.lib.Main_ffc62828}" drawable="textra"/>
         <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="textra"/>
-        <item component="ComponentInfo{com.thescore.esports/com.thescore.esports.preapp.SplashActivity}" drawable="the__score_esports" />
+        <item component="ComponentInfo{com.thescore.esports/com.thescore.esports.preapp.SplashActivity}" drawable="the_score_esports" />
         <item component="ComponentInfo{com.thetransitapp.droid/com.thetransitapp.droid.TransitActivity}" drawable="transit" />
         <item component="ComponentInfo{com.thunderst.radio/com.thunderst.radio.FMRadioMainActivity}" drawable="fm_radio" />
         <item component="ComponentInfo{com.ticktick.task/com.ticktick.task.activity.MeTaskActivity}" drawable="tick__tick" />
