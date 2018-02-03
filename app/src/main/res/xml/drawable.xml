@@ -184,6 +184,7 @@
     <item drawable="camera" />
     <item drawable="chrome_remote_desktop" />
     <item drawable="cpu_z" />
+    <item drawable="crystal" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -359,6 +360,7 @@
     <category title="J" />
     <item drawable="journey" />
     <item drawable="just_six_weeks" />
+    <item drawable="juicessh" />
 
     <category title="K" />
     <item drawable="kicker" />
@@ -387,6 +389,7 @@
     <item drawable="lost_in_harmony" />
     <item drawable="lifesum" />
     <item drawable="look_of_disapproval" />
+    <item drawable="lock_screen_widgets" />
 
 
     <category title="M" />
@@ -542,6 +545,7 @@
     <item drawable="pewdiepie" />
     <item drawable="pokemon_go" />
     <item drawable="play_services" />
+    <item drawable="pop_the_lock" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -557,6 +561,7 @@
     <item drawable="rocket_player" />
     <item drawable="rmv" />
     <item drawable="reddit_is_fun" />
+    <item drawable="root_explorer" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -604,6 +609,17 @@
     <item drawable="shazam_lite" />
     <item drawable="shazam" />
     <item drawable="slack" />
+    <item drawable="snapchat" />
+    <item drawable="snaptube" />
+    <item drawable="sololearn" />
+    <item drawable="sonos" />
+    <item drawable="soundbrenner_metronome" />
+    <item drawable="soundcloud" />
+    <item drawable="splitwise" />
+    <item drawable="stack_exchange" />
+    <item drawable="starbucks" />
+    <item drawable="s_pushtan" />
+    <item drawable="sparkasse_plus" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
