@@ -80,6 +80,7 @@
     <item drawable="absolutely_wallpapers" />
     <item drawable="aktibmi" />
     <item drawable="altos_adventure" />
+    <item drawable="avengers" />
 
     <category title="B" />
     <item drawable="better" />
@@ -455,6 +456,7 @@
     <item drawable="music" />
     <item drawable="maps" />
     <item drawable="my_q" />
+    <item drawable="mydealz" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -666,6 +668,10 @@
     <item drawable="ted" />
     <item drawable="tesla_unread" />
     <item drawable="textra" />
+    <item drawable="thescore_esports" />
+    <item drawable="transit" />
+    <item drawable="tick_tick" />
+    <item drawable="tinder" />
 
     <category title="U" />
     <item drawable="unified_remote" />

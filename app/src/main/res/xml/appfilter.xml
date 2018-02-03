@@ -1185,10 +1185,10 @@
         <item component="ComponentInfo{com.textra/com.mplus.lib.Main_ff90a4ae}" drawable="textra"/>
         <item component="ComponentInfo{com.textra/com.mplus.lib.Main_ffc62828}" drawable="textra"/>
         <item component="ComponentInfo{com.textra/com.mplus.lib.ui.main.Main}" drawable="textra"/>
-        <item component="ComponentInfo{com.thescore.esports/com.thescore.esports.preapp.SplashActivity}" drawable="the_score_esports" />
+        <item component="ComponentInfo{com.thescore.esports/com.thescore.esports.preapp.SplashActivity}" drawable="thescore_esports" />
         <item component="ComponentInfo{com.thetransitapp.droid/com.thetransitapp.droid.TransitActivity}" drawable="transit" />
         <item component="ComponentInfo{com.thunderst.radio/com.thunderst.radio.FMRadioMainActivity}" drawable="fm_radio" />
-        <item component="ComponentInfo{com.ticktick.task/com.ticktick.task.activity.MeTaskActivity}" drawable="tick__tick" />
+        <item component="ComponentInfo{com.ticktick.task/com.ticktick.task.activity.MeTaskActivity}" drawable="tick_tick" />
         <item component="ComponentInfo{com.tinder/com.tinder.activities.ActivityLogin}" drawable="tinder"/>
         <item component="ComponentInfo{com.tinder/com.tinder.activities.LoginActivity}" drawable="tinder"/>
         <item component="ComponentInfo{com.tinyco.avengers/com.tinyco.marvel.splashscreen}" drawable="avengers" />
