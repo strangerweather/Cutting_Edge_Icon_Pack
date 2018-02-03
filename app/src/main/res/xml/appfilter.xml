@@ -1196,18 +1196,16 @@
         <item component="ComponentInfo{com.tippingcanoe.mydealz/com.pepper.apps.android.app.activity.MainActivity}" drawable="mydealz" />
         <item component="ComponentInfo{com.tiqiaa.remote/com.tiqiaa.icontrol.WelcomeActivity}" drawable="zaza_remote" />
         <item component="ComponentInfo{com.tmobile.pr.mytmobile/com.tmobile.pr.mytmobile.MyTMobileActivity}" drawable="t_mobile" />
-        <item component="ComponentInfo{com.Tobit.android.Slitte6235203254/com.Tobit.android.slitte.SlitteSplashScreenActivity}" drawable="schalke" />
         <item component="ComponentInfo{com.todoist/com.todoist.activity.HomeActivity}" drawable="todoist" />
         <item component="ComponentInfo{com.toggl.timer/toggl.joey.ui.activities.SplashActivity}" drawable="toggl"/>
-        <item component="ComponentInfo{com.tomtom.mysports/com.tomtom.mysports.gui.SplashscreenActivity}" drawable="my__sports"/>
-        <item component="ComponentInfo{com.touchtype.swiftkey.beta/com.touchtype.LauncherActivity-Icon}" drawable="swift__key"/>
-        <item component="ComponentInfo{com.touchtype.swiftkey.beta/com.touchtype.LauncherActivity}" drawable="swift__key"/>
-        <item component="ComponentInfo{com.touchtype.swiftkey.nn/com.touchtype.LauncherActivity}" drawable="swift__key"/>
-        <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity-Icon}" drawable="swift__key"/>
-        <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity}" drawable="swift__key"/>
-        <item component="ComponentInfo{com.tozelabs.tvshowtime/com.tozelabs.tvshowtime.activity.MainActivity_}" drawable="tv_show_time"/>
-        <item component="ComponentInfo{com.tozelabs.tvshowtime/com.tozelabs.tvshowtime.activity.MainActivity}" drawable="tv_show_time"/>
-        <item component="ComponentInfo{com.tpcstld.twozerogame/com.tpcstld.twozerogame.MainActivity}" drawable="twothousandfortyeight" />
+        <item component="ComponentInfo{com.touchtype.swiftkey.beta/com.touchtype.LauncherActivity-Icon}" drawable="swiftkey"/>
+        <item component="ComponentInfo{com.touchtype.swiftkey.beta/com.touchtype.LauncherActivity}" drawable="swiftkey"/>
+        <item component="ComponentInfo{com.touchtype.swiftkey.nn/com.touchtype.LauncherActivity}" drawable="swiftkey"/>
+        <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity-Icon}" drawable="swiftkey"/>
+        <item component="ComponentInfo{com.touchtype.swiftkey/com.touchtype.LauncherActivity}" drawable="swiftkey"/>
+        <item component="ComponentInfo{com.tozelabs.tvshowtime/com.tozelabs.tvshowtime.activity.MainActivity_}" drawable="tv_time"/>
+        <item component="ComponentInfo{com.tozelabs.tvshowtime/com.tozelabs.tvshowtime.activity.MainActivity}" drawable="tv_time"/>
+        <item component="ComponentInfo{com.tpcstld.twozerogame/com.tpcstld.twozerogame.MainActivity}" drawable="twenty_fortyeight" />
         <item component="ComponentInfo{com.tracfone.net10.myaccount/com.tracfone.generic.myaccountcommonui.activity.LaunchActivity}" drawable="net_ten"/>
         <item component="ComponentInfo{com.tranzmate/com.moovit.home.HomeActivity}" drawable="moovit" />
         <item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="trello"/>

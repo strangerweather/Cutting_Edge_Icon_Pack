@@ -484,6 +484,7 @@
     <item drawable="netflix" />
     <item drawable="nsb" />
     <item drawable="nespresso" />
+    <item drawable="net_ten" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -635,6 +636,7 @@
     <item drawable="strava" />
     <item drawable="square_instapic" />
     <item drawable="swipe_navigation" />
+    <item drawable="swiftkey" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -672,6 +674,10 @@
     <item drawable="transit" />
     <item drawable="tick_tick" />
     <item drawable="tinder" />
+    <item drawable="t_mobile" />
+    <item drawable="todoist" />
+    <item drawable="toggl" />
+    <item drawable="tv_time" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -727,4 +733,5 @@
     <category title="Z"/>
     <item drawable="zello" />
     <item drawable="zomato" />
+    <item drawable="zaza_remote" />
 </resources>
