@@ -1140,24 +1140,20 @@
         <item component="ComponentInfo{com.starfinanz.mobile.android.pushtan/com.starfinanz.mobile.android.pushtan.SPushTan}" drawable="s_pushtan" />
         <item component="ComponentInfo{com.starfinanz.smob.android.sbanking/com.starfinanz.smob.android.sbanking.SBanking}" drawable="sparkasse_plus" />
         <item component="ComponentInfo{com.starfinanz.smob.android.sfinanzstatus/com.starfinanz.smob.android.sfinanzstatus.SFinanzstatus}" drawable="sparkasse" />
-        <item component="ComponentInfo{com.starfinanz.smob.android.wuestenrot/com.starfinanz.smob.android.wuestenrot.Wuestenrot}" drawable="wuestenrot"/>
         <item component="ComponentInfo{com.stoegerit.outbank.android/com.stoegerit.outbank.android.ui.SplashScreenActivity}" drawable="outbank" />
-        <item component="ComponentInfo{com.stoegerit.outbank.android/com.stoegerit.outbank.android.ui.SplashscreenActivity}" drawable="outbank" />
         <item component="ComponentInfo{com.strava/com.strava.SplashActivity}" drawable="strava"/>
-        <item component="ComponentInfo{com.studio8apps.instasizenocrop/com.studio8apps.instasizenocrop.StartActivity}" drawable="square_instapic" />com.androbaby.game2048/com.androbaby.game2048.MainActivity
+        <item component="ComponentInfo{com.studio8apps.instasizenocrop/com.studio8apps.instasizenocrop.StartActivity}" drawable="square_instapic" />
         <item component="ComponentInfo{com.supercell.boombeach/com.supercell.boombeach.GameApp}" drawable="boom_beach" />
         <item component="ComponentInfo{com.supercell.clashofclans/com.supercell.clashofclans.GameApp}" drawable="clash_of_clans" />
         <item component="ComponentInfo{com.supercell.clashroyale/com.supercell.clashroyale.GameApp}" drawable="clash_royale" />
         <item component="ComponentInfo{com.superevilmegacorp.game/com.superevilmegacorp.game.NuoActivityLauncher}" drawable="vainglory" />
         <item component="ComponentInfo{com.suphi.swipenavigation/com.suphi.swipenavigation.ActivityMain}" drawable="swipe_navigation" />
         <item component="ComponentInfo{com.surpax.ledflashlight.panel/com.surpax.ledflashlight.FlashlightActivity}" drawable="flashlight" />
-        <item component="ComponentInfo{com.swiss_codemonkeys.funnyjokes/com.appspot.swisscodemonkeys.jokes.Jokes}" drawable="funny_jokes" />
         <item component="ComponentInfo{com.syntellia.fleksy.keyboard/com.syntellia.fleksy.settings.activities.MainActivity}" drawable="fleksy" />
-        <item component="ComponentInfo{com.t2ksports.nba2k17android/com.t2ksports.nba2k17android.gameactivity}" drawable="nba_twok_seventeen"/>
         <item component="ComponentInfo{com.tct.calculator/com.tct.calculator.Calculator}" drawable="calculator" />
         <item component="ComponentInfo{com.tct.calculator2/com.tct.calculator2.Calculator}" drawable="calculator" />
         <item component="ComponentInfo{com.td/com.td.mobile.controllers.SplashActivity}" drawable="bank" />
-        <item component="ComponentInfo{com.teamspeak.ts3client/com.teamspeak.ts3client.StartGUIFragment}" drawable="team__speak" />
+        <item component="ComponentInfo{com.teamspeak.ts3client/com.teamspeak.ts3client.StartGUIFragment}" drawable="team_speak" />
         <item component="ComponentInfo{com.teamtreehouse.android/com.teamtreehouse.android.ui.activities.LoginActivity}" drawable="treehouse" />
         <item component="ComponentInfo{com.teamviewer.teamviewer.market.mobile/com.teamviewer.remotecontrollib.activity.MainActivity}" drawable="teamviewer" />
         <item component="ComponentInfo{com.ted.android/com.ted.android.view.splash.SplashActivity}" drawable="ted"/>

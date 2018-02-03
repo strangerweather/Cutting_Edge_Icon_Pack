@@ -137,6 +137,7 @@
     <item drawable="bring" />
     <item drawable="battlefield" />
     <item drawable="bible" />
+    <item drawable="boom_beach" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -185,6 +186,8 @@
     <item drawable="chrome_remote_desktop" />
     <item drawable="cpu_z" />
     <item drawable="crystal" />
+    <item drawable="clash_of_clans" />
+    <item drawable="clash_royale" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -262,6 +265,7 @@
     <item drawable="fallout_shelter" />
     <item drawable="flashlight" />
     <item drawable="find_my_device" />
+    <item drawable="fleksy" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -493,6 +497,7 @@
     <item drawable="onedrive" />
     <item drawable="one_plus_fm_radio" />
     <item drawable="one_password" />
+    <item drawable="outbank" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -620,6 +625,10 @@
     <item drawable="starbucks" />
     <item drawable="s_pushtan" />
     <item drawable="sparkasse_plus" />
+    <item drawable="sparkasse" />
+    <item drawable="strava" />
+    <item drawable="square_instapic" />
+    <item drawable="swipe_navigation" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -647,6 +656,9 @@
     <item drawable="termius" />
     <item drawable="tapet" />
     <item drawable="tphone" />
+    <item drawable="team_speak" />
+    <item drawable="treehouse" />
+    <item drawable="teamviewer" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -664,6 +676,7 @@
     <item drawable="viber" />
     <item drawable="vudu" />
     <item drawable="voez" />
+    <item drawable="vainglory" />
 
     <category title="W"/>
     <item drawable="weather_timeline" />
