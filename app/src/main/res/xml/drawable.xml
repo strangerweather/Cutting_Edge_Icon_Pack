@@ -401,6 +401,7 @@
     <item drawable="lifesum" />
     <item drawable="look_of_disapproval" />
     <item drawable="lock_screen_widgets" />
+    <item drawable="lieferando" />
 
 
     <category title="M" />
@@ -714,6 +715,7 @@
     <item drawable="ultimate_guitar" />
     <item drawable="untappd" />
     <item drawable="utorrent" />
+    <item drawable="u_dictionary" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -776,6 +778,9 @@
     <item drawable="youtube" />
     <item drawable="yahoo_finance" />
     <item drawable="yahoo_mail" />
+    <item drawable="yahoo_weather" />
+    <item drawable="yeelight" />
+    <item drawable="yelp" />
 
     <category title="Z"/>
     <item drawable="zello" />

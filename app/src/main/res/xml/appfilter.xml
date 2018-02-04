@@ -1280,13 +1280,10 @@
         <item component="ComponentInfo{com.yahoo.mobile.client.android.weather/com.yahoo.mobile.client.android.weather.ui.WeatherMainActivity}" drawable="yahoo_weather" />
         <item component="ComponentInfo{com.yeelight.cherry/com.yeelight.cherry.ui.activity.LauncherActivity}" drawable="yeelight" />
         <item component="ComponentInfo{com.yelp.android/com.yelp.android.ui.activities.RootActivity}" drawable="yelp" />
-        <item component="ComponentInfo{com.yik.yak/com.yik.yak.ui.activity.SplashActivity}" drawable="yik_yak" />
-        <item component="ComponentInfo{com.yirgalab.dzzz/com.yirgalab.dzzz.main.MainActivity}" drawable="doze" />
         <item component="ComponentInfo{com.yopeso.lieferando/com.yopeso.lieferando.SplashActivity}" drawable="lieferando" />
         <item component="ComponentInfo{com.yopeso.lieferando/com.takeaway.android.Startup}" drawable="lieferando" />
         <item component="ComponentInfo{com.youdao.hindict/com.youdao.hindict.activity.MainActivity}" drawable="u_dictionary" />
-        <item component="ComponentInfo{com.yulong.android.filebrowser/com.yulong.android.filebrowser.activity.FileBrowserActivity}" drawable="cyanogenmod_file_manager" />
-        <item component="ComponentInfo{de.andip71.boeffla_config_v2/de.andip71.boeffla_config_v2.MainActivity}" drawable="boeffla_config"/>
+        <item component="ComponentInfo{com.yulong.android.filebrowser/com.yulong.android.filebrowser.activity.FileBrowserActivity}" drawable="my_files" />
         <item component="ComponentInfo{de.appmaker.android.fanapp/de.appmaker.android.fanapp.SplashActivity}" drawable="schalke" />
         <item component="ComponentInfo{de.apptelligence.sportschau.android/de.apptelligence.sportschau.android.MainActivity}" drawable="sportschau" />
         <item component="ComponentInfo{de.bildungscentrum.android.campus/campus.android.bildungscentrum.de.ocmobil.activity.LoginActivity}" drawable="online_campus" />
