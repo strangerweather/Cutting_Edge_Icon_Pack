@@ -363,6 +363,7 @@
     <item drawable="internet" />
     <item drawable="itv_hub" />
     <item drawable="inbox" />
+    <item drawable="injustice" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -461,6 +462,8 @@
     <item drawable="mydealz" />
     <item drawable="moovit" />
     <item drawable="my_study_life" />
+    <item drawable="my_verizon" />
+    <item drawable="mysplash" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -694,6 +697,7 @@
     <item drawable="twitter" />
     <item drawable="tab_pro" />
     <item drawable="twilight" />
+    <item drawable="the_weather_channel" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -722,6 +726,8 @@
     <item drawable="vainglory" />
     <item drawable="verizon_messages" />
     <item drawable="vimeo" />
+    <item drawable="vk" />
+    <item drawable="vsco_cam" />
 
     <category title="W"/>
     <item drawable="weather_timeline" />
@@ -743,6 +749,11 @@
     <item drawable="weibo" />
     <item drawable="wechat" />
     <item drawable="wakelock_detector" />
+    <item drawable="wm_one" />
+    <item drawable="waze" />
+    <item drawable="we_heart_it" />
+    <item drawable="wire" />
+    <item drawable="wolfram_alpha" />
 
     <category title="X"/>
     <item drawable="xbox" />
