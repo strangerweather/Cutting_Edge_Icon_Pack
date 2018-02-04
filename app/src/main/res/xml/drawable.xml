@@ -457,6 +457,7 @@
     <item drawable="maps" />
     <item drawable="my_q" />
     <item drawable="mydealz" />
+    <item drawable="moovit" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -678,6 +679,8 @@
     <item drawable="todoist" />
     <item drawable="toggl" />
     <item drawable="tv_time" />
+    <item drawable="trello" />
+    <item drawable="tripadvisor" />
 
     <category title="U" />
     <item drawable="unified_remote" />
