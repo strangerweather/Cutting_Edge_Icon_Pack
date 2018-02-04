@@ -212,6 +212,7 @@
     <item drawable="dict_cc" />
     <item drawable="duo" />
     <item drawable="dictionary_com" />
+    <item drawable="dcu" />
     <item drawable="downloads" />
 
     <category title="E" />
@@ -459,6 +460,7 @@
     <item drawable="my_q" />
     <item drawable="mydealz" />
     <item drawable="moovit" />
+    <item drawable="my_study_life" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -577,6 +579,7 @@
     <item drawable="reddit_is_fun" />
     <item drawable="root_explorer" />
     <item drawable="rolling_sky" />
+    <item drawable="retrica" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -641,6 +644,7 @@
     <item drawable="swipe_navigation" />
     <item drawable="swiftkey" />
     <item drawable="sleep_as_android" />
+    <item drawable="steam" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -702,6 +706,7 @@
     <item drawable="ulta_beauty" />
     <item drawable="ultimate_guitar" />
     <item drawable="untappd" />
+    <item drawable="utorrent" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -715,6 +720,8 @@
     <item drawable="vudu" />
     <item drawable="voez" />
     <item drawable="vainglory" />
+    <item drawable="verizon_messages" />
+    <item drawable="vimeo" />
 
     <category title="W"/>
     <item drawable="weather_timeline" />
@@ -735,6 +742,7 @@
     <item drawable="wxllpaper" />
     <item drawable="weibo" />
     <item drawable="wechat" />
+    <item drawable="wakelock_detector" />
 
     <category title="X"/>
     <item drawable="xbox" />

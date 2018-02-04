@@ -1235,19 +1235,19 @@
         <item component="ComponentInfo{com.urbandroid.lux/com.urbandroid.lux.MainActivity}" drawable="twilight"/>
         <item component="ComponentInfo{com.urbandroid.sleep/com.urbandroid.sleep.alarmclock.AlarmClock}" drawable="sleep_as_android"/>
         <item component="ComponentInfo{com.ustwo.monumentvalley/com.ustwo.deviceutil.MainActivity}" drawable="monument_valley" />
-        <item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.EntryActivity}" drawable="my__torrent" />
+        <item component="ComponentInfo{com.utorrent.client/com.bittorrent.client.EntryActivity}" drawable="utorrent" />
         <item component="ComponentInfo{com.uzumapps.wakelockdetector.full/com.uzumapps.wakelockdetector.activity.IntroActivity}" drawable="wakelock_detector"/>
         <item component="ComponentInfo{com.uzumapps.wakelockdetector/com.uzumapps.wakelockdetector.activity.IntroActivity}" drawable="wakelock_detector"/>
         <item component="ComponentInfo{com.valvesoftware.android.steam.community/com.valvesoftware.android.steam.community.activity.MainActivity}" drawable="steam"/>
         <item component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.camera.CameraActivity}" drawable="retrica"/>
         <item component="ComponentInfo{com.venticake.retrica/com.venticake.retrica.MainActivity}" drawable="retrica" />
-        <item component="ComponentInfo{com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning}" drawable="message_plus" />
+        <item component="ComponentInfo{com.verizon.messaging.vzmsgs/com.verizon.mms.ui.activity.Provisioning}" drawable="verizon_messages" />
         <item component="ComponentInfo{com.vertifi.mobile.p211391825/com.vertifi.mobile.MainActivity}" drawable="dcu" />
         <item component="ComponentInfo{com.viber.voip/com.viber.voip.WelcomeActivity}" drawable="viber"/>
         <item component="ComponentInfo{com.vimeo.android.videoapp/com.vimeo.android.videoapp.activities.authentication.LaunchActivity}" drawable="vimeo" />
         <item component="ComponentInfo{com.vipercn.viper4android_v2/com.vipercn.viper4android_v2.activity.ViPER4Android}" drawable="viper" />
-        <item component="ComponentInfo{com.virblue.mystudylife/md58d9c9037a471b8a8307d52bf3798b504.SplashScreen}" drawable="my__study__life" />
-        <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vkontakte"/>
+        <item component="ComponentInfo{com.virblue.mystudylife/md58d9c9037a471b8a8307d52bf3798b504.SplashScreen}" drawable="my_study_life" />
+        <item component="ComponentInfo{com.vkontakte.android/com.vkontakte.android.MainActivity}" drawable="vk"/>
         <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.gallery.ImageGridActivity}" drawable="vsco_cam"/>
         <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.LithiumActivity}" drawable="vsco_cam"/>
         <item component="ComponentInfo{com.vsco.cam/com.vsco.cam.navigation.NavigationBaseActivity}" drawable="vsco_cam"/>
