@@ -1211,7 +1211,6 @@
         <item component="ComponentInfo{com.trello/com.trello.home.HomeActivity}" drawable="trello"/>
         <item component="ComponentInfo{com.tripadvisor.tripadvisor/com.tripadvisor.tripadvisor.TripAdvisorTripAdvisorActivity}" drawable="tripadvisor" />
         <item component="ComponentInfo{com.truecaller/com.truecaller.ui.TruecallerInit}" drawable="truecaller"/>
-        <item component="ComponentInfo{com.tul.aviate/com.tul.aviator.ui.TabbedHomeActivity}" drawable="aviate"/>
         <item component="ComponentInfo{com.tumblr/com.tumblr.ui.activity.JumpoffActivity}" drawable="tumblr"/>
         <item component="ComponentInfo{com.tunnelbear.android/com.tunnelbear.android.TbearSplashActivity}" drawable="tunnelbear" />
         <item component="ComponentInfo{com.turbochilli.rollingsky/com.turbochilli.rollingsky.AppActivity}" drawable="rolling_sky"/>
@@ -1231,12 +1230,6 @@
         <item component="ComponentInfo{com.ultimateguitar.tabprofree/com.ultimateguitar.ui.activity.launch.ConfigDownloadActivity}" drawable="tab_pro" />
         <item component="ComponentInfo{com.ultimateguitar.tabs/com.ultimateguitar.ui.activity.launch.ConfigDownloadActivity}" drawable="ultimate_guitar" />
         <item component="ComponentInfo{com.umusic.avicii/com.prime31.UnityPlayerProxyActivity}" drawable="avicii" />
-        <item component="ComponentInfo{com.underwood.agenda.free/com.underwood.agenda.free.WidgetConfigurationActivity}" drawable="today_widget" />
-        <item component="ComponentInfo{com.underwood.agenda/com.underwood.agenda.WidgetConfigurationActivity}" drawable="today_widget" />
-        <item component="ComponentInfo{com.underwood.calendar/com.android.calendar.AllInOneActivity}" drawable="today_calendar"/>
-        <item component="ComponentInfo{com.underwood.calendar/com.underwood.calendar.MainActivity}" drawable="today_calendar"/>    <calendar component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" prefix="today_calendar_"/>
-        <item component="ComponentInfo{com.underwood.calendar_beta/com.android.calendar.AllInOneActivity}" drawable="today_calendar"/>
-        <item component="ComponentInfo{com.underwood.monospace/com.underwood.monospace.library.LibraryActivity}" drawable="monospace" />
         <item component="ComponentInfo{com.unicredit/com.unicredit.UniCreditMobileBanking}" drawable="bank" />
         <item component="ComponentInfo{com.untappdllc.app/com.untappdllc.app.MainActivity}" drawable="untappd" />
         <item component="ComponentInfo{com.urbandroid.lux/com.urbandroid.lux.MainActivity}" drawable="twilight"/>

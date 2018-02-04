@@ -81,6 +81,7 @@
     <item drawable="aktibmi" />
     <item drawable="altos_adventure" />
     <item drawable="avengers" />
+    <item drawable="avicii" />
 
     <category title="B" />
     <item drawable="better" />
@@ -575,6 +576,7 @@
     <item drawable="rmv" />
     <item drawable="reddit_is_fun" />
     <item drawable="root_explorer" />
+    <item drawable="rolling_sky" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -638,6 +640,7 @@
     <item drawable="square_instapic" />
     <item drawable="swipe_navigation" />
     <item drawable="swiftkey" />
+    <item drawable="sleep_as_android" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -681,11 +684,24 @@
     <item drawable="tv_time" />
     <item drawable="trello" />
     <item drawable="tripadvisor" />
+    <item drawable="truecaller" />
+    <item drawable="tumblr" />
+    <item drawable="tunnelbear" />
+    <item drawable="twitter" />
+    <item drawable="tab_pro" />
+    <item drawable="twilight" />
 
     <category title="U" />
     <item drawable="unified_remote" />
     <item drawable="ue_boom" />
     <item drawable="up" />
+    <item drawable="uber_driver" />
+    <item drawable="uber" />
+    <item drawable="uc_browser" />
+    <item drawable="udacity" />
+    <item drawable="ulta_beauty" />
+    <item drawable="ultimate_guitar" />
+    <item drawable="untappd" />
 
     <category title="V" />
     <item drawable="voicemail" />
