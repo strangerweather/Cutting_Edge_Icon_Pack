@@ -82,6 +82,7 @@
     <item drawable="altos_adventure" />
     <item drawable="avengers" />
     <item drawable="avicii" />
+    <item drawable="antenna_pod" />
 
     <category title="B" />
     <item drawable="better" />
@@ -191,6 +192,7 @@
     <item drawable="clash_of_clans" />
     <item drawable="clash_royale" />
     <item drawable="calculator_holo" />
+    <item drawable="commerzbank" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -215,6 +217,7 @@
     <item drawable="dictionary_com" />
     <item drawable="dcu" />
     <item drawable="downloads" />
+    <item drawable="dhl" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -468,6 +471,7 @@
     <item drawable="my_verizon" />
     <item drawable="mysplash" />
     <item drawable="mi_fit" />
+    <item drawable="minimalistic_text" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -513,6 +517,7 @@
     <item drawable="one_plus_fm_radio" />
     <item drawable="one_password" />
     <item drawable="outbank" />
+    <item drawable="online_campus" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -652,6 +657,8 @@
     <item drawable="swiftkey" />
     <item drawable="sleep_as_android" />
     <item drawable="steam" />
+    <item drawable="schalke" />
+    <item drawable="sportschau" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
