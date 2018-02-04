@@ -193,6 +193,8 @@
     <item drawable="clash_royale" />
     <item drawable="calculator_holo" />
     <item drawable="commerzbank" />
+    <item drawable="clever_tanken" />
+    <item drawable="chefkoch" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -218,6 +220,8 @@
     <item drawable="dcu" />
     <item drawable="downloads" />
     <item drawable="dhl" />
+    <item drawable="db_navigator" />
+    <item drawable="deliveries" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -472,6 +476,7 @@
     <item drawable="mysplash" />
     <item drawable="mi_fit" />
     <item drawable="minimalistic_text" />
+    <item drawable="muenchen_navigator" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -500,6 +505,7 @@
     <item drawable="nsb" />
     <item drawable="nespresso" />
     <item drawable="net_ten" />
+    <item drawable="n_tv" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -518,6 +524,7 @@
     <item drawable="one_password" />
     <item drawable="outbank" />
     <item drawable="online_campus" />
+    <item drawable="onefootball" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -592,6 +599,7 @@
     <item drawable="root_explorer" />
     <item drawable="rolling_sky" />
     <item drawable="retrica" />
+    <item drawable="radio_de" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -769,12 +777,14 @@
     <item drawable="word_reference" />
     <item drawable="weather_underground" />
     <item drawable="wunderlist" />
+    <item drawable="wanderkarte" />
 
     <category title="X"/>
     <item drawable="xbox" />
     <item drawable="xender" />
     <item drawable="xda_labs" />
     <item drawable="xing" />
+    <item drawable="xposed_installer" />
 
     <category title="Y"/>
     <item drawable="yubrowser" />
@@ -793,4 +803,5 @@
     <item drawable="zello" />
     <item drawable="zomato" />
     <item drawable="zaza_remote" />
+    <item drawable="zdf_heute" />
 </resources>
