@@ -190,6 +190,7 @@
     <item drawable="crystal" />
     <item drawable="clash_of_clans" />
     <item drawable="clash_royale" />
+    <item drawable="calculator_holo" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -269,6 +270,7 @@
     <item drawable="flashlight" />
     <item drawable="find_my_device" />
     <item drawable="fleksy" />
+    <item drawable="flickr" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -464,6 +466,7 @@
     <item drawable="my_study_life" />
     <item drawable="my_verizon" />
     <item drawable="mysplash" />
+    <item drawable="mi_fit" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -754,11 +757,15 @@
     <item drawable="we_heart_it" />
     <item drawable="wire" />
     <item drawable="wolfram_alpha" />
+    <item drawable="word_reference" />
+    <item drawable="weather_underground" />
+    <item drawable="wunderlist" />
 
     <category title="X"/>
     <item drawable="xbox" />
     <item drawable="xender" />
     <item drawable="xda_labs" />
+    <item drawable="xing" />
 
     <category title="Y"/>
     <item drawable="yubrowser" />
@@ -767,6 +774,8 @@
     <item drawable="youtube_gaming" />
     <item drawable="youtube_studio" />
     <item drawable="youtube" />
+    <item drawable="yahoo_finance" />
+    <item drawable="yahoo_mail" />
 
     <category title="Z"/>
     <item drawable="zello" />
