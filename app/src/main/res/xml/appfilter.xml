@@ -1330,11 +1330,8 @@
         <item component="ComponentInfo{free.reddit.news/reddit.news.RedditNavigation}" drawable="relay"/>
         <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="smart_launcher"/>
         <item component="ComponentInfo{ginlemon.flowerpro/ginlemon.flower.HomeScreen}" drawable="smart_launcher"/>
-        <item component="ComponentInfo{GitHub com.github.client/com.github.mobile.ui.user.HomeActivity}" drawable="github"/>
         <item component="ComponentInfo{home.solo.launcher.free/home.solo.launcher.free.Launcher}" drawable="solo_launcher" />
         <item component="ComponentInfo{home.solo.launcher.free/home.solo.launcher.free.SplashActivity}" drawable="solo_launcher" />
-        <item component="ComponentInfo{https://play.google.com/store/apps/details?id=com.cyngn.browser}" drawable="internet" />
-        <item component="ComponentInfo{https://play.google.com/store/apps/details?id=com.larvalabs.flow}" drawable="flow_home" />
         <item component="ComponentInfo{ilmfinity.evocreo.main.android/ilmfinity.evocreo.main.android.AndroidLauncher}" drawable="evo_creo" />
         <item component="ComponentInfo{imoblife.toolbox.full/imoblife.toolbox.full.ASplash}" drawable="all_in_one_toolbox" />
         <item component="ComponentInfo{in.alphawolf.wallmax/in.alphawolf.wallmax.MainActivity}" drawable="wallmax" />

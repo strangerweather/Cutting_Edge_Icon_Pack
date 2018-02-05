@@ -246,6 +246,7 @@
     <item drawable="emui_updater" />
     <item drawable="ex_kernel_manager" />
     <item drawable="espace_client" />
+    <item drawable="evo_creo" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -683,6 +684,8 @@
     <item drawable="sportschau" />
     <item drawable="spiegel_online" />
     <item drawable="sd_maid" />
+    <item drawable="smart_launcher" />
+    <item drawable="solo_launcher" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
