@@ -1306,31 +1306,26 @@
         <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity-hjmodi}" drawable="xposed_installer"/>
         <item component="ComponentInfo{de.robv.android.xposed.installer/de.robv.android.xposed.installer.WelcomeActivity}" drawable="xposed_installer"/>
         <item component="ComponentInfo{de.spiegel.android.app.spon/de.spiegel.android.lib.spon.activities.SplashScreenActivity}" drawable="spiegel_online" />
-        <item component="ComponentInfo{de.stefanpledl.localcast/de.stefanpledl.localcast.main.MainActivity}" drawable="local__cast" />
-        <item component="ComponentInfo{de.toastcode.screener/de.toastcode.screener.LaunchActivity}" drawable="screener" />
-        <item component="ComponentInfo{de.toastcode.screener/de.toastcode.screener.MainActivity}" drawable="screener" />
+        <item component="ComponentInfo{de.stefanpledl.localcast/de.stefanpledl.localcast.main.MainActivity}" drawable="localcast" />
         <item component="ComponentInfo{de.web.mobile.android.mail/com.fsck.k9.activity.Accounts}" drawable="mail"/>
         <item component="ComponentInfo{de.wetteronline.wetterapppro/de.wetteronline.wetterapp.MainActivityGoogle}" drawable="wetter_online"/>
         <item component="ComponentInfo{de.zeit.online/de.zeit.online.app.MainActivity}" drawable="zeit_online" />
         <item component="ComponentInfo{deezer.android.app/com.deezer.android.ui.activity.LauncherActivity}" drawable="deezer"/>
-        <item component="ComponentInfo{devian.tubemate.home/devian.tubemate.home.Main}" drawable="tube__mate" />
         <item component="ComponentInfo{dk.mymovies.mymovies2forandroidpro/dk.mymovies.mymovies2forandroidlib.gui.SplashScreenActivity}" drawable="my_movies"/>
         <item component="ComponentInfo{droom.sleepIfUCan/droom.sleepIfUCan.activity.MainActivity}" drawable="alarmy" />
-        <item component="ComponentInfo{edu.berkeley.boinc/edu.berkeley.boinc.SplashActivity}" drawable="boinc"/>
         <item component="ComponentInfo{es.richardsolano.filter/es.richardsolano.filter.MainActivity}" drawable="dimly" />
-        <item component="ComponentInfo{eu.chainfire.flash/eu.chainfire.flash.ui.activity.MainActivity}" drawable="flash__fire"/>
+        <item component="ComponentInfo{eu.chainfire.flash/eu.chainfire.flash.ui.activity.MainActivity}" drawable="flashfire"/>
         <item component="ComponentInfo{eu.chainfire.lumen/eu.chainfire.lumen.ui.MainActivity}" drawable="cf_lumen" />
         <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Chip}" drawable="supersu"/>
         <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Emblem}" drawable="supersu"/>
         <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-Material}" drawable="supersu"/>
         <item component="ComponentInfo{eu.chainfire.supersu/eu.chainfire.supersu.MainActivity-SuperSU}" drawable="supersu"/>
         <item component="ComponentInfo{eu.chainfire.firepaper.fivehundredpx/eu.chainfire.firepaper.fivehundredpx.MainActivity}" drawable="fivehundred_firepaper"/>
-        <item component="ComponentInfo{eu.kanade.tachiyomi/eu.kanade.tachiyomi.ui.main.MainActivity}" drawable="tachiyomi"/>
         <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.SDMMainActivity}" drawable="sd_maid"/>
         <item component="ComponentInfo{flar2.exkernelmanager/flar2.exkernelmanager.StartActivity}" drawable="ex_kernel_manager" />
         <item component="ComponentInfo{flipboard.app/flipboard.activities.LaunchActivityAlias}" drawable="flipboard" />
         <item component="ComponentInfo{fm.clean/fm.clean.MainActivity}" drawable="file_manager" />
-        <item component="ComponentInfo{fm.player/fm.player.ui.MainActivity}" drawable="player_fm" />
+        <item component="ComponentInfo{fm.player/fm.player.ui.MainActivity}" drawable="podcast_player" />
         <item component="ComponentInfo{fr.bouyguestelecom.ecm.android/fr.bouyguestelecom.ecm.android.SplashActivity}" drawable="espace_client" />
         <item component="ComponentInfo{free.reddit.news/reddit.news.RedditNavigation}" drawable="relay"/>
         <item component="ComponentInfo{ginlemon.flowerfree/ginlemon.flower.HomeScreen}" drawable="smart_launcher"/>

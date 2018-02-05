@@ -83,6 +83,7 @@
     <item drawable="avengers" />
     <item drawable="avicii" />
     <item drawable="antenna_pod" />
+    <item drawable="alarmy" />
 
     <category title="B" />
     <item drawable="better" />
@@ -195,6 +196,7 @@
     <item drawable="commerzbank" />
     <item drawable="clever_tanken" />
     <item drawable="chefkoch" />
+    <item drawable="cf_lumen" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -222,6 +224,8 @@
     <item drawable="dhl" />
     <item drawable="db_navigator" />
     <item drawable="deliveries" />
+    <item drawable="deezer" />
+    <item drawable="dimly" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -240,6 +244,8 @@
     <item drawable="eat_smarter" />
     <item drawable="eight_ball_pool" />
     <item drawable="emui_updater" />
+    <item drawable="ex_kernel_manager" />
+    <item drawable="espace_client" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -278,6 +284,10 @@
     <item drawable="find_my_device" />
     <item drawable="fleksy" />
     <item drawable="flickr" />
+    <item drawable="flashfire" />
+    <item drawable="fivehundred_firepaper" />
+    <item drawable="flipboard" />
+    <item drawable="file_manager" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -409,6 +419,7 @@
     <item drawable="look_of_disapproval" />
     <item drawable="lock_screen_widgets" />
     <item drawable="lieferando" />
+    <item drawable="localcast" />
 
 
     <category title="M" />
@@ -477,6 +488,7 @@
     <item drawable="mi_fit" />
     <item drawable="minimalistic_text" />
     <item drawable="muenchen_navigator" />
+    <item drawable="my_movies" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -578,6 +590,7 @@
     <item drawable="pokemon_go" />
     <item drawable="play_services" />
     <item drawable="pop_the_lock" />
+    <item drawable="podcast_player" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -600,6 +613,7 @@
     <item drawable="rolling_sky" />
     <item drawable="retrica" />
     <item drawable="radio_de" />
+    <item drawable="relay" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -667,6 +681,8 @@
     <item drawable="steam" />
     <item drawable="schalke" />
     <item drawable="sportschau" />
+    <item drawable="spiegel_online" />
+    <item drawable="sd_maid" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -778,6 +794,7 @@
     <item drawable="weather_underground" />
     <item drawable="wunderlist" />
     <item drawable="wanderkarte" />
+    <item drawable="wetter_online" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -804,4 +821,5 @@
     <item drawable="zomato" />
     <item drawable="zaza_remote" />
     <item drawable="zdf_heute" />
+    <item drawable="zeit_online" />
 </resources>
