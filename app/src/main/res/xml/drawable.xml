@@ -143,6 +143,9 @@
     <item drawable="battlefield" />
     <item drawable="bible" />
     <item drawable="boom_beach" />
+    <item drawable="between" />
+    <item drawable="beeter" />
+    <item drawable="blue_mail" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -250,6 +253,7 @@
     <item drawable="evocreo" />
     <item drawable="enpass" />
     <item drawable="evie_launcher" />
+    <item drawable="english_dictionary" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -627,6 +631,7 @@
     <item drawable="radio_de" />
     <item drawable="relay" />
     <item drawable="raindrop" />
+    <item drawable="rippple" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -699,6 +704,7 @@
     <item drawable="smart_launcher" />
     <item drawable="solo_launcher" />
     <item drawable="smartnews" />
+    <item drawable="smart_tools" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />

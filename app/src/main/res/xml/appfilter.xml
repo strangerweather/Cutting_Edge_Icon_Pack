@@ -1355,15 +1355,13 @@
         <item component="ComponentInfo{keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass"/>
         <item component="ComponentInfo{keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass"/>
         <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik"/>
-        <item component="ComponentInfo{kmod.xposed/kmod.xposed.KMod-Alias}" drawable="kmod" />
-        <item component="ComponentInfo{kmod.xposed/kmod.xposed.KMod}" drawable="kmod" />
         <item component="ComponentInfo{kr.aboy.tools/kr.aboy.tools.msgcheck}" drawable="smart_tools" />
         <item component="ComponentInfo{kr.co.vcnc.android.couple/kr.co.vcnc.android.couple.feature.LaunchActivity}" drawable="between" />
-        <item component="ComponentInfo{livio.pack.lang.en_US/livio.pack.lang.en_US.DictionaryView}" drawable="livio_english" />
+        <item component="ComponentInfo{livio.pack.lang.en_US/livio.pack.lang.en_US.DictionaryView}" drawable="english_dictionary" />
         <item component="ComponentInfo{mathieumaree.rippple/mathieumaree.rippple.ui.activities.MainActivity}" drawable="rippple" />
-        <item component="ComponentInfo{matlog.com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity}" drawable="mat__log"/>
+        <item component="ComponentInfo{matlog.com.pluscubed.matlog/com.pluscubed.logcat.ui.LogcatActivity}" drawable="matlog"/>
         <item component="ComponentInfo{me.b0ne.android.apps.beeter/me.b0ne.android.apps.beeter.activities.InitialActivity}" drawable="beeter"/>
-        <item component="ComponentInfo{me.bluemail.mail/com.trtf.blue.activity.Accounts}" drawable="boxer" />
+        <item component="ComponentInfo{me.bluemail.mail/com.trtf.blue.activity.Accounts}" drawable="blue_mail" />
         <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.redditslide.Activities.Slide}" drawable="slide"/>
         <item component="ComponentInfo{me.ccrama.redditslide/me.ccrama.slideforreddit.Overview}" drawable="slide"/>
         <item component="ComponentInfo{me.livechart.android/me.livechart.android.SplashActivity}" drawable="livechart_me" />
