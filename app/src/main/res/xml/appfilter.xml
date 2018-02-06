@@ -1332,32 +1332,28 @@
         <item component="ComponentInfo{ginlemon.flowerpro/ginlemon.flower.HomeScreen}" drawable="smart_launcher"/>
         <item component="ComponentInfo{home.solo.launcher.free/home.solo.launcher.free.Launcher}" drawable="solo_launcher" />
         <item component="ComponentInfo{home.solo.launcher.free/home.solo.launcher.free.SplashActivity}" drawable="solo_launcher" />
-        <item component="ComponentInfo{ilmfinity.evocreo.main.android/ilmfinity.evocreo.main.android.AndroidLauncher}" drawable="evo_creo" />
+        <item component="ComponentInfo{ilmfinity.evocreo.main.android/ilmfinity.evocreo.main.android.AndroidLauncher}" drawable="evocreo" />
         <item component="ComponentInfo{imoblife.toolbox.full/imoblife.toolbox.full.ASplash}" drawable="all_in_one_toolbox" />
         <item component="ComponentInfo{in.alphawolf.wallmax/in.alphawolf.wallmax.MainActivity}" drawable="wallmax" />
         <item component="ComponentInfo{in.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon" />
         <item component="ComponentInfo{info.guardianproject.orfox/info.guardianproject.orfox.App}" drawable="orfox" />
-        <item component="ComponentInfo{info.tuohuang.urbandict/info.tuohuang.urbandict.MainActivity}" drawable="urban_dictionary" />
+        <item component="ComponentInfo{info.tuohuang.urbandict/info.tuohuang.urbandict.MainActivity}" drawable="urbandict" />
         <item component="ComponentInfo{installer.ginlemon.flowerpro/installer.ginlemon.flowerpro.MainActivity}" drawable="smart_launcher"/>
-        <item component="ComponentInfo{io.casper.android/io.casper.android.activity.LaunchActivity}" drawable="casper" />
         <item component="ComponentInfo{io.enpass.app/in.sinew.enpass.MainActivity}" drawable="enpass" />
         <item component="ComponentInfo{io.plaidapp/io.plaidapp.Launcher}" drawable="plaid"/>
         <item component="ComponentInfo{io.raindrop.raindropio/io.raindrop.raindropio.StartActivity}" drawable="raindrop"/>
-        <item component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}" drawable="evie" />
-        <item component="ComponentInfo{it.cartalis/it.cartalis.ui.LoginActivity}" drawable="lottomatica" />
+        <item component="ComponentInfo{is.shortcut/com.voxel.launcher3.Launcher}" drawable="evie_launcher" />
         <item component="ComponentInfo{it.feio.android.omninotes/it.feio.android.omninotes.MainActivity}" drawable="omni_notes" />
         <item component="ComponentInfo{it.h3g.areaclienti3/it.h3g.areaclienti3.MainActivity}" drawable="tre_it" />
-        <item component="ComponentInfo{it.mvilla.android.fenix/it.mvilla.android.fenix.ui.activity.WelcomeActivity}" drawable="fenix_for_twitter" />
         <item component="ComponentInfo{it.mvilla.android.quote/it.mvilla.android.quote.ui.activity.WelcomeActivity}" drawable="newsfold" />
-        <item component="ComponentInfo{it.repix.android/it.repix.android.repixactivity}" drawable="repix" />
         <item component="ComponentInfo{it.vodafone.my190/it.vodafone.my190.presentation.deeplinking.DeepLinkActivity}" drawable="vodafone" />
         <item component="ComponentInfo{jackpal.androidterm/jackpal.androidterm.Term}" drawable="terminal"/>
         <item component="ComponentInfo{jp.co.a_tm.android.launcher/jp.co.a_tm.android.launcher.Launcher}" drawable="plus_home"/>
         <item component="ComponentInfo{jp.co.hit_point.nekoatsume/jp.co.hit_point.nekoatsume.GActivity}" drawable="neko_atsume" />
-        <item component="ComponentInfo{jp.gocro.smartnews.android/jp.gocro.smartnews.android.activity.SmartNewsActivity}" drawable="smart_news" />
+        <item component="ComponentInfo{jp.gocro.smartnews.android/jp.gocro.smartnews.android.activity.SmartNewsActivity}" drawable="smartnews" />
         <item component="ComponentInfo{jp.naver.line.android/jp.naver.line.android.activity.SplashActivity}" drawable="line" />
-        <item component="ComponentInfo{keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass_to_android"/>
-        <item component="ComponentInfo{keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass_to_android"/>
+        <item component="ComponentInfo{keepass2android.keepass2android/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass"/>
+        <item component="ComponentInfo{keepass2android.keepass2android_nonet/md5f0702f468598c68ce18586502249fb40.KeePass}" drawable="keepass"/>
         <item component="ComponentInfo{kik.android/kik.android.chat.activity.IntroActivity}" drawable="kik"/>
         <item component="ComponentInfo{kmod.xposed/kmod.xposed.KMod-Alias}" drawable="kmod" />
         <item component="ComponentInfo{kmod.xposed/kmod.xposed.KMod}" drawable="kmod" />

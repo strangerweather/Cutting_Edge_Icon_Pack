@@ -84,6 +84,7 @@
     <item drawable="avicii" />
     <item drawable="antenna_pod" />
     <item drawable="alarmy" />
+    <item drawable="all_in_one_toolbox" />
 
     <category title="B" />
     <item drawable="better" />
@@ -246,7 +247,9 @@
     <item drawable="emui_updater" />
     <item drawable="ex_kernel_manager" />
     <item drawable="espace_client" />
-    <item drawable="evo_creo" />
+    <item drawable="evocreo" />
+    <item drawable="enpass" />
+    <item drawable="evie_launcher" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -401,6 +404,8 @@
     <item drawable="kleptocats" />
     <item drawable="kindle" />
     <item drawable="kwgt" />
+    <item drawable="keypass" />
+    <item drawable="kik" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -421,6 +426,7 @@
     <item drawable="lock_screen_widgets" />
     <item drawable="lieferando" />
     <item drawable="localcast" />
+    <item drawable="line" />
 
 
     <category title="M" />
@@ -519,6 +525,8 @@
     <item drawable="nespresso" />
     <item drawable="net_ten" />
     <item drawable="n_tv" />
+    <item drawable="newsfold" />
+    <item drawable="neko_atsume" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -538,6 +546,8 @@
     <item drawable="outbank" />
     <item drawable="online_campus" />
     <item drawable="onefootball" />
+    <item drawable="orfox" />
+    <item drawable="omni_notes" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -592,6 +602,7 @@
     <item drawable="play_services" />
     <item drawable="pop_the_lock" />
     <item drawable="podcast_player" />
+    <item drawable="plus_home" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -615,6 +626,7 @@
     <item drawable="retrica" />
     <item drawable="radio_de" />
     <item drawable="relay" />
+    <item drawable="raindrop" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -686,6 +698,7 @@
     <item drawable="sd_maid" />
     <item drawable="smart_launcher" />
     <item drawable="solo_launcher" />
+    <item drawable="smartnews" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -736,6 +749,7 @@
     <item drawable="tab_pro" />
     <item drawable="twilight" />
     <item drawable="the_weather_channel" />
+    <item drawable="tre_it" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -750,6 +764,7 @@
     <item drawable="untappd" />
     <item drawable="utorrent" />
     <item drawable="u_dictionary" />
+    <item drawable="urbandict" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -798,6 +813,7 @@
     <item drawable="wunderlist" />
     <item drawable="wanderkarte" />
     <item drawable="wetter_online" />
+    <item drawable="wallmax" />
 
     <category title="X"/>
     <item drawable="xbox" />
