@@ -1369,7 +1369,6 @@
         <item component="ComponentInfo{me.msqrd.android/me.msqrd.android.LaunchActivity}" drawable="msqrd"/>
         <item component="ComponentInfo{me.msqrd.android/me.msqrd.android.LoginActivity}" drawable="msqrd"/>
         <item component="ComponentInfo{me.msqrd.android/me.msqrd.android.MainActivity}" drawable="msqrd"/>
-        <item component="ComponentInfo{me.phh.superuser/com.koushikdutta.superuser.MainActivityity}" drawable="supersu"/>
         <item component="ComponentInfo{me.scan.android.client/me.scan.android.client.ui.ScanActivity}" drawable="qr_code_reader" />
         <item component="ComponentInfo{me.scan.android.scan/me.scan.android.client.ui.ScanActivity}" drawable="qr_code_reader" />
         <item component="ComponentInfo{me.twrp.twrpapp/me.twrp.officialtwrpapp.activities.MainActivity}" drawable="twrp" />

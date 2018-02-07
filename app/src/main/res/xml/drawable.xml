@@ -431,6 +431,8 @@
     <item drawable="lieferando" />
     <item drawable="localcast" />
     <item drawable="line" />
+    <item drawable="livechart_me" />
+    <item drawable="lyft" />
 
 
     <category title="M" />
@@ -500,6 +502,7 @@
     <item drawable="minimalistic_text" />
     <item drawable="muenchen_navigator" />
     <item drawable="my_movies" />
+    <item drawable="msqrd" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -617,6 +620,7 @@
     <item drawable="qq" />
     <item drawable="qq_lite" />
     <item drawable="qq_pinyin" />
+    <item drawable="qr_code_reader" />
 
     <category title="R" />
     <item drawable="rediffmail" />
@@ -705,6 +709,7 @@
     <item drawable="solo_launcher" />
     <item drawable="smartnews" />
     <item drawable="smart_tools" />
+    <item drawable="slide" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -756,6 +761,7 @@
     <item drawable="twilight" />
     <item drawable="the_weather_channel" />
     <item drawable="tre_it" />
+    <item drawable="twrp" />
 
     <category title="U" />
     <item drawable="unified_remote" />
