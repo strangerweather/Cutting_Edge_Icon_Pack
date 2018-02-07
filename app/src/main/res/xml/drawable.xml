@@ -85,6 +85,7 @@
     <item drawable="antenna_pod" />
     <item drawable="alarmy" />
     <item drawable="all_in_one_toolbox" />
+    <item drawable="ap_mobile" />
 
     <category title="B" />
     <item drawable="better" />
@@ -146,6 +147,8 @@
     <item drawable="between" />
     <item drawable="beeter" />
     <item drawable="blue_mail" />
+    <item drawable="beyond_pod" />
+    <item drawable="bomb_squad" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -230,6 +233,8 @@
     <item drawable="deliveries" />
     <item drawable="deezer" />
     <item drawable="dimly" />
+    <item drawable="dolphin" />
+    <item drawable="dark_sky" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -763,6 +768,8 @@
     <item drawable="the_weather_channel" />
     <item drawable="tre_it" />
     <item drawable="twrp" />
+    <item drawable="themediy" />
+    <item drawable="tasker" />
 
     <category title="U" />
     <item drawable="unified_remote" />

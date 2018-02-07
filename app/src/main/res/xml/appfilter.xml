@@ -1376,7 +1376,6 @@
         <item component="ComponentInfo{mega.privacy.android.app/mega.privacy.android.app.LauncherActivity}" drawable="mega"/>
         <item component="ComponentInfo{mnn.Android/com.ap.ui.SplashActivity}" drawable="ap_mobile" />
         <item component="ComponentInfo{mobi.beyondpod/mobi.beyondpod.ui.views.Splash}" drawable="beyond_pod"/>
-        <item component="ComponentInfo{mobi.ifunny/mobi.ifunny.splash.SplashActivity}" drawable="ifunny" />
         <item component="ComponentInfo{mobi.mgeek.TunnyBrowser/mobi.mgeek.TunnyBrowser.BrowserActivity}" drawable="dolphin" />
         <item component="ComponentInfo{net.darkion.theme.maker/net.darkion.theme.maker.MainActivity}" drawable="themediy" />
         <item component="ComponentInfo{net.darksky.darksky/net.darksky.darksky.MainActivity}" drawable="dark_sky"/>
