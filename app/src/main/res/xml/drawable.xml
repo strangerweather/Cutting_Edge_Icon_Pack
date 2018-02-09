@@ -87,6 +87,7 @@
     <item drawable="all_in_one_toolbox" />
     <item drawable="ap_mobile" />
     <item drawable="adaway" />
+    <item drawable="adw_launcher" />
 
     <category title="B" />
     <item drawable="better" />
@@ -150,6 +151,7 @@
     <item drawable="blue_mail" />
     <item drawable="beyond_pod" />
     <item drawable="bomb_squad" />
+    <item drawable="becu" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -205,6 +207,7 @@
     <item drawable="clever_tanken" />
     <item drawable="chefkoch" />
     <item drawable="cf_lumen" />
+    <item drawable="chromium" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -570,6 +573,7 @@
     <item drawable="omni_notes" />
     <item drawable="oneplus_community" />
     <item drawable="open_camera" />
+    <item drawable="opentasks" />
 
     <category title="P" />
 	<item drawable="playstation" />
