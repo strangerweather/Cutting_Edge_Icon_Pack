@@ -438,6 +438,7 @@
     <item drawable="line" />
     <item drawable="livechart_me" />
     <item drawable="lyft" />
+    <item drawable="lovoo" />
 
 
     <category title="M" />
@@ -509,6 +510,7 @@
     <item drawable="my_movies" />
     <item drawable="msqrd" />
     <item drawable="mega" />
+    <item drawable="muzei" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -616,6 +618,7 @@
     <item drawable="pop_the_lock" />
     <item drawable="podcast_player" />
     <item drawable="plus_home" />
+    <item drawable="pay_tm" />
 
     <category title="Q" />
     <item drawable="quora" />
