@@ -1391,9 +1391,7 @@
         <item component="ComponentInfo{net.oneplus.forums/net.oneplus.forums.ui.activity.CheckPermissionActivity}" drawable="oneplus_community"/>
         <item component="ComponentInfo{net.oneplus.music/net.oneplus.music.activity.MainActivity}" drawable="music" />
         <item component="ComponentInfo{net.rejinderi.totallyfreevpn/net.rejinderi.totallyfreevpn.MainActivity}" drawable="totally_free_vpn" />
-        <item component="ComponentInfo{net.scweeny.cs.browser.dev/com.google.android.apps.chrome.Main}" drawable="cs_browser" />
         <item component="ComponentInfo{net.sourceforge.opencamera/net.sourceforge.opencamera.MainActivity}" drawable="open_camera" />
-        <item component="ComponentInfo{net.trippedout.android.facets/net.trippedout.android.facets.activity.SplashActivity}" drawable="facets" />
         <item component="ComponentInfo{net.zedge.android/net.zedge.android.Main}" drawable="zedge" />
         <item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.ExplorerActivity}" drawable="fx"/>
         <item component="ComponentInfo{nickrout.lenslauncher/nickrout.lenslauncher.ui.SettingsActivity}" drawable="lens_launcher" />

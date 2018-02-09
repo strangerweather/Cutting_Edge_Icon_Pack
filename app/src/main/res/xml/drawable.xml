@@ -86,6 +86,7 @@
     <item drawable="alarmy" />
     <item drawable="all_in_one_toolbox" />
     <item drawable="ap_mobile" />
+    <item drawable="adaway" />
 
     <category title="B" />
     <item drawable="better" />
@@ -301,6 +302,7 @@
     <item drawable="fivehundred_firepaper" />
     <item drawable="flipboard" />
     <item drawable="file_manager" />
+    <item drawable="fx" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -378,6 +380,7 @@
     <item drawable="hearthstone" />
     <item drawable="hangouts" />
     <item drawable="h_and_m" />
+    <item drawable="hoyts_cinema" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -439,6 +442,7 @@
     <item drawable="livechart_me" />
     <item drawable="lyft" />
     <item drawable="lovoo" />
+    <item drawable="lens_launcher" />
 
 
     <category title="M" />
@@ -542,6 +546,7 @@
     <item drawable="n_tv" />
     <item drawable="newsfold" />
     <item drawable="neko_atsume" />
+    <item drawable="nu_nl" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -563,6 +568,8 @@
     <item drawable="onefootball" />
     <item drawable="orfox" />
     <item drawable="omni_notes" />
+    <item drawable="oneplus_community" />
+    <item drawable="open_camera" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -719,6 +726,7 @@
     <item drawable="smartnews" />
     <item drawable="smart_tools" />
     <item drawable="slide" />
+    <item drawable="somtoday" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -773,6 +781,7 @@
     <item drawable="twrp" />
     <item drawable="themediy" />
     <item drawable="tasker" />
+    <item drawable="totally_free_vpn" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -805,6 +814,7 @@
     <item drawable="vimeo" />
     <item drawable="vk" />
     <item drawable="vsco_cam" />
+    <item drawable="vipps" />
 
     <category title="W"/>
     <item drawable="weather_timeline" />
@@ -864,4 +874,5 @@
     <item drawable="zaza_remote" />
     <item drawable="zdf_heute" />
     <item drawable="zeit_online" />
+    <item drawable="zedge" />
 </resources>
