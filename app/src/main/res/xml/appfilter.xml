@@ -1416,8 +1416,7 @@
         <item component="ComponentInfo{org.floens.chan/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
         <item component="ComponentInfo{org.floens.clover/org.floens.chan.ui.activity.BoardActivity}" drawable="clover" />
         <item component="ComponentInfo{org.geometerplus.zlibrary.ui.android/org.geometerplus.android.fbreader.FBReader}" drawable="fbreader" />
-        <item component="ComponentInfo{org.horaapps.leafpic/org.horaapps.leafpic.activities.SplashScreen}" drawable="leaf__pic"/>
-        <item component="ComponentInfo{org.illegaller.ratabb.hishoot2i/org.illegaller.ratabb.hishoot2i.ui.activity.MainActivity}" drawable="hishoot_two_i"/>
+        <item component="ComponentInfo{org.horaapps.leafpic/org.horaapps.leafpic.activities.SplashScreen}" drawable="leaf_pic"/>
         <item component="ComponentInfo{org.isoron.uhabits/org.isoron.uhabits.MainActivity}" drawable="loop" />
         <item component="ComponentInfo{org.jw.jwlibrary.mobile/org.jw.jwlibrary.mobile.MainActivity}" drawable="jw_library" />
         <item component="ComponentInfo{org.khanacademy.android/org.khanacademy.android.ui.library.MainActivity}" drawable="khan_academy"/>

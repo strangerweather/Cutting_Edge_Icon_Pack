@@ -208,6 +208,7 @@
     <item drawable="chefkoch" />
     <item drawable="cf_lumen" />
     <item drawable="chromium" />
+    <item drawable="clover" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -307,6 +308,8 @@
     <item drawable="flipboard" />
     <item drawable="file_manager" />
     <item drawable="fx" />
+    <item drawable="f_droid" />
+    <item drawable="fbreader" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -409,6 +412,8 @@
     <item drawable="just_six_weeks" />
     <item drawable="juicessh" />
     <item drawable="jodel" />
+    <item drawable="jw_library" />
+
 
     <category title="K" />
     <item drawable="kicker" />
@@ -447,6 +452,8 @@
     <item drawable="lyft" />
     <item drawable="lovoo" />
     <item drawable="lens_launcher" />
+    <item drawable="leaf_pic" />
+    <item drawable="loop" />
 
 
     <category title="M" />
