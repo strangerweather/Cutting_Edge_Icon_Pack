@@ -214,6 +214,7 @@
     <item drawable="calculator_plus_plus" />
     <item drawable="caixadirecta" />
     <item drawable="chan_burauza" />
+    <item drawable="camera_threesixty" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -245,6 +246,7 @@
     <item drawable="dimly" />
     <item drawable="dolphin" />
     <item drawable="dark_sky" />
+    <item drawable="delta" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
