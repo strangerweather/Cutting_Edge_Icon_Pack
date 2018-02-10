@@ -88,6 +88,7 @@
     <item drawable="ap_mobile" />
     <item drawable="adaway" />
     <item drawable="adw_launcher" />
+    <item drawable="acalendar" />
 
     <category title="B" />
     <item drawable="better" />
@@ -209,6 +210,7 @@
     <item drawable="cf_lumen" />
     <item drawable="chromium" />
     <item drawable="clover" />
+    <item drawable="calculator_plus_plus" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -432,6 +434,8 @@
     <item drawable="kik" />
     <item drawable="khan_academy" />
     <item drawable="klwp" />
+    <item drawable="kodi" />
+    <item drawable="kore" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -461,6 +465,7 @@
     <item drawable="loop" />
     <item drawable="leo" />
     <item drawable="lichess" />
+    <item drawable="libretorrent" />
 
 
     <category title="M" />
@@ -645,6 +650,7 @@
     <item drawable="podcast_player" />
     <item drawable="plus_home" />
     <item drawable="pay_tm" />
+    <item drawable="plus_messenger" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -671,6 +677,7 @@
     <item drawable="relay" />
     <item drawable="raindrop" />
     <item drawable="rippple" />
+    <item drawable="red_reader" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -746,6 +753,8 @@
     <item drawable="smart_tools" />
     <item drawable="slide" />
     <item drawable="somtoday" />
+    <item drawable="signal" />
+    <item drawable="speedtest_ookla" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -802,6 +811,8 @@
     <item drawable="tasker" />
     <item drawable="totally_free_vpn" />
     <item drawable="twidere" />
+    <item drawable="train_timetable_italy" />
+    <item drawable="telegram" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -835,6 +846,7 @@
     <item drawable="vk" />
     <item drawable="vsco_cam" />
     <item drawable="vipps" />
+    <item drawable="vlc" />
 
     <category title="W"/>
     <item drawable="weather_timeline" />
@@ -867,6 +879,9 @@
     <item drawable="wanderkarte" />
     <item drawable="wetter_online" />
     <item drawable="wallmax" />
+    <item drawable="wikipedia" />
+    <item drawable="wikipedia_beta" />
+    <item drawable="wordpress" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -896,4 +911,6 @@
     <item drawable="zdf_heute" />
     <item drawable="zeit_online" />
     <item drawable="zedge" />
+    <item drawable="zooper_free" />
+    <item drawable="zooper_pro" />
 </resources>
