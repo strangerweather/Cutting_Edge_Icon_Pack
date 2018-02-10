@@ -310,6 +310,9 @@
     <item drawable="fx" />
     <item drawable="f_droid" />
     <item drawable="fbreader" />
+    <item drawable="firefox_nightly" />
+    <item drawable="firefox" />
+    <item drawable="firefox_beta" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -427,6 +430,8 @@
     <item drawable="kwgt" />
     <item drawable="keypass" />
     <item drawable="kik" />
+    <item drawable="khan_academy" />
+    <item drawable="klwp" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -454,6 +459,8 @@
     <item drawable="lens_launcher" />
     <item drawable="leaf_pic" />
     <item drawable="loop" />
+    <item drawable="leo" />
+    <item drawable="lichess" />
 
 
     <category title="M" />
@@ -794,6 +801,7 @@
     <item drawable="themediy" />
     <item drawable="tasker" />
     <item drawable="totally_free_vpn" />
+    <item drawable="twidere" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -879,6 +887,7 @@
     <item drawable="yahoo_weather" />
     <item drawable="yeelight" />
     <item drawable="yelp" />
+    <item drawable="yatse" />
 
     <category title="Z"/>
     <item drawable="zello" />

@@ -1429,9 +1429,9 @@
         <item component="ComponentInfo{org.kustom.widget/org.kustom.widget.picker.WidgetPicker}" drawable="kwgt" />
         <item component="ComponentInfo{org.leetzone.android.yatsewidgetfree/org.leetzone.android.yatsewidget.ui.StartActivity}" drawable="yatse" />
         <item component="ComponentInfo{org.leo.android.dict/org.leo.android.dict.LeoDict}" drawable="leo" />
-        <item component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}" drawable="chess" />
+        <item component="ComponentInfo{org.lichess.mobileapp/org.lichess.mobileapp.MainActivity}" drawable="lichess" />
         <item component="ComponentInfo{org.mariotaku.twidere/org.mariotaku.twidere.activity.MainActivity}" drawable="twidere"/>
-        <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox_aurora" />
+        <item component="ComponentInfo{org.mozilla.fennec_aurora/org.mozilla.fennec_aurora.App}" drawable="firefox_nightly" />
         <item component="ComponentInfo{org.mozilla.firefox/org.mozilla.firefox.App}" drawable="firefox" />
         <item component="ComponentInfo{org.mozilla.firefox_beta/org.mozilla.firefox_beta.App}" drawable="firefox_beta" />
         <item component="ComponentInfo{org.paoloconte.treni_lite/org.paoloconte.orariotreni.app.activities.MainActivity}" drawable="train_timetable" />
