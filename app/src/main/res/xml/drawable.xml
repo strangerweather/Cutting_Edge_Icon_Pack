@@ -153,6 +153,7 @@
     <item drawable="beyond_pod" />
     <item drawable="bomb_squad" />
     <item drawable="becu" />
+    <item drawable="busybox" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -211,6 +212,8 @@
     <item drawable="chromium" />
     <item drawable="clover" />
     <item drawable="calculator_plus_plus" />
+    <item drawable="caixadirecta" />
+    <item drawable="chan_burauza" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -315,6 +318,7 @@
     <item drawable="firefox_nightly" />
     <item drawable="firefox" />
     <item drawable="firefox_beta" />
+    <item drawable="forza_football" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -538,6 +542,7 @@
     <item drawable="msqrd" />
     <item drawable="mega" />
     <item drawable="muzei" />
+    <item drawable="manual_camera" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -570,6 +575,9 @@
     <item drawable="newsfold" />
     <item drawable="neko_atsume" />
     <item drawable="nu_nl" />
+    <item drawable="navbar_apps" />
+    <item drawable="natural_scientific_calculator" />
+    <item drawable="nify" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -651,6 +659,9 @@
     <item drawable="plus_home" />
     <item drawable="pay_tm" />
     <item drawable="plus_messenger" />
+    <item drawable="play_magnus" />
+    <item drawable="periscope" />
+    <item drawable="privat_twentyfour" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -662,6 +673,7 @@
     <item drawable="qq_lite" />
     <item drawable="qq_pinyin" />
     <item drawable="qr_code_reader" />
+    <item drawable="quizduell" />
 
     <category title="R" />
     <item drawable="rediffmail" />
@@ -755,6 +767,11 @@
     <item drawable="somtoday" />
     <item drawable="signal" />
     <item drawable="speedtest_ookla" />
+    <item drawable="solid_explorer" />
+    <item drawable="substratum" />
+    <item drawable="stellio" />
+    <item drawable="sport1" />
+    <item drawable="smhw" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -813,6 +830,9 @@
     <item drawable="twidere" />
     <item drawable="train_timetable_italy" />
     <item drawable="telegram" />
+    <item drawable="tune_in" />
+    <item drawable="tuga_browser" />
+    <item drawable="twitch" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -882,6 +902,7 @@
     <item drawable="wikipedia" />
     <item drawable="wikipedia_beta" />
     <item drawable="wordpress" />
+    <item drawable="whisper" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -913,4 +934,5 @@
     <item drawable="zedge" />
     <item drawable="zooper_free" />
     <item drawable="zooper_pro" />
+    <item drawable="z_archiver" />
 </resources>

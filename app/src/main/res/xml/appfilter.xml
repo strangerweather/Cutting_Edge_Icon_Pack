@@ -1466,19 +1466,16 @@
         <item component="ComponentInfo{org.zooper.zwpro/org.zooper.zwlib.Launcher}" drawable="zooper_pro"/>
         <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.speedtest.softfacade.MainActivity}" drawable="speedtest_ookla" />
         <item component="ComponentInfo{pe.com.interbank.mobilebanking/pe.com.interbank.mobilebanking.activities.SplashActivity}" drawable="bank" />
-        <item component="ComponentInfo{pixkart.arcus/pixkart.arcus.themelist.ThemeListActivity}" drawable="arcus"/>
         <item component="ComponentInfo{pl.damianpiwowarski.navbarapps/pl.damianpiwowarski.navbarapps.StartActivity_}" drawable="navbar_apps" />
-        <item component="ComponentInfo{pl.mw.playmagnus/md5f0ecf60c61b7cb4eed9c57d4570704da.SplashScreen}" drawable="chess" />
-        <item component="ComponentInfo{pl.patrykgoworowski.cornieicons/pl.patrykgoworowski.cornieicons.HomeActivity}" drawable="cornie_icons" />
+        <item component="ComponentInfo{pl.mw.playmagnus/md5f0ecf60c61b7cb4eed9c57d4570704da.SplashScreen}" drawable="play_magnus" />
         <item component="ComponentInfo{pl.solidexplorer/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
         <item component="ComponentInfo{pl.solidexplorer1/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
         <item component="ComponentInfo{pl.solidexplorer2/pl.solidexplorer.SolidExplorer}" drawable="solid_explorer" />
         <item component="ComponentInfo{pl.vipek.camera2/pl.vipek.camera2.CameraActivity}" drawable="manual_camera" />
-        <item component="ComponentInfo{pm.minima.android/pm.minima.android.application.Application_Main}" drawable="minima"/>
         <item component="ComponentInfo{posteitaliane.posteapp.appbpol/posteitaliane.posteapp.appbpol.gui.activities.SplashActivity}" drawable="bank" />
         <item component="ComponentInfo{projekt.substratum/projekt.substratum.LauncherActivity}" drawable="substratum"/>
         <item component="ComponentInfo{pt.cgd.caixadirecta/pt.cgd.caixadirecta.SplashActivity}" drawable="caixadirecta" />
-        <item component="ComponentInfo{radiotime.player/tunein.ui.actvities.TuneInHomeActivity}" drawable="tune__in"/>
+        <item component="ComponentInfo{radiotime.player/tunein.ui.actvities.TuneInHomeActivity}" drawable="tune_in"/>
         <item component="ComponentInfo{reddit.news/reddit.news.RedditNavigation}" drawable="relay"/>
         <item component="ComponentInfo{ro.ing.mobile.banking.android.activity/ro.ing.mobile.banking.android.activity.ClientWebViewActivity}" drawable="bank" />
         <item component="ComponentInfo{roviminteractive.materialcopy/com.android.calculator2.StartActivity}" drawable="natural_scientific_calculator" />
@@ -1492,13 +1489,13 @@
         <item component="ComponentInfo{sh.whisper/sh.whisper.WMainActivity}" drawable="whisper" />
         <item component="ComponentInfo{smugcat93.chanburauza/smugcat93.chanburauza.activities.MainActivity}" drawable="chan_burauza"/>
         <item component="ComponentInfo{sport1.mobile.android.apps/de.sport1.news.ui.activities.SplashScreenActivity}" drawable="sport1" />
-        <item component="ComponentInfo{stericson.busybox.donate/stericson.busybox.donate.activities.MainActivity}" drawable="busy__box" />
-        <item component="ComponentInfo{stericson.busybox/stericson.busybox.Activity.MainActivity}" drawable="busy__box" />
+        <item component="ComponentInfo{stericson.busybox.donate/stericson.busybox.donate.activities.MainActivity}" drawable="busybox" />
+        <item component="ComponentInfo{stericson.busybox/stericson.busybox.Activity.MainActivity}" drawable="busybox" />
         <item component="ComponentInfo{tk.wasdennnoch.androidn_ify/tk.wasdennnoch.androidn_ify.SettingsAlias}" drawable="nify" />
         <item component="ComponentInfo{tugapower.codeaurora.browser.alpha/tugapower.codeaurora.browser.alpha.Main}" drawable="tuga_browser"/>
         <item component="ComponentInfo{tugapower.codeaurora.browser/com.google.android.apps.chrome.Main}" drawable="tuga_browser"/>
         <item component="ComponentInfo{tugapower.codeaurora.browser/tugapower.codeaurora.browser.Main}" drawable="tuga_browser"/>
-        <item component="ComponentInfo{tunein.player/tunein.ui.actvities.TuneInHomeActivity}" drawable="tune__in"/>
+        <item component="ComponentInfo{tunein.player/tunein.ui.actvities.TuneInHomeActivity}" drawable="tune_in"/>
         <item component="ComponentInfo{tv.periscope.android/tv.periscope.android.LaunchActivity}" drawable="periscope" />
         <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.app.core.LandingActivity}" drawable="twitch"/>
         <item component="ComponentInfo{tv.twitch.android.app/tv.twitch.android.apps.LandingActivity}" drawable="twitch"/>
