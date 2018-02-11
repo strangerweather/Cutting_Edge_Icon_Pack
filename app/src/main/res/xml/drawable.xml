@@ -250,6 +250,7 @@
     <item drawable="dolphin" />
     <item drawable="dark_sky" />
     <item drawable="delta" />
+    <item drawable="dw" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -372,6 +373,7 @@
     <item drawable="galaxy_button_lights2" />
     <item drawable="gallery" />
     <item drawable="google_wallpapers" />
+    <item drawable="glo_bible" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -403,6 +405,7 @@
     <item drawable="hangouts" />
     <item drawable="h_and_m" />
     <item drawable="hoyts_cinema" />
+    <item drawable="heos" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -421,6 +424,7 @@
     <item drawable="itv_hub" />
     <item drawable="inbox" />
     <item drawable="injustice" />
+    <item drawable="imvu" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -550,6 +554,7 @@
     <item drawable="muzei" />
     <item drawable="manual_camera" />
     <item drawable="material_terminal" />
+    <item drawable="motorsport_manager" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -610,6 +615,7 @@
     <item drawable="oneplus_community" />
     <item drawable="open_camera" />
     <item drawable="opentasks" />
+    <item drawable="octodroid" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -844,6 +850,8 @@
     <item drawable="twitch" />
     <item drawable="threema" />
     <item drawable="trillian" />
+    <item drawable="two_do" />
+    <item drawable="three" />
 
     <category title="U" />
     <item drawable="unified_remote" />
