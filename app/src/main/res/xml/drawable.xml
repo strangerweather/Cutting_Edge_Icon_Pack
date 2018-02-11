@@ -277,6 +277,7 @@
     <item drawable="english_dictionary" />
     <item drawable="ebookdroid" />
     <item drawable="energy_bar" />
+    <item drawable="easy_menu_planner" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -792,6 +793,7 @@
     <item drawable="stellio" />
     <item drawable="sport1" />
     <item drawable="smhw" />
+    <item drawable="scriptura" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
