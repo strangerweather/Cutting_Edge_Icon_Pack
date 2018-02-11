@@ -450,6 +450,7 @@
     <item drawable="klwp" />
     <item drawable="kodi" />
     <item drawable="kore" />
+    <item drawable="kayak" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -555,6 +556,10 @@
     <item drawable="manual_camera" />
     <item drawable="material_terminal" />
     <item drawable="motorsport_manager" />
+    <item drawable="max_go" />
+    <item drawable="meetup" />
+    <item drawable="microsoft_remote_desktop" />
+    <item drawable="miui_forum" />
 
     <category title="N" />
     <item drawable="nextdoor" />
