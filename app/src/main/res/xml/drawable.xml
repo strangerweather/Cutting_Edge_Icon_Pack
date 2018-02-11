@@ -89,6 +89,8 @@
     <item drawable="adaway" />
     <item drawable="adw_launcher" />
     <item drawable="acalendar" />
+    <item drawable="american_airlines" />
+    <item drawable="acorns" />
 
     <category title="B" />
     <item drawable="better" />
@@ -154,6 +156,7 @@
     <item drawable="bomb_squad" />
     <item drawable="becu" />
     <item drawable="busybox" />
+    <item drawable="brainyoo" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -272,6 +275,7 @@
     <item drawable="evie_launcher" />
     <item drawable="english_dictionary" />
     <item drawable="ebookdroid" />
+    <item drawable="energy_bar" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -545,6 +549,7 @@
     <item drawable="mega" />
     <item drawable="muzei" />
     <item drawable="manual_camera" />
+    <item drawable="material_terminal" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -580,6 +585,7 @@
     <item drawable="navbar_apps" />
     <item drawable="natural_scientific_calculator" />
     <item drawable="nify" />
+    <item drawable="npbs" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -664,6 +670,7 @@
     <item drawable="play_magnus" />
     <item drawable="periscope" />
     <item drawable="privat_twentyfour" />
+    <item drawable="pulse_sms" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -835,6 +842,8 @@
     <item drawable="tune_in" />
     <item drawable="tuga_browser" />
     <item drawable="twitch" />
+    <item drawable="threema" />
+    <item drawable="trillian" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -869,6 +878,7 @@
     <item drawable="vsco_cam" />
     <item drawable="vipps" />
     <item drawable="vlc" />
+    <item drawable="visualis" />
 
     <category title="W"/>
     <item drawable="weather_timeline" />

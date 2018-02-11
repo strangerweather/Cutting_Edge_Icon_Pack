@@ -1509,7 +1509,7 @@
         <item component="ComponentInfo{website.leifs.delta/com.afollestad.polar.ui.SplashScreen}" drawable="delta" />
         <item component="ComponentInfo{website.leifs.delta/website.leifs.delta.activities.StartActivity}" drawable="delta" />
         <item component="ComponentInfo{wp.wattpad/wp.wattpad.ui.activities.LoginActivity}" drawable="wattpad" />
-        <item component="ComponentInfo{xyz.klinker.messenger/xyz.klinker.messenger.activity.MessengerActivity}" drawable="klinker_messenger"/>
+        <item component="ComponentInfo{xyz.klinker.messenger/xyz.klinker.messenger.activity.MessengerActivity}" drawable="pulse_sms"/>
         <item component="ComponentInfo{ya.visualis/ya.visualis.activities.MainActivity}" drawable="visualis"/>
         <item component="ComponentInfo{yarolegovich.materialterminal/yarolegovich.materialterminal.Term}" drawable="material_terminal"/>
         <item component="ComponentInfo{you.in.spark.energy/you.in.spark.energy.EBSettings}" drawable="energy_bar"/>
@@ -1520,7 +1520,6 @@
         <item component="ComponentInfo{ch.threema.app/ch.threema.app.activities.MainActivity}" drawable="threema" />
         <item component="ComponentInfo{com.aa.android/com.aa.android.view.SplashActivity}" drawable="american_airlines" />
         <item component="ComponentInfo{com.acorns.android/com.acorns.android.activities.MainActivity}" drawable="acorns" />
-        <item component="ComponentInfo{com.app.pornhub/com.app.pornhub.alias.normal}" drawable="pornhub" />
         <item component="ComponentInfo{com.brainyoo.brainyoo2/com.brainyoo.brainyoo2.ui.BYChooseLoginActivity}" drawable="brainyoo" />
         <item component="ComponentInfo{com.ceruleanstudios.trillian.android/com.ceruleanstudios.trillian.android.InitialAppLoadingScreen}" drawable="trillian" />
         <item component="ComponentInfo{com.dnm.heos.phone/com.dnm.heos.phone.ui.SingleActivity}" drawable="heos" />
