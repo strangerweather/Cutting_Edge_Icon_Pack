@@ -5,9 +5,9 @@
     <color name="colorPrimaryDark">#5C6BC0</color>
     <color name="colorAccent">#3949AB</color>
 
-    <color name="darkColorPrimary">#0082B4</color>
-    <color name="darkColorPrimaryDark">#006EA0</color>
-    <color name="darkColorAccent">#23BEA5</color>
+    <color name="darkColorPrimary">#7986CB</color>
+    <color name="darkColorPrimaryDark">#5C6BC0</color>
+    <color name="darkColorAccent">#3949AB</color>
     
     <!-- Navigation Bar
     * Must be solid color, no alpha -->
@@ -23,8 +23,8 @@
 
     <color name="navigationViewText">#505A64</color>
     <color name="navigationViewTextDark">#DDFFFFFF</color>
-    <color name="navigationViewTextSelected">#0082B4</color>
-    <color name="navigationViewTextSelectedDark">#0082B4</color>
+    <color name="navigationViewTextSelected">#7986CB</color>
+    <color name="navigationViewTextSelectedDark">#7986CB</color>
     <color name="navigationViewSelectedBackground">#00000000</color>
     <color name="navigationViewSelectedBackgroundDark">#00000000</color>
 
