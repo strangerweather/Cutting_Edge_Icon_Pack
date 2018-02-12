@@ -1552,15 +1552,12 @@
         <item component="ComponentInfo{fr.gaulupeau.apps.InThePoche/fr.gaulupeau.apps.Poche.ui.ArticlesListActivity}" drawable="wallabag" />
         <item component="ComponentInfo{org.npr.one/org.npr.one.StartActivity}" drawable="npr_one" />
         <item component="ComponentInfo{vstc.vscam.client/vstc.vscam.client.SplashActivity}" drawable="eye_four" />
-        <item component="ComponentInfo{com.dirtyunicorns.duupdater/com.dirtyunicorns.duupdater.MainActivity}" drawable="du_updater" />
-
-        <!-- 1.1.4 -->
-        <item component="ComponentInfo{com.candl.auge/com.candl.auge.activity.LauncherActivity}" drawable="agenda_widget" />
-        <item component="ComponentInfo{de.heise.ct.magazin/heise.activity.SplashScreenActivity}" drawable="ct" />
+        <item component="ComponentInfo{com.candl.auge/com.candl.auge.activity.LauncherActivity}" drawable="calendar_widget_agenda" />
+        <item component="ComponentInfo{de.heise.ct.magazin/heise.activity.SplashScreenActivity}" drawable="ct_magazin" />
         <item component="ComponentInfo{com.flavionet.android.camera.lite/com.flavionet.android.camera.lite.Main}" drawable="camera_fv_five" />
         <item component="ComponentInfo{co.canopy.canopy.app/co.canopy.canopy.activities.SplashActivity}" drawable="canopy" />
         <item component="ComponentInfo{com.ruanmei.ithome/com.ruanmei.ithome.MainFrameActivity}" drawable="it" />
-        <item component="ComponentInfo{com.transloc.android.rider/com.transloc.android.rider.ui.activity.GPFCheckActivity}" drawable="rider" />
+        <item component="ComponentInfo{com.transloc.android.rider/com.transloc.android.rider.ui.activity.GPFCheckActivity}" drawable="transloc_rider" />
         <item component="ComponentInfo{com.toast.comico/com.toast.comico.activity.SplashActivity}" drawable="comico" />
         <item component="ComponentInfo{fr.debal.app/fr.debal.app.MainActivity}" drawable="debal" />
         <item component="ComponentInfo{com.tapatalk.devsbasecom/com.quoord.tapatalkpro.activity.directory.ics.IcsEntryActivity}" drawable="devs_base" />

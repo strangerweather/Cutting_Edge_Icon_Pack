@@ -218,6 +218,10 @@
     <item drawable="caixadirecta" />
     <item drawable="chan_burauza" />
     <item drawable="camera_threesixty" />
+    <item drawable="calendar_widget_agenda" />
+    <item drawable="ct_magazin" />
+    <item drawable="canopy" />
+    <item drawable="comico" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -278,6 +282,7 @@
     <item drawable="ebookdroid" />
     <item drawable="energy_bar" />
     <item drawable="easy_menu_planner" />
+    <item drawable="eye_four" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -427,6 +432,7 @@
     <item drawable="injustice" />
     <item drawable="imvu" />
     <item drawable="ishtar_commander" />
+    <item drawable="it" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -869,6 +875,7 @@
     <item drawable="two_do" />
     <item drawable="three" />
     <item drawable="tripit" />
+    <item drawable="transloc_rider" />
 
     <category title="U" />
     <item drawable="unified_remote" />
