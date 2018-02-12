@@ -683,6 +683,7 @@
     <item drawable="periscope" />
     <item drawable="privat_twentyfour" />
     <item drawable="pulse_sms" />
+    <item drawable="personal_capital" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -711,6 +712,8 @@
     <item drawable="raindrop" />
     <item drawable="rippple" />
     <item drawable="red_reader" />
+    <item drawable="rewe" />
+    <item drawable="roku" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -794,6 +797,8 @@
     <item drawable="sport1" />
     <item drawable="smhw" />
     <item drawable="scriptura" />
+    <item drawable="schwab" />
+    <item drawable="show_anytime" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -859,6 +864,7 @@
     <item drawable="trillian" />
     <item drawable="two_do" />
     <item drawable="three" />
+    <item drawable="tripit" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -894,6 +900,7 @@
     <item drawable="vipps" />
     <item drawable="vlc" />
     <item drawable="visualis" />
+    <item drawable="vpn_by_private_internet_access" />
 
     <category title="W"/>
     <item drawable="weather_timeline" />

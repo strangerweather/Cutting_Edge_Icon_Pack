@@ -1537,11 +1537,11 @@
         <item component="ComponentInfo{com.only5c.bible/activities.IntroActivity}" drawable="scriptura" />
         <item component="ComponentInfo{com.oscardelgado83.easymenuplanner/com.oscardelgado83.easymenuplanner.ui.MainActivity}" drawable="easy_menu_planner" />
         <item component="ComponentInfo{com.personalcapital.pcapandroid/com.personalcapital.pcapandroid.ui.login.SplashActivity}" drawable="personal_capital" />
-        <item component="ComponentInfo{com.privateinternetaccess.android/com.privateinternetaccess.android.ui.LauncherActivity}" drawable="pia_vpn" />
+        <item component="ComponentInfo{com.privateinternetaccess.android/com.privateinternetaccess.android.ui.LauncherActivity}" drawable="vpn_by_private_internet_access" />
         <item component="ComponentInfo{com.rewedigital.shop/de.rewe.app.MainActivity}" drawable="rewe" />
         <item component="ComponentInfo{com.roku.remote/com.roku.remote.ui.WelcomeActivity}" drawable="roku" />
         <item component="ComponentInfo{com.schwab.mobile/com.schwab.mobile.activity.SplashScreenActivity}" drawable="schwab" />
-        <item component="ComponentInfo{com.showtime.showtimeanytime/com.showtime.showtimeanytime.activities.IntroActivity}" drawable="sho_anytime" />
+        <item component="ComponentInfo{com.showtime.showtimeanytime/com.showtime.showtimeanytime.activities.IntroActivity}" drawable="show_anytime" />
         <item component="ComponentInfo{com.tripit/com.tripit.activity.SplashActivity}" drawable="tripit" />
         <item component="ComponentInfo{com.twentyfivesquares.press/com.twentyfivesquares.press.base.HomeActivity}" drawable="press" />
         <item component="ComponentInfo{com.ulfster.audiobooks/com.ulfster.audiobooks.MainActivity}" drawable="spotify_audiobook" />
