@@ -426,6 +426,7 @@
     <item drawable="inbox" />
     <item drawable="injustice" />
     <item drawable="imvu" />
+    <item drawable="ishtar_commander" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -597,6 +598,7 @@
     <item drawable="natural_scientific_calculator" />
     <item drawable="nify" />
     <item drawable="npbs" />
+    <item drawable="npr_one" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -622,6 +624,7 @@
     <item drawable="open_camera" />
     <item drawable="opentasks" />
     <item drawable="octodroid" />
+    <item drawable="openvpn_for_android" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -684,6 +687,7 @@
     <item drawable="privat_twentyfour" />
     <item drawable="pulse_sms" />
     <item drawable="personal_capital" />
+    <item drawable="penny" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -880,6 +884,7 @@
     <item drawable="utorrent" />
     <item drawable="u_dictionary" />
     <item drawable="urbandict" />
+    <item drawable="united_airlines" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -901,6 +906,8 @@
     <item drawable="vlc" />
     <item drawable="visualis" />
     <item drawable="vpn_by_private_internet_access" />
+    <item drawable="verizon_my_fios" />
+
 
     <category title="W"/>
     <item drawable="weather_timeline" />
@@ -937,6 +944,7 @@
     <item drawable="wikipedia_beta" />
     <item drawable="wordpress" />
     <item drawable="whisper" />
+    <item drawable="wallabag" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -958,6 +966,7 @@
     <item drawable="yeelight" />
     <item drawable="yelp" />
     <item drawable="yatse" />
+    <item drawable="yahoo_fantasy_sports" />
 
     <category title="Z"/>
     <item drawable="zello" />

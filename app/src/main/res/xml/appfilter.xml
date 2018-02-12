@@ -1543,11 +1543,9 @@
         <item component="ComponentInfo{com.schwab.mobile/com.schwab.mobile.activity.SplashScreenActivity}" drawable="schwab" />
         <item component="ComponentInfo{com.showtime.showtimeanytime/com.showtime.showtimeanytime.activities.IntroActivity}" drawable="show_anytime" />
         <item component="ComponentInfo{com.tripit/com.tripit.activity.SplashActivity}" drawable="tripit" />
-        <item component="ComponentInfo{com.twentyfivesquares.press/com.twentyfivesquares.press.base.HomeActivity}" drawable="press" />
-        <item component="ComponentInfo{com.ulfster.audiobooks/com.ulfster.audiobooks.MainActivity}" drawable="spotify_audiobook" />
         <item component="ComponentInfo{com.unintuitive.IshtarCommander/com.example.ZingProject.MainActivity}" drawable="ishtar_commander" />
         <item component="ComponentInfo{com.united.mobile.android/com.united.mobile.android.SplashScreen}" drawable="united_airlines" />
-        <item component="ComponentInfo{com.verizon.myfios/com.verizon.myfios.MainActivity}" drawable="my_fios" />
+        <item component="ComponentInfo{com.verizon.myfios/com.verizon.myfios.MainActivity}" drawable="verizon_my_fios" />
         <item component="ComponentInfo{com.yahoo.mobile.client.android.fantasyfootball/com.yahoo.mobile.client.android.fantasyfootball.ui.FantasyHomeActivity}" drawable="yahoo_fantasy_sports" />
         <item component="ComponentInfo{de.blinkt.openvpn/de.blinkt.openvpn.activities.MainActivity}" drawable="openvpn_for_android" />
         <item component="ComponentInfo{de.penny.pennyandroid/de.penny.pennyandroid.gui.MainActivity_}" drawable="penny" />
