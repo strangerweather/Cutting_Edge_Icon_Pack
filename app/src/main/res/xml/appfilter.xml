@@ -1563,7 +1563,6 @@
         <item component="ComponentInfo{com.tapatalk.devsbasecom/com.quoord.tapatalkpro.activity.directory.ics.IcsEntryActivity}" drawable="devs_base" />
         <item component="ComponentInfo{com.capitainetrain.android/com.capitainetrain.android.HomeActivity}" drawable="trainline_eu" />
         <item component="ComponentInfo{org.kman.AquaMail/org.kman.AquaMail.ui.AccountListActivity}" drawable="aquamail" />
-        <item component="ComponentInfo{com.highlyrecommended.dka/com.highlyrecommendedapps.droidkeeper.ui.MainActivity}" drawable="droid_keeper" />
         <item component="ComponentInfo{co.thefabulous.app/co.thefabulous.app.ui.screen.main.MainActivity}" drawable="fabulous" />
         <item component="ComponentInfo{de.dfki.appdetox/de.dfki.appdetox.ui.activities.MainActivity}" drawable="appdetox" />
         <item component="ComponentInfo{com.intrepidlogic.calibrecloud/com.intrepidlogic.calibrecloud.MainActivity }" drawable="calibre_cloud" />

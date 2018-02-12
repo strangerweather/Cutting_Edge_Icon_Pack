@@ -91,6 +91,7 @@
     <item drawable="acalendar" />
     <item drawable="american_airlines" />
     <item drawable="acorns" />
+    <item drawable="appdetox" />
 
     <category title="B" />
     <item drawable="better" />
@@ -222,6 +223,7 @@
     <item drawable="ct_magazin" />
     <item drawable="canopy" />
     <item drawable="comico" />
+    <item drawable="calibre_cloud" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -255,6 +257,8 @@
     <item drawable="dark_sky" />
     <item drawable="delta" />
     <item drawable="dw" />
+    <item drawable="debal" />
+    <item drawable="devs_base" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -332,6 +336,7 @@
     <item drawable="firefox" />
     <item drawable="firefox_beta" />
     <item drawable="forza_football" />
+    <item drawable="fabulous" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -694,6 +699,8 @@
     <item drawable="pulse_sms" />
     <item drawable="personal_capital" />
     <item drawable="penny" />
+    <item drawable="parkmobile" />
+    <item drawable="pass_to_u" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -876,6 +883,7 @@
     <item drawable="three" />
     <item drawable="tripit" />
     <item drawable="transloc_rider" />
+    <item drawable="trainline_eu" />
 
     <category title="U" />
     <item drawable="unified_remote" />
