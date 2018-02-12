@@ -573,6 +573,7 @@
     <item drawable="meetup" />
     <item drawable="microsoft_remote_desktop" />
     <item drawable="miui_forum" />
+    <item drawable="my_oldboy" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -731,6 +732,7 @@
     <item drawable="red_reader" />
     <item drawable="rewe" />
     <item drawable="roku" />
+    <item drawable="rocketbook" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -816,6 +818,7 @@
     <item drawable="scriptura" />
     <item drawable="schwab" />
     <item drawable="show_anytime" />
+    <item drawable="sleepy_box" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
