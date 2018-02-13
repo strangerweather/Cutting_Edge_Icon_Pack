@@ -1587,12 +1587,9 @@
         <item component="ComponentInfo{com.channel4.ondemand/com.novoda.all4.launch.LaunchActivity}" drawable="all_four" />
         <item component="ComponentInfo{com.getbux.android/com.getbux.android.app.MainActivity}" drawable="bux" />
         <item component="ComponentInfo{uk.co.gbk.loyalty/uk.co.gbk.loyalty.ActivityLauncher}" drawable="gbk" />
-        <item component="ComponentInfo{com.fusionmedia.investing/com.fusionmedia.investing.view.activities.SplashSplitter}" drawable="inv" />
-        <item component="ComponentInfo{com.eatdigi.android/com.eatdigi.android.expansion.ExpansionDownloaderActivity}" drawable="pdc" />
+        <item component="ComponentInfo{com.fusionmedia.investing/com.fusionmedia.investing.view.activities.SplashSplitter}" drawable="investing_com" />
         <item component="ComponentInfo{com.seekingalpha.webwrapper/sa.activity.MainActivity}" drawable="seeking_alpha" />
-        <item component="ComponentInfo{com.studentplanner/com.studentplanner.SchoolCodeActivity}" drawable="student_planner" />
         <item component="ComponentInfo{es.tid.gconnect/es.tid.gconnect.bootstrap.SplashActivity}" drawable="viber" />
-        <item component="ComponentInfo{com.zimperium.zanti/com.zimperium.zanti.MainActivity}" drawable="zanti" />
         <item component="ComponentInfo{com.adguard.android/com.adguard.android.ui.SplashActivity}" drawable="adguard" />
         <item component="ComponentInfo{io.friendly/io.friendly.activity.MainActivity}" drawable="friendly" />
         <item component="ComponentInfo{com.wilysis.cellinfo/com.wilysis.cellinfo.Arxikh}" drawable="network_cell_info" />

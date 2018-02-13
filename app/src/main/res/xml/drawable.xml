@@ -92,6 +92,8 @@
     <item drawable="american_airlines" />
     <item drawable="acorns" />
     <item drawable="appdetox" />
+    <item drawable="all_four" />
+    <item drawable="adguard" />
 
     <category title="B" />
     <item drawable="better" />
@@ -159,6 +161,7 @@
     <item drawable="busybox" />
     <item drawable="brainyoo" />
     <item drawable="belfius_mobile" />
+    <item drawable="bux" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -288,6 +291,7 @@
     <item drawable="energy_bar" />
     <item drawable="easy_menu_planner" />
     <item drawable="eye_four" />
+    <item drawable="endomondo" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -338,6 +342,7 @@
     <item drawable="firefox_beta" />
     <item drawable="forza_football" />
     <item drawable="fabulous" />
+    <item drawable="fire_emblem_heroes" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -386,6 +391,7 @@
     <item drawable="gallery" />
     <item drawable="google_wallpapers" />
     <item drawable="glo_bible" />
+    <item drawable="gbk" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -439,6 +445,7 @@
     <item drawable="imvu" />
     <item drawable="ishtar_commander" />
     <item drawable="it" />
+    <item drawable="investing_com" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -576,6 +583,7 @@
     <item drawable="miui_forum" />
     <item drawable="my_oldboy" />
     <item drawable="moto_assist" />
+    <item drawable="mi_remote" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -824,6 +832,9 @@
     <item drawable="schwab" />
     <item drawable="show_anytime" />
     <item drawable="sleepy_box" />
+    <item drawable="sofascore" />
+    <item drawable="stocard" />
+    <item drawable="seeking_alpha" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -908,6 +919,7 @@
     <item drawable="u_dictionary" />
     <item drawable="urbandict" />
     <item drawable="united_airlines" />
+    <item drawable="updater" />
 
     <category title="V" />
     <item drawable="voicemail" />
