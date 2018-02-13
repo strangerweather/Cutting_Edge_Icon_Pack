@@ -1598,7 +1598,6 @@
         <item component="ComponentInfo{com.pilottravelcenters.mypilot/com.pilottravelcenters.SplashScreenActivity}" drawable="mypilot" />
         <item component="ComponentInfo{com.ochs.pipetteplus/com.ochs.pipetteplus.StartActivity}" drawable="pipette" />
         <item component="ComponentInfo{com.slacker.radio/com.slacker.gui.pivot.activities.PreLaunchActivity}" drawable="slacker_radio" />
-        <item component="ComponentInfo{com.redphx.themex/com.redphx.themex.MainActivity}" drawable="themex" />
         <item component="ComponentInfo{com.pegasustranstech.transflonowplus/com.pegasustranstech.transflonowplus.ui.activities.home.HomeActivity}" drawable="transflo_mobile" />
         <item component="ComponentInfo{com.sixdays.truckerpath/com.sixdays.truckerpath.view.base.SplashActivity}" drawable="trucker_path" />
         <item component="ComponentInfo{net.metapps.watersounds/net.metapps.relaxsounds.HomeActivity}" drawable="rain_sounds" />

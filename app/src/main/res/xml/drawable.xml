@@ -228,6 +228,7 @@
     <item drawable="canopy" />
     <item drawable="comico" />
     <item drawable="calibre_cloud" />
+    <item drawable="cpro" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -343,6 +344,7 @@
     <item drawable="forza_football" />
     <item drawable="fabulous" />
     <item drawable="fire_emblem_heroes" />
+    <item drawable="friendly" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -424,6 +426,7 @@
     <item drawable="h_and_m" />
     <item drawable="hoyts_cinema" />
     <item drawable="heos" />
+    <item drawable="habit_browser" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -584,6 +587,8 @@
     <item drawable="my_oldboy" />
     <item drawable="moto_assist" />
     <item drawable="mi_remote" />
+    <item drawable="my_att" />
+    <item drawable="mypilot" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -623,6 +628,7 @@
     <item drawable="npr_one" />
     <item drawable="nfc_tools" />
     <item drawable="nfc_tasks" />
+    <item drawable="network_cell_info" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -714,6 +720,8 @@
     <item drawable="penny" />
     <item drawable="parkmobile" />
     <item drawable="pass_to_u" />
+    <item drawable="perfect_viewer" />
+    <item drawable="puffin" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -746,6 +754,7 @@
     <item drawable="roku" />
     <item drawable="rocketbook" />
     <item drawable="rocker_locker" />
+    <item drawable="rain_sounds" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -835,6 +844,7 @@
     <item drawable="sofascore" />
     <item drawable="stocard" />
     <item drawable="seeking_alpha" />
+    <item drawable="slacker_radio" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -903,6 +913,8 @@
     <item drawable="tripit" />
     <item drawable="transloc_rider" />
     <item drawable="trainline_eu" />
+    <item drawable="transflo_mobile" />
+    <item drawable="trucker_path" />
 
     <category title="U" />
     <item drawable="unified_remote" />
