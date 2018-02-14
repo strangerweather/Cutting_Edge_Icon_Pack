@@ -95,6 +95,7 @@
     <item drawable="all_four" />
     <item drawable="adguard" />
     <item drawable="appy_couple" />
+    <item drawable="automatag" />
 
     <category title="B" />
     <item drawable="better" />
@@ -163,6 +164,8 @@
     <item drawable="brainyoo" />
     <item drawable="belfius_mobile" />
     <item drawable="bux" />
+    <item drawable="blackberry_hub" />
+    <item drawable="bugs" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -346,6 +349,8 @@
     <item drawable="fabulous" />
     <item drawable="fire_emblem_heroes" />
     <item drawable="friendly" />
+    <item drawable="flightradar" />
+    <item drawable="flock" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -395,6 +400,8 @@
     <item drawable="google_wallpapers" />
     <item drawable="glo_bible" />
     <item drawable="gbk" />
+    <item drawable="gaana" />
+    <item drawable="gostop_play" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -428,6 +435,7 @@
     <item drawable="hoyts_cinema" />
     <item drawable="heos" />
     <item drawable="habit_browser" />
+    <item drawable="hoopla" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -450,6 +458,8 @@
     <item drawable="ishtar_commander" />
     <item drawable="it" />
     <item drawable="investing_com" />
+    <item drawable="isotope" />
+    <item drawable="ing" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -590,6 +600,8 @@
     <item drawable="mi_remote" />
     <item drawable="my_att" />
     <item drawable="mypilot" />
+    <item drawable="mobile_print" />
+    <item drawable="my_idea" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -851,6 +863,8 @@
     <item drawable="skrill" />
     <item drawable="slice" />
     <item drawable="summoners_companion" />
+    <item drawable="studentvue" />
+    <item drawable="sideview" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -923,6 +937,7 @@
     <item drawable="trucker_path" />
     <item drawable="twenty_minutes" />
     <item drawable="transakt" />
+    <item drawable="tinycam" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -964,6 +979,8 @@
     <item drawable="verizon_my_fios" />
     <item drawable="viking_app" />
     <item drawable="vyprvpn" />
+    <item drawable="vizio_smartcast" />
+    <item drawable="venmo" />
 
 
     <category title="W"/>
@@ -1002,6 +1019,7 @@
     <item drawable="wordpress" />
     <item drawable="whisper" />
     <item drawable="wallabag" />
+    <item drawable="wetransfer" />
 
     <category title="X"/>
     <item drawable="xbox" />
