@@ -94,6 +94,7 @@
     <item drawable="appdetox" />
     <item drawable="all_four" />
     <item drawable="adguard" />
+    <item drawable="appy_couple" />
 
     <category title="B" />
     <item drawable="better" />
@@ -629,6 +630,7 @@
     <item drawable="nfc_tools" />
     <item drawable="nfc_tasks" />
     <item drawable="network_cell_info" />
+    <item drawable="nordvpn" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -755,6 +757,7 @@
     <item drawable="rocketbook" />
     <item drawable="rocker_locker" />
     <item drawable="rain_sounds" />
+    <item drawable="rocket_browser" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -960,6 +963,7 @@
     <item drawable="vpn_by_private_internet_access" />
     <item drawable="verizon_my_fios" />
     <item drawable="viking_app" />
+    <item drawable="vyprvpn" />
 
 
     <category title="W"/>
