@@ -845,6 +845,9 @@
     <item drawable="stocard" />
     <item drawable="seeking_alpha" />
     <item drawable="slacker_radio" />
+    <item drawable="skrill" />
+    <item drawable="slice" />
+    <item drawable="summoners_companion" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -915,6 +918,8 @@
     <item drawable="trainline_eu" />
     <item drawable="transflo_mobile" />
     <item drawable="trucker_path" />
+    <item drawable="twenty_minutes" />
+    <item drawable="transakt" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1015,6 +1020,7 @@
     <item drawable="yelp" />
     <item drawable="yatse" />
     <item drawable="yahoo_fantasy_sports" />
+    <item drawable="yu_gi_oh" />
 
     <category title="Z"/>
     <item drawable="zello" />
