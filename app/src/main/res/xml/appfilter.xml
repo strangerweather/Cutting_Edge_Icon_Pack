@@ -1570,7 +1570,7 @@
         <item component="ComponentInfo{com.motorola.fmplayer/com.motorola.fmplayer.ChangeThemeActivity}" drawable="fm_radio" />
         <item component="ComponentInfo{com.remind101/com.remind101.ui.activities.WelcomeActivity}" drawable="remind" />
         <item component="ComponentInfo{com.skyward.mobileaccess/com.skyward.mobileaccess.MainActivity}" drawable="skyward" />
-        <item component="ComponentInfo{com.cw.fullepisodes.android/com.cw.fullepisodes.android.activity.LaunchActivity}" drawable="cw" />
+        <item component="ComponentInfo{com.cw.fullepisodes.android/com.cw.fullepisodes.android.activity.LaunchActivity}" drawable="the_cw" />
         <item component="ComponentInfo{com.oneplus.deskclock/com.oneplus.deskclock.DeskClock}" drawable="clock" />
         <item component="ComponentInfo{com.android.contacts/com.oneplus.contacts.activities.OPPeopleActivity}" drawable="contacts" />
         <item component="ComponentInfo{com.freecharge.android/com.freecharge.ui.MainSplashActivity}" drawable="freecharge" />

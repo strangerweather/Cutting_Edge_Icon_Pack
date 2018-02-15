@@ -359,6 +359,7 @@
     <item drawable="flock" />
     <item drawable="fahrinfo" />
     <item drawable="fifa_mobile" />
+    <item drawable="freecharge" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -498,6 +499,7 @@
     <item drawable="kayak" />
     <item drawable="kakaopage" />
     <item drawable="kapk" />
+    <item drawable="kaspersky" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -615,6 +617,7 @@
     <item drawable="mobile_print" />
     <item drawable="my_idea" />
     <item drawable="monitor_everywhere" />
+    <item drawable="myjio" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -785,6 +788,7 @@
     <item drawable="rain_sounds" />
     <item drawable="rocket_browser" />
     <item drawable="ryan" />
+    <item drawable="remind" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -881,6 +885,9 @@
     <item drawable="studentvue" />
     <item drawable="sideview" />
     <item drawable="subnautica" />
+    <item drawable="skyward" />
+    <item drawable="super_mario_run" />
+    <item drawable="snapdeal" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -955,6 +962,7 @@
     <item drawable="transakt" />
     <item drawable="tinycam" />
     <item drawable="trusted_contacts" />
+    <item drawable="the_cw" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -999,6 +1007,7 @@
     <item drawable="vizio_smartcast" />
     <item drawable="venmo" />
     <item drawable="vinci" />
+    <item drawable="videoder" />
 
 
     <category title="W"/>
