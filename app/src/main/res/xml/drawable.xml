@@ -97,6 +97,7 @@
     <item drawable="appy_couple" />
     <item drawable="automatag" />
     <item drawable="ark" />
+    <item drawable="aimp" />
 
     <category title="B" />
     <item drawable="better" />
@@ -167,6 +168,7 @@
     <item drawable="bux" />
     <item drawable="blackberry_hub" />
     <item drawable="bugs" />
+    <item drawable="burger_king" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -271,6 +273,7 @@
     <item drawable="debal" />
     <item drawable="devs_base" />
     <item drawable="duranno" />
+    <item drawable="daydream" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -355,6 +358,7 @@
     <item drawable="flightradar" />
     <item drawable="flock" />
     <item drawable="fahrinfo" />
+    <item drawable="fifa_mobile" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -950,6 +954,7 @@
     <item drawable="twenty_minutes" />
     <item drawable="transakt" />
     <item drawable="tinycam" />
+    <item drawable="trusted_contacts" />
 
     <category title="U" />
     <item drawable="unified_remote" />
