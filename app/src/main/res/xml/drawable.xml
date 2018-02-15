@@ -96,6 +96,7 @@
     <item drawable="adguard" />
     <item drawable="appy_couple" />
     <item drawable="automatag" />
+    <item drawable="ark" />
 
     <category title="B" />
     <item drawable="better" />
@@ -233,6 +234,7 @@
     <item drawable="comico" />
     <item drawable="calibre_cloud" />
     <item drawable="cpro" />
+    <item drawable="conbus" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -352,6 +354,7 @@
     <item drawable="friendly" />
     <item drawable="flightradar" />
     <item drawable="flock" />
+    <item drawable="fahrinfo" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -403,6 +406,7 @@
     <item drawable="gbk" />
     <item drawable="gaana" />
     <item drawable="gostop_play" />
+    <item drawable="guitar_center" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -468,6 +472,7 @@
     <item drawable="juicessh" />
     <item drawable="jodel" />
     <item drawable="jw_library" />
+    <item drawable="jio_voice" />
 
 
     <category title="K" />
@@ -487,6 +492,8 @@
     <item drawable="kodi" />
     <item drawable="kore" />
     <item drawable="kayak" />
+    <item drawable="kakaopage" />
+    <item drawable="kapk" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -603,6 +610,7 @@
     <item drawable="mypilot" />
     <item drawable="mobile_print" />
     <item drawable="my_idea" />
+    <item drawable="monitor_everywhere" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -670,6 +678,7 @@
     <item drawable="opentasks" />
     <item drawable="octodroid" />
     <item drawable="openvpn_for_android" />
+    <item drawable="o2_tu_go" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -867,6 +876,7 @@
     <item drawable="summoners_companion" />
     <item drawable="studentvue" />
     <item drawable="sideview" />
+    <item drawable="subnautica" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -983,6 +993,7 @@
     <item drawable="vyprvpn" />
     <item drawable="vizio_smartcast" />
     <item drawable="venmo" />
+    <item drawable="vinci" />
 
 
     <category title="W"/>

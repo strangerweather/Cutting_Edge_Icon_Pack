@@ -1649,10 +1649,8 @@
         <item component="ComponentInfo{seedpod.companion.subnautica/seedpod.companion.subnautica.MainActivity}" drawable="subnautica" />
         <item component="ComponentInfo{io.vinci.android/io.vinci.android.MainActivity}" drawable="vinci" />
         <item component="ComponentInfo{de.eos.uptrade.android.fahrinfo.dresden/de.eos.uptrade.android.fahrinfo.activity.tabs.MainTabActivity}" drawable="fahrinfo" />
-
-        <!-- 1.1.7 -->
         <item component="ComponentInfo{com.jio.join/com.witsoftware.wmc.SplashScreenActivity}" drawable="jio_voice" />
-        <item component="ComponentInfo{es.tid.gconnect/es.tid.gconnect.bootstrap.SplashActivity}" drawable="tu" />
+        <item component="ComponentInfo{es.tid.gconnect/es.tid.gconnect.bootstrap.SplashActivity}" drawable="o2_tu_go" />
         <item component="ComponentInfo{com.google.android.vr.home/com.google.android.apps.vr.home.app.MainActivity}" drawable="daydream" />
         <item component="ComponentInfo{de.burgerking.kingfinder/de.xroot.burgerking.ui.activity.SplashScreenActivity}" drawable="burger_king" />
         <item component="ComponentInfo{com.aimp.player/com.aimp.player.views.MainActivity.MainActivity}" drawable="aimp" />
