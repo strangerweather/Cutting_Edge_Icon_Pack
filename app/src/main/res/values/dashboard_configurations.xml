@@ -15,7 +15,7 @@
     <!-- CONFIG: MUZEI -->
 
     <!-- Muzei art source name -->
-    <string name="muzei_art_source_name">Your Art Source Name</string>
+    <string name="muzei_art_source_name">Cutting Edge</string>
 
     <!-- Muzei art source description -->
     <string name="muzei_art_source_desc">Your Art Source Description</string>
