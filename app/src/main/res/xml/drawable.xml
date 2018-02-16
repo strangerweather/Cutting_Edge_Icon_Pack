@@ -98,6 +98,8 @@
     <item drawable="automatag" />
     <item drawable="ark" />
     <item drawable="aimp" />
+    <item drawable="allcast" />
+    <item drawable="autolist" />
 
     <category title="B" />
     <item drawable="better" />
@@ -237,6 +239,7 @@
     <item drawable="calibre_cloud" />
     <item drawable="cpro" />
     <item drawable="conbus" />
+    <item drawable="carmax" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -274,6 +277,7 @@
     <item drawable="devs_base" />
     <item drawable="duranno" />
     <item drawable="daydream" />
+    <item drawable="drivedroid" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -754,6 +758,7 @@
     <item drawable="pass_to_u" />
     <item drawable="perfect_viewer" />
     <item drawable="puffin" />
+    <item drawable="playerpro" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -892,6 +897,7 @@
     <item drawable="shortcut_to_my_apps" />
     <item drawable="suica" />
     <item drawable="smbc" />
+    <item drawable="stickmount" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -967,6 +973,8 @@
     <item drawable="tinycam" />
     <item drawable="trusted_contacts" />
     <item drawable="the_cw" />
+    <item drawable="trulia" />
+    <item drawable="trulia_mortgage" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1087,4 +1095,5 @@
     <item drawable="zooper_free" />
     <item drawable="zooper_pro" />
     <item drawable="z_archiver" />
+    <item drawable="zillow" />
 </resources>
