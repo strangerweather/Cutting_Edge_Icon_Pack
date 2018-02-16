@@ -686,6 +686,7 @@
     <item drawable="octodroid" />
     <item drawable="openvpn_for_android" />
     <item drawable="o2_tu_go" />
+    <item drawable="officesuite" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -888,6 +889,9 @@
     <item drawable="skyward" />
     <item drawable="super_mario_run" />
     <item drawable="snapdeal" />
+    <item drawable="shortcut_to_my_apps" />
+    <item drawable="suica" />
+    <item drawable="smbc" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1008,6 +1012,7 @@
     <item drawable="venmo" />
     <item drawable="vinci" />
     <item drawable="videoder" />
+    <item drawable="vocabulary_com" />
 
 
     <category title="W"/>
@@ -1047,6 +1052,7 @@
     <item drawable="whisper" />
     <item drawable="wallabag" />
     <item drawable="wetransfer" />
+    <item drawable="wallzy" />
 
     <category title="X"/>
     <item drawable="xbox" />
