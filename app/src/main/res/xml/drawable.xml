@@ -100,6 +100,11 @@
     <item drawable="aimp" />
     <item drawable="allcast" />
     <item drawable="autolist" />
+    <item drawable="asus_mobile_manager" />
+    <item drawable="asus_weather" />
+    <item drawable="asus_sound_recorder" />
+    <item drawable="adobe_photoshop_fix" />
+    <item drawable="allstream" />
 
     <category title="B" />
     <item drawable="better" />
@@ -171,6 +176,7 @@
     <item drawable="blackberry_hub" />
     <item drawable="bugs" />
     <item drawable="burger_king" />
+    <item drawable="boot_manager" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -278,6 +284,8 @@
     <item drawable="duranno" />
     <item drawable="daydream" />
     <item drawable="drivedroid" />
+    <item drawable="ds_cloud" />
+    <item drawable="ds_file" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -364,6 +372,7 @@
     <item drawable="fahrinfo" />
     <item drawable="fifa_mobile" />
     <item drawable="freecharge" />
+    <item drawable="funimationnow" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -450,6 +459,7 @@
     <item drawable="heos" />
     <item drawable="habit_browser" />
     <item drawable="hoopla" />
+    <item drawable="helferportal" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -482,6 +492,7 @@
     <item drawable="jodel" />
     <item drawable="jw_library" />
     <item drawable="jio_voice" />
+    <item drawable="jaybird_mysound" />
 
 
     <category title="K" />
@@ -504,6 +515,7 @@
     <item drawable="kakaopage" />
     <item drawable="kapk" />
     <item drawable="kaspersky" />
+    <item drawable="kde_connect" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -622,6 +634,8 @@
     <item drawable="my_idea" />
     <item drawable="monitor_everywhere" />
     <item drawable="myjio" />
+    <item drawable="myplate" />
+    <item drawable="meistertask" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -663,6 +677,8 @@
     <item drawable="nfc_tasks" />
     <item drawable="network_cell_info" />
     <item drawable="nordvpn" />
+    <item drawable="numbrs" />
+    <item drawable="nhl" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -898,6 +914,8 @@
     <item drawable="suica" />
     <item drawable="smbc" />
     <item drawable="stickmount" />
+    <item drawable="save_my_time" />
+    <item drawable="simplemind" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -975,6 +993,7 @@
     <item drawable="the_cw" />
     <item drawable="trulia" />
     <item drawable="trulia_mortgage" />
+    <item drawable="techmedia" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1061,6 +1080,8 @@
     <item drawable="wallabag" />
     <item drawable="wetransfer" />
     <item drawable="wallzy" />
+    <item drawable="washington_post" />
+    <item drawable="wallstreet_journal" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -1096,4 +1117,5 @@
     <item drawable="zooper_pro" />
     <item drawable="z_archiver" />
     <item drawable="zillow" />
+    <item drawable="zenui_themes" />
 </resources>

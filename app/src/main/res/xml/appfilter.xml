@@ -1604,14 +1604,13 @@
         <item component="ComponentInfo{com.meisterlabs.meistertask.native/com.meisterlabs.meistertask.view.DashboardActivity}" drawable="meistertask" />
         <item component="ComponentInfo{com.modelmakertools.simplemindpro/com.modelmakertools.simplemindpro.SimpleMindProEditorActivity}" drawable="simplemind" />
         <item component="ComponentInfo{com.centralway.numbrs/com.centralway.numbrs.activities.LauncherActivity}" drawable="numbrs" />
-        <item component="ComponentInfo{com.asus.memo/com.asus.memo.activities.edit.MemoEditActivity}" drawable="asus_memo" />
         <item component="ComponentInfo{com.asus.mobilemanager/com.asus.mobilemanager.entry.FunctionActivity}" drawable="asus_mobile_manager" />
         <item component="ComponentInfo{com.asus.weathertime/com.asus.weathertime.WeatherTimeSettings}" drawable="asus_weather" />
         <item component="ComponentInfo{com.asus.soundrecorder/com.asus.soundrecorder.AsusRecorder}" drawable="asus_sound_recorder" />
-        <item component="ComponentInfo{com.asus.themeapp/com.asus.themeapp.ThemeAppActivity}" drawable="asus_themes" />
+        <item component="ComponentInfo{com.asus.themeapp/com.asus.themeapp.ThemeAppActivity}" drawable="zenui_themes" />
         <item component="ComponentInfo{com.adobe.adobephotoshopfix/com.adobe.adobephotoshopfix.FCSplashScreenActivity}" drawable="adobe_photoshop_fix" />
-        <item component="ComponentInfo{com.jaybirdsport.audio/com.jaybirdsport.audio.EntryActivity_}" drawable="mysound" />
-        <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="last__pass" />
+        <item component="ComponentInfo{com.jaybirdsport.audio/com.jaybirdsport.audio.EntryActivity_}" drawable="jaybird_mysound" />
+        <item component="ComponentInfo{com.lastpass.lpandroid/com.lastpass.lpandroid.activity.WebBrowserActivity}" drawable="last_pass" />
         <item component="ComponentInfo{com.washingtonpost.rainbow/com.washingtonpost.rainbow.activities.SplashScreenActivity}" drawable="washington_post" />
         <item component="ComponentInfo{wsj.reader_sp/wsj.ui.SplashActivity}" drawable="wallstreet_journal" />
         <item component="ComponentInfo{com.synology.dscloud/com.synology.dscloud.activities.SplashActivity}" drawable="ds_cloud" />
