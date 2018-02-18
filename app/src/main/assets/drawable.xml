@@ -177,6 +177,8 @@
     <item drawable="bugs" />
     <item drawable="burger_king" />
     <item drawable="boot_manager" />
+    <item drawable="booking_com" />
+    <item drawable="boxcryptor" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -246,6 +248,11 @@
     <item drawable="cpro" />
     <item drawable="conbus" />
     <item drawable="carmax" />
+    <item drawable="coinbase" />
+    <item drawable="chess_com" />
+    <item drawable="cyberghost" />
+    <item drawable="cine_hoyts" />
+    <item drawable="cinemaxx" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -286,6 +293,8 @@
     <item drawable="drivedroid" />
     <item drawable="ds_cloud" />
     <item drawable="ds_file" />
+    <item drawable="doodle" />
+    <item drawable="diablogolf" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -315,6 +324,7 @@
     <item drawable="easy_menu_planner" />
     <item drawable="eye_four" />
     <item drawable="endomondo" />
+    <item drawable="elevate" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -373,6 +383,9 @@
     <item drawable="fifa_mobile" />
     <item drawable="freecharge" />
     <item drawable="funimationnow" />
+    <item drawable="flashify" />
+    <item drawable="flixster" />
+    <item drawable="fsgo" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -425,6 +438,7 @@
     <item drawable="gaana" />
     <item drawable="gostop_play" />
     <item drawable="guitar_center" />
+    <item drawable="golf_pad" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -460,6 +474,8 @@
     <item drawable="habit_browser" />
     <item drawable="hoopla" />
     <item drawable="helferportal" />
+    <item drawable="hue_pro" />
+    <item drawable="habithub" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -516,6 +532,7 @@
     <item drawable="kapk" />
     <item drawable="kaspersky" />
     <item drawable="kde_connect" />
+    <item drawable="k_nine_mail" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -546,6 +563,7 @@
     <item drawable="leo" />
     <item drawable="lichess" />
     <item drawable="libretorrent" />
+    <item drawable="league_friends" />
 
 
     <category title="M" />
@@ -636,6 +654,9 @@
     <item drawable="myjio" />
     <item drawable="myplate" />
     <item drawable="meistertask" />
+    <item drawable="my_scarlet" />
+    <item drawable="metro_mobile" />
+    <item drawable="magisk_manager" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -679,6 +700,7 @@
     <item drawable="nordvpn" />
     <item drawable="numbrs" />
     <item drawable="nhl" />
+    <item drawable="notes" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -775,6 +797,8 @@
     <item drawable="perfect_viewer" />
     <item drawable="puffin" />
     <item drawable="playerpro" />
+    <item drawable="pasbuk" />
+    <item drawable="pedidosya" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -811,6 +835,8 @@
     <item drawable="rocket_browser" />
     <item drawable="ryan" />
     <item drawable="remind" />
+    <item drawable="root_booster" />
+    <item drawable="recorrido" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -916,6 +942,11 @@
     <item drawable="stickmount" />
     <item drawable="save_my_time" />
     <item drawable="simplemind" />
+    <item drawable="screen_recording_and_mirror" />
+    <item drawable="siriusxm" />
+    <item drawable="santander" />
+    <item drawable="samsung_internet" />
+    <item drawable="system_app_remover" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -994,6 +1025,12 @@
     <item drawable="trulia" />
     <item drawable="trulia_mortgage" />
     <item drawable="techmedia" />
+    <item drawable="tagesschau" />
+    <item drawable="tennis_temple" />
+    <item drawable="tennis_tv" />
+    <item drawable="t_mobile_tuesdays" />
+    <item drawable="tv_guide_mobile" />
+    <item drawable="technobase" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1082,6 +1119,8 @@
     <item drawable="wallzy" />
     <item drawable="washington_post" />
     <item drawable="wallstreet_journal" />
+    <item drawable="words_two" />
+    <item drawable="wom" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -1089,6 +1128,7 @@
     <item drawable="xda_labs" />
     <item drawable="xing" />
     <item drawable="xposed_installer" />
+    <item drawable="xda_feed" />
 
     <category title="Y"/>
     <item drawable="yubrowser" />
