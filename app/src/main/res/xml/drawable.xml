@@ -178,6 +178,7 @@
     <item drawable="burger_king" />
     <item drawable="boot_manager" />
     <item drawable="booking_com" />
+    <item drawable="boxcryptor" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -251,6 +252,7 @@
     <item drawable="chess_com" />
     <item drawable="cyberghost" />
     <item drawable="cine_hoyts" />
+    <item drawable="cinemaxx" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -322,6 +324,7 @@
     <item drawable="easy_menu_planner" />
     <item drawable="eye_four" />
     <item drawable="endomondo" />
+    <item drawable="elevate" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -529,6 +532,7 @@
     <item drawable="kapk" />
     <item drawable="kaspersky" />
     <item drawable="kde_connect" />
+    <item drawable="k_nine_mail" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -652,6 +656,7 @@
     <item drawable="meistertask" />
     <item drawable="my_scarlet" />
     <item drawable="metro_mobile" />
+    <item drawable="magisk_manager" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -831,6 +836,7 @@
     <item drawable="ryan" />
     <item drawable="remind" />
     <item drawable="root_booster" />
+    <item drawable="recorrido" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -938,6 +944,9 @@
     <item drawable="simplemind" />
     <item drawable="screen_recording_and_mirror" />
     <item drawable="siriusxm" />
+    <item drawable="santander" />
+    <item drawable="samsung_internet" />
+    <item drawable="system_app_remover" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1021,6 +1030,7 @@
     <item drawable="tennis_tv" />
     <item drawable="t_mobile_tuesdays" />
     <item drawable="tv_guide_mobile" />
+    <item drawable="technobase" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1110,6 +1120,7 @@
     <item drawable="washington_post" />
     <item drawable="wallstreet_journal" />
     <item drawable="words_two" />
+    <item drawable="wom" />
 
     <category title="X"/>
     <item drawable="xbox" />

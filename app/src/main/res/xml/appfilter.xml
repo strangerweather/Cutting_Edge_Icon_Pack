@@ -983,7 +983,7 @@
         <item component="ComponentInfo{com.sec.android.app.myfiles/com.sec.android.app.myfiles.MainActivity}" drawable="my_files" />
         <item component="ComponentInfo{com.sec.android.app.popupcalculator/com.sec.android.app.popupcalculator.Calculator}" drawable="calculator" />
         <item component="ComponentInfo{com.sec.android.app.samsungapps/com.sec.android.app.samsungapps.SamsungAppsMainActivity}" drawable="galaxy_apps"/>
-        <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="internet" />
+        <item component="ComponentInfo{com.sec.android.app.sbrowser/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet" />
         <item component="ComponentInfo{com.sec.android.app.shealth/com.samsung.android.app.shealth.home.HomeMainActivity}" drawable="samsung_health" />
         <item component="ComponentInfo{com.sec.android.app.videoplayer/com.sec.android.app.videoplayer.activity.MainTab}" drawable="samsung_video" />
         <item component="ComponentInfo{com.sec.android.app.voicenote/com.sec.android.app.voicenote.main.VNMainActivity}" drawable="sound_recorder" />
@@ -1620,7 +1620,7 @@
         <item component="ComponentInfo{de.defim.apk.bootmanager/de.defim.apk.bootmanager.Launch0}" drawable="boot_manager" />
         <item component="ComponentInfo{com.coinbase.android/com.coinbase.android.signin.IntroActivity}" drawable="coinbase" />
 
-        <!--Version 1.1-->
+        <!--Version 1.02-->
 
         <item component="ComponentInfo{com.cgollner.flashify/com.cgollner.flashify.MainActivity}" drawable="flashify" />
         <item component="ComponentInfo{com.benchevoor.huepro/com.benchevoor.huepro.BridgeSetup}" drawable="hue_pro" />
@@ -1641,6 +1641,7 @@
         <item component="ComponentInfo{com.koushikdutta.mirror/com.koushikdutta.mirror.StartActivity}" drawable="screen_recording_and_mirror" />
         <item component="ComponentInfo{es.claucookie.pasbuk/es.claucookie.pasbuk.MainActivity_}" drawable="pasbuk" />
         <item component="ComponentInfo{com.pedidosya/com.pedidosya.activities.PedidosYaActivity}" drawable="pedidosya" />
+
     <!-- DiabloGolf -->
     <item component="ComponentInfo{com.diablo.ghin/com.diablo.ghin.SplashScreen}" drawable="diablogolf" />
 
@@ -1671,16 +1672,14 @@
     <!-- XDA Feed -->
     <item component="ComponentInfo{com.xda.feed/com.xda.feed.FeedActivity}" drawable="xda_feed" />
 
-
         <item component="ComponentInfo{cl.recorrido.micritodroid/cl.recorrido.booking.SplashAct_}" drawable="recorrido" />
         <item component="ComponentInfo{cl.santander.smartphone/cl.santander.smartphone.Carga}" drawable="santander" />
         <item component="ComponentInfo{cl.wom.transformacion.appwommobile/cl.wom.transformacion.appwommobile.actividades.CargaInicialActivity}" drawable="wom" />
         <item component="ComponentInfo{com.sec.android.app.sbrowser.beta/com.sec.android.app.sbrowser.SBrowserMainActivity}" drawable="samsung_internet" />
         <item component="ComponentInfo{com.topjohnwu.magisk/com.topjohnwu.magisk.SplashActivity}" drawable="magisk_manager" />
-        <item component="ComponentInfo{com.jumobile.manager.systemapp/com.jumobile.manager.systemapp.ui.activity.IndexActivity}" drawable="system_app_safe_remover" />
+        <item component="ComponentInfo{com.jumobile.manager.systemapp/com.jumobile.manager.systemapp.ui.activity.IndexActivity}" drawable="system_app_remover" />
         <item component="ComponentInfo{com.boxcryptor2.android/com.boxcryptor.android.ui.activity.StartupActivity}" drawable="boxcryptor" />
         <item component="ComponentInfo{de.cinemaxx/de.cinemaxx.activity.SplashActivity}" drawable="cinemaxx" />
-        <item component="ComponentInfo{com.evilinsult.android/com.evilinsult.android.MainActivity}" drawable="evil_insult_generator" />
         <item component="ComponentInfo{com.fsck.k9/com.fsck.k9.activity.Accounts}" drawable="k_nine_mail" />
         <item component="ComponentInfo{fm.weareone.player/player.core.activities.MainActivity_}" drawable="technobase" />
         <item component="ComponentInfo{com.wonder/com.pegasus.ui.activities.LaunchActivity}" drawable="elevate" />
