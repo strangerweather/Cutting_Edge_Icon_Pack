@@ -1660,13 +1660,13 @@
     <item component="ComponentInfo{com.sirius/com.sirius.ui.splash.SplashActivity}" drawable="siriusxm" />
 
     <!-- T-Mobile Tuesdays -->
-    <item component="ComponentInfo{com.tmobile.tuesdays/com.tmobile.tmte.Launcher}" drawable="t-mobile_tuesdays" />
+    <item component="ComponentInfo{com.tmobile.tuesdays/com.tmobile.tmte.Launcher}" drawable="t_mobile_tuesdays" />
 
     <!-- TV Guide -->
-    <item component="ComponentInfo{com.tvguidemobile/com.tvguidemobile.AppDelegate}" drawable="tv_guide" />
+    <item component="ComponentInfo{com.tvguidemobile/com.tvguidemobile.AppDelegate}" drawable="tv_guide_mobile" />
 
     <!-- Words 2 -->
-    <item component="ComponentInfo{com.zynga.words3/com.zynga.wwf3.launch.ui.Words3LaunchActivity}" drawable="words_2" />
+    <item component="ComponentInfo{com.zynga.words3/com.zynga.wwf3.launch.ui.Words3LaunchActivity}" drawable="words_two" />
 
     <!-- XDA Feed -->
     <item component="ComponentInfo{com.xda.feed/com.xda.feed.FeedActivity}" drawable="xda_feed" />

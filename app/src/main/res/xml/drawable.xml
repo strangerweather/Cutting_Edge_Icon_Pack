@@ -1019,6 +1019,8 @@
     <item drawable="tagesschau" />
     <item drawable="tennis_temple" />
     <item drawable="tennis_tv" />
+    <item drawable="t_mobile_tuesdays" />
+    <item drawable="tv_guide_mobile" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1107,6 +1109,7 @@
     <item drawable="wallzy" />
     <item drawable="washington_post" />
     <item drawable="wallstreet_journal" />
+    <item drawable="words_two" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -1114,6 +1117,7 @@
     <item drawable="xda_labs" />
     <item drawable="xing" />
     <item drawable="xposed_installer" />
+    <item drawable="xda_feed" />
 
     <category title="Y"/>
     <item drawable="yubrowser" />
