@@ -1053,6 +1053,7 @@
     <item drawable="t_mobile_tuesdays" />
     <item drawable="tv_guide_mobile" />
     <item drawable="technobase" />
+    <item drawable="tez" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1070,6 +1071,8 @@
     <item drawable="urbandict" />
     <item drawable="united_airlines" />
     <item drawable="updater" />
+    <item drawable="union_rewardz" />
+    <item drawable="usb_backup" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -1167,6 +1170,8 @@
     <item drawable="yatse" />
     <item drawable="yahoo_fantasy_sports" />
     <item drawable="yu_gi_oh" />
+    <item drawable="youcam_perfect" />
+    <item drawable="yowhatsapp" />
 
     <category title="Z"/>
     <item drawable="zello" />
