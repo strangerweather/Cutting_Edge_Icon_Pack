@@ -665,6 +665,7 @@
     <item drawable="metro_mobile" />
     <item drawable="magisk_manager" />
     <item drawable="m_pesa" />
+    <item drawable="mobikwik" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -709,6 +710,7 @@
     <item drawable="numbrs" />
     <item drawable="nhl" />
     <item drawable="notes" />
+    <item drawable="ntes" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -737,6 +739,7 @@
     <item drawable="openvpn_for_android" />
     <item drawable="o2_tu_go" />
     <item drawable="officesuite" />
+    <item drawable="opera_max" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -807,6 +810,9 @@
     <item drawable="playerpro" />
     <item drawable="pasbuk" />
     <item drawable="pedidosya" />
+    <item drawable="paytm_for_business" />
+    <item drawable="phonepe" />
+    <item drawable="private_diary" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -819,6 +825,7 @@
     <item drawable="qq_pinyin" />
     <item drawable="qr_code_reader" />
     <item drawable="quizduell" />
+    <item drawable="qr_and_barcode_scanner_pro" />
 
     <category title="R" />
     <item drawable="rediffmail" />
@@ -955,6 +962,13 @@
     <item drawable="santander" />
     <item drawable="samsung_internet" />
     <item drawable="system_app_remover" />
+    <item drawable="s_secure" />
+    <item drawable="samsung_members" />
+    <item drawable="samsung_notes" />
+    <item drawable="samsung_pass" />
+    <item drawable="screener" />
+    <item drawable="signature_creator" />
+    <item drawable="superbeam" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />

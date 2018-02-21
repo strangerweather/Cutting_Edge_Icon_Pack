@@ -1715,7 +1715,7 @@
     <item component="ComponentInfo{com.mobikwik_new/com.mobikwik_new.MobikwikMain}" drawable="mobikwik" />
 
     <!-- My Vodafone -->
-    <item component="ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivity}" drawable="my_vodafone" />
+    <item component="ComponentInfo{com.mventus.selfcare.activity/com.mventus.selfcare.activity.MainActivity}" drawable="vodafone" />
 
     <!-- NTES -->
     <item component="ComponentInfo{cris.icms.ntes/cris.icms.ntes.LaunchApp}" drawable="ntes" />
