@@ -253,6 +253,9 @@
     <item drawable="cyberghost" />
     <item drawable="cine_hoyts" />
     <item drawable="cinemaxx" />
+    <item drawable="call_recorder" />
+    <item drawable="colors_s9_black" />
+    <item drawable="cricbuzz" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -386,6 +389,7 @@
     <item drawable="flashify" />
     <item drawable="flixster" />
     <item drawable="fsgo" />
+    <item drawable="fella" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -500,6 +504,7 @@
     <item drawable="investing_com" />
     <item drawable="isotope" />
     <item drawable="ing" />
+    <item drawable="irctc_rail_connect" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -509,6 +514,8 @@
     <item drawable="jw_library" />
     <item drawable="jio_voice" />
     <item drawable="jaybird_mysound" />
+    <item drawable="jiomoney" />
+    <item drawable="jiomusic" />
 
 
     <category title="K" />
@@ -657,6 +664,7 @@
     <item drawable="my_scarlet" />
     <item drawable="metro_mobile" />
     <item drawable="magisk_manager" />
+    <item drawable="m_pesa" />
 
     <category title="N" />
     <item drawable="nextdoor" />
