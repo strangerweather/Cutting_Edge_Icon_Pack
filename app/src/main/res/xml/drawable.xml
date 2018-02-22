@@ -105,6 +105,7 @@
     <item drawable="asus_sound_recorder" />
     <item drawable="adobe_photoshop_fix" />
     <item drawable="allstream" />
+    <item drawable="adblock_fast" />
 
     <category title="B" />
     <item drawable="better" />
@@ -328,6 +329,7 @@
     <item drawable="eye_four" />
     <item drawable="endomondo" />
     <item drawable="elevate" />
+    <item drawable="eightbit_photo_lab" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -711,6 +713,7 @@
     <item drawable="nhl" />
     <item drawable="notes" />
     <item drawable="ntes" />
+    <item drawable="nine_one_one_help_pro" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -969,6 +972,7 @@
     <item drawable="screener" />
     <item drawable="signature_creator" />
     <item drawable="superbeam" />
+    <item drawable="seven_eleven" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
