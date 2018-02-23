@@ -1853,7 +1853,7 @@
         <item component="ComponentInfo{com.tmobile.simlock/com.tmobile.simlock.WelcomeActivity}" drawable="device_unlock" />
 
         <!-- Dictionary -->
-        <item component="ComponentInfo{com.dictionary/com.dictionary.Splash}" drawable="dictionary" />
+        <item component="ComponentInfo{com.dictionary/com.dictionary.Splash}" drawable="dictionary_com" />
 
         <!-- DIGI Clock Widget Plus -->
         <item component="ComponentInfo{sk.michalec.DigiClockWidgetPro/sk.michalec.DigiClockWidgetPro.EntryActivity}" drawable="digi_clock_widget_plus" />
