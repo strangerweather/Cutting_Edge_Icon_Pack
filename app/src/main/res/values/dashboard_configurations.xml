@@ -102,7 +102,7 @@
     <!-- Enable or disable regular icon request
     * default: true
     * change to false to disable it -->
-    <bool name="enable_icon_request">true</bool>
+    <bool name="enable_icon_request">false</bool>
 
     <!-- Enable regular icon request limit
     * default: false
@@ -126,7 +126,7 @@
     <!-- Enable or disable premium request
     * default: false
     * change to true to enable it -->
-    <bool name="enable_premium_request">false</bool>
+    <bool name="enable_premium_request">true</bool>
 
     <!-- Take a look inside License.java for premium request product -->
 

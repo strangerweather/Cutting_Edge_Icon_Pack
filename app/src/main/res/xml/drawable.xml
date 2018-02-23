@@ -266,6 +266,11 @@
     <item drawable="camera_zoom_fx" />
     <item drawable="cameramx" />
     <item drawable="chroma_lab" />
+    <item drawable="circle_sidebar" />
+    <item drawable="clipboard_history" />
+    <item drawable="color_pop" />
+    <item drawable="colorfy" />
+    <item drawable="comics" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -308,6 +313,7 @@
     <item drawable="ds_file" />
     <item drawable="doodle" />
     <item drawable="diablogolf" />
+    <item drawable="device_unlock" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -825,6 +831,7 @@
     <item drawable="paytm_for_business" />
     <item drawable="phonepe" />
     <item drawable="private_diary" />
+    <item drawable="paypal_business" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -982,6 +989,7 @@
     <item drawable="signature_creator" />
     <item drawable="superbeam" />
     <item drawable="seven_eleven" />
+    <item drawable="swappa" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1159,6 +1167,7 @@
     <item drawable="wallstreet_journal" />
     <item drawable="words_two" />
     <item drawable="wom" />
+    <item drawable="when_i_work" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -1167,6 +1176,7 @@
     <item drawable="xing" />
     <item drawable="xposed_installer" />
     <item drawable="xda_feed" />
+    <item drawable="xscope_pro" />
 
     <category title="Y"/>
     <item drawable="yubrowser" />

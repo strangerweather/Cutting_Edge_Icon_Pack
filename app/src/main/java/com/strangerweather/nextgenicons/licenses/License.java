@@ -11,7 +11,7 @@ public class License {
      *
      * NOTE: If you disable license checker you need to remove LICENSE_CHECK permission inside AndroidManifest.xml
      */
-    private static final boolean ENABLE_LICENSE_CHECKER = false;
+    private static final boolean ENABLE_LICENSE_CHECKER = true;
 
     /*
      * NOTE: If license checker is disabled (above), just ignore this
@@ -33,7 +33,7 @@ public class License {
      * Your license key
      * If your app hasn't published at play store, publish it first as beta, get license key
      */
-    private static final String LICENSE_KEY = "YOUR LICENSE KEY";
+    private static final String LICENSE_KEY = "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAgyMJXx+ihv5xyzm5h3U5jfiUUdFaxk0tH5novd9U5u7UZSBc4PY7zOXBavQZTt+h02CHz7Q15qI0CUxd1JnpAH4UmU1jtgzcemo+NgHBOAJ/hpd/XJTD39IJb6ANc5PFLWhnVEJm7jnhICkex3HW0+Szoa+fFUK6Gb52GmMPrRGBMB6QFMleqBEu9CuqCaMI2Bgzbep8mnu9qWZQeN6yVEu5mHIB6ucvvrbODJf+p1rYHSIB75tb6w51nCUItjWnj+f45BadCNw0Y3nuacfiF1FyYis4HlAA/q80dfv6zz60NK9BG8vVeS3sH7If9KVhe6MxuGuOWe3x8ICmPeMX2wIDAQAB";
 
     /*
      * NOTE: Make sure your app name in project same as app name at play store listing
@@ -49,10 +49,10 @@ public class License {
      * Format: new InAppBilling("premium request product id", number of icons)
      */
     private static final InAppBilling[] PREMIUM_REQUEST_PRODUCTS = new InAppBilling[] {
-            new InAppBilling("your.product.id", 1),
-            new InAppBilling("your.product.id", 2),
-            new InAppBilling("your.product.id", 3),
-            new InAppBilling("your.product.id", 4)
+            new InAppBilling("com.strangerweather.nextgenicons.product1", 1),
+            new InAppBilling("com.strangerweather.nextgenicons.product2", 2),
+            new InAppBilling("com.strangerweather.nextgenicons.product3", 3),
+            new InAppBilling("com.strangerweather.nextgenicons.product4", 4)
     };
 
     /*
