@@ -695,6 +695,7 @@
     <item drawable="m_pesa" />
     <item drawable="mobikwik" />
     <item drawable="motogp" />
+    <item drawable="mytelkomsel" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -741,6 +742,7 @@
     <item drawable="notes" />
     <item drawable="ntes" />
     <item drawable="nine_one_one_help_pro" />
+    <item drawable="newtification" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -770,6 +772,7 @@
     <item drawable="o2_tu_go" />
     <item drawable="officesuite" />
     <item drawable="opera_max" />
+    <item drawable="oppo_appstore" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -844,6 +847,7 @@
     <item drawable="phonepe" />
     <item drawable="private_diary" />
     <item drawable="paypal_business" />
+    <item drawable="photos" />
 
     <category title="Q" />
     <item drawable="quora" />
