@@ -122,7 +122,7 @@
         <item component="ComponentInfo{com.andrewshu.android.redditdonation/com.andrewshu.android.reddit.MainActivity}" drawable="reddit_is_fun"/>
         <item component="ComponentInfo{com.androbaby.game2048/com.androbaby.game2048.MainActivity}" drawable="twenty_fortyeight" />
         <item component="ComponentInfo{com.androbaby.original2048/com.androbaby.original2048.MainActivity}" drawable="twenty_fortyeight" />
-        <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="aosp_browser" />
+        <item component="ComponentInfo{com.android.browser/com.android.browser.BrowserActivity}" drawable="browser" />
         <item component="ComponentInfo{com.bubblesoft.android.bubbleupnp/com.bubblesoft.android.bubbleupnp.MainActivity}" drawable="bubbleupnp" />
         <item component="ComponentInfo{com.android.calculator2/com.android.calculator2.Calculator}" drawable="calculator" />
         <item component="ComponentInfo{com.android.calendar/com.android.calendar.AgendaActivity}" drawable="calendar" />
@@ -1813,6 +1813,27 @@
         <!-- Chroma Lab -->
         <item component="ComponentInfo{com.ilixa.chroma/com.ilixa.chroma.ChromaActivity}" drawable="chroma_lab" />
 
+
+        <!--Version 1.06-->
+
+        <!-- Google Pay -->
+        <item component="ComponentInfo{com.google.android.apps.walletnfcrel/com.google.commerce.tapandpay.android.growth.migration.OldLauncherActivity}" drawable="android_pay" />
+
+        <!-- PayPal Business -->
+        <item component="ComponentInfo{com.paypal.merchant.client/com.paypal.merchant.client.ui.activities.startup.StartUpActivity}" drawable="paypal_business" />
+
+        <!-- Swappa -->
+        <item component="ComponentInfo{com.swappa.app.market/com.swappa.app.market.MainActivity}" drawable="swappa" />
+
+        <!-- When I Work -->
+        <item component="ComponentInfo{com.thisclicks.wiw/com.thisclicks.wiw.ui.scheduler.ScheduleActivity}" drawable="when_i_work" />
+
+        <!-- XDA Labs -->
+        <item component="ComponentInfo{com.xda.labs/com.xda.labs.ForumLauncher}" drawable="xda_labs" />
+
+        <!-- xScope Pro -->
+        <item component="ComponentInfo{sui.mRelease/sui.mRelease.Main}" drawable="xscope_pro" />
+
         <!-- Circle SideBar -->
         <item component="ComponentInfo{com.zeeshan.circlesidebar/com.zeeshan.circlesidebar.Activity.MainActivity}" drawable="circle_sidebar" />
 
@@ -1832,7 +1853,136 @@
         <item component="ComponentInfo{com.tmobile.simlock/com.tmobile.simlock.WelcomeActivity}" drawable="device_unlock" />
 
         <!-- Dictionary -->
-        <item component="ComponentInfo{com.dictionary/com.dictionary.Splash}" drawable="dictionary" />
+        <item component="ComponentInfo{com.dictionary/com.dictionary.Splash}" drawable="dictionary_com" />
+
+        <!-- Alkitab -->
+        <item component="ComponentInfo{org.sabda.alkitab/yuku.alkitab.base.IsiActivity}" drawable="alkitab" />
+
+        <!-- AppSales -->
+        <item component="ComponentInfo{net.tsapps.appsales/net.tsapps.appsales.MainActivity}" drawable="appsales" />
+
+        <!-- Backup and Restore -->
+        <item component="ComponentInfo{com.coloros.backuprestore/com.coloros.backuprestore.activity.BootActivity}" drawable="backup_and_restore" />
+
+        <!-- BimaTRI -->
+        <item component="ComponentInfo{com.altermyth.bima.tablet/com.altermyth.bima.tablet.Main}" drawable="bimatri" />
+
+        <!-- Browser -->
+        <item component="ComponentInfo{com.android.browser/com.opera.Opera}" drawable="browser" />
+
+        <!-- Chess -->
+        <item component="ComponentInfo{uk.co.aifactory.chess/uk.co.aifactory.chess.ChessActivity}" drawable="chess" />
+
+        <!-- Clock -->
+        <item component="ComponentInfo{com.coloros.alarmclock/com.coloros.alarmclock.AlarmClock}" drawable="clock" />
+
+        <!-- Compass -->
+        <item component="ComponentInfo{com.coloros.compass/com.coloros.compass.flat.FlatCompass}" drawable="compass" />
+
+        <!-- Contacts -->
+        <item component="ComponentInfo{com.android.contacts/com.android.contacts.PeopleActivityAlias}" drawable="contacts" />
+
+        <!-- Email -->
+        <item component="ComponentInfo{com.android.email/com.kingsoft.email.activity.Welcome}" drawable="mail" />
+
+        <!-- EZ Notes -->
+        <item component="ComponentInfo{com.pristineusa.android.speechtotext/com.pristineusa.android.speechtotext.MainActivity}" drawable="ez_notes" />
+
+        <!-- Files -->
+        <item component="ComponentInfo{com.coloros.filemanager/com.coloros.filemanager.Main}" drawable="my_files" />
+
+        <!-- FotMob Pro -->
+        <item component="ComponentInfo{com.mobilefootie.fotmobpro/com.mobilefootie.fotmob.gui.v2.MainActivityWrapper}" drawable="fotmob_pro" />
+
+        <!-- GBInsta -->
+        <item component="ComponentInfo{com.gbinsta.android/com.gbinsta.android.activity.MainTabActivity}" drawable="instagram" />
+
+        <!-- GO-JEK -->
+        <item component="ComponentInfo{com.gojek.app/com.gojek.app.Splash}" drawable="go_jek" />
+
+        <!-- huk zooper -->
+        <item component="ComponentInfo{com.zooper.huk/com.afollestad.polar.ui.SplashScreen}" drawable="huk_zooper" />
+
+        <!-- Inter -->
+        <item component="ComponentInfo{it.inter.interapp/it.inter.interapp.activities.SplashActivity}" drawable="inter" />
+
+        <!-- Lazada -->
+        <item component="ComponentInfo{com.lazada.android/com.lazada.activities.EnterActivity}" drawable="lazada" />
+
+        <!-- ESET Mobile Security -->
+        <item component="ComponentInfo{com.eset.ems2.gp/com.eset.ems.gui.MainActivity}" drawable="mobile_security" />
+
+        <!-- MotoGP™ -->
+        <item component="ComponentInfo{com.dorna.officialmotogp/com.worldline.motogp.view.activity.SplashActivity}" drawable="motogp™" />
+
+        <!-- Music -->
+        <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="music" />
+
+        <!-- MyTelkomsel -->
+        <item component="ComponentInfo{com.telkomsel.telkomselcm/com.telkomsel.telkomselcm.MainActivity}" drawable="mytelkomsel" />
+
+        <!-- Newtification -->
+        <item component="ComponentInfo{com.tiwaremobile.newtificationspro/com.tiwaremobile.newtification.activity.MainActivity}" drawable="newtification" />
+
+        <!-- OPPO AppStore -->
+        <item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="oppo_appstore" />
+
+        <!-- Photos -->
+        <item component="ComponentInfo{com.coloros.gallery3d/com.oppo.gallery3d.app.Gallery}" drawable="photos" />
+
+        <!-- Plane Finder -->
+        <item component="ComponentInfo{com.pinkfroot.planefinder/com.pinkfroot.planefinder.PlaneMapActivity}" drawable="plane_finder" />
+
+        <!-- Polar -->
+        <item component="ComponentInfo{com.afollestad.polar/com.afollestad.polar.ui.SplashScreen}" drawable="polar" />
+
+        <!-- Screen Recorder -->
+        <item component="ComponentInfo{com.kimcy929.screenrecorder/com.kimcy929.screenrecorder.activity.MainActivity}" drawable="screen_recorder" />
+
+        <!-- SD Maid -->
+        <item component="ComponentInfo{eu.thedarken.sdm/eu.thedarken.sdm.main.ui.SDMMainActivity}" drawable="sd_maid" />
+
+        <!-- Search Duplicate File -->
+        <item component="ComponentInfo{com.needjava.finder/com.needjava.finder.MainActivity}" drawable="search_duplicate_file" />
+
+        <!-- Security -->
+        <item component="ComponentInfo{com.coloros.safecenter/com.coloros.safecenter.FakeActivity}" drawable="security" />
+
+        <!-- Smart Booster Pro -->
+        <item component="ComponentInfo{com.rootuninstaller.ramboosterpro/com.anttek.rambooster.ActivityMain}" drawable="smart_booster_pro" />
+
+        <!-- Sound Recorder -->
+        <item component="ComponentInfo{com.coloros.soundrecorder/oppo.multimedia.soundrecorder.RecorderActivity}" drawable="sound_recorder" />
+
+        <!-- Telegram X -->
+        <item component="ComponentInfo{org.thunderdog.challegram/org.thunderdog.challegram.MainActivity}" drawable="telegram_x" />
+
+        <!-- Theme Store -->
+        <item component="ComponentInfo{com.nearme.themespace/com.nearme.themespace.activities.ThemeActivity}" drawable="theme_store" />
+
+        <!-- Traveloka -->
+        <item component="ComponentInfo{com.traveloka.android/com.traveloka.android.appentry.splash.SplashActivity}" drawable="traveloka" />
+
+        <!-- Trident 3 -->
+        <item component="ComponentInfo{com.milandragovic.trident3/com.afollestad.polar.ui.SplashScreen}" drawable="trident_3" />
+
+        <!-- Tweetings -->
+        <item component="ComponentInfo{com.dwdesign.tweetings/com.dwdesign.tweetings.activity.HomeActivity}" drawable="tweetings" />
+
+        <!-- TwitPane+ -->
+        <item component="ComponentInfo{com.twitpane.premium/com.twitpane.TwitPane}" drawable="twitpane" />
+
+        <!-- Video -->
+        <item component="ComponentInfo{com.coloros.video/com.oppo.video.VideoListActivity}" drawable="video" />
+
+        <!-- VideoShow -->
+        <item component="ComponentInfo{com.xvideostudio.videoeditorpro/com.xvideostudio.videoeditor.activity.SplashActivity}" drawable="videoshow" />
+
+        <!-- Weather -->
+        <item component="ComponentInfo{com.coloros.weather/com.coloros.weather.OppoMainActivity}" drawable="weather" />
+
+        <!-- WhatsApp -->
+        <item component="ComponentInfo{com.gbwhatsapp3/com.gbwhatsapp3.Main13}" drawable="gb_whatsapp" />
 
         <!-- DIGI Clock Widget Plus -->
         <item component="ComponentInfo{sk.michalec.DigiClockWidgetPro/sk.michalec.DigiClockWidgetPro.EntryActivity}" drawable="digi_clock_widget_plus" />
