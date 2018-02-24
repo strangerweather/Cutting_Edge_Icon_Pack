@@ -111,6 +111,8 @@
     <item drawable="apk_export" />
     <item drawable="appmonster_v5" />
     <item drawable="appsale" />
+    <item drawable="alkitab" />
+    <item drawable="appsales" />
 
     <category title="B" />
     <item drawable="better" />
@@ -185,6 +187,8 @@
     <item drawable="boot_manager" />
     <item drawable="booking_com" />
     <item drawable="boxcryptor" />
+    <item drawable="backup_and_restore" />
+    <item drawable="bimatri" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -271,6 +275,7 @@
     <item drawable="color_pop" />
     <item drawable="colorfy" />
     <item drawable="comics" />
+    <item drawable="chess" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -345,6 +350,7 @@
     <item drawable="endomondo" />
     <item drawable="elevate" />
     <item drawable="eightbit_photo_lab" />
+    <item drawable="ez_notes" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -407,6 +413,7 @@
     <item drawable="flixster" />
     <item drawable="fsgo" />
     <item drawable="fella" />
+    <item drawable="fotmob_pro" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -460,12 +467,11 @@
     <item drawable="gostop_play" />
     <item drawable="guitar_center" />
     <item drawable="golf_pad" />
+    <item drawable="go_jek" />
 
     <category title="H" />
     <item drawable="hq_music" />
     <item drawable="horizon_go" />
-    <item drawable="kamcord" />
-    <item drawable="kakao_talk" />
     <item drawable="helium" />
     <item drawable="hype_machine" />
     <item drawable="hulu" />
@@ -497,6 +503,7 @@
     <item drawable="helferportal" />
     <item drawable="hue_pro" />
     <item drawable="habithub" />
+    <item drawable="huk_zooper" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -522,6 +529,7 @@
     <item drawable="isotope" />
     <item drawable="ing" />
     <item drawable="irctc_rail_connect" />
+    <item drawable="inter" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -557,6 +565,8 @@
     <item drawable="kaspersky" />
     <item drawable="kde_connect" />
     <item drawable="k_nine_mail" />
+    <item drawable="kamcord" />
+    <item drawable="kakao_talk" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -588,6 +598,7 @@
     <item drawable="lichess" />
     <item drawable="libretorrent" />
     <item drawable="league_friends" />
+    <item drawable="lazada" />
 
 
     <category title="M" />
@@ -683,6 +694,7 @@
     <item drawable="magisk_manager" />
     <item drawable="m_pesa" />
     <item drawable="mobikwik" />
+    <item drawable="motogp" />
 
     <category title="N" />
     <item drawable="nextdoor" />
