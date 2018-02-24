@@ -1981,8 +1981,11 @@
         <!-- Weather -->
         <item component="ComponentInfo{com.coloros.weather/com.coloros.weather.OppoMainActivity}" drawable="weather" />
 
-        <!-- WhatsApp -->
+        <!-- GBWhatsApp -->
         <item component="ComponentInfo{com.gbwhatsapp3/com.gbwhatsapp3.Main13}" drawable="gb_whatsapp" />
+
+        <!-- Show Box -->
+        <item component="ComponentInfo{com.tdo.showbox/com.tdo.showbox.activities.MainActivity}" drawable="show_box" />
 
         <!-- DIGI Clock Widget Plus -->
         <item component="ComponentInfo{sk.michalec.DigiClockWidgetPro/sk.michalec.DigiClockWidgetPro.EntryActivity}" drawable="digi_clock_widget_plus" />
