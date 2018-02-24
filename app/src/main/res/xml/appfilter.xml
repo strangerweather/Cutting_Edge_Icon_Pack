@@ -1970,7 +1970,7 @@
         <item component="ComponentInfo{com.dwdesign.tweetings/com.dwdesign.tweetings.activity.HomeActivity}" drawable="tweetings" />
 
         <!-- TwitPane+ -->
-        <item component="ComponentInfo{com.twitpane.premium/com.twitpane.TwitPane}" drawable="twitpane+" />
+        <item component="ComponentInfo{com.twitpane.premium/com.twitpane.TwitPane}" drawable="twitpane" />
 
         <!-- Video -->
         <item component="ComponentInfo{com.coloros.video/com.oppo.video.VideoListActivity}" drawable="video" />
@@ -1982,7 +1982,7 @@
         <item component="ComponentInfo{com.coloros.weather/com.coloros.weather.OppoMainActivity}" drawable="weather" />
 
         <!-- WhatsApp -->
-        <item component="ComponentInfo{com.gbwhatsapp3/com.gbwhatsapp3.Main13}" drawable="whatsapp" />
+        <item component="ComponentInfo{com.gbwhatsapp3/com.gbwhatsapp3.Main13}" drawable="gb_whatsapp" />
 
         <!-- DIGI Clock Widget Plus -->
         <item component="ComponentInfo{sk.michalec.DigiClockWidgetPro/sk.michalec.DigiClockWidgetPro.EntryActivity}" drawable="digi_clock_widget_plus" />

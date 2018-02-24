@@ -468,6 +468,7 @@
     <item drawable="guitar_center" />
     <item drawable="golf_pad" />
     <item drawable="go_jek" />
+    <item drawable="gb_whatsapp" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -848,6 +849,8 @@
     <item drawable="private_diary" />
     <item drawable="paypal_business" />
     <item drawable="photos" />
+    <item drawable="plane_finder" />
+    <item drawable="polar" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1006,6 +1009,10 @@
     <item drawable="superbeam" />
     <item drawable="seven_eleven" />
     <item drawable="swappa" />
+    <item drawable="screen_recorder" />
+    <item drawable="search_duplicate_file" />
+    <item drawable="security" />
+    <item drawable="smart_booster_pro" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1091,6 +1098,12 @@
     <item drawable="tv_guide_mobile" />
     <item drawable="technobase" />
     <item drawable="tez" />
+    <item drawable="telegram_x" />
+    <item drawable="theme_store" />
+    <item drawable="traveloka" />
+    <item drawable="trident_3" />
+    <item drawable="tweetings" />
+    <item drawable="twitpane" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1139,6 +1152,7 @@
     <item drawable="vinci" />
     <item drawable="videoder" />
     <item drawable="vocabulary_com" />
+    <item drawable="videoshow" />
 
 
     <category title="W"/>
