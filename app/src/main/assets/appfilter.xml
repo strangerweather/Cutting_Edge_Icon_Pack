@@ -12,6 +12,7 @@
         <item component=":GALLERY" drawable="gallery" />
         <item component=":PHONE" drawable="phone" />
         <item component=":SMS" drawable="messaging" />
+        <item component="ComponentInfo{com.ikvaesolutions.notificationhistorylog/com.ikvaesolutions.notificationhistorylog.views.activity.SplashScreenActivity}" drawable="notification_history_log" />
         <item component="ComponentInfo{fr.canalplus.itele/fr.canalplus.itele.activity.MainActivity}" drawable="cnews" />
         <item component="ComponentInfo{com.jamworks.easyhome/com.jamworks.easyhome.SettingsHome}" drawable="easyhome" />
         <item component="ComponentInfo{com.eurosport.player/com.eurosport.player.appstart.viewcontroller.SplashActivity}" drawable="eurosport_player" />
@@ -1981,8 +1982,11 @@
         <!-- Weather -->
         <item component="ComponentInfo{com.coloros.weather/com.coloros.weather.OppoMainActivity}" drawable="weather" />
 
-        <!-- WhatsApp -->
+        <!-- GBWhatsApp -->
         <item component="ComponentInfo{com.gbwhatsapp3/com.gbwhatsapp3.Main13}" drawable="gb_whatsapp" />
+
+        <!-- Show Box -->
+        <item component="ComponentInfo{com.tdo.showbox/com.tdo.showbox.activities.MainActivity}" drawable="show_box" />
 
         <!-- DIGI Clock Widget Plus -->
         <item component="ComponentInfo{sk.michalec.DigiClockWidgetPro/sk.michalec.DigiClockWidgetPro.EntryActivity}" drawable="digi_clock_widget_plus" />
@@ -1997,7 +2001,7 @@
         <item component="ComponentInfo{you.in.spark.energy/you.in.spark.energy.WelcomeScreen}" drawable="energy_bar" />
 
         <!-- Equalizer FX (Pro) -->
-        <item component="ComponentInfo{com.devdnua.equalizer/com.devdnua.equalizer.free.MainActivity}" drawable="equalizer_fx_(pro)" />
+        <item component="ComponentInfo{com.devdnua.equalizer/com.devdnua.equalizer.free.MainActivity}" drawable="equalizer_fx" />
 
         <!-- Framelapse Pro -->
         <item component="ComponentInfo{com.neximolabs.droidtimelapsepro/com.neximolabs.droidtimelapsepro.PermissionActivity}" drawable="framelapse_pro" />
@@ -2009,7 +2013,7 @@
         <item component="ComponentInfo{com.SudzDev.GAOR/com.SudzDev.GAOR.main}" drawable="golden_age_of_radio" />
 
         <!-- Horoscope+ -->
-        <item component="ComponentInfo{ch.smalltech.horoscope.pro/ch.smalltech.horoscope.core.Home}" drawable="horoscope+" />
+        <item component="ComponentInfo{ch.smalltech.horoscope.pro/ch.smalltech.horoscope.core.Home}" drawable="horoscope_pro" />
 
         <!-- Knudge.me -->
         <item component="ComponentInfo{com.knudge.me/com.knudge.me.Activity.MainActivity}" drawable="knudge.me" />

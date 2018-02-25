@@ -2,15 +2,15 @@
 <resources>
 
     <!-- Leave empty if you don't want to show changelog date -->
-    <string name="changelog_date">24 February 2018</string>
+    <string name="changelog_date">25 February 2018</string>
 
     <!-- Changelog support html formatting
     * <b> for Bold
     * <i> for Italic
     * <u> for Underline -->
     <string-array name="changelog">
-        <item>Added 40 new icons.
-        More requested icons on the way.</item>
+        <item>Added 10 new icons.
+        Thank you for your requests.</item>
     </string-array>
 
 </resources>
