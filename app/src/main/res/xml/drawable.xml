@@ -189,6 +189,7 @@
     <item drawable="boxcryptor" />
     <item drawable="backup_and_restore" />
     <item drawable="bimatri" />
+    <item drawable="banorte_movil" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -355,6 +356,7 @@
     <item drawable="ez_notes" />
     <item drawable="eas" />
     <item drawable="equalizer_fx" />
+    <item drawable="empty_folder_cleaner" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -576,6 +578,7 @@
     <item drawable="k_nine_mail" />
     <item drawable="kamcord" />
     <item drawable="kakao_talk" />
+    <item drawable="knudge_me" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -608,6 +611,9 @@
     <item drawable="libretorrent" />
     <item drawable="league_friends" />
     <item drawable="lazada" />
+    <item drawable="life360" />
+    <item drawable="lightflow" />
+    <item drawable="lightx" />
 
 
     <category title="M" />
@@ -705,6 +711,7 @@
     <item drawable="mobikwik" />
     <item drawable="motogp" />
     <item drawable="mytelkomsel" />
+    <item drawable="muviz" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -753,6 +760,7 @@
     <item drawable="nine_one_one_help_pro" />
     <item drawable="newtification" />
     <item drawable="notification_history_log" />
+    <item drawable="nebula" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -860,6 +868,7 @@
     <item drawable="photos" />
     <item drawable="plane_finder" />
     <item drawable="polar" />
+    <item drawable="photo_studio_pro" />
 
     <category title="Q" />
     <item drawable="quora" />
