@@ -1914,7 +1914,7 @@
         <item component="ComponentInfo{com.eset.ems2.gp/com.eset.ems.gui.MainActivity}" drawable="mobile_security" />
 
         <!-- MotoGP™ -->
-        <item component="ComponentInfo{com.dorna.officialmotogp/com.worldline.motogp.view.activity.SplashActivity}" drawable="motogp™" />
+        <item component="ComponentInfo{com.dorna.officialmotogp/com.worldline.motogp.view.activity.SplashActivity}" drawable="motogp" />
 
         <!-- Music -->
         <item component="ComponentInfo{com.oppo.music/com.oppo.music.MainListActivity}" drawable="music" />
@@ -2015,14 +2015,21 @@
         <!-- Horoscope+ -->
         <item component="ComponentInfo{ch.smalltech.horoscope.pro/ch.smalltech.horoscope.core.Home}" drawable="horoscope_pro" />
 
+        <!-- Banorte Móvil -->
+        <item component="ComponentInfo{org.microemu.android.model.common.VTUserApplicationBNRTMB/org.microemu.android.model.common.VTUserApplicationBNRTMB.VTCommonActivity}" drawable="banorte_movil" />
+
+        <item component="ComponentInfo{com.rootify.emptyfoldercleaner/com.rootify.emptyfoldercleaner.MainActivity}" drawable="empty_folder_cleaner" />
+
+        <item component="ComponentInfo{com.kvadgroup.photostudio_pro/com.kvadgroup.photostudio.visual.MainActivity}" drawable="photo_studio_pro" />
+
         <!-- Knudge.me -->
-        <item component="ComponentInfo{com.knudge.me/com.knudge.me.Activity.MainActivity}" drawable="knudge.me" />
+        <item component="ComponentInfo{com.knudge.me/com.knudge.me.Activity.MainActivity}" drawable="knudge_me" />
 
         <!-- Life360 -->
         <item component="ComponentInfo{com.life360.android.safetymapd/com.life360.android.shared.base.LauncherActivity}" drawable="life360" />
 
         <!-- Light Flow Legacy -->
-        <item component="ComponentInfo{com.rageconsulting.android.lightflowlegacy/com.rageconsulting.android.lightflow.MainActivity2}" drawable="light_flow_legacy" />
+        <item component="ComponentInfo{com.rageconsulting.android.lightflowlegacy/com.rageconsulting.android.lightflow.MainActivity2}" drawable="lightflow" />
 
         <!-- LightX -->
         <item component="ComponentInfo{com.lightx/com.lightx.activities.LightxActivity}" drawable="lightx" />
@@ -2050,9 +2057,6 @@
 
         <!-- Phases of the Moon -->
         <item component="ComponentInfo{com.universetoday.moon.free/com.universetoday.moon.free.MoonPhases}" drawable="phases_of_the_moon" />
-
-        <!-- Photo Studio PRO -->
-        <item component="ComponentInfo{com.kvadgroup.photostudio_pro/com.kvadgroup.photostudio.visual.MainActivity}" drawable="photo_studio_pro" />
 
         <!-- Photobucket -->
         <item component="ComponentInfo{com.photobucket.android/com.photobucket.android.activity.SplashActivity}" drawable="photobucket" />
