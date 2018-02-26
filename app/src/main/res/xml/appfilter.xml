@@ -2058,9 +2058,6 @@
         <!-- Phases of the Moon -->
         <item component="ComponentInfo{com.universetoday.moon.free/com.universetoday.moon.free.MoonPhases}" drawable="phases_of_the_moon" />
 
-        <!-- Photo Studio PRO -->
-        <item component="ComponentInfo{com.kvadgroup.photostudio_pro/com.kvadgroup.photostudio.visual.MainActivity}" drawable="photo_studio_pro" />
-
         <!-- Photobucket -->
         <item component="ComponentInfo{com.photobucket.android/com.photobucket.android.activity.SplashActivity}" drawable="photobucket" />
 

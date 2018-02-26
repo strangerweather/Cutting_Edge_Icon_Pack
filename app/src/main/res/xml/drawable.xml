@@ -761,6 +761,8 @@
     <item drawable="newtification" />
     <item drawable="notification_history_log" />
     <item drawable="nebula" />
+    <item drawable="network_signal_refresher" />
+    <item drawable="night_shift" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -791,6 +793,8 @@
     <item drawable="officesuite" />
     <item drawable="opera_max" />
     <item drawable="oppo_appstore" />
+    <item drawable="optical_reader" />
+    <item drawable="otr_player" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -869,6 +873,12 @@
     <item drawable="plane_finder" />
     <item drawable="polar" />
     <item drawable="photo_studio_pro" />
+    <item drawable="phases_of_the_moon" />
+    <item drawable="photobucket" />
+    <item drawable="photopop" />
+    <item drawable="pixel_art_clock" />
+    <item drawable="pixel_walls" />
+    <item drawable="puzzle_prism" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -908,6 +918,7 @@
     <item drawable="remind" />
     <item drawable="root_booster" />
     <item drawable="recorrido" />
+    <item drawable="round_corners" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
