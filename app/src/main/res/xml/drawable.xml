@@ -515,6 +515,7 @@
     <item drawable="habithub" />
     <item drawable="huk_zooper" />
     <item drawable="horoscope_pro" />
+    <item drawable="hp_smart" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -579,6 +580,7 @@
     <item drawable="kamcord" />
     <item drawable="kakao_talk" />
     <item drawable="knudge_me" />
+    <item drawable="kyocera_print" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -1043,6 +1045,9 @@
     <item drawable="security" />
     <item drawable="smart_booster_pro" />
     <item drawable="show_box" />
+    <item drawable="s8_navigation_pro" />
+    <item drawable="samsung_connect" />
+    <item drawable="scrapbook" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
