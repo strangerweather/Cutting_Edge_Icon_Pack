@@ -34,6 +34,7 @@
         <item component="ComponentInfo{com.huawei.gamebox.global/com.huawei.gamebox.GameBoxActivity}" drawable="higame" />
         <item component="ComponentInfo{com.nespresso.activities/com.nespresso.ui.activity.LaunchActivity}" drawable="nespresso" />
         <item component="ComponentInfo{air.ITVMobilePlayer/com.candyspace.itvplayer.sharedviews.screens.main.MainActivity}" drawable="itv_hub" />
+        <item component="ComponentInfo{air.ITVMobilePlayer/com.candyspace.itvplayer.ui.launcher.LauncherActivity}" drawable="itv_hub" />
         <item component="ComponentInfo{com.texty.sms/com.texty.sms.MainActivity}" drawable="mightytext" />
         <item component="ComponentInfo{com.android.hwmirror/com.android.hwmirror.Mirror}" drawable="mirror" />
         <item component="ComponentInfo{com.ibm.events.android.ausopen/au.com.tennis.australianopen.activity.MainActivity}" drawable="australian_open" />
@@ -2078,6 +2079,13 @@
 
         <!-- Round Corners -->
         <item component="ComponentInfo{com.bhanu.roundcorner/com.bhanu.roundcorner.MainActivity}" drawable="round_corners" />
+
+
+        <item component="ComponentInfo{com.kyocera.kyoprint/com.dropbox.core.android.AuthActivity}" drawable="kyocera_print" />
+
+
+        <item component="ComponentInfo{com.hp.printercontrol/com.hp.printercontrol.base.PrinterControlActivity}" drawable="hp_smart" />
+
 
         <!-- S8 Navigation PRO -->
         <item component="ComponentInfo{com.vietbm.tools.s8navigationPRO/com.vietbm.tools.s8navigationPRO.activity.SplashActivity}" drawable="s8_navigation_pro" />
