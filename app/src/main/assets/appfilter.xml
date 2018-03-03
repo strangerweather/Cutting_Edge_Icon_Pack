@@ -34,6 +34,7 @@
         <item component="ComponentInfo{com.huawei.gamebox.global/com.huawei.gamebox.GameBoxActivity}" drawable="higame" />
         <item component="ComponentInfo{com.nespresso.activities/com.nespresso.ui.activity.LaunchActivity}" drawable="nespresso" />
         <item component="ComponentInfo{air.ITVMobilePlayer/com.candyspace.itvplayer.sharedviews.screens.main.MainActivity}" drawable="itv_hub" />
+        <item component="ComponentInfo{air.ITVMobilePlayer/com.candyspace.itvplayer.ui.launcher.LauncherActivity}" drawable="itv_hub" />
         <item component="ComponentInfo{com.texty.sms/com.texty.sms.MainActivity}" drawable="mightytext" />
         <item component="ComponentInfo{com.android.hwmirror/com.android.hwmirror.Mirror}" drawable="mirror" />
         <item component="ComponentInfo{com.ibm.events.android.ausopen/au.com.tennis.australianopen.activity.MainActivity}" drawable="australian_open" />
@@ -2079,6 +2080,14 @@
         <!-- Round Corners -->
         <item component="ComponentInfo{com.bhanu.roundcorner/com.bhanu.roundcorner.MainActivity}" drawable="round_corners" />
 
+
+        <item component="ComponentInfo{com.kyocera.kyoprint/com.dropbox.core.android.AuthActivity}" drawable="kyocera_print" />
+        <item component="ComponentInfo{com.kyocera.kyoprint/com.kyocera.kyoprint.KyoPrintKM}" drawable="kyocera_print" />
+
+
+        <item component="ComponentInfo{com.hp.printercontrol/com.hp.printercontrol.base.PrinterControlActivity}" drawable="hp_smart" />
+
+
         <!-- S8 Navigation PRO -->
         <item component="ComponentInfo{com.vietbm.tools.s8navigationPRO/com.vietbm.tools.s8navigationPRO.activity.SplashActivity}" drawable="s8_navigation_pro" />
 
@@ -2110,7 +2119,7 @@
         <item component="ComponentInfo{com.tapastic/com.tapastic.ui.intro.SplashActivity}" drawable="tapas" />
 
         <!-- TVC -->
-        <item component="ComponentInfo{com.cleanapps.totalvolumecontrol/com.cleanapps.totalvolumecontrol.ui.TotalVolumeControlActivity}" drawable="tvc" />
+        <item component="ComponentInfo{com.cleanapps.totalvolumecontrol/com.cleanapps.totalvolumecontrol.ui.TotalVolumeControlActivity}" drawable="total_volume_control" />
 
         <!-- Vignette -->
         <item component="ComponentInfo{uk.co.neilandtheresa.NewVignette/uk.co.neilandtheresa.NewVignette.EditorActivity}" drawable="vignette" />
@@ -2132,10 +2141,10 @@
     <item component="ComponentInfo{com.sp.protector.free/com.sp.protector.free.StartActivity}" drawable="applock" />
 
     <!-- Calendar -->
-    <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}" drawable="simple_calendar" />
 
     <!-- Camera360 -->
-    <item component="ComponentInfo{camera360.lite.beauty.selfie.camera/us.pinguo.icecream.camera.CameraActivity}" drawable="camera360" />
+    <item component="ComponentInfo{camera360.lite.beauty.selfie.camera/us.pinguo.icecream.camera.CameraActivity}" drawable="camera_threesixty" />
 
     <!-- Clip Stack -->
     <item component="ComponentInfo{com.catchingnow.tinyclipboardmanager/com.catchingnow.tinyclipboardmanager.activity.ActivityMain}" drawable="clip_stack" />
@@ -2144,13 +2153,13 @@
     <item component="ComponentInfo{devdnua.clipboard.pro/devdnua.clipboard.SplashActivity}" drawable="clipboard_manager" />
 
     <!-- CM Lite -->
-    <item component="ComponentInfo{com.cmcm.lite/com.cleanmaster.function.main.MiniMainActivity}" drawable="cm_lite" />
+    <item component="ComponentInfo{com.cmcm.lite/com.cleanmaster.function.main.MiniMainActivity}" drawable="clean_master" />
 
     <!-- Duplicate Photos Fixer -->
     <item component="ComponentInfo{com.systweak.duplicatephotofixer/com.systweak.duplicatephotofixer.Splash}" drawable="duplicate_photos_fixer" />
 
     <!-- GalleryVault -->
-    <item component="ComponentInfo{com.thinkyeah.galleryvault/com.thinkyeah.galleryvault.LockingActivity}" drawable="galleryvault" />
+    <item component="ComponentInfo{com.thinkyeah.galleryvault/com.thinkyeah.galleryvault.LockingActivity}" drawable="gallery_vault" />
 
     <!-- Hishoot2i -->
     <item component="ComponentInfo{org.illegaller.ratabb.hishoot2i/org.illegaller.ratabb.hishoot2i.ui.activity.MainActivity}" drawable="hishoot2i" />
@@ -2161,11 +2170,8 @@
     <!-- Legend -->
     <item component="ComponentInfo{com.stupeflix.legend/com.stupeflix.legend.ui.activities.MainActivity}" drawable="legend" />
 
-    <!-- Lucky Patcher -->
-    <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.CRAC/com.android.vending.billing.InAppBillingService.CRAC.MainActivity-Original}" drawable="lucky_patcher" />
-
     <!-- media Re.Scan. -->
-    <item component="ComponentInfo{com.house.noranuko.mediarescanner/com.house.noranuko.mediarescanner.MainActivity}" drawable="media_re.scan." />
+    <item component="ComponentInfo{com.house.noranuko.mediarescanner/com.house.noranuko.mediarescanner.MainActivity}" drawable="media_rescan" />
 
     <!-- PicSay Pro -->
     <item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay_pro" />
@@ -2186,7 +2192,7 @@
     <item component="ComponentInfo{devian.tubemate.v3/com.launcher.mt}" drawable="tubemate" />
 
     <!-- Upcoming -->
-    <item component="ComponentInfo{im.delight.birthdays/im.delight.birthdays.MainActivity}" drawable="upcoming" />
+    <item component="ComponentInfo{im.delight.birthdays/im.delight.birthdays.MainActivity}" drawable="birthday_calendar" />
 
     <!-- Volume Button -->
     <item component="ComponentInfo{com.igriti.volumebutton.pro/com.igriti.volumebutton.MainActivity}" drawable="volume_button" />
@@ -2202,14 +2208,13 @@
 
 
         <item component="ComponentInfo{com.medisafe.android.client/com.medisafe.android.client.SplashActivity}" drawable="medisafe" />
-        <item component="ComponentInfo{com.mclinica.mthermo/com.mclinica.mthermo.MainActivity}" drawable="mthermo" />
         <item component="ComponentInfo{taxi.android.client/taxi.android.client.feature.startup.ui.StartupActivity}" drawable="mytaxi" />
         <item component="ComponentInfo{com.habitrpg.android.habitica/com.habitrpg.android.habitica.ui.activities.MainActivity}" drawable="habitica" />
-        <item component="ComponentInfo{de.gmx.mobile.android.mail/com.fsck.k9.activity.Accounts}" drawable="gmx" />
-        <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffi_stations" />
-        <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.plans.PlansPickerActivity}" drawable="oeffi_plans" />
-        <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.directions.DirectionsActivity}" drawable="oeffi_directions" />
+        <item component="ComponentInfo{de.gmx.mobile.android.mail/com.fsck.k9.activity.Accounts}" drawable="gmx_mail" />
         <item component="ComponentInfo{com.jrummy.busybox.installer/com.jrummy.busybox.installer.MainActivity}" drawable="jrummy_busybox" />
+
+
+    <!--version 1.1.0-->
         <item component="ComponentInfo{tech.hexa/tech.hexa.MainActivity}" drawable="hexatech" />
         <item component="ComponentInfo{free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity}" drawable="turbo_vpn" />
         <item component="ComponentInfo{net.flixster.android/com.flixster.android.bootstrap.BootstrapActivity}" drawable="flixster" />
@@ -2218,8 +2223,6 @@
         <item component="ComponentInfo{com.rbc.mobile.android/com.rbc.mobile.bud.activities.PreAuthMainActivity}" drawable="rbc" />
         <item component="ComponentInfo{be.persgroep.android.news.mobiledm/mobi.inthepocket.persgroep.demorgen.activities.HomeActivity}" drawable="demorgen" />
         <item component="ComponentInfo{com.beliefengine.handyapp/com.unity3d.player.UnityPlayerNativeActivity}" drawable="handy" />
-
-        <!-- 1.1.9 -->
         <item component="ComponentInfo{org.qpython.qpy}" drawable="qpython" />
         <item component="ComponentInfo{software.wear.top.apps.store/software.wear.top.apps.store.MainActivity}" drawable="android_wear_center" />
         <item component="ComponentInfo{us.com.dt.iq.appsource.tmobile/us.com.dt.iq.appsource.tmobile.IQStartActivity}" drawable="app_source" />

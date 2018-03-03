@@ -2192,7 +2192,7 @@
     <item component="ComponentInfo{devian.tubemate.v3/com.launcher.mt}" drawable="tubemate" />
 
     <!-- Upcoming -->
-    <item component="ComponentInfo{im.delight.birthdays/im.delight.birthdays.MainActivity}" drawable="upcoming" />
+    <item component="ComponentInfo{im.delight.birthdays/im.delight.birthdays.MainActivity}" drawable="birthday_calendar" />
 
     <!-- Volume Button -->
     <item component="ComponentInfo{com.igriti.volumebutton.pro/com.igriti.volumebutton.MainActivity}" drawable="volume_button" />
@@ -2208,14 +2208,13 @@
 
 
         <item component="ComponentInfo{com.medisafe.android.client/com.medisafe.android.client.SplashActivity}" drawable="medisafe" />
-        <item component="ComponentInfo{com.mclinica.mthermo/com.mclinica.mthermo.MainActivity}" drawable="mthermo" />
         <item component="ComponentInfo{taxi.android.client/taxi.android.client.feature.startup.ui.StartupActivity}" drawable="mytaxi" />
         <item component="ComponentInfo{com.habitrpg.android.habitica/com.habitrpg.android.habitica.ui.activities.MainActivity}" drawable="habitica" />
-        <item component="ComponentInfo{de.gmx.mobile.android.mail/com.fsck.k9.activity.Accounts}" drawable="gmx" />
-        <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.stations.StationsActivity}" drawable="oeffi_stations" />
-        <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.plans.PlansPickerActivity}" drawable="oeffi_plans" />
-        <item component="ComponentInfo{de.schildbach.oeffi/de.schildbach.oeffi.directions.DirectionsActivity}" drawable="oeffi_directions" />
+        <item component="ComponentInfo{de.gmx.mobile.android.mail/com.fsck.k9.activity.Accounts}" drawable="gmx_mail" />
         <item component="ComponentInfo{com.jrummy.busybox.installer/com.jrummy.busybox.installer.MainActivity}" drawable="jrummy_busybox" />
+
+
+    <!--version 1.1.0-->
         <item component="ComponentInfo{tech.hexa/tech.hexa.MainActivity}" drawable="hexatech" />
         <item component="ComponentInfo{free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity}" drawable="turbo_vpn" />
         <item component="ComponentInfo{net.flixster.android/com.flixster.android.bootstrap.BootstrapActivity}" drawable="flixster" />
@@ -2224,8 +2223,6 @@
         <item component="ComponentInfo{com.rbc.mobile.android/com.rbc.mobile.bud.activities.PreAuthMainActivity}" drawable="rbc" />
         <item component="ComponentInfo{be.persgroep.android.news.mobiledm/mobi.inthepocket.persgroep.demorgen.activities.HomeActivity}" drawable="demorgen" />
         <item component="ComponentInfo{com.beliefengine.handyapp/com.unity3d.player.UnityPlayerNativeActivity}" drawable="handy" />
-
-        <!-- 1.1.9 -->
         <item component="ComponentInfo{org.qpython.qpy}" drawable="qpython" />
         <item component="ComponentInfo{software.wear.top.apps.store/software.wear.top.apps.store.MainActivity}" drawable="android_wear_center" />
         <item component="ComponentInfo{us.com.dt.iq.appsource.tmobile/us.com.dt.iq.appsource.tmobile.IQStartActivity}" drawable="app_source" />

@@ -192,6 +192,7 @@
     <item drawable="backup_and_restore" />
     <item drawable="bimatri" />
     <item drawable="banorte_movil" />
+    <item drawable="birthday_calendar" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -484,6 +485,7 @@
     <item drawable="gb_whatsapp" />
     <item drawable="golden_age_of_radio" />
     <item drawable="gallery_vault" />
+    <item drawable="gmx_mail" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -523,6 +525,7 @@
     <item drawable="horoscope_pro" />
     <item drawable="hp_smart" />
     <item drawable="hishoot2i" />
+    <item drawable="habitica" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -560,6 +563,7 @@
     <item drawable="jaybird_mysound" />
     <item drawable="jiomoney" />
     <item drawable="jiomusic" />
+    <item drawable="jrummy_busybox" />
 
 
     <category title="K" />
@@ -723,6 +727,8 @@
     <item drawable="mytelkomsel" />
     <item drawable="muviz" />
     <item drawable="media_rescan" />
+    <item drawable="medisafe" />
+    <item drawable="mytaxi" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1158,6 +1164,8 @@
     <item drawable="twitpane" />
     <item drawable="tapas" />
     <item drawable="total_volume_control" />
+    <item drawable="theme_center" />
+    <item drawable="tubemate" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1209,6 +1217,7 @@
     <item drawable="videoshow" />
     <item drawable="vignette" />
     <item drawable="vipre_mobile_security" />
+    <item drawable="volume_button" />
 
 
     <category title="W"/>
@@ -1255,6 +1264,9 @@
     <item drawable="wom" />
     <item drawable="when_i_work" />
     <item drawable="wipe_out" />
+    <item drawable="widget_lock_screen_pro" />
+    <item drawable="wolfie_for_kwgt" />
+    <item drawable="wordswag" />
 
     <category title="X"/>
     <item drawable="xbox" />

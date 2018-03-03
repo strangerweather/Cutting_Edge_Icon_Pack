@@ -113,6 +113,8 @@
     <item drawable="appsale" />
     <item drawable="alkitab" />
     <item drawable="appsales" />
+    <item drawable="apk_extractor" />
+    <item drawable="applock" />
 
     <category title="B" />
     <item drawable="better" />
@@ -190,6 +192,7 @@
     <item drawable="backup_and_restore" />
     <item drawable="bimatri" />
     <item drawable="banorte_movil" />
+    <item drawable="birthday_calendar" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -277,6 +280,8 @@
     <item drawable="colorfy" />
     <item drawable="comics" />
     <item drawable="chess" />
+    <item drawable="clip_stack" />
+    <item drawable="clipboard_manager" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -322,6 +327,7 @@
     <item drawable="device_unlock" />
     <item drawable="digi_clock_widget_plus" />
     <item drawable="droper" />
+    <item drawable="duplicate_photos_fixer" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -478,6 +484,8 @@
     <item drawable="go_jek" />
     <item drawable="gb_whatsapp" />
     <item drawable="golden_age_of_radio" />
+    <item drawable="gallery_vault" />
+    <item drawable="gmx_mail" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -515,6 +523,9 @@
     <item drawable="habithub" />
     <item drawable="huk_zooper" />
     <item drawable="horoscope_pro" />
+    <item drawable="hp_smart" />
+    <item drawable="hishoot2i" />
+    <item drawable="habitica" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -552,6 +563,7 @@
     <item drawable="jaybird_mysound" />
     <item drawable="jiomoney" />
     <item drawable="jiomusic" />
+    <item drawable="jrummy_busybox" />
 
 
     <category title="K" />
@@ -579,6 +591,7 @@
     <item drawable="kamcord" />
     <item drawable="kakao_talk" />
     <item drawable="knudge_me" />
+    <item drawable="kyocera_print" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -614,6 +627,7 @@
     <item drawable="life360" />
     <item drawable="lightflow" />
     <item drawable="lightx" />
+    <item drawable="legend" />
 
 
     <category title="M" />
@@ -712,6 +726,9 @@
     <item drawable="motogp" />
     <item drawable="mytelkomsel" />
     <item drawable="muviz" />
+    <item drawable="media_rescan" />
+    <item drawable="medisafe" />
+    <item drawable="mytaxi" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -879,6 +896,7 @@
     <item drawable="pixel_art_clock" />
     <item drawable="pixel_walls" />
     <item drawable="puzzle_prism" />
+    <item drawable="picsay_pro" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -919,6 +937,7 @@
     <item drawable="root_booster" />
     <item drawable="recorrido" />
     <item drawable="round_corners" />
+    <item drawable="retouch" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1043,6 +1062,15 @@
     <item drawable="security" />
     <item drawable="smart_booster_pro" />
     <item drawable="show_box" />
+    <item drawable="s8_navigation_pro" />
+    <item drawable="samsung_connect" />
+    <item drawable="scrapbook" />
+    <item drawable="screen_draw" />
+    <item drawable="screen_recorder_pro" />
+    <item drawable="sfilter_pro" />
+    <item drawable="shortcutter" />
+    <item drawable="star_walk_2" />
+    <item drawable="simple_calendar" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1134,6 +1162,10 @@
     <item drawable="trident_3" />
     <item drawable="tweetings" />
     <item drawable="twitpane" />
+    <item drawable="tapas" />
+    <item drawable="total_volume_control" />
+    <item drawable="theme_center" />
+    <item drawable="tubemate" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1183,6 +1215,9 @@
     <item drawable="videoder" />
     <item drawable="vocabulary_com" />
     <item drawable="videoshow" />
+    <item drawable="vignette" />
+    <item drawable="vipre_mobile_security" />
+    <item drawable="volume_button" />
 
 
     <category title="W"/>
@@ -1228,6 +1263,10 @@
     <item drawable="words_two" />
     <item drawable="wom" />
     <item drawable="when_i_work" />
+    <item drawable="wipe_out" />
+    <item drawable="widget_lock_screen_pro" />
+    <item drawable="wolfie_for_kwgt" />
+    <item drawable="wordswag" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -1237,6 +1276,7 @@
     <item drawable="xposed_installer" />
     <item drawable="xda_feed" />
     <item drawable="xscope_pro" />
+    <item drawable="xiialive_pro" />
 
     <category title="Y"/>
     <item drawable="yubrowser" />
