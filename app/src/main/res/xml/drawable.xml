@@ -279,6 +279,8 @@
     <item drawable="colorfy" />
     <item drawable="comics" />
     <item drawable="chess" />
+    <item drawable="clip_stack" />
+    <item drawable="clipboard_manager" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -324,6 +326,7 @@
     <item drawable="device_unlock" />
     <item drawable="digi_clock_widget_plus" />
     <item drawable="droper" />
+    <item drawable="duplicate_photos_fixer" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -480,6 +483,7 @@
     <item drawable="go_jek" />
     <item drawable="gb_whatsapp" />
     <item drawable="golden_age_of_radio" />
+    <item drawable="gallery_vault" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -518,6 +522,7 @@
     <item drawable="huk_zooper" />
     <item drawable="horoscope_pro" />
     <item drawable="hp_smart" />
+    <item drawable="hishoot2i" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -618,6 +623,7 @@
     <item drawable="life360" />
     <item drawable="lightflow" />
     <item drawable="lightx" />
+    <item drawable="legend" />
 
 
     <category title="M" />
@@ -716,6 +722,7 @@
     <item drawable="motogp" />
     <item drawable="mytelkomsel" />
     <item drawable="muviz" />
+    <item drawable="media_rescan" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -883,6 +890,7 @@
     <item drawable="pixel_art_clock" />
     <item drawable="pixel_walls" />
     <item drawable="puzzle_prism" />
+    <item drawable="picsay_pro" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -923,6 +931,7 @@
     <item drawable="root_booster" />
     <item drawable="recorrido" />
     <item drawable="round_corners" />
+    <item drawable="retouch" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1055,6 +1064,7 @@
     <item drawable="sfilter_pro" />
     <item drawable="shortcutter" />
     <item drawable="star_walk_2" />
+    <item drawable="simple_calendar" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />

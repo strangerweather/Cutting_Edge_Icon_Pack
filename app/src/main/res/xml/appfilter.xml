@@ -2144,7 +2144,7 @@
     <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}" drawable="simple_calendar" />
 
     <!-- Camera360 -->
-    <item component="ComponentInfo{camera360.lite.beauty.selfie.camera/us.pinguo.icecream.camera.CameraActivity}" drawable="camera360" />
+    <item component="ComponentInfo{camera360.lite.beauty.selfie.camera/us.pinguo.icecream.camera.CameraActivity}" drawable="camera_threesixty" />
 
     <!-- Clip Stack -->
     <item component="ComponentInfo{com.catchingnow.tinyclipboardmanager/com.catchingnow.tinyclipboardmanager.activity.ActivityMain}" drawable="clip_stack" />
@@ -2153,13 +2153,13 @@
     <item component="ComponentInfo{devdnua.clipboard.pro/devdnua.clipboard.SplashActivity}" drawable="clipboard_manager" />
 
     <!-- CM Lite -->
-    <item component="ComponentInfo{com.cmcm.lite/com.cleanmaster.function.main.MiniMainActivity}" drawable="cm_lite" />
+    <item component="ComponentInfo{com.cmcm.lite/com.cleanmaster.function.main.MiniMainActivity}" drawable="clean_master" />
 
     <!-- Duplicate Photos Fixer -->
     <item component="ComponentInfo{com.systweak.duplicatephotofixer/com.systweak.duplicatephotofixer.Splash}" drawable="duplicate_photos_fixer" />
 
     <!-- GalleryVault -->
-    <item component="ComponentInfo{com.thinkyeah.galleryvault/com.thinkyeah.galleryvault.LockingActivity}" drawable="galleryvault" />
+    <item component="ComponentInfo{com.thinkyeah.galleryvault/com.thinkyeah.galleryvault.LockingActivity}" drawable="gallery_vault" />
 
     <!-- Hishoot2i -->
     <item component="ComponentInfo{org.illegaller.ratabb.hishoot2i/org.illegaller.ratabb.hishoot2i.ui.activity.MainActivity}" drawable="hishoot2i" />
@@ -2170,11 +2170,8 @@
     <!-- Legend -->
     <item component="ComponentInfo{com.stupeflix.legend/com.stupeflix.legend.ui.activities.MainActivity}" drawable="legend" />
 
-    <!-- Lucky Patcher -->
-    <item component="ComponentInfo{com.android.vending.billing.InAppBillingService.CRAC/com.android.vending.billing.InAppBillingService.CRAC.MainActivity-Original}" drawable="lucky_patcher" />
-
     <!-- media Re.Scan. -->
-    <item component="ComponentInfo{com.house.noranuko.mediarescanner/com.house.noranuko.mediarescanner.MainActivity}" drawable="media_re.scan." />
+    <item component="ComponentInfo{com.house.noranuko.mediarescanner/com.house.noranuko.mediarescanner.MainActivity}" drawable="media_rescan" />
 
     <!-- PicSay Pro -->
     <item component="ComponentInfo{com.shinycore.picsaypro/com.shinycore.picsaypro.main}" drawable="picsay_pro" />
