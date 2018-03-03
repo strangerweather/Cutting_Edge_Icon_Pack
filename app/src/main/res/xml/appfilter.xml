@@ -2082,6 +2082,7 @@
 
 
         <item component="ComponentInfo{com.kyocera.kyoprint/com.dropbox.core.android.AuthActivity}" drawable="kyocera_print" />
+        <item component="ComponentInfo{com.kyocera.kyoprint/com.kyocera.kyoprint.KyoPrintKM}" drawable="kyocera_print" />
 
 
         <item component="ComponentInfo{com.hp.printercontrol/com.hp.printercontrol.base.PrinterControlActivity}" drawable="hp_smart" />
@@ -2118,7 +2119,7 @@
         <item component="ComponentInfo{com.tapastic/com.tapastic.ui.intro.SplashActivity}" drawable="tapas" />
 
         <!-- TVC -->
-        <item component="ComponentInfo{com.cleanapps.totalvolumecontrol/com.cleanapps.totalvolumecontrol.ui.TotalVolumeControlActivity}" drawable="tvc" />
+        <item component="ComponentInfo{com.cleanapps.totalvolumecontrol/com.cleanapps.totalvolumecontrol.ui.TotalVolumeControlActivity}" drawable="total_volume_control" />
 
         <!-- Vignette -->
         <item component="ComponentInfo{uk.co.neilandtheresa.NewVignette/uk.co.neilandtheresa.NewVignette.EditorActivity}" drawable="vignette" />
@@ -2140,7 +2141,7 @@
     <item component="ComponentInfo{com.sp.protector.free/com.sp.protector.free.StartActivity}" drawable="applock" />
 
     <!-- Calendar -->
-    <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}" drawable="calendar" />
+    <item component="ComponentInfo{com.simplemobiletools.calendar/com.simplemobiletools.calendar.activities.SplashActivity}" drawable="simple_calendar" />
 
     <!-- Camera360 -->
     <item component="ComponentInfo{camera360.lite.beauty.selfie.camera/us.pinguo.icecream.camera.CameraActivity}" drawable="camera360" />

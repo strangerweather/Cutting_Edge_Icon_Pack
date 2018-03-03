@@ -113,6 +113,8 @@
     <item drawable="appsale" />
     <item drawable="alkitab" />
     <item drawable="appsales" />
+    <item drawable="apk_extractor" />
+    <item drawable="applock" />
 
     <category title="B" />
     <item drawable="better" />
@@ -1048,6 +1050,11 @@
     <item drawable="s8_navigation_pro" />
     <item drawable="samsung_connect" />
     <item drawable="scrapbook" />
+    <item drawable="screen_draw" />
+    <item drawable="screen_recorder_pro" />
+    <item drawable="sfilter_pro" />
+    <item drawable="shortcutter" />
+    <item drawable="star_walk_2" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1139,6 +1146,8 @@
     <item drawable="trident_3" />
     <item drawable="tweetings" />
     <item drawable="twitpane" />
+    <item drawable="tapas" />
+    <item drawable="total_volume_control" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1188,6 +1197,8 @@
     <item drawable="videoder" />
     <item drawable="vocabulary_com" />
     <item drawable="videoshow" />
+    <item drawable="vignette" />
+    <item drawable="vipre_mobile_security" />
 
 
     <category title="W"/>
@@ -1233,6 +1244,7 @@
     <item drawable="words_two" />
     <item drawable="wom" />
     <item drawable="when_i_work" />
+    <item drawable="wipe_out" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -1242,6 +1254,7 @@
     <item drawable="xposed_installer" />
     <item drawable="xda_feed" />
     <item drawable="xscope_pro" />
+    <item drawable="xiialive_pro" />
 
     <category title="Y"/>
     <item drawable="yubrowser" />
