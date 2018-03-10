@@ -334,6 +334,7 @@
     <item drawable="droper" />
     <item drawable="duplicate_photos_fixer" />
     <item drawable="demorgen" />
+    <item drawable="drupe" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -434,6 +435,9 @@
     <item drawable="fotmob_pro" />
     <item drawable="framelapse_pro" />
     <item drawable="freeappsnow" />
+    <item drawable="freeplay" />
+    <item drawable="flightaware" />
+    <item drawable="formula_1" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -534,6 +538,7 @@
     <item drawable="hishoot2i" />
     <item drawable="habitica" />
     <item drawable="hexatech" />
+    <item drawable="hamster_life" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -638,6 +643,8 @@
     <item drawable="lightx" />
     <item drawable="legend" />
     <item drawable="lg_smart_world" />
+    <item drawable="liston" />
+    <item drawable="lose_it" />
 
 
     <category title="M" />
@@ -741,6 +748,7 @@
     <item drawable="mytaxi" />
     <item drawable="myrogers" />
     <item drawable="meteor" />
+    <item drawable="mobile_passport" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -910,6 +918,8 @@
     <item drawable="puzzle_prism" />
     <item drawable="picsay_pro" />
     <item drawable="powerschool" />
+    <item drawable="parceltrack" />
+    <item drawable="playstation_vue" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1088,6 +1098,7 @@
     <item drawable="simple_calendar" />
     <item drawable="smartwatch_center" />
     <item drawable="square_home" />
+    <item drawable="stack" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1185,6 +1196,9 @@
     <item drawable="tubemate" />
     <item drawable="turbo_vpn" />
     <item drawable="tiny_tiny_rss" />
+    <item drawable="the_sims" />
+    <item drawable="time2feed" />
+    <item drawable="tile" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1240,6 +1254,7 @@
     <item drawable="volume_button" />
     <item drawable="vgn" />
     <item drawable="virtual_wallet" />
+    <item drawable="vivino" />
 
 
     <category title="W"/>
@@ -1317,6 +1332,7 @@
     <item drawable="yu_gi_oh" />
     <item drawable="youcam_perfect" />
     <item drawable="yowhatsapp" />
+    <item drawable="youmail" />
 
     <category title="Z"/>
     <item drawable="zello" />
