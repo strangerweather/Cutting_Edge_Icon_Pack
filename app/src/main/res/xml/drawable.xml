@@ -194,6 +194,7 @@
     <item drawable="bimatri" />
     <item drawable="banorte_movil" />
     <item drawable="birthday_calendar" />
+    <item drawable="bandcamp" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -283,6 +284,9 @@
     <item drawable="chess" />
     <item drawable="clip_stack" />
     <item drawable="clipboard_manager" />
+    <item drawable="cornerfly" />
+    <item drawable="colu" />
+    <item drawable="couch_to_5k" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -488,6 +492,7 @@
     <item drawable="golden_age_of_radio" />
     <item drawable="gallery_vault" />
     <item drawable="gmx_mail" />
+    <item drawable="gett" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -595,6 +600,7 @@
     <item drawable="kakao_talk" />
     <item drawable="knudge_me" />
     <item drawable="kyocera_print" />
+    <item drawable="kontostand" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -631,6 +637,7 @@
     <item drawable="lightflow" />
     <item drawable="lightx" />
     <item drawable="legend" />
+    <item drawable="lg_smart_world" />
 
 
     <category title="M" />
@@ -733,6 +740,7 @@
     <item drawable="medisafe" />
     <item drawable="mytaxi" />
     <item drawable="myrogers" />
+    <item drawable="meteor" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -915,6 +923,7 @@
     <item drawable="qr_code_reader" />
     <item drawable="quizduell" />
     <item drawable="qr_and_barcode_scanner_pro" />
+    <item drawable="quick_for_wear" />
 
     <category title="R" />
     <item drawable="rediffmail" />
@@ -1078,6 +1087,7 @@
     <item drawable="star_walk_2" />
     <item drawable="simple_calendar" />
     <item drawable="smartwatch_center" />
+    <item drawable="square_home" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1174,6 +1184,7 @@
     <item drawable="theme_center" />
     <item drawable="tubemate" />
     <item drawable="turbo_vpn" />
+    <item drawable="tiny_tiny_rss" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1193,6 +1204,7 @@
     <item drawable="updater" />
     <item drawable="union_rewardz" />
     <item drawable="usb_backup" />
+    <item drawable="us_bank" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -1226,6 +1238,8 @@
     <item drawable="vignette" />
     <item drawable="vipre_mobile_security" />
     <item drawable="volume_button" />
+    <item drawable="vgn" />
+    <item drawable="virtual_wallet" />
 
 
     <category title="W"/>

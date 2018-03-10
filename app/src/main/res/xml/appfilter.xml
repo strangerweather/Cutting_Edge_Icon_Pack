@@ -2235,11 +2235,10 @@
         <item component="ComponentInfo{com.usbank.mobilebanking/com.usbank.mobilebanking.USBank}" drawable="us_bank" />
         <item component="ComponentInfo{com.ing.diba.mbbr2/com.ing.diba.ibbr.ui.MainActivity}" drawable="ing" />
         <item component="ComponentInfo{de.ing_diba.kontostand/de.ing_diba.kontostand.ui.SplashScreenActivity}" drawable="kontostand" />
-        <item component="ComponentInfo{com.ing.diba.smartsecure2/com.ing.diba.smartsecure2.StartActivity}" drawable="ing_smart_secure" />
         <item component="ComponentInfo{org.fox.ttrss/org.fox.ttrss.LaunchActivity}" drawable="tiny_tiny_rss" />
         <item component="ComponentInfo{com.mdv.VGNCompanion/com.mdv.VGNCompanion.VgnActivity}" drawable="vgn" />
         <item component="ComponentInfo{com.colu.localeconomies/com.colu.localeconomies.app.onboarding.OnBoardingActivity}" drawable="colu" />
-        <item component="ComponentInfo{com.mobilefootie.wc2010/com.mobilefootie.fotmob.gui.v2.MainActivityWrapper}" drawable="fotmob" />
+        <item component="ComponentInfo{com.mobilefootie.wc2010/com.mobilefootie.fotmob.gui.v2.MainActivityWrapper}" drawable="fotmob_pro" />
         <item component="ComponentInfo{com.gettaxi.android/com.gettaxi.android.activities.login.LoadingActivity}" drawable="gett" />
         <item component="ComponentInfo{com.bandcamp.android/com.bandcamp.android.view.SplashActivity}" drawable="bandcamp" />
         <item component="ComponentInfo{com.Relmtech.Remote/com.unified.v3.frontend.views.MainActivity}" drawable="unified_remote" />
