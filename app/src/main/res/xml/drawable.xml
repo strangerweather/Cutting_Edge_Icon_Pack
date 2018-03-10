@@ -115,6 +115,7 @@
     <item drawable="appsales" />
     <item drawable="apk_extractor" />
     <item drawable="applock" />
+    <item drawable="app_source" />
 
     <category title="B" />
     <item drawable="better" />
@@ -328,6 +329,7 @@
     <item drawable="digi_clock_widget_plus" />
     <item drawable="droper" />
     <item drawable="duplicate_photos_fixer" />
+    <item drawable="demorgen" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -526,6 +528,7 @@
     <item drawable="hp_smart" />
     <item drawable="hishoot2i" />
     <item drawable="habitica" />
+    <item drawable="hexatech" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -729,6 +732,7 @@
     <item drawable="media_rescan" />
     <item drawable="medisafe" />
     <item drawable="mytaxi" />
+    <item drawable="myrogers" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -897,6 +901,7 @@
     <item drawable="pixel_walls" />
     <item drawable="puzzle_prism" />
     <item drawable="picsay_pro" />
+    <item drawable="powerschool" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -938,6 +943,7 @@
     <item drawable="recorrido" />
     <item drawable="round_corners" />
     <item drawable="retouch" />
+    <item drawable="rbc" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1071,6 +1077,7 @@
     <item drawable="shortcutter" />
     <item drawable="star_walk_2" />
     <item drawable="simple_calendar" />
+    <item drawable="smartwatch_center" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1166,6 +1173,7 @@
     <item drawable="total_volume_control" />
     <item drawable="theme_center" />
     <item drawable="tubemate" />
+    <item drawable="turbo_vpn" />
 
     <category title="U" />
     <item drawable="unified_remote" />

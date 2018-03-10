@@ -566,6 +566,7 @@
         <item component="ComponentInfo{com.gotv.nflgamecenter.us.lite/com.nfl.mobile.SplashActivity}" drawable="nfl_mobile" />
         <item component="ComponentInfo{com.gpvargas.collateral/com.gpvargas.collateral.CollateralActivity}" drawable="collateral" />
         <item component="ComponentInfo{com.grabtaxi.passenger/com.myteksi.passenger.splash.SplashActivity}" drawable="grab" />
+        <item component="ComponentInfo{com.grabtaxi.passenger/com.grab.pax.Home}" drawable="grab" />
         <item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.activities.StartActivity-Material}" drawable="kernel_adiutor"/>
         <item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.activities.StartActivity}" drawable="kernel_adiutor"/>
         <item component="ComponentInfo{com.grarak.kerneladiutor/com.grarak.kerneladiutor.MainActivity}" drawable="kernel_adiutor"/>
@@ -2214,7 +2215,7 @@
         <item component="ComponentInfo{com.jrummy.busybox.installer/com.jrummy.busybox.installer.MainActivity}" drawable="jrummy_busybox" />
 
 
-    <!--version 1.1.0-->
+    <!--version 1.1.1-->
         <item component="ComponentInfo{tech.hexa/tech.hexa.MainActivity}" drawable="hexatech" />
         <item component="ComponentInfo{free.vpn.unblock.proxy.turbovpn/free.vpn.unblock.proxy.turbovpn.activity.VpnMainActivity}" drawable="turbo_vpn" />
         <item component="ComponentInfo{net.flixster.android/com.flixster.android.bootstrap.BootstrapActivity}" drawable="flixster" />
@@ -2222,9 +2223,7 @@
         <item component="ComponentInfo{com.powerschool.portal/com.pearson.powerschool.android.portal.PortalActivity}" drawable="powerschool" />
         <item component="ComponentInfo{com.rbc.mobile.android/com.rbc.mobile.bud.activities.PreAuthMainActivity}" drawable="rbc" />
         <item component="ComponentInfo{be.persgroep.android.news.mobiledm/mobi.inthepocket.persgroep.demorgen.activities.HomeActivity}" drawable="demorgen" />
-        <item component="ComponentInfo{com.beliefengine.handyapp/com.unity3d.player.UnityPlayerNativeActivity}" drawable="handy" />
-        <item component="ComponentInfo{org.qpython.qpy}" drawable="qpython" />
-        <item component="ComponentInfo{software.wear.top.apps.store/software.wear.top.apps.store.MainActivity}" drawable="android_wear_center" />
+        <item component="ComponentInfo{software.wear.top.apps.store/software.wear.top.apps.store.MainActivity}" drawable="smartwatch_center" />
         <item component="ComponentInfo{us.com.dt.iq.appsource.tmobile/us.com.dt.iq.appsource.tmobile.IQStartActivity}" drawable="app_source" />
         <item component="ComponentInfo{com.flyperinc.cornerfly/com.flyperinc.cornerfly.activity.Loading}" drawable="cornerfly" />
         <item component="ComponentInfo{com.ss.squarehome2/com.ss.squarehome2.MyPreferencesActivity}" drawable="square_home" />

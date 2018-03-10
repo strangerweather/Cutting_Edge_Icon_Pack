@@ -49,10 +49,10 @@ public class License {
      * Format: new InAppBilling("premium request product id", number of icons)
      */
     private static final InAppBilling[] PREMIUM_REQUEST_PRODUCTS = new InAppBilling[] {
-            new InAppBilling("com.strangerweather.nextgenicons.product1", 1),
-            new InAppBilling("com.strangerweather.nextgenicons.product2", 2),
-            new InAppBilling("com.strangerweather.nextgenicons.product3", 3),
-            new InAppBilling("com.strangerweather.nextgenicons.product4", 4)
+            new InAppBilling("com.strangerweather.nextgenicons.product1", 10),
+            new InAppBilling("com.strangerweather.nextgenicons.product2", 20),
+            new InAppBilling("com.strangerweather.nextgenicons.product3", 30),
+            new InAppBilling("com.strangerweather.nextgenicons.product4", 40)
     };
 
     /*
