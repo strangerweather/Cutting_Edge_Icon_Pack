@@ -2285,9 +2285,9 @@
         <item component="ComponentInfo{au.gov.dhs.centrelinkexpressplus/au.gov.dhs.centrelinkexpressplus.activities.anonymous.LauncherActivity}" drawable="centrelink" />
         <item component="ComponentInfo{com.glassdoor.app/com.glassdoor.gdandroid2.ui.activities.LaunchActivity}" drawable="glassdoor" />
         <item component="ComponentInfo{io.dwak.holohackernews.app/io.dwak.holohackernews.app.ui.storylist.MainActivity}" drawable="hackernews" />
-
-
         <item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="adobe_photoshop_express" />
+
+
         <item component="ComponentInfo{de.swm.mvgfahrinfo.muenchen/de.swm.mvgfahrinfo.muenchen.common.general.activities.StartupActivity}" drawable="mvg_fahrinfo" />
         <item component="ComponentInfo{de.sdvrz.ihb.mobile.app/de.sdvrz.ihb.bankingapp.start.StartActivity}" drawable="sparda_bank" />
         <item component="ComponentInfo{com.intsig.BCRLite/com.intsig.camcard.BcrFirstLaunchGuide}" drawable="camcard" />

@@ -116,6 +116,8 @@
     <item drawable="apk_extractor" />
     <item drawable="applock" />
     <item drawable="app_source" />
+    <item drawable="avea" />
+    <item drawable="adobe_photoshop_express" />
 
     <category title="B" />
     <item drawable="better" />
@@ -287,6 +289,7 @@
     <item drawable="cornerfly" />
     <item drawable="colu" />
     <item drawable="couch_to_5k" />
+    <item drawable="centrelink" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -497,6 +500,7 @@
     <item drawable="gallery_vault" />
     <item drawable="gmx_mail" />
     <item drawable="gett" />
+    <item drawable="glassdoor" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -539,6 +543,7 @@
     <item drawable="habitica" />
     <item drawable="hexatech" />
     <item drawable="hamster_life" />
+    <item drawable="hackernews" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -565,6 +570,7 @@
     <item drawable="ing" />
     <item drawable="irctc_rail_connect" />
     <item drawable="inter" />
+    <item drawable="issuu" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -606,6 +612,7 @@
     <item drawable="knudge_me" />
     <item drawable="kyocera_print" />
     <item drawable="kontostand" />
+    <item drawable="kohls" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -645,6 +652,7 @@
     <item drawable="lg_smart_world" />
     <item drawable="liston" />
     <item drawable="lose_it" />
+    <item drawable="leos_fortune" />
 
 
     <category title="M" />
@@ -1099,6 +1107,7 @@
     <item drawable="smartwatch_center" />
     <item drawable="square_home" />
     <item drawable="stack" />
+    <item drawable="s_converter" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1304,6 +1313,7 @@
     <item drawable="widget_lock_screen_pro" />
     <item drawable="wolfie_for_kwgt" />
     <item drawable="wordswag" />
+    <item drawable="wabbitemu" />
 
     <category title="X"/>
     <item drawable="xbox" />
