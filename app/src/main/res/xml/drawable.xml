@@ -290,6 +290,7 @@
     <item drawable="colu" />
     <item drawable="couch_to_5k" />
     <item drawable="centrelink" />
+    <item drawable="camcard" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -808,6 +809,8 @@
     <item drawable="nebula" />
     <item drawable="network_signal_refresher" />
     <item drawable="night_shift" />
+    <item drawable="norwegian" />
+    <item drawable="note_everything" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1108,6 +1111,8 @@
     <item drawable="square_home" />
     <item drawable="stack" />
     <item drawable="s_converter" />
+    <item drawable="sygic" />
+    <item drawable="s_note" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />

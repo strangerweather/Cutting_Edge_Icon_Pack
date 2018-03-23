@@ -2287,20 +2287,15 @@
         <item component="ComponentInfo{io.dwak.holohackernews.app/io.dwak.holohackernews.app.ui.storylist.MainActivity}" drawable="hackernews" />
         <item component="ComponentInfo{com.adobe.psmobile/com.adobe.psmobile.SplashScreen}" drawable="adobe_photoshop_express" />
 
-
-        <item component="ComponentInfo{de.swm.mvgfahrinfo.muenchen/de.swm.mvgfahrinfo.muenchen.common.general.activities.StartupActivity}" drawable="mvg_fahrinfo" />
-        <item component="ComponentInfo{de.sdvrz.ihb.mobile.app/de.sdvrz.ihb.bankingapp.start.StartActivity}" drawable="sparda_bank" />
+<!--Version 1.1.2-->
+        <item component="ComponentInfo{com.norwegian.travelassistant/com.norwegian.travelassistant.startup.SplashActivity}" drawable="norwegian" />
         <item component="ComponentInfo{com.intsig.BCRLite/com.intsig.camcard.BcrFirstLaunchGuide}" drawable="camcard" />
         <item component="ComponentInfo{nextapp.fx/nextapp.fx.ui.textedit.TextEditorActivity}" drawable="fx" />
-        <item component="ComponentInfo{com.mseven.msecure/com.mseven.msecure.Licensing}" drawable="msecure" />
         <item component="ComponentInfo{de.softxperience.android.noteeverything/de.softxperience.android.noteeverything.NoteEverything}" drawable="note_everything" />
         <item component="ComponentInfo{com.sygic.aura/com.sygic.aura.activity.NaviNativeActivity}" drawable="sygic" />
-        <item component="ComponentInfo{kr.aboy.unit/kr.aboy.unit.MsgCheck}" drawable="unit_pro" />
         <item component="ComponentInfo{uk.gov.metoffice.weather.android/uk.gov.metoffice.weather.android.controllers.splash.SplashActivity}" drawable="met_office" />
         <item component="ComponentInfo{com.mobisystems.editor.office_registered/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="officesuite" />
-        <item component="ComponentInfo{org.pdfsam.pdfmerge/org.pdfsam.pdfmerge.MainActivity}" drawable="pdf_merge" />
         <item component="ComponentInfo{com.samsung.android.snote/com.samsung.android.snote.control.ui.filemanager.MainHomeActivity}" drawable="s_note" />
-        <item component="ComponentInfo{com.piksoft.turboscan/com.piksoft.turboscan.ui.LauncherActivity}" drawable="turboscan" />
         <item component="ComponentInfo{com.mathpad.mobile.android.wt.unit/com.mathpad.mobile.android.wt.unit.UnitActivity}" drawable="convertpad" />
         <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
         <item component="ComponentInfo{de.sde.mobile/de.sde.mobile.activities.DepartmentActivity}" drawable="sueddeutsche" />
