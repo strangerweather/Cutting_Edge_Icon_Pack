@@ -2312,13 +2312,10 @@
         <item component="ComponentInfo{com.robtopx.geometryjump/com.robtopx.geometryjump.GeometryJump}" drawable="geometry_dash" />
         <item component="ComponentInfo{com.nets.betalingsservice/com.nets.betalingsservice.ui.activity.SplashActivity}" drawable="betalingsservice" />
         <item component="ComponentInfo{com.cellpointmobile.dsb.mobilbillet/com.dsb.ui.SplashActivity}" drawable="dsb" />
-        <item component="ComponentInfo{dk.danskebank.mobilepay/dk.danskebank.p2p.ui.login.LoginActivity}" drawable="mobile_pay" />
         <item component="ComponentInfo{com.cargurus.mobileApp/com.cargurus.mobileApp.MainActivity}" drawable="cargurus" />
-        <item component="ComponentInfo{com.android.musicfx/com.android.musicfx.ActivityMusic}" drawable="musicfx" />
         <item component="ComponentInfo{com.microsoft.teams/com.microsoft.skype.teams.Launcher}" drawable="microsoft_teams" />
-        <item component="ComponentInfo{com.dysfunctional.apps.herolabcharactersheet/com.dysfunctional.apps.pcgencharactersheet.MainActivity}" drawable="hero_lab_importer" />
         <item component="ComponentInfo{com.amazon.now/com.amazon.now.home.WelcomeScreen}" drawable="prime_now" />
-        <item component="ComponentInfo{com.tmobile.vvm.application/com.tmobile.vvm.application.activity.setup.WelcomeActivity}" drawable="t_mobile_voicemail" />
+        <item component="ComponentInfo{com.tmobile.vvm.application/com.tmobile.vvm.application.activity.setup.WelcomeActivity}" drawable="t_mobile_vvm" />
         <item component="ComponentInfo{com.duosecurity.duomobile/com.duosecurity.duomobile.screens.AccountListActivity}" drawable="duo_mobile" />
         <item component="ComponentInfo{com.revolut.revolut/com.revolut.ui.login.pin.LoginActivity}" drawable="revolut" />
         <item component="ComponentInfo{com.good.gcs/com.good.gcs.activity.GCSMainActivity}" drawable="blackberry_work" />

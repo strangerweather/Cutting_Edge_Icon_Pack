@@ -197,6 +197,7 @@
     <item drawable="banorte_movil" />
     <item drawable="birthday_calendar" />
     <item drawable="bandcamp" />
+    <item drawable="betalingsservice" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -291,6 +292,8 @@
     <item drawable="couch_to_5k" />
     <item drawable="centrelink" />
     <item drawable="camcard" />
+    <item drawable="canabalt_hd" />
+    <item drawable="cargurus" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -341,6 +344,7 @@
     <item drawable="drupe" />
     <item drawable="duckduckgo" />
     <item drawable="deemo" />
+    <item drawable="dsb" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -505,6 +509,7 @@
     <item drawable="gett" />
     <item drawable="glassdoor" />
     <item drawable="granny_smith" />
+    <item drawable="geometry_dash" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -765,6 +770,7 @@
     <item drawable="myrogers" />
     <item drawable="meteor" />
     <item drawable="mobile_passport" />
+    <item drawable="microsoft_teams" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -938,6 +944,7 @@
     <item drawable="powerschool" />
     <item drawable="parceltrack" />
     <item drawable="playstation_vue" />
+    <item drawable="prime_now" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1223,6 +1230,7 @@
     <item drawable="time2feed" />
     <item drawable="tile" />
     <item drawable="terraria" />
+    <item drawable="t_mobile_vvm" />
 
     <category title="U" />
     <item drawable="unified_remote" />
