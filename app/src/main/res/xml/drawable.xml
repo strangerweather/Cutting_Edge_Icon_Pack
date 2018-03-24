@@ -339,6 +339,8 @@
     <item drawable="duplicate_photos_fixer" />
     <item drawable="demorgen" />
     <item drawable="drupe" />
+    <item drawable="duckduckgo" />
+    <item drawable="deemo" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -502,6 +504,7 @@
     <item drawable="gmx_mail" />
     <item drawable="gett" />
     <item drawable="glassdoor" />
+    <item drawable="granny_smith" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -584,6 +587,7 @@
     <item drawable="jiomoney" />
     <item drawable="jiomusic" />
     <item drawable="jrummy_busybox" />
+    <item drawable="jed" />
 
 
     <category title="K" />
@@ -614,6 +618,8 @@
     <item drawable="kyocera_print" />
     <item drawable="kontostand" />
     <item drawable="kohls" />
+    <item drawable="kobo_ebooks" />
+    <item drawable="kentucky_bank" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -654,6 +660,7 @@
     <item drawable="liston" />
     <item drawable="lose_it" />
     <item drawable="leos_fortune" />
+    <item drawable="los_changelog" />
 
 
     <category title="M" />
@@ -1113,6 +1120,8 @@
     <item drawable="s_converter" />
     <item drawable="sygic" />
     <item drawable="s_note" />
+    <item drawable="sueddeutsche" />
+    <item drawable="scribblenauts" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1213,6 +1222,7 @@
     <item drawable="the_sims" />
     <item drawable="time2feed" />
     <item drawable="tile" />
+    <item drawable="terraria" />
 
     <category title="U" />
     <item drawable="unified_remote" />

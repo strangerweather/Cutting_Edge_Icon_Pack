@@ -2296,21 +2296,16 @@
         <item component="ComponentInfo{uk.gov.metoffice.weather.android/uk.gov.metoffice.weather.android.controllers.splash.SplashActivity}" drawable="met_office" />
         <item component="ComponentInfo{com.mobisystems.editor.office_registered/com.mobisystems.office.splashScreen.SplashScreenActivity}" drawable="officesuite" />
         <item component="ComponentInfo{com.samsung.android.snote/com.samsung.android.snote.control.ui.filemanager.MainHomeActivity}" drawable="s_note" />
-        <item component="ComponentInfo{com.mathpad.mobile.android.wt.unit/com.mathpad.mobile.android.wt.unit.UnitActivity}" drawable="convertpad" />
         <item component="ComponentInfo{com.duckduckgo.mobile.android/com.duckduckgo.mobile.android.activity.DuckDuckGo}" drawable="duckduckgo" />
         <item component="ComponentInfo{de.sde.mobile/de.sde.mobile.activities.DepartmentActivity}" drawable="sueddeutsche" />
         <item component="ComponentInfo{com.vasudevrb.cmchangelog/com.vasudevrb.cmchangelog.view.MainActivity}" drawable="los_changelog" />
-        <item component="ComponentInfo{com.sonymobile.androidapp.gridcomputing/com.sonymobile.androidapp.gridcomputing.activities.EulaActivity}" drawable="folding_at_home" />
         <item component="ComponentInfo{com.kobobooks.android/com.kobobooks.android.screens.AppLoading}" drawable="kobo_ebooks" />
         <item component="ComponentInfo{bbc.mobile.news.ww/bbc.mobile.news.v3.app.TopLevelActivity}" drawable="bbc_news" />
         <item component="ComponentInfo{com.umibouzu.jed/com.umibouzu.jed.MenuActivity}" drawable="jed" />
         <item component="ComponentInfo{com.kentuckybank.mobile/nz.co.mcom.phone.login.SplashscreenActivity}" drawable="kentucky_bank" />
         <item component="ComponentInfo{com.mediocre.grannysmith/com.mediocre.grannysmith.Main}" drawable="granny_smith" />
-        <item component="ComponentInfo{com.livezen.retroshooting.free/com.unity3d.player.UnityPlayerActivity}" drawable="retro_shooting" />
         <item component="ComponentInfo{com.outerminds.pewdiepie/com.unity3d.player.UnityPlayerNativeActivity}" drawable="pewdiepie" />
-        <item component="ComponentInfo{com.rayark.Cytus.full/com.prime31.UnityPlayerNativeActivity}" drawable="cytus" />
         <item component="ComponentInfo{com.rayark.pluto/com.prime31.UnityPlayerNativeActivity}" drawable="deemo" />
-        <item component="ComponentInfo{com.channel4.superarclight/com.unity3d.player.UnityPlayerNativeActivity}" drawable="super_arc_light" />
         <item component="ComponentInfo{com.and.games505.TerrariaPaid/com.codeglue.terraria.Terraria}" drawable="terraria" />
         <item component="ComponentInfo{com.wb.goog.scribbleremix/com.game.scrib.GoogleLauncherActivity}" drawable="scribblenauts" />
         <item component="ComponentInfo{fishnoodle.canabalt/fishnoodle.canabalt.CanabaltActivity}" drawable="canabalt_hd" />
