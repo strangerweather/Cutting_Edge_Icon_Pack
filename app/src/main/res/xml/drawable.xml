@@ -198,6 +198,7 @@
     <item drawable="birthday_calendar" />
     <item drawable="bandcamp" />
     <item drawable="betalingsservice" />
+    <item drawable="blackberry_work" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -345,6 +346,7 @@
     <item drawable="duckduckgo" />
     <item drawable="deemo" />
     <item drawable="dsb" />
+    <item drawable="duo_mobile" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -553,6 +555,7 @@
     <item drawable="hexatech" />
     <item drawable="hamster_life" />
     <item drawable="hackernews" />
+    <item drawable="hungry_shark" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -666,6 +669,7 @@
     <item drawable="lose_it" />
     <item drawable="leos_fortune" />
     <item drawable="los_changelog" />
+    <item drawable="leon" />
 
 
     <category title="M" />
@@ -771,6 +775,7 @@
     <item drawable="meteor" />
     <item drawable="mobile_passport" />
     <item drawable="microsoft_teams" />
+    <item drawable="moneytree" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -959,6 +964,7 @@
     <item drawable="quizduell" />
     <item drawable="qr_and_barcode_scanner_pro" />
     <item drawable="quick_for_wear" />
+    <item drawable="quicky" />
 
     <category title="R" />
     <item drawable="rediffmail" />
@@ -988,6 +994,7 @@
     <item drawable="round_corners" />
     <item drawable="retouch" />
     <item drawable="rbc" />
+    <item drawable="revolut" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
