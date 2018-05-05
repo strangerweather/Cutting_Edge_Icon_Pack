@@ -2418,10 +2418,6 @@
         <!-- Amazon Seller -->
         <item component="ComponentInfo{com.amazon.sellermobile.android/com.amazon.mShop.home.MainActivity}" drawable="amazon_seller" />
 
-        <!-- Amazon Shopping -->
-        <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" />
-        <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" />
-
         <!--Express -->
         <item component="ComponentInfo{com.google.android.apps.shopping.express/com.google.android.apps.shopping.express.activity.PreMainActivity}" drawable="google_express" />
 
