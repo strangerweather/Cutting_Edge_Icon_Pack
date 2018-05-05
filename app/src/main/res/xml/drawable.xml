@@ -120,6 +120,10 @@
     <item drawable="adobe_photoshop_express" />
     <item drawable="assistant" />
     <item drawable="amtrack" />
+    <item drawable="air_france" />
+    <item drawable="amazon_seller" />
+    <item drawable="amazon_shopping" />
+    <item drawable="abc" />
 
     <category title="B" />
     <item drawable="better" />
@@ -203,6 +207,9 @@
     <item drawable="blackberry_work" />
     <item drawable="briefing" />
     <item drawable="bitcoin_wallet" />
+    <item drawable="british_airways" />
+    <item drawable="buzzfeed" />
+    <item drawable="buzzfeed_news" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -300,6 +307,7 @@
     <item drawable="canabalt_hd" />
     <item drawable="cargurus" />
     <item drawable="calendar_status_pro" />
+    <item drawable="capital_one" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -521,6 +529,9 @@
     <item drawable="geometry_dash" />
     <item drawable="game_booster" />
     <item drawable="gmd_immersive" />
+    <item drawable="google_blogger" />
+    <item drawable="google_classroom" />
+    <item drawable="google_express" />
 
     <category title="H" />
     <item drawable="hq_music" />

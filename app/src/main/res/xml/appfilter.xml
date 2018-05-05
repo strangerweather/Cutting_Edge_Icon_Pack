@@ -2396,7 +2396,38 @@
         <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="bitcoin_wallet" />
 
         <!-- Air France -->
-        <item component="ComponentInfo{com.airfrance.android.dinamoprd/com.airfrance.android.totoro.ui.activity.main.MainActivity}" drawable="ic_air_france" />
+        <item component="ComponentInfo{com.airfrance.android.dinamoprd/com.airfrance.android.totoro.ui.activity.main.MainActivity}" drawable="air_france" />
+
+        <!-- British Airways -->
+        <item component="ComponentInfo{com.ba.mobile/com.ba.mobile.LaunchActivity}" drawable="british_airways" />
+
+        <!-- Buzzfeed -->
+        <item component="ComponentInfo{com.buzzfeed.android/com.buzzfeed.android.activity.SplashActivity}" drawable="buzzfeed" />
+
+        <item component="ComponentInfo{com.buzzfeed.news/com.buzzfeed.news.activity.SplashActivity}" drawable="buzzfeed_news" />
+
+        <!-- Capital One -->
+        <item component="ComponentInfo{com.konylabs.capitalone/com.konylabs.capitalone.EnterpriseMobileBanking.LaunchActivity}" drawable="capital_one" />
+
+        <!--Blogger-->
+        <item component="ComponentInfo{com.google.android.apps.blogger/com.google.android.apps.blogger.SignInActivity}" drawable="google_blogger" />
+
+        <!-- Classroom -->
+        <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity}" drawable="google_classroom" />
+
+        <!-- Amazon Seller -->
+        <item component="ComponentInfo{com.amazon.sellermobile.android/com.amazon.mShop.home.MainActivity}" drawable="amazon_seller" />
+
+        <!-- Amazon Shopping -->
+        <item component="ComponentInfo{com.amazon.mShop.android.shopping/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" />
+        <item component="ComponentInfo{com.amazon.mShop.android/com.amazon.mShop.home.HomeActivity}" drawable="amazon_shopping" />
+
+        <!--Express -->
+        <item component="ComponentInfo{com.google.android.apps.shopping.express/com.google.android.apps.shopping.express.activity.PreMainActivity}" drawable="google_express" />
+
+        <!-- ABC App -->
+        <item component="ComponentInfo{com.disney.datg.videoplatforms.android.abc/com.disney.datg.android.abc.startup.AbcSplashScreenActivity}" drawable="abc" />
+
 
         <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
         <item component="ComponentInfo{com.wpcentral.app/com.androidcentral.app.HomeActivity}" drawable="windows_central" />
