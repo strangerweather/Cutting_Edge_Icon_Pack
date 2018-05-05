@@ -118,6 +118,8 @@
     <item drawable="app_source" />
     <item drawable="avea" />
     <item drawable="adobe_photoshop_express" />
+    <item drawable="assistant" />
+    <item drawable="amtrack" />
 
     <category title="B" />
     <item drawable="better" />
@@ -199,6 +201,8 @@
     <item drawable="bandcamp" />
     <item drawable="betalingsservice" />
     <item drawable="blackberry_work" />
+    <item drawable="briefing" />
+    <item drawable="bitcoin_wallet" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -295,9 +299,11 @@
     <item drawable="camcard" />
     <item drawable="canabalt_hd" />
     <item drawable="cargurus" />
+    <item drawable="calendar_status_pro" />
 
     <category title="D" />
     <item drawable="diaro" />
+    <item drawable="dominos" />
     <item drawable="dubsmash" />
     <item drawable="duolingo" />
     <item drawable="drastic" />
@@ -347,6 +353,7 @@
     <item drawable="deemo" />
     <item drawable="dsb" />
     <item drawable="duo_mobile" />
+    <item drawable="dailymotion" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -512,6 +519,8 @@
     <item drawable="glassdoor" />
     <item drawable="granny_smith" />
     <item drawable="geometry_dash" />
+    <item drawable="game_booster" />
+    <item drawable="gmd_immersive" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -556,6 +565,7 @@
     <item drawable="hamster_life" />
     <item drawable="hackernews" />
     <item drawable="hungry_shark" />
+    <item drawable="hd_camera_pro" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -776,6 +786,9 @@
     <item drawable="mobile_passport" />
     <item drawable="microsoft_teams" />
     <item drawable="moneytree" />
+    <item drawable="magnifying_glass" />
+    <item drawable="my_apk" />
+    <item drawable="mytuner_pro" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -829,6 +842,7 @@
     <item drawable="night_shift" />
     <item drawable="norwegian" />
     <item drawable="note_everything" />
+    <item drawable="nike" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -950,6 +964,8 @@
     <item drawable="parceltrack" />
     <item drawable="playstation_vue" />
     <item drawable="prime_now" />
+    <item drawable="photomania" />
+    <item drawable="pizza_hut" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1136,6 +1152,8 @@
     <item drawable="s_note" />
     <item drawable="sueddeutsche" />
     <item drawable="scribblenauts" />
+    <item drawable="sigcare" />
+    <item drawable="s9_navigation_bar" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1386,4 +1404,5 @@
     <item drawable="z_archiver" />
     <item drawable="zillow" />
     <item drawable="zenui_themes" />
+    <item drawable="zoom_cloud_meetings" />
 </resources>

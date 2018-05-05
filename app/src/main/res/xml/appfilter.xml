@@ -14,6 +14,7 @@
         <item component=":SMS" drawable="messaging" />
         <item component="ComponentInfo{com.ikvaesolutions.notificationhistorylog/com.ikvaesolutions.notificationhistorylog.views.activity.SplashScreenActivity}" drawable="notification_history_log" />
         <item component="ComponentInfo{fr.canalplus.itele/fr.canalplus.itele.activity.MainActivity}" drawable="cnews" />
+        <item component="ComponentInfo{fr.canalplus.itele/cnews.com.cnews.ui.activity.SplashActivity}" drawable="cnews" />
         <item component="ComponentInfo{com.jamworks.easyhome/com.jamworks.easyhome.SettingsHome}" drawable="easyhome" />
         <item component="ComponentInfo{com.eurosport.player/com.eurosport.player.appstart.viewcontroller.SplashActivity}" drawable="eurosport_player" />
         <item component="ComponentInfo{com.hbwares.wordfeud.full/com.hbwares.wordfeud.ui.WordFeudActivity}" drawable="wordfeud" />
@@ -31,6 +32,7 @@
         <item component="ComponentInfo{com.hm.goe/com.hm.goe.app.HomeActivity}" drawable="h_and_m" />
         <item component="ComponentInfo{com.huawei.health/com.huawei.health.MainActivity}" drawable="huawei_health" />
         <item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.ui.HelpCenterActivity}" drawable="hicare" />
+        <item component="ComponentInfo{com.huawei.phoneservice/com.huawei.phoneservice.LaunchActivity}" drawable="hicare" />
         <item component="ComponentInfo{com.huawei.gamebox.global/com.huawei.gamebox.GameBoxActivity}" drawable="higame" />
         <item component="ComponentInfo{com.nespresso.activities/com.nespresso.ui.activity.LaunchActivity}" drawable="nespresso" />
         <item component="ComponentInfo{air.ITVMobilePlayer/com.candyspace.itvplayer.sharedviews.screens.main.MainActivity}" drawable="itv_hub" />
@@ -2327,7 +2329,75 @@
         <item component="ComponentInfo{com.zte.camera/com.zte.camera.CameraActivity}" drawable="camera" />
         <item component="ComponentInfo{zte.com.cn.alarmclock/zte.com.cn.alarmclock.activity.AlarmClockActivity}" drawable="clock" />
         <item component="ComponentInfo{com.worldofbilly.quickmuni/com.worldofbilly.quickmuni.MainActivity}" drawable="quicky" />
-        <item component="ComponentInfo{com.target.socsav/com.target.socsav.activity.LoginActivity}" drawable="cartwheel" />
+
+
+        <!--Version 1.1.3.-->
+
+        <!--  SigCare -->
+        <item component="ComponentInfo{hapago.sc/hapago.sc.MainTabActivity}" drawable=" sigcare" />
+
+        <!-- Calendar Status Pro -->
+        <item component="ComponentInfo{com.SagiL.calendarstatuspro/com.SagiL.calendarstatuspro.MainActivityPro}" drawable="calendar_status_pro" />
+
+        <!-- Game Booster -->
+        <item component="ComponentInfo{com.ruh.gameboosterpro/com.ruh.gameboosterpro.GameBoosterMain}" drawable="game_booster" />
+
+        <!-- HD Camera Pro -->
+        <item component="ComponentInfo{com.bandungdev1.burst.camera360pro/com.antafunny.burstcamera.MainActivity}" drawable="hd_camera_pro" />
+
+        <!-- Knudge.me -->
+        <item component="ComponentInfo{com.knudge.me/com.knudge.me.activity.MainActivity}" drawable="knudge_me" />
+
+        <!-- Magnifying Glass -->
+        <item component="ComponentInfo{com.ilite.magnify.magnifyingglass/com.ilite.magnify.magnifyingglass.ui.MainActivity}" drawable="magnifying_glass" />
+
+        <!-- My APK -->
+        <item component="ComponentInfo{com.andatsoft.myapk.fwa/com.andatsoft.app.myapk.screen.SplashActivity}" drawable="my_apk" />
+
+        <!-- myTuner Pro -->
+        <item component="ComponentInfo{com.appgeneration.itunerpro/com.appgeneration.ituner.application.activities.SplashActivity}" drawable="mytuner_pro" />
+
+        <!-- PhotoMania -->
+        <item component="ComponentInfo{com.photomania.app/com.photomania.app.MainActivity}" drawable="photomania" />
+
+        <!-- S9 Navigation Bar -->
+        <item component="ComponentInfo{com.vietbm.s9navigation/com.vietbm.s9navigation.activity.Splashscreen}" drawable="s9_navigation_bar" />
+
+        <item component="ComponentInfo{com.google.android.apps.googleassistant/com.google.android.apps.googleassistant.AssistantActivity}" drawable="assistant" />
+
+        <item component="ComponentInfo{flipboard.boxer.app/flipboard.boxer.gui.LaunchActivity}" drawable="briefing" />
+
+        <item component="ComponentInfo{com.deltatre.atp.tennis.android/com.tennistv.android.activities.splash.SplashActivity}" drawable="tennis_tv" />
+
+        <item component="ComponentInfo{com.ormlondon.chilternace/com.ormlondon.chilternace.WalkthroughActivity}" drawable="chiltern_railways" />
+
+        <item component="ComponentInfo{com.gmd.immersive/com.gmd.hidesoftkeys.MainActivity}" drawable="gmd_immersive" />
+
+        <!-- Amtrack -->
+        <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.StartupActivity}" drawable="amtrack" />
+        <item component="ComponentInfo{com.amtrak.rider/com.amtrak.rider.Amtrak}" drawable="amtrack" />
+
+        <!-- Dominos -->
+        <item component="ComponentInfo{com.dominospizza/com.dominos.activities.InitialLaunchActivity}" drawable="dominos" />
+
+        <!-- Zoom -->
+        <item component="ComponentInfo{us.zoom.videomeetings/com.zipow.videobox.LauncherActivity}" drawable="zoom_cloud_meetings" />
+
+        <!-- Pizza Hut -->
+        <item component="ComponentInfo{com.yum.pizzahut/com.yum.pizzahut.Home}" drawable="pizza_hut" />
+
+        <!-- Nike -->
+        <item component="ComponentInfo{com.nike.omega/com.nike.mynike.ui.SplashScreenActivity}" drawable="nike" />
+
+        <!-- Daily Motion -->
+        <item component="ComponentInfo{com.dailymotion.dailymotion/com.dailymotion.dailymotion.mobile.activity.InterstitialActivity}" drawable="dailymotion" />
+
+        <!-- Bitcoin Wallet -->
+        <item component="ComponentInfo{de.schildbach.wallet/de.schildbach.wallet.WalletActivity}" drawable="bitcoin_wallet" />
+
+        <!-- Air France -->
+        <item component="ComponentInfo{com.airfrance.android.dinamoprd/com.airfrance.android.totoro.ui.activity.main.MainActivity}" drawable="ic_air_france" />
+
         <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
         <item component="ComponentInfo{com.wpcentral.app/com.androidcentral.app.HomeActivity}" drawable="windows_central" />
         <item component="ComponentInfo{br.com.bb.android/br.com.bb.android.StartActivity}" drawable="banco_de_brasil" />
