@@ -2501,7 +2501,38 @@
         <!-- Homify -->
         <item component="ComponentInfo{com.online.homify/com.online.homify.views.activities.SplashActivity}" drawable="homify" />
 
-        <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
+        <!-- Hotel tonight -->
+        <item component="ComponentInfo{com.hoteltonight.android.prod/com.hoteltonight.android.prod.activity.SplashActivity}" drawable="hotel_tonight" />
+
+        <!-- Houzz -->
+        <item component="ComponentInfo{com.houzz.app/com.houzz.app.SplashScreenActivity}" drawable="houzz" />
+
+        <!-- HQ Trivia -->
+        <item component="ComponentInfo{com.intermedia.hq/com.intermedia.EntryActivity}" drawable="hq_trivia" />
+
+        <!-- icq -->
+        <item component="ComponentInfo{com.icq.mobile.client/ru.mail.instantmessanger.flat.main.MainActivity}" drawable="icq" />
+
+        <!-- Instacart -->
+        <item component="ComponentInfo{com.instacart.client/com.instacart.client.browse.ICBrowseActivity}" drawable="instacart" />
+
+        <!-- Instagram Layout-->
+        <item component="ComponentInfo{com.instagram.layout/com.instagram.layout.LayoutActivity}" drawable="instagram_layout" />
+
+        <!-- Intercom -->
+        <item component="ComponentInfo{io.intercom.android/io.intercom.android.screens.SplashScreenActivity}" drawable="intercom" />
+
+        <!-- Invision -->
+        <item component="ComponentInfo{com.invisionapp.ifa/com.invisionapp.ifa.MainActivity}" drawable="invision" />
+
+        <!-- jetBlue -->
+        <item component="ComponentInfo{com.jetblue.JetBlueAndroid/com.jetblue.JetBlueAndroid.activities.MainActivity}" drawable="jetblue" />
+
+        <!-- JustGiving -->
+        <item component="ComponentInfo{com.justgiving.app/md538205ef0c55c985943ce743f87130599.SplashScreen}" drawable="justgiving" />
+
+
+    <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
         <item component="ComponentInfo{com.wpcentral.app/com.androidcentral.app.HomeActivity}" drawable="windows_central" />
         <item component="ComponentInfo{br.com.bb.android/br.com.bb.android.StartActivity}" drawable="banco_de_brasil" />
         <item component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}" drawable="ifood" />

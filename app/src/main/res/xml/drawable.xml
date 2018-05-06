@@ -597,6 +597,10 @@
     <item drawable="hipchat" />
     <item drawable="hipchat_beta" />
     <item drawable="holo_launcher" />
+    <item drawable="homify" />
+    <item drawable="hotel_tonight" />
+    <item drawable="houzz" />
+    <item drawable="hq_trivia" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -624,6 +628,9 @@
     <item drawable="irctc_rail_connect" />
     <item drawable="inter" />
     <item drawable="issuu" />
+    <item drawable="icq" />
+    <item drawable="instacart" />
+    <item drawable="instagram_layout" />
 
     <category title="J" />
     <item drawable="journey" />
