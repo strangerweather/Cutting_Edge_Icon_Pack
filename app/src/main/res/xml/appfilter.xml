@@ -2424,6 +2424,82 @@
         <!-- ABC App -->
         <item component="ComponentInfo{com.disney.datg.videoplatforms.android.abc/com.disney.datg.android.abc.startup.AbcSplashScreenActivity}" drawable="abc" />
 
+        <!-- Amazon Appstore -->
+        <item component="ComponentInfo{com.amazon.venezia/com.amazon.venezia.Launcher}" drawable="amazon_appstore" />
+
+        <!-- Amazon Drive -->
+        <item component="ComponentInfo{com.amazon.drive/com.amazon.drive.activity.MainActivity}" drawable="amazon_drive" />
+
+        <!-- AmpMe -->
+        <item component="ComponentInfo{com.amp.android/com.amp.android.ui.activity.LaunchActivity}" drawable="ampme" />
+
+        <!-- Bandcamp Artist -->
+        <item component="ComponentInfo{com.bandcamp.artistapp/com.bandcamp.artistapp.RootTabActivity}" drawable="bandcamp_artist" />
+
+        <!-- Buffer -->
+        <item component="ComponentInfo{org.buffer.android/org.buffer.android.ui.onboarding.SplashScreen}" drawable="buffer" />
+
+        <!-- Cash -->
+        <item component="ComponentInfo{com.squareup.cash/com.squareup.cash.ui.MainActivity}" drawable="cash" />
+
+        <!-- Citi -->
+        <item component="ComponentInfo{com.citi.citimobile/com.citi.mobile.pt3.GlobalPhoneActivity}" drawable="citi" />
+
+        <!-- CNN -->
+        <item component="ComponentInfo{com.cnn.mobile.android.phone/com.cnn.mobile.android.phone.features.splash.SplashActivity}" drawable="cnn" />
+
+        <!-- Coursera -->
+        <item component="ComponentInfo{org.coursera.android/org.coursera.android.MainActivity}" drawable="coursera" />
+
+        <!-- Discover -->
+        <item component="ComponentInfo{com.discoverfinancial.mobile/com.discover.mobile.common.login.LoginActivity895}" drawable="discover" />
+        <item component="ComponentInfo{com.discoverfinancial.mobile/com.discover.mobile.common.login.LoginActivity}" drawable="discover" />
+        <item component="ComponentInfo{com.discoverfinancial.mobile/com.discover.mobile.card.forgot.activity.AlternateLoginActivity}" drawable="discover" />
+
+        <!-- Doodle Jump -->
+        <item component="ComponentInfo{com.lima.doodlejump/com.limasky.doodlejumpandroid.MainActivity}" drawable="doodlejump" />
+
+        <!-- Ello -->
+        <item component="ComponentInfo{co.ello.ElloApp/co.ello.ElloApp.SplashActivity}" drawable="ello" />
+
+        <!-- Expedia -->
+        <item component="ComponentInfo{com.expedia.bookings/com.expedia.bookings.activity.SearchActivity}" drawable="ic_expedia" />
+
+        <!-- Geico -->
+        <item component="ComponentInfo{com.geico.mobile/com.geico.mobile.android.ace.geicoAppPresentation.splash.AceSplashActivity}" drawable="geico" />
+
+        <!-- Geocachings -->
+        <item component="ComponentInfo{com.groundspeak.geocaching.intro/com.groundspeak.geocaching.intro.activities.BrandedLaunchActivity}" drawable="geocaching" />
+
+        <!-- Go Launcher -->
+        <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncherFacade}" drawable="go_launcher" />
+        <item component="ComponentInfo{com.gau.go.launcherex/com.jiubang.golauncher.GOLauncher}" drawable="go_launcher" />
+
+        <!-- Groupon-->
+        <item component="ComponentInfo{com.groupon/com.groupon.activity.TodaysDeal}" drawable="groupon" />
+
+        <!-- Gumtree AU -->
+        <item component="ComponentInfo{com.ebay.gumtree.au/com.ebay.app.common.activities.SplashScreenActivity}" drawable="gumtree" />
+
+        <!-- Gumtree UK -->
+        <item component="ComponentInfo{com.gumtree.android/com.gumtree.android.splash.SplashActivity}" drawable="gumtree" />
+
+        <!-- Gumtree ZA -->
+        <item component="ComponentInfo{com.ebay.gumtree.za/com.ebay.app.common.activities.SplashScreenActivity}" drawable="gumtree" />
+
+        <!-- Hipchat -->
+        <item component="ComponentInfo{com.hipchat/com.hipchat.activities.SignedOutActivity_}" drawable="hipchat" />
+
+        <!-- Hipchat beta -->
+        <item component="ComponentInfo{com.hipchat.beta/com.hipchat.activities.SignedOutActivity_}" drawable="hipchat_beta" />
+
+        <!-- Holo Launcher -->
+        <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Launcher}" drawable="holo_launcher" />
+        <item component="ComponentInfo{com.mobint.hololauncher/com.mobint.hololauncher.Settings}" drawable="holo_launcher" />
+        <item component="ComponentInfo{com.mobint.hololauncher/com.android.launcher3.ShortcutActivity}" drawable="holo_launcher" />
+
+        <!-- Homify -->
+        <item component="ComponentInfo{com.online.homify/com.online.homify.views.activities.SplashActivity}" drawable="homify" />
 
         <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
         <item component="ComponentInfo{com.wpcentral.app/com.androidcentral.app.HomeActivity}" drawable="windows_central" />

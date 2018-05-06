@@ -123,6 +123,9 @@
     <item drawable="air_france" />
     <item drawable="amazon_seller" />
     <item drawable="abc" />
+    <item drawable="amazon_appstore" />
+    <item drawable="amazon_drive" />
+    <item drawable="ampme" />
 
     <category title="B" />
     <item drawable="better" />
@@ -209,6 +212,8 @@
     <item drawable="british_airways" />
     <item drawable="buzzfeed" />
     <item drawable="buzzfeed_news" />
+    <item drawable="bandcamp_artist" />
+    <item drawable="buffer" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -307,6 +312,10 @@
     <item drawable="cargurus" />
     <item drawable="calendar_status_pro" />
     <item drawable="capital_one" />
+    <item drawable="cash" />
+    <item drawable="citi" />
+    <item drawable="cnn" />
+    <item drawable="coursera" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -361,6 +370,8 @@
     <item drawable="dsb" />
     <item drawable="duo_mobile" />
     <item drawable="dailymotion" />
+    <item drawable="discover" />
+    <item drawable="doodlejump" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -396,6 +407,8 @@
     <item drawable="eas" />
     <item drawable="equalizer_fx" />
     <item drawable="empty_folder_cleaner" />
+    <item drawable="ello" />
+    <item drawable="expedia" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -531,6 +544,11 @@
     <item drawable="google_blogger" />
     <item drawable="google_classroom" />
     <item drawable="google_express" />
+    <item drawable="geico" />
+    <item drawable="geocaching" />
+    <item drawable="go_launcher" />
+    <item drawable="groupon" />
+    <item drawable="gumtree" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -576,6 +594,9 @@
     <item drawable="hackernews" />
     <item drawable="hungry_shark" />
     <item drawable="hd_camera_pro" />
+    <item drawable="hipchat" />
+    <item drawable="hipchat_beta" />
+    <item drawable="holo_launcher" />
 
     <category title="I" />
     <item drawable="inshorts" />
