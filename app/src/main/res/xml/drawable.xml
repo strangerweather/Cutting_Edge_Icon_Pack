@@ -126,6 +126,7 @@
     <item drawable="amazon_appstore" />
     <item drawable="amazon_drive" />
     <item drawable="ampme" />
+    <item drawable="atp_wta_live" />
 
     <category title="B" />
     <item drawable="better" />
@@ -214,6 +215,7 @@
     <item drawable="buzzfeed_news" />
     <item drawable="bandcamp_artist" />
     <item drawable="buffer" />
+    <item drawable="battery_plus" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -316,6 +318,9 @@
     <item drawable="citi" />
     <item drawable="cnn" />
     <item drawable="coursera" />
+    <item drawable="calcu" />
+    <item drawable="check24" />
+    <item drawable="control_center" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -372,6 +377,8 @@
     <item drawable="dailymotion" />
     <item drawable="discover" />
     <item drawable="doodlejump" />
+    <item drawable="deutschlandcard" />
+    <item drawable="dpd" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -409,6 +416,7 @@
     <item drawable="empty_folder_cleaner" />
     <item drawable="ello" />
     <item drawable="expedia" />
+    <item drawable="edge_launcher" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -631,6 +639,9 @@
     <item drawable="icq" />
     <item drawable="instacart" />
     <item drawable="instagram_layout" />
+    <item drawable="intercom" />
+    <item drawable="invision" />
+    <item drawable="image_2_wallpaper" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -644,6 +655,8 @@
     <item drawable="jiomusic" />
     <item drawable="jrummy_busybox" />
     <item drawable="jed" />
+    <item drawable="jetblue" />
+    <item drawable="just_giving" />
 
 
     <category title="K" />
@@ -676,6 +689,10 @@
     <item drawable="kohls" />
     <item drawable="kobo_ebooks" />
     <item drawable="kentucky_bank" />
+    <item drawable="keybase" />
+    <item drawable="klm" />
+    <item drawable="klout" />
+    <item drawable="komoot" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -718,6 +735,8 @@
     <item drawable="leos_fortune" />
     <item drawable="los_changelog" />
     <item drawable="leon" />
+    <item drawable="last_fm" />
+    <item drawable="livestream" />
 
 
     <category title="M" />
@@ -827,6 +846,10 @@
     <item drawable="magnifying_glass" />
     <item drawable="my_apk" />
     <item drawable="mytuner_pro" />
+    <item drawable="macys" />
+    <item drawable="mastercard" />
+    <item drawable="mc_donalds" />
+    <item drawable="marvel_tsum" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -913,6 +936,7 @@
     <item drawable="oppo_appstore" />
     <item drawable="optical_reader" />
     <item drawable="otr_player" />
+    <item drawable="one_and_one_mail" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -1192,6 +1216,8 @@
     <item drawable="scribblenauts" />
     <item drawable="sigcare" />
     <item drawable="s9_navigation_bar" />
+    <item drawable="silk_paints" />
+    <item drawable="samsung_themes" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1294,6 +1320,8 @@
     <item drawable="tile" />
     <item drawable="terraria" />
     <item drawable="t_mobile_vvm" />
+    <item drawable="tsumtsum" />
+    <item drawable="thisissand" />
 
     <category title="U" />
     <item drawable="unified_remote" />

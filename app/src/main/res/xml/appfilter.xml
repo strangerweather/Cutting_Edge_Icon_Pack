@@ -2529,10 +2529,44 @@
         <item component="ComponentInfo{com.jetblue.JetBlueAndroid/com.jetblue.JetBlueAndroid.activities.MainActivity}" drawable="jetblue" />
 
         <!-- JustGiving -->
-        <item component="ComponentInfo{com.justgiving.app/md538205ef0c55c985943ce743f87130599.SplashScreen}" drawable="justgiving" />
+        <item component="ComponentInfo{com.justgiving.app/md538205ef0c55c985943ce743f87130599.SplashScreen}" drawable="just_giving" />
+
+        <!-- Keybase -->
+        <item component="ComponentInfo{io.keybase.ossifrage/io.keybase.ossifrage.MainActivity}" drawable="keybase" />
+
+        <!-- KLM - Royal Dutch Airlines -->
+        <item component="ComponentInfo{com.afklm.mobile.android.gomobile.klm/com.klm.mobile.android.core.activity.TripsActivity}" drawable="klm" />
+
+        <!-- Klout -->
+        <item component="ComponentInfo{com.klout.android.moose/com.klout.android.moose.splash.SplashActivity}" drawable="klout" />
+
+        <!-- komoot -->
+        <item component="ComponentInfo{de.komoot.android/de.komoot.android.app.InspirationActivity}" drawable="komoot" />
+
+        <!-- lastfm -->
+        <item component="ComponentInfo{fm.last.android/fm.last.android.ui.activity.SplashScreen}" drawable="last_fm" />
+
+        <!-- livestream -->
+        <item component="ComponentInfo{com.livestream.livestream/com.livestream2.android.activity.splash.SplashActivity}" drawable="livestream" />
+
+        <!-- Macys -->
+        <item component="ComponentInfo{com.macys.android/com.macys.main.ui.activity.MainActivity}" drawable="macys" />
+
+        <!-- Mastercard For You -->
+        <item component="ComponentInfo{com.mastercard.mastercardforyou/com.mastercard.mastercardforyou.MainActivity}" drawable="mastercard" />
+
+        <!-- Mastercard Masterpass -->
+        <item component="ComponentInfo{com.mastercard.mp.wallet/com.mastercard.mp.wallet.activity.MainControllerActivity}" drawable="mastercard" />
+
+        <!-- Mastercard Nearby -->
+        <item component="ComponentInfo{com.mastercard.nearby/com.mastercard.nearby.ui.activities.SplashScreenActivity}" drawable="mastercard" />
+
+        <!-- Mc Donalds-->
+        <item component="ComponentInfo{com.mcdonalds.app/com.mcdonalds.mcdcoreapp.common.activity.SplashActivity}" drawable="mc_donalds" />
 
 
-    <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
+
+        <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
         <item component="ComponentInfo{com.wpcentral.app/com.androidcentral.app.HomeActivity}" drawable="windows_central" />
         <item component="ComponentInfo{br.com.bb.android/br.com.bb.android.StartActivity}" drawable="banco_de_brasil" />
         <item component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}" drawable="ifood" />
