@@ -693,6 +693,7 @@
     <item drawable="klm" />
     <item drawable="klout" />
     <item drawable="komoot" />
+    <item drawable="kaspersky_secure_connection" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -737,6 +738,7 @@
     <item drawable="leon" />
     <item drawable="last_fm" />
     <item drawable="livestream" />
+    <item drawable="liqcalc" />
 
 
     <category title="M" />
@@ -850,6 +852,12 @@
     <item drawable="mastercard" />
     <item drawable="mc_donalds" />
     <item drawable="marvel_tsum" />
+    <item drawable="mini_metro" />
+    <item drawable="mixcloud" />
+    <item drawable="monero" />
+    <item drawable="money_lover" />
+    <item drawable="mticket" />
+    <item drawable="musically" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -904,6 +912,7 @@
     <item drawable="norwegian" />
     <item drawable="note_everything" />
     <item drawable="nike" />
+    <item drawable="night_clock" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -937,6 +946,9 @@
     <item drawable="optical_reader" />
     <item drawable="otr_player" />
     <item drawable="one_and_one_mail" />
+    <item drawable="ok" />
+    <item drawable="one_more_dash" />
+    <item drawable="one_more_line" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -1028,6 +1040,7 @@
     <item drawable="prime_now" />
     <item drawable="photomania" />
     <item drawable="pizza_hut" />
+    <item drawable="psd_banking" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1218,6 +1231,7 @@
     <item drawable="s9_navigation_bar" />
     <item drawable="silk_paints" />
     <item drawable="samsung_themes" />
+    <item drawable="smarthome" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1378,6 +1392,7 @@
     <item drawable="vgn" />
     <item drawable="virtual_wallet" />
     <item drawable="vivino" />
+    <item drawable="videos" />
 
 
     <category title="W"/>
