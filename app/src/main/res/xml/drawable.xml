@@ -1041,6 +1041,11 @@
     <item drawable="photomania" />
     <item drawable="pizza_hut" />
     <item drawable="psd_banking" />
+    <item drawable="plangrid" />
+    <item drawable="plex_vr" />
+    <item drawable="pluralsight" />
+    <item drawable="plurk" />
+    <item drawable="proto_io" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1087,6 +1092,9 @@
     <item drawable="rbc" />
     <item drawable="revolut" />
     <item drawable="roland_garros" />
+    <item drawable="reverbnation" />
+    <item drawable="robinhood" />
+    <item drawable="runkeeper" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1233,6 +1241,7 @@
     <item drawable="silk_paints" />
     <item drawable="samsung_themes" />
     <item drawable="smarthome" />
+    <item drawable="salesforce" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />

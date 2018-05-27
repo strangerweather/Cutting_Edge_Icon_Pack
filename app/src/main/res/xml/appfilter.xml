@@ -2665,14 +2665,52 @@
         <!-- Musically -->
         <item component="ComponentInfo{com.zhiliaoapp.musically/com.zhiliaoapp.musically.activity.SplashActivity}" drawable="musically" />
 
+        <!-- Ok -->
+        <item component="ComponentInfo{ru.ok.android/ru.ok.android.ui.activity.main.OdklActivity}" drawable="ok" />
+
+        <!-- One more dash -->
+        <item component="ComponentInfo{com.smgstudio.omd/com.prime31.UnityPlayerActivity}" drawable="one_more_dash" />
+
+        <!-- One more line -->
+        <item component="ComponentInfo{com.smgstudio.onemoreline/com.unity3d.player.UnityPlayerNativeActivity}" drawable="one_more_line" />
 
 
-        <!--Version 1.1.5-->
+
+    <!--Version 1.1.5-->
 
         <item component="ComponentInfo{com.netcosports.androlandgarros/com.netcosports.rolandgarros.ui.splash.SplashActivity}" drawable="roland_garros" />
         <item component="ComponentInfo{com.kaspersky.secure.connection/com.kaspersky.remote.security_service.SplashScreenLauncherActivity}" drawable="kaspersky_secure_connection" />
 
-        <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
+
+        <!-- Plangrid -->
+        <item component="ComponentInfo{com.plangrid.android/com.plangrid.android.activities.HomeActivity}" drawable="plangrid" />
+
+        <!-- Plex VR -->
+        <item component="ComponentInfo{com.plexapp.android.vr/com.plexapp.plex.activities.UnityPlayerActivity}" drawable="plex_vr" />
+
+        <!-- Pluralsight -->
+        <item component="ComponentInfo{com.pluralsight/com.pluralsight.android.learner.ui.activity.launch.LaunchActivity}" drawable="pluralsight" />
+
+        <!-- Plurk -->
+        <item component="ComponentInfo{com.plurk.android/com.plurk.android.start.MainActivity}" drawable="plurk" />
+
+        <!-- Proto.io -->
+        <item component="ComponentInfo{io.proto.player/io.proto.player.projectListActivity.ProjectListActivity}" drawable="proto_io" />
+
+        <!-- Reverbnation -->
+        <item component="ComponentInfo{com.gss.android.ReverbNation.Activities/com.gss.android.ReverbNation.Activities.MainActivity}" drawable="reverbnation" />
+
+        <!-- Robinhood -->
+        <item component="ComponentInfo{com.robinhood.android/com.robinhood.android.activity.WelcomeActivity}" drawable="robinhood" />
+
+        <!-- Runkeeper -->
+        <item component="ComponentInfo{com.fitnesskeeper.runkeeper.pro/com.fitnesskeeper.runkeeper.SplashActivity}" drawable="runkeeper" />
+
+        <!-- Salesforce -->
+        <item component="ComponentInfo{com.salesforce.chatter/com.salesforce.chatter.Chatter}" drawable="salesforce" />
+
+
+    <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
         <item component="ComponentInfo{com.wpcentral.app/com.androidcentral.app.HomeActivity}" drawable="windows_central" />
         <item component="ComponentInfo{br.com.bb.android/br.com.bb.android.StartActivity}" drawable="banco_de_brasil" />
         <item component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}" drawable="ifood" />
