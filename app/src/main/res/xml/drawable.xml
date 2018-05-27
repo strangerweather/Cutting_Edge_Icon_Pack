@@ -1086,6 +1086,7 @@
     <item drawable="retouch" />
     <item drawable="rbc" />
     <item drawable="revolut" />
+    <item drawable="roland_garros" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
