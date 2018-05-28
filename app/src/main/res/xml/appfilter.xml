@@ -2709,8 +2709,52 @@
         <!-- Salesforce -->
         <item component="ComponentInfo{com.salesforce.chatter/com.salesforce.chatter.Chatter}" drawable="salesforce" />
 
+        <!-- Shopify -->
+        <item component="ComponentInfo{com.shopify.mobile/com.shopify.mobile.MainActivity}" drawable="shopify" />
 
-    <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
+        <!-- Slickpic -->
+        <item component="ComponentInfo{com.slickpic/com.slickpic.MainActivity}" drawable="slickpic" />
+
+        <!-- Smart Recorder -->
+        <item component="ComponentInfo{com.andrwq.recorder/com.andrwq.recorder.RecorderActivity}" drawable="smart_recorder" />
+
+        <!-- Southwest Airlines -->
+        <item component="ComponentInfo{com.southwestairlines.mobile/com.southwestairlines.mobile.home.ui.SplashActivity}" drawable="southwest_airlines" />
+
+        <!-- Spectrum TV -->
+        <item component="ComponentInfo{com.TWCableTV/com.twc.android.ui.login.SplashScreen}" drawable="spectrum_tv" />
+
+        <!-- Stack Overflow -->
+        <item component="ComponentInfo{com.stackexchange.stackoverflow/com.stackexchange.stackoverflow.MainActivity}" drawable="stackoverflow" />
+
+        <!-- Stitcher -->
+        <item component="ComponentInfo{com.stitcher.app/com.stitcher.app.LaunchContainer}" drawable="stitcher" />
+
+        <!-- Stubhub -->
+        <item component="ComponentInfo{com.stubhub/com.stubhub.StubHubSplashActivity}" drawable="stubhub" />
+
+        <!-- Stumbleupon -->
+        <item component="ComponentInfo{com.stumbleupon.android.app/com.stumbleupon.android.app.activity.SplashActivity}" drawable="stumbleupon" />
+
+        <!-- Swipe Snake -->
+        <item component="ComponentInfo{com.gmail.kach.ivor.SwipeSnake/com.ansca.corona.CoronaActivity}" drawable="swipe_snake" />
+
+        <!-- Swiss Air -->
+        <item component="ComponentInfo{com.yoc.swiss.swiss/ch.edge5.nativemenu.swiss.ui.activities.MainActivity}" drawable="swissair" />
+
+
+        <item component="ComponentInfo{com.yoc.swiss.swiss/ch.edge5.nativemenu.swiss.ui.activities.MainActivity}" drawable="swissair" />
+
+        <item component="ComponentInfo{com.microsoft.appmanager/com.microsoft.appmanager.StartUpActivity}" drawable="microsoft_apps" />
+
+        <item component="ComponentInfo{com.csdroid.pkg/com.csdroid.pkg.ui.MainActivity}" drawable="package_names_viewer" />
+
+
+
+        <!-- Target -->
+        <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="target" />
+
+        <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
         <item component="ComponentInfo{com.wpcentral.app/com.androidcentral.app.HomeActivity}" drawable="windows_central" />
         <item component="ComponentInfo{br.com.bb.android/br.com.bb.android.StartActivity}" drawable="banco_de_brasil" />
         <item component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}" drawable="ifood" />

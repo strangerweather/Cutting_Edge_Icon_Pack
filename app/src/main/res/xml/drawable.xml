@@ -417,6 +417,7 @@
     <item drawable="ello" />
     <item drawable="expedia" />
     <item drawable="edge_launcher" />
+    <item drawable="easyjet" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -858,6 +859,7 @@
     <item drawable="money_lover" />
     <item drawable="mticket" />
     <item drawable="musically" />
+    <item drawable="microsoft_apps" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1046,6 +1048,7 @@
     <item drawable="pluralsight" />
     <item drawable="plurk" />
     <item drawable="proto_io" />
+    <item drawable="package_names_viewer" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1242,6 +1245,17 @@
     <item drawable="samsung_themes" />
     <item drawable="smarthome" />
     <item drawable="salesforce" />
+    <item drawable="shopify" />
+    <item drawable="slickpic" />
+    <item drawable="smart_recorder" />
+    <item drawable="southwest_airlines" />
+    <item drawable="spectrum_tv" />
+    <item drawable="stackoverflow" />
+    <item drawable="stitcher" />
+    <item drawable="stubhub" />
+    <item drawable="stumbleupon" />
+    <item drawable="swipe_snake" />
+    <item drawable="swissair" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
