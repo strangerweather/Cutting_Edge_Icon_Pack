@@ -216,6 +216,7 @@
     <item drawable="bandcamp_artist" />
     <item drawable="buffer" />
     <item drawable="battery_plus" />
+    <item drawable="banco_do_brasil" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -643,6 +644,7 @@
     <item drawable="intercom" />
     <item drawable="invision" />
     <item drawable="image_2_wallpaper" />
+    <item drawable="ifood" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -1098,6 +1100,7 @@
     <item drawable="reverbnation" />
     <item drawable="robinhood" />
     <item drawable="runkeeper" />
+    <item drawable="ryanair" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1360,6 +1363,8 @@
     <item drawable="t_mobile_vvm" />
     <item drawable="tsumtsum" />
     <item drawable="thisissand" />
+    <item drawable="trivago" />
+    <item drawable="target" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1467,6 +1472,7 @@
     <item drawable="wolfie_for_kwgt" />
     <item drawable="wordswag" />
     <item drawable="wabbitemu" />
+    <item drawable="windows_central" />
 
     <category title="X"/>
     <item drawable="xbox" />

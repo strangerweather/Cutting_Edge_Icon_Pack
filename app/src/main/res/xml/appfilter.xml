@@ -2749,15 +2749,21 @@
 
         <item component="ComponentInfo{com.csdroid.pkg/com.csdroid.pkg.ui.MainActivity}" drawable="package_names_viewer" />
 
+        <item component="ComponentInfo{com.mttnow.droid.easyjet/com.mttnow.droid.easyjet.ui.splash.SplashActivity}" drawable="easyjet" />
 
+        <item component="ComponentInfo{com.ryanair.cheapflights/com.ryanair.cheapflights.ui.SplashScreenActivity}" drawable="ryanair" />
+
+        <item component="ComponentInfo{com.trivago/com.trivago.activities.SplashActivity}" drawable="trivago" />
 
         <!-- Target -->
         <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="target" />
 
-        <item component="ComponentInfo{com.directed.android.viper/com.mjd.viper.activity.SplashScreenActivity}" drawable="smartstart" />
         <item component="ComponentInfo{com.wpcentral.app/com.androidcentral.app.HomeActivity}" drawable="windows_central" />
-        <item component="ComponentInfo{br.com.bb.android/br.com.bb.android.StartActivity}" drawable="banco_de_brasil" />
+
+        <item component="ComponentInfo{br.com.bb.android/br.com.bb.android.StartActivity}" drawable="banco_do_brasil" />
+
         <item component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}" drawable="ifood" />
+
         <item component="ComponentInfo{com.konecty.rocket.chat/com.konecty.rocket.chat.MainActivity}" drawable="rocket_chat" />
         <item component="ComponentInfo{com.kevinforeman.nzb360/com.kevinforeman.nzb360.StartupLauncher}" drawable="nzb360" />
         <item component="ComponentInfo{com.netmarble.starwars/com.netmarble.starwars.StarwarsActivity}" drawable="force_arena" />
