@@ -127,6 +127,7 @@
     <item drawable="amazon_drive" />
     <item drawable="ampme" />
     <item drawable="atp_wta_live" />
+    <item drawable="apkpure" />
 
     <category title="B" />
     <item drawable="better" />
@@ -380,6 +381,7 @@
     <item drawable="doodlejump" />
     <item drawable="deutschlandcard" />
     <item drawable="dpd" />
+    <item drawable="drivesync" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -487,6 +489,7 @@
     <item drawable="freeplay" />
     <item drawable="flightaware" />
     <item drawable="formula_1" />
+    <item drawable="foldersync" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -645,6 +648,7 @@
     <item drawable="invision" />
     <item drawable="image_2_wallpaper" />
     <item drawable="ifood" />
+    <item drawable="ikea" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -742,6 +746,7 @@
     <item drawable="last_fm" />
     <item drawable="livestream" />
     <item drawable="liqcalc" />
+    <item drawable="loffee" />
 
 
     <category title="M" />
@@ -1051,6 +1056,7 @@
     <item drawable="plurk" />
     <item drawable="proto_io" />
     <item drawable="package_names_viewer" />
+    <item drawable="papa_johns" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1101,6 +1107,7 @@
     <item drawable="robinhood" />
     <item drawable="runkeeper" />
     <item drawable="ryanair" />
+    <item drawable="rain_alarm_pro" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1259,6 +1266,7 @@
     <item drawable="stumbleupon" />
     <item drawable="swipe_snake" />
     <item drawable="swissair" />
+    <item drawable="secure_folder" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />

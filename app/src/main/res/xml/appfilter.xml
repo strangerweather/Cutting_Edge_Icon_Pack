@@ -2369,7 +2369,7 @@
 
         <item component="ComponentInfo{com.deltatre.atp.tennis.android/com.tennistv.android.activities.splash.SplashActivity}" drawable="tennis_tv" />
 
-        <item component="ComponentInfo{com.ormlondon.chilternace/com.ormlondon.chilternace.WalkthroughActivity}" drawable="chiltern_railways" />
+        <item component="ComponentInfo{com.ormlondon.chilternace/com.ormlondon.chilternace.MainActivity}" drawable="chiltern_railways" />
 
         <item component="ComponentInfo{com.gmd.immersive/com.gmd.hidesoftkeys.MainActivity}" drawable="gmd_immersive" />
 
@@ -2764,15 +2764,57 @@
 
         <item component="ComponentInfo{br.com.brainweb.ifood/br.com.brainweb.ifood.mvp.splash.view.SplashScreenActivity}" drawable="ifood" />
 
+        <item component="ComponentInfo{com.papajohns.android/com.papajohns.android.welcome.WelcomeActivity}" drawable="papa_johns" />
+
+        <item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.activities.SplashActivity}" drawable="apkpure" />
+
+        <item component="ComponentInfo{com.ikea.kompis/com.ikea.kompis.SplashActivity}" drawable="ikea" />
+
+        <!-- Rain Alarm Pro -->
+        <item component="ComponentInfo{de.mdiener.rain.usa.plus/de.mdiener.rain.usa.plus.MainMaps2}" drawable="rain_alarm_pro" />
+
+        <!-- Secure Folder -->
+        <item component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.switcher.SecureFolderShortcutActivity}" drawable="secure_folder" />
+
+        <!-- CCleaner -->
+        <item component="ComponentInfo{com.piriform.ccleaner/com.avast.android.cleaner.activity.StartActivity}" drawable="ccleaner" />
+
+        <!-- DriveSync -->
+        <item component="ComponentInfo{com.ttxapps.drivesync/com.ttxapps.sync.app.MainActivity}" drawable="drivesync" />
+
+        <!-- FolderSync -->
+        <item component="ComponentInfo{dk.tacit.android.foldersync.lite/dk.tacit.android.foldersync.SplashActivity}" drawable="foldersync" />
+
+        <!-- Loffee -->
+        <item component="ComponentInfo{com.aqeb.loffee/com.example.aqeb.loffee.Activity.MainActivity}" drawable="loffee" />
+
+        <!-- Phone INFO -->
+        <item component="ComponentInfo{org.vndnguyen.phoneinfo/org.vndnguyen.phoneinfo.main}" drawable="phone_info" />
+
+        <!-- Smart WiFi -->
+        <item component="ComponentInfo{com.movistar.base/com.telefonica.es.miwifi.activities.SplashActivity}" drawable="smart_wifi" />
+
+        <!-- Tapatalk Pro -->
+        <item component="ComponentInfo{com.quoord.tapatalkHD/com.quoord.tapatalkpro.activity.directory.ics.IcsEntryActivity}" drawable="tapatalk_pro" />
+
+        <!-- YMusic -->
+        <item component="ComponentInfo{com.kapp.youtube.final/com.marverenic.music.ui.library.LibraryActivity}" drawable="ymusic" />
+
+
+
+
+
+
+
         <item component="ComponentInfo{com.konecty.rocket.chat/com.konecty.rocket.chat.MainActivity}" drawable="rocket_chat" />
         <item component="ComponentInfo{com.kevinforeman.nzb360/com.kevinforeman.nzb360.StartupLauncher}" drawable="nzb360" />
         <item component="ComponentInfo{com.netmarble.starwars/com.netmarble.starwars.StarwarsActivity}" drawable="force_arena" />
         <item component="ComponentInfo{com.square_enix.android_googleplay.khuxww/org.cocos2dx.cpp.AppActivity}" drawable="kingdom_hearts" />
         <item component="ComponentInfo{be.mijnbezorgapp.id_7/be.mijnbezorgapp.id_7.MijnBezorgApp}" drawable="pizza_aversa" />
         <item component="ComponentInfo{com.dominospizza/com.dominos.activities.InitialLaunchActivity}" drawable="dominos" />
-        <item component="ComponentInfo{com.papajohns.android/com.papajohns.android.welcome.WelcomeActivity}" drawable="papa_johns" />
+
         <item component="ComponentInfo{pro.burgerz.miweather8/pro.burgerz.miweather8.ActivityWeatherMain}" drawable="weather_m8" />
-        <item component="ComponentInfo{com.apkpure.aegon/com.apkpure.aegon.activities.SplashActivity}" drawable="apkpure" />
+
         <item component="ComponentInfo{com.robtopx.geometrydashmeltdown/com.robtopx.geometrydashmeltdown.GeometryDashMeltdown}" drawable="geometry_dash_meltdown" />
         <item component="ComponentInfo{com.robtopx.geometrydashworld/com.robtopx.geometrydashworld.GeometryDashWorld}" drawable="geometry_dash_world" />
         <item component="ComponentInfo{com.nhn.android.ndrive/com.nhn.android.ndrive.ui.SplashActivity}" drawable="naver_cloud" />
