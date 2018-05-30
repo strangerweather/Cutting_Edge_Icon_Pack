@@ -867,6 +867,7 @@
     <item drawable="mticket" />
     <item drawable="musically" />
     <item drawable="microsoft_apps" />
+    <item drawable="mediahouse" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1058,6 +1059,7 @@
     <item drawable="package_names_viewer" />
     <item drawable="papa_johns" />
     <item drawable="phone_info" />
+    <item drawable="perfect_player" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1269,6 +1271,9 @@
     <item drawable="swissair" />
     <item drawable="secure_folder" />
     <item drawable="smart_wifi" />
+    <item drawable="score_centre" />
+    <item drawable="sky_go" />
+    <item drawable="sky_news" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
