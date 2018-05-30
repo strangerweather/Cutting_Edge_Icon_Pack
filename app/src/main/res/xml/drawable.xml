@@ -1057,6 +1057,7 @@
     <item drawable="proto_io" />
     <item drawable="package_names_viewer" />
     <item drawable="papa_johns" />
+    <item drawable="phone_info" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1267,6 +1268,7 @@
     <item drawable="swipe_snake" />
     <item drawable="swissair" />
     <item drawable="secure_folder" />
+    <item drawable="smart_wifi" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1373,6 +1375,7 @@
     <item drawable="thisissand" />
     <item drawable="trivago" />
     <item drawable="target" />
+    <item drawable="tapatalk_pro" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1510,6 +1513,7 @@
     <item drawable="youcam_perfect" />
     <item drawable="yowhatsapp" />
     <item drawable="youmail" />
+    <item drawable="ymusic" />
 
     <category title="Z"/>
     <item drawable="zello" />

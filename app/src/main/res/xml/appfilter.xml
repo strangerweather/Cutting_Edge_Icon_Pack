@@ -2800,7 +2800,29 @@
         <!-- YMusic -->
         <item component="ComponentInfo{com.kapp.youtube.final/com.marverenic.music.ui.library.LibraryActivity}" drawable="ymusic" />
 
+        <!-- MediaHouse -->
+        <item component="ComponentInfo{com.dbapp.android.mediahouse/com.dbapp.android.mediahouselib.activity.MediaDeviceActivity}" drawable="mediahouse" />
 
+        <!-- Perfect Player -->
+        <item component="ComponentInfo{com.niklabs.pp/com.niklabs.perfectplayer.MainActivity}" drawable="perfect_player" />
+
+        <!-- Score Centre -->
+        <item component="ComponentInfo{com.bskyb.fbscore/com.bskyb.fbscore.base.SplashActivity}" drawable="score_centre" />
+
+        <!-- Sky Go -->
+        <item component="ComponentInfo{com.bskyb.skygo/com.bskyb.uma.app.bootstrap.BootstrapActivity}" drawable="sky_go" />
+
+        <!-- Sky News -->
+        <item component="ComponentInfo{com.bskyb.skynews.android/com.bskyb.skynews.android.activity.AppLoadingActivity}" drawable="sky_news" />
+
+        <!-- Sky Sports -->
+        <item component="ComponentInfo{com.bskyb.sportnews/com.bskyb.sportnews.feature.splash.FlavourSplashActivity}" drawable="sky_sports" />
+
+        <!-- Terrarium TV -->
+        <item component="ComponentInfo{com.nitroxenon.terrarium/com.nitroxenon.terrarium.ui.activity.HomeActivity}" drawable="terrarium_tv" />
+
+        <!-- Settings -->
+        <item component="ComponentInfo{com.android.settings/com.android.settings.Settings$TetherSettingsActivity}" drawable="settings" />
 
 
 
