@@ -1401,6 +1401,7 @@
         <item component="ComponentInfo{sport1.mobile.android.apps/de.sport1.news.ui.activities.SplashScreenActivity}" drawable="sport1" />
         <item component="ComponentInfo{stericson.busybox.donate/stericson.busybox.donate.activities.MainActivity}" drawable="busybox" />
         <item component="ComponentInfo{stericson.busybox/stericson.busybox.Activity.MainActivity}" drawable="busybox" />
+        <item component="ComponentInfo{stericson.busybox/stericson.busybox.activity.MainActivity}" drawable="busybox" />
         <item component="ComponentInfo{tk.wasdennnoch.androidn_ify/tk.wasdennnoch.androidn_ify.SettingsAlias}" drawable="nify" />
         <item component="ComponentInfo{tugapower.codeaurora.browser.alpha/tugapower.codeaurora.browser.alpha.Main}" drawable="tuga_browser"/>
         <item component="ComponentInfo{tugapower.codeaurora.browser/com.google.android.apps.chrome.Main}" drawable="tuga_browser"/>
@@ -2729,6 +2730,7 @@
 
         <!-- Stitcher -->
         <item component="ComponentInfo{com.stitcher.app/com.stitcher.app.LaunchContainer}" drawable="stitcher" />
+        <item component="ComponentInfo{com.stitcher.app/com.stitcher.app.MD_BentoBox}" drawable="stitcher" />
 
         <!-- Stubhub -->
         <item component="ComponentInfo{com.stubhub/com.stubhub.StubHubSplashActivity}" drawable="stubhub" />
@@ -2772,6 +2774,7 @@
 
         <!-- Rain Alarm Pro -->
         <item component="ComponentInfo{de.mdiener.rain.usa.plus/de.mdiener.rain.usa.plus.MainMaps2}" drawable="rain_alarm_pro" />
+        <item component="ComponentInfo{de.mdiener.rain.usa/de.mdiener.rain.usa.MainMaps2}" drawable="rain_alarm" />
 
         <!-- Secure Folder -->
         <item component="ComponentInfo{com.samsung.knox.securefolder/com.samsung.knox.securefolder.switcher.SecureFolderShortcutActivity}" drawable="secure_folder" />
@@ -2823,6 +2826,10 @@
 
         <!-- Settings -->
         <item component="ComponentInfo{com.android.settings/com.android.settings.Settings$TetherSettingsActivity}" drawable="settings" />
+
+        <item component="ComponentInfo{com.jrummyapps.rootbrowser.classic/com.jrummy.file.manager.RootBrowserActivity}" drawable="root_browser" />
+
+        <item component="ComponentInfo{com.jrummy.busybox.installer/com.jrummy.busybox.installer.activities.MainActivity}" drawable="busybox_for_android" />
 
 
 

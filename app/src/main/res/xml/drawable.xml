@@ -218,6 +218,7 @@
     <item drawable="buffer" />
     <item drawable="battery_plus" />
     <item drawable="banco_do_brasil" />
+    <item drawable="busybox_for_android" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -1111,6 +1112,7 @@
     <item drawable="runkeeper" />
     <item drawable="ryanair" />
     <item drawable="rain_alarm_pro" />
+    <item drawable="root_browser" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1274,6 +1276,7 @@
     <item drawable="score_centre" />
     <item drawable="sky_go" />
     <item drawable="sky_news" />
+    <item drawable="sky_sports" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1381,6 +1384,7 @@
     <item drawable="trivago" />
     <item drawable="target" />
     <item drawable="tapatalk_pro" />
+    <item drawable="terrarium_tv" />
 
     <category title="U" />
     <item drawable="unified_remote" />
