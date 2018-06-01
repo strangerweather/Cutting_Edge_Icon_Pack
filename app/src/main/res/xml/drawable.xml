@@ -491,6 +491,7 @@
     <item drawable="flightaware" />
     <item drawable="formula_1" />
     <item drawable="foldersync" />
+    <item drawable="force_arena" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -702,6 +703,7 @@
     <item drawable="klout" />
     <item drawable="komoot" />
     <item drawable="kaspersky_secure_connection" />
+    <item drawable="kingdom_hearts" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -924,6 +926,7 @@
     <item drawable="note_everything" />
     <item drawable="nike" />
     <item drawable="night_clock" />
+    <item drawable="nzb360" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1113,6 +1116,7 @@
     <item drawable="ryanair" />
     <item drawable="rain_alarm_pro" />
     <item drawable="root_browser" />
+    <item drawable="rocket_chat" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
