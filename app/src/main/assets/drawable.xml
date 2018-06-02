@@ -127,6 +127,7 @@
     <item drawable="amazon_drive" />
     <item drawable="ampme" />
     <item drawable="atp_wta_live" />
+    <item drawable="apkpure" />
 
     <category title="B" />
     <item drawable="better" />
@@ -216,6 +217,9 @@
     <item drawable="bandcamp_artist" />
     <item drawable="buffer" />
     <item drawable="battery_plus" />
+    <item drawable="banco_do_brasil" />
+    <item drawable="busybox_for_android" />
+    <item drawable="ballz" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -321,6 +325,8 @@
     <item drawable="calcu" />
     <item drawable="check24" />
     <item drawable="control_center" />
+    <item drawable="cues" />
+    <item drawable="cgv" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -379,6 +385,7 @@
     <item drawable="doodlejump" />
     <item drawable="deutschlandcard" />
     <item drawable="dpd" />
+    <item drawable="drivesync" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -417,6 +424,7 @@
     <item drawable="ello" />
     <item drawable="expedia" />
     <item drawable="edge_launcher" />
+    <item drawable="easyjet" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -485,6 +493,8 @@
     <item drawable="freeplay" />
     <item drawable="flightaware" />
     <item drawable="formula_1" />
+    <item drawable="foldersync" />
+    <item drawable="force_arena" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -557,6 +567,8 @@
     <item drawable="go_launcher" />
     <item drawable="groupon" />
     <item drawable="gumtree" />
+    <item drawable="geometry_dash_meltdown" />
+    <item drawable="geometry_dash_world" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -609,6 +621,7 @@
     <item drawable="hotel_tonight" />
     <item drawable="houzz" />
     <item drawable="hq_trivia" />
+    <item drawable="hudl" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -642,6 +655,8 @@
     <item drawable="intercom" />
     <item drawable="invision" />
     <item drawable="image_2_wallpaper" />
+    <item drawable="ifood" />
+    <item drawable="ikea" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -694,6 +709,7 @@
     <item drawable="klout" />
     <item drawable="komoot" />
     <item drawable="kaspersky_secure_connection" />
+    <item drawable="kingdom_hearts" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -739,6 +755,7 @@
     <item drawable="last_fm" />
     <item drawable="livestream" />
     <item drawable="liqcalc" />
+    <item drawable="loffee" />
 
 
     <category title="M" />
@@ -858,6 +875,8 @@
     <item drawable="money_lover" />
     <item drawable="mticket" />
     <item drawable="musically" />
+    <item drawable="microsoft_apps" />
+    <item drawable="mediahouse" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -913,6 +932,8 @@
     <item drawable="note_everything" />
     <item drawable="nike" />
     <item drawable="night_clock" />
+    <item drawable="nzb360" />
+    <item drawable="naver_cloud" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1041,6 +1062,17 @@
     <item drawable="photomania" />
     <item drawable="pizza_hut" />
     <item drawable="psd_banking" />
+    <item drawable="plangrid" />
+    <item drawable="plex_vr" />
+    <item drawable="pluralsight" />
+    <item drawable="plurk" />
+    <item drawable="proto_io" />
+    <item drawable="package_names_viewer" />
+    <item drawable="papa_johns" />
+    <item drawable="phone_info" />
+    <item drawable="perfect_player" />
+    <item drawable="pancake" />
+    <item drawable="pad" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1086,6 +1118,15 @@
     <item drawable="retouch" />
     <item drawable="rbc" />
     <item drawable="revolut" />
+    <item drawable="roland_garros" />
+    <item drawable="reverbnation" />
+    <item drawable="robinhood" />
+    <item drawable="runkeeper" />
+    <item drawable="ryanair" />
+    <item drawable="rain_alarm_pro" />
+    <item drawable="root_browser" />
+    <item drawable="rocket_chat" />
+    <item drawable="rapid_70" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1232,6 +1273,25 @@
     <item drawable="silk_paints" />
     <item drawable="samsung_themes" />
     <item drawable="smarthome" />
+    <item drawable="salesforce" />
+    <item drawable="shopify" />
+    <item drawable="slickpic" />
+    <item drawable="smart_recorder" />
+    <item drawable="southwest_airlines" />
+    <item drawable="spectrum_tv" />
+    <item drawable="stackoverflow" />
+    <item drawable="stitcher" />
+    <item drawable="stubhub" />
+    <item drawable="stumbleupon" />
+    <item drawable="swipe_snake" />
+    <item drawable="swissair" />
+    <item drawable="secure_folder" />
+    <item drawable="smart_wifi" />
+    <item drawable="score_centre" />
+    <item drawable="sky_go" />
+    <item drawable="sky_news" />
+    <item drawable="sky_sports" />
+    <item drawable="stream_tv" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1336,6 +1396,11 @@
     <item drawable="t_mobile_vvm" />
     <item drawable="tsumtsum" />
     <item drawable="thisissand" />
+    <item drawable="trivago" />
+    <item drawable="target" />
+    <item drawable="tapatalk_pro" />
+    <item drawable="terrarium_tv" />
+    <item drawable="tphone" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1443,6 +1508,10 @@
     <item drawable="wolfie_for_kwgt" />
     <item drawable="wordswag" />
     <item drawable="wabbitemu" />
+    <item drawable="windows_central" />
+    <item drawable="weather_m8" />
+    <item drawable="wemo" />
+    <item drawable="whoscall" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -1472,6 +1541,7 @@
     <item drawable="youcam_perfect" />
     <item drawable="yowhatsapp" />
     <item drawable="youmail" />
+    <item drawable="ymusic" />
 
     <category title="Z"/>
     <item drawable="zello" />

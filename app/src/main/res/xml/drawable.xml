@@ -219,6 +219,7 @@
     <item drawable="battery_plus" />
     <item drawable="banco_do_brasil" />
     <item drawable="busybox_for_android" />
+    <item drawable="ballz" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -324,6 +325,8 @@
     <item drawable="calcu" />
     <item drawable="check24" />
     <item drawable="control_center" />
+    <item drawable="cues" />
+    <item drawable="cgv" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -564,6 +567,8 @@
     <item drawable="go_launcher" />
     <item drawable="groupon" />
     <item drawable="gumtree" />
+    <item drawable="geometry_dash_meltdown" />
+    <item drawable="geometry_dash_world" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -616,6 +621,7 @@
     <item drawable="hotel_tonight" />
     <item drawable="houzz" />
     <item drawable="hq_trivia" />
+    <item drawable="hudl" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -927,6 +933,7 @@
     <item drawable="nike" />
     <item drawable="night_clock" />
     <item drawable="nzb360" />
+    <item drawable="naver_cloud" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1064,6 +1071,8 @@
     <item drawable="papa_johns" />
     <item drawable="phone_info" />
     <item drawable="perfect_player" />
+    <item drawable="pancake" />
+    <item drawable="pad" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1117,6 +1126,7 @@
     <item drawable="rain_alarm_pro" />
     <item drawable="root_browser" />
     <item drawable="rocket_chat" />
+    <item drawable="rapid_70" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1281,6 +1291,7 @@
     <item drawable="sky_go" />
     <item drawable="sky_news" />
     <item drawable="sky_sports" />
+    <item drawable="stream_tv" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1389,6 +1400,7 @@
     <item drawable="target" />
     <item drawable="tapatalk_pro" />
     <item drawable="terrarium_tv" />
+    <item drawable="tphone" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1497,6 +1509,9 @@
     <item drawable="wordswag" />
     <item drawable="wabbitemu" />
     <item drawable="windows_central" />
+    <item drawable="weather_m8" />
+    <item drawable="wemo" />
+    <item drawable="whoscall" />
 
     <category title="X"/>
     <item drawable="xbox" />

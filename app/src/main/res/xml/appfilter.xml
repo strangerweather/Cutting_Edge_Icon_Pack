@@ -2839,29 +2839,40 @@
 
         <item component="ComponentInfo{com.square_enix.android_googleplay.khuxww/org.cocos2dx.cpp.AppActivity}" drawable="kingdom_hearts" />
 
-
-
-        <item component="ComponentInfo{be.mijnbezorgapp.id_7/be.mijnbezorgapp.id_7.MijnBezorgApp}" drawable="pizza_aversa" />
         <item component="ComponentInfo{com.dominospizza/com.dominos.activities.InitialLaunchActivity}" drawable="dominos" />
 
         <item component="ComponentInfo{pro.burgerz.miweather8/pro.burgerz.miweather8.ActivityWeatherMain}" drawable="weather_m8" />
 
         <item component="ComponentInfo{com.robtopx.geometrydashmeltdown/com.robtopx.geometrydashmeltdown.GeometryDashMeltdown}" drawable="geometry_dash_meltdown" />
+
         <item component="ComponentInfo{com.robtopx.geometrydashworld/com.robtopx.geometrydashworld.GeometryDashWorld}" drawable="geometry_dash_world" />
+
         <item component="ComponentInfo{com.nhn.android.ndrive/com.nhn.android.ndrive.ui.SplashActivity}" drawable="naver_cloud" />
+
         <item component="ComponentInfo{com.ketchapp.ballz/com.unity3d.player.UnityPlayerActivity}" drawable="ballz" />
+
         <item component="ComponentInfo{com.google.android.apps.classroom/com.google.android.apps.classroom.application.LauncherActivity}" drawable="google_classroom" />
+
         <item component="ComponentInfo{com.ThirdState.Cues/com.unity3d.player.UnityPlayerActivity}" drawable="cues" />
-        <item component="ComponentInfo{com.adrientruong.grades/com.adrientruong.grades.MainActivity}" drawable="grades" />
+
         <item component="ComponentInfo{com.hudl.hudroid/com.hudl.hudroid.core.ui.HomeActivity}" drawable="hudl" />
+
         <item component="ComponentInfo{de.kamibox.and.pancake/com.ansca.corona.CoronaActivity}" drawable="pancake" />
+
         <item component="ComponentInfo{ab.rapid70/ab.rapid70.MainActivity}" drawable="rapid_70" />
+
         <item component="ComponentInfo{com.xfinity.cloudtvr/com.xfinity.common.view.LaunchActivity}" drawable="stream_tv" />
+
         <item component="ComponentInfo{com.belkin.wemoandroid/com.belkin.activity.MainActivity}" drawable="wemo" />
+
         <item component="ComponentInfo{com.cgv.android.movieapp/com.cjs.cgv.movieapp.intro.IntroActivity}" drawable="cgv" />
+
         <item component="ComponentInfo{com.skt.prod.dialer/com.skt.prod.dialer.activities.main.MainActivity}" drawable="tphone" />
+
         <item component="ComponentInfo{gogolook.callgogolook2/gogolook.callgogolook2.PreloadingActivity}" drawable="whoscall" />
+
         <item component="ComponentInfo{jp.gungho.padEN/jp.gungho.padEN.AppDelegate}" drawable="pad" />
+
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
         <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="best_buy" />
