@@ -495,6 +495,8 @@
     <item drawable="formula_1" />
     <item drawable="foldersync" />
     <item drawable="force_arena" />
+    <item drawable="fenix" />
+    <item drawable="fildo" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -569,6 +571,7 @@
     <item drawable="gumtree" />
     <item drawable="geometry_dash_meltdown" />
     <item drawable="geometry_dash_world" />
+    <item drawable="go" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -877,6 +880,8 @@
     <item drawable="musically" />
     <item drawable="microsoft_apps" />
     <item drawable="mediahouse" />
+    <item drawable="media_converter" />
+    <item drawable="mi_movistar" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1512,6 +1517,7 @@
     <item drawable="weather_m8" />
     <item drawable="wemo" />
     <item drawable="whoscall" />
+    <item drawable="walloid" />
 
     <category title="X"/>
     <item drawable="xbox" />

@@ -2873,6 +2873,26 @@
 
         <item component="ComponentInfo{jp.gungho.padEN/jp.gungho.padEN.AppDelegate}" drawable="pad" />
 
+
+    <!--Version 1.1.6.-->
+
+        <item component="ComponentInfo{com.hashcode.walloid/com.hashcode.walloid.chirag.SplashActivity}" drawable="walloid" />
+
+        <!-- Fenix -->
+        <item component="ComponentInfo{it.mvilla.android.fenix2/it.mvilla.android.fenix2.login.WelcomeActivity}" drawable="fenix" />
+
+        <!-- Fildo -->
+        <item component="ComponentInfo{mp3.fil.music/md522e93eadfc302a97ecac0187a7d18aec.SplashScreen}" drawable="fildo" />
+
+        <!-- GO -->
+        <item component="ComponentInfo{com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity}" drawable="go" />
+
+        <!-- Media Converter -->
+        <item component="ComponentInfo{com.github.khangnt.mcp/com.github.khangnt.mcp.ui.MainActivity}" drawable="media_converter" />
+
+        <!-- Mi Movistar -->
+        <item component="ComponentInfo{com.movistar.android.mimovistar.es/com.movistar.android.mimovistar.es.presentation.MainActivity}" drawable="mi_movistar" />
+
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
         <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="best_buy" />
