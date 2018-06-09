@@ -128,6 +128,10 @@
     <item drawable="ampme" />
     <item drawable="atp_wta_live" />
     <item drawable="apkpure" />
+    <item drawable="adownloader" />
+    <item drawable="aqua_card" />
+    <item drawable="auto_trader" />
+    <item drawable="asus_file_manager" />
 
     <category title="B" />
     <item drawable="better" />
@@ -327,6 +331,8 @@
     <item drawable="control_center" />
     <item drawable="cues" />
     <item drawable="cgv" />
+    <item drawable="carbon" />
+    <item drawable="cartoon_hd" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -425,6 +431,7 @@
     <item drawable="expedia" />
     <item drawable="edge_launcher" />
     <item drawable="easyjet" />
+    <item drawable="edge_sense_plus" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -759,6 +766,8 @@
     <item drawable="livestream" />
     <item drawable="liqcalc" />
     <item drawable="loffee" />
+    <item drawable="lightning_qr" />
+    <item drawable="lock_screen_root" />
 
 
     <category title="M" />
@@ -882,6 +891,8 @@
     <item drawable="mediahouse" />
     <item drawable="media_converter" />
     <item drawable="mi_movistar" />
+    <item drawable="movie_hd" />
+    <item drawable="my_ee" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1078,6 +1089,7 @@
     <item drawable="perfect_player" />
     <item drawable="pancake" />
     <item drawable="pad" />
+    <item drawable="pof" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1132,6 +1144,7 @@
     <item drawable="root_browser" />
     <item drawable="rocket_chat" />
     <item drawable="rapid_70" />
+    <item drawable="root_checker" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1297,6 +1310,8 @@
     <item drawable="sky_news" />
     <item drawable="sky_sports" />
     <item drawable="stream_tv" />
+    <item drawable="spreaker" />
+    <item drawable="storage_analyzer" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1323,7 +1338,6 @@
     <item drawable="the_score" />
     <item drawable="termius" />
     <item drawable="tapet" />
-    <item drawable="tphone" />
     <item drawable="team_speak" />
     <item drawable="treehouse" />
     <item drawable="teamviewer" />
@@ -1406,6 +1420,8 @@
     <item drawable="tapatalk_pro" />
     <item drawable="terrarium_tv" />
     <item drawable="tphone" />
+    <item drawable="tagged" />
+    <item drawable="transparent_clock_and_weather_premium" />
 
     <category title="U" />
     <item drawable="unified_remote" />
