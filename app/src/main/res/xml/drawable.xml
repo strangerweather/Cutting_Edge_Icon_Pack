@@ -224,6 +224,7 @@
     <item drawable="banco_do_brasil" />
     <item drawable="busybox_for_android" />
     <item drawable="ballz" />
+    <item drawable="bromite" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -579,6 +580,7 @@
     <item drawable="geometry_dash_meltdown" />
     <item drawable="geometry_dash_world" />
     <item drawable="go" />
+    <item drawable="glostar_tv" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -893,6 +895,8 @@
     <item drawable="mi_movistar" />
     <item drawable="movie_hd" />
     <item drawable="my_ee" />
+    <item drawable="maildroid" />
+    <item drawable="mobdro" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -986,6 +990,7 @@
     <item drawable="ok" />
     <item drawable="one_more_dash" />
     <item drawable="one_more_line" />
+    <item drawable="oppo_market" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -1422,6 +1427,8 @@
     <item drawable="tphone" />
     <item drawable="tagged" />
     <item drawable="transparent_clock_and_weather_premium" />
+    <item drawable="tv_show_favs" />
+    <item drawable="three_d_pool_game" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1479,6 +1486,7 @@
     <item drawable="virtual_wallet" />
     <item drawable="vivino" />
     <item drawable="videos" />
+    <item drawable="vplayer" />
 
 
     <category title="W"/>

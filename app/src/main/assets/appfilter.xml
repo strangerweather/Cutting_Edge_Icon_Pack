@@ -2873,6 +2873,100 @@
 
         <item component="ComponentInfo{jp.gungho.padEN/jp.gungho.padEN.AppDelegate}" drawable="pad" />
 
+
+    <!--Version 1.1.6.-->
+
+        <item component="ComponentInfo{com.hashcode.walloid/com.hashcode.walloid.chirag.SplashActivity}" drawable="walloid" />
+
+        <!-- Fenix -->
+        <item component="ComponentInfo{it.mvilla.android.fenix2/it.mvilla.android.fenix2.login.WelcomeActivity}" drawable="fenix" />
+
+        <!-- Fildo -->
+        <item component="ComponentInfo{mp3.fil.music/md522e93eadfc302a97ecac0187a7d18aec.SplashScreen}" drawable="fildo" />
+
+        <!-- GO -->
+        <item component="ComponentInfo{com.tomtom.gplay.navapp/com.tomtom.mobilenavapp.MobileNavAppActivity}" drawable="go" />
+
+        <!-- Media Converter -->
+        <item component="ComponentInfo{com.github.khangnt.mcp/com.github.khangnt.mcp.ui.MainActivity}" drawable="media_converter" />
+
+        <!-- Mi Movistar -->
+        <item component="ComponentInfo{com.movistar.android.mimovistar.es/com.movistar.android.mimovistar.es.presentation.MainActivity}" drawable="mi_movistar" />
+
+        <!-- aDownloader -->
+        <item component="ComponentInfo{com.AndroidA.DroiDownloader/com.AndroidA.DroiDownloader.DroiDownloader}" drawable="adownloader" />
+
+        <!-- aqua card -->
+        <item component="ComponentInfo{com.fd.accessplusecs.aqua/uk.co.newday.creditcard.splash.ui.SplashActivity}" drawable="aqua_card" />
+
+        <!-- Auto Trader -->
+        <item component="ComponentInfo{uk.co.autotrader.androidconsumersearch/uk.co.autotrader.androidconsumersearch.ui.activity.LauncherActivity}" drawable="auto_trader" />
+
+        <!-- Carbon -->
+        <item component="ComponentInfo{com.dotsandlines.carbon/com.dotsandlines.carbon.activities.SplashActivity}" drawable="carbon" />
+
+        <!-- Cartoon HD -->
+        <item component="ComponentInfo{com.microrecord.mobizen/com.microrecord.view.FrmSplash}" drawable="cartoon_hd" />
+
+        <!-- Edge Sense Plus -->
+        <item component="ComponentInfo{eu.duong.edgesenseplus/eu.duong.edgesenseplus.MainActivity}" drawable="edge_sense_plus" />
+
+        <!-- File Manager -->
+        <item component="ComponentInfo{com.asus.filemanager/com.asus.filemanager.activity.FileManagerActivity}" drawable="asus_file_manager" />
+
+        <!-- Lightning QR -->
+        <item component="ComponentInfo{com.application_4u.qrcode.barcode.scanner.reader.flashlight/com.application_4u.qrcode.barcode.scanner.reader.flashlight.CaptureActivity}" drawable="lightning_qr" />
+
+        <!-- Lock Screen (Root) -->
+        <item component="ComponentInfo{g7.lockscreenroot/g7.lockscreenroot.MainActivity}" drawable="lock_screen_root" />
+
+        <!-- Movie HD -->
+        <item component="ComponentInfo{com.ggateam.moviehd.ui/com.ggateam.moviehd.ui.FrmSplash}" drawable="movie_hd" />
+
+        <!-- My EE -->
+        <item component="ComponentInfo{uk.co.ee.myee/uk.co.ee.myee.Launcher}" drawable="my_ee" />
+
+        <!-- POF -->
+        <item component="ComponentInfo{com.pof.android/com.pof.android.IntentRoutingActivity}" drawable="pof" />
+
+        <!-- Root Checker Basic -->
+        <item component="ComponentInfo{com.joeykrim.rootcheck/com.joeykrim.rootcheck.MainActivity}" drawable="root_checker" />
+
+        <!-- Santander UK -->
+        <item component="ComponentInfo{uk.co.santander.santanderUK/uk.co.santander.santanderuk.logon.SplashActivity}" drawable="santander" />
+
+        <!-- Spreaker -->
+        <item component="ComponentInfo{com.spreaker.android/com.spreaker.android.radio.main.MainActivity}" drawable="spreaker" />
+
+        <!-- Storage Analyzer -->
+        <item component="ComponentInfo{com.rjhartsoftware.storageanalyzer/com.rjhartsoftware.storageanalyzer.MainActivity}" drawable="storage_analyzer" />
+
+        <!-- Tagged -->
+        <item component="ComponentInfo{com.taggedapp/com.tagged.activity.LaunchActivity}" drawable="tagged" />
+
+        <!-- Transparent clock & weather premium -->
+        <item component="ComponentInfo{com.droid27.transparentclockweather.premium/com.droid27.transparentclockweather.LauncherActivity}" drawable="transparent_clock_and_weather_premium" />
+
+        <!-- TV Show Favs -->
+        <item component="ComponentInfo{com.tvshowfavs/com.tvshowfavs.presentation.ui.activity.AuthProxyActivity}" drawable="tv_show_favs" />
+
+        <!-- VPlayer -->
+        <item component="ComponentInfo{com.dndteam.vplayer/com.dndteam.vplayer.ui.MainActivity}" drawable="vplayer" />
+
+        <item component="ComponentInfo{com.eivaagames.PoolGame3D/com.unity3d.player.UnityPlayerActivity}" drawable="three_d_pool_game" />
+
+        <item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite" />
+
+        <item component="ComponentInfo{com.menastar.beandra/com.menastar.beandra.SplashActivity}" drawable="glostar_tv" />
+
+        <item component="ComponentInfo{com.maildroid.pro/com.maildroid.activity.messageslist.MessagesHostActivity}" drawable="maildroid" />
+
+        <item component="ComponentInfo{com.mobdro.android/com.mobdro.android.DashBoardActivity}" drawable="mobdro" />
+
+        <item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="oppo_market" />
+
+
+
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
         <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="best_buy" />

@@ -2953,6 +2953,18 @@
         <!-- VPlayer -->
         <item component="ComponentInfo{com.dndteam.vplayer/com.dndteam.vplayer.ui.MainActivity}" drawable="vplayer" />
 
+        <item component="ComponentInfo{com.eivaagames.PoolGame3D/com.unity3d.player.UnityPlayerActivity}" drawable="three_d_pool_game" />
+
+        <item component="ComponentInfo{org.bromite.bromite/com.google.android.apps.chrome.Main}" drawable="bromite" />
+
+        <item component="ComponentInfo{com.menastar.beandra/com.menastar.beandra.SplashActivity}" drawable="glostar_tv" />
+
+        <item component="ComponentInfo{com.maildroid.pro/com.maildroid.activity.messageslist.MessagesHostActivity}" drawable="maildroid" />
+
+        <item component="ComponentInfo{com.mobdro.android/com.mobdro.android.DashBoardActivity}" drawable="mobdro" />
+
+        <item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="oppo_market" />
+
 
 
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
