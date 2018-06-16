@@ -2966,6 +2966,110 @@
         <item component="ComponentInfo{com.oppo.market/com.oppo.market.activity.MainActivity}" drawable="oppo_market" />
 
 
+        <!--Version 1.1.7-->
+
+        <!-- ACR -->
+        <item component="ComponentInfo{com.nll.acr/com.nll.acr.activity.MainActivity}" drawable="acr" />
+
+        <!-- AlAnsariEX -->
+        <item component="ComponentInfo{app.alansari/app.alansari.SplashActivity}" drawable="alansariex" />
+
+        <!-- AppGallery -->
+        <item component="ComponentInfo{com.huawei.appmarket/com.huawei.appmarket.MainActivity}" drawable="appgallery" />
+
+        <!-- Authenticator -->
+        <item component="ComponentInfo{com.azure.authenticator/com.azure.authenticator.ui.MainActivity}" drawable="microsoft_authenticator" />
+
+        <!-- Booking.com -->
+        <item component="ComponentInfo{com.booking/com.booking.startup.HomeActivity}" drawable="booking_com" />
+
+        <!-- BOTIM -->
+        <item component="ComponentInfo{im.thebot.messenger/im.thebot.messenger.BOTStartPage}" drawable="botim" />
+
+        <!-- Dubai Police -->
+        <item component="ComponentInfo{com.dubaipolice.app/com.dubaipolice.app.activities.SplashActivity}" drawable="dubai_police" />
+
+        <!-- Emirates -->
+        <item component="ComponentInfo{com.emirates.ek.android/com.tigerspike.emirates.presentation.startup.StartupActivity}" drawable="emirates" />
+
+        <!-- Emirates NBD -->
+        <item component="ComponentInfo{enbd.mobilebanking/enbd.mobilebanking.ui.activity.SplashActivity}" drawable="emirates_nbd" />
+
+        <!-- FABS -->
+        <item component="ComponentInfo{com.emirates.fabs2/com.emirates.fabs2.MainActivity}" drawable="fabs" />
+
+        <!-- HRDirectLite -->
+        <item component="ComponentInfo{com.emirates.hrdirectlite/com.emirates.hrdirectlite.MainActivity}" drawable="hrdirectlite" />
+
+        <!-- HUAWEI Video -->
+        <item component="ComponentInfo{com.huawei.himovie.overseas/com.huawei.himovie.ui.login.SplashScreenActivity}" drawable="huawei_video" />
+
+        <!-- iRoster -->
+        <item component="ComponentInfo{com.dnata.rtc/com.dnata.rtc.MainActivity}" drawable="iroster" />
+
+        <!-- K PLUS -->
+        <item component="ComponentInfo{com.kasikorn.retail.mbanking.wap/com.kasikorn.retail.mbanking.wap.activity.PlusNativeActivity}" drawable="k_plus" />
+
+        <!-- My Etisalat -->
+        <item component="ComponentInfo{com.Etisalat.ETIDA/com.Etisalat.ETIDA.home.activities.SplashActivity}" drawable="my_etisalat" />
+
+        <!-- NoxCleaner -->
+        <item component="ComponentInfo{com.noxgroup.app.cleaner/com.noxgroup.app.cleaner.module.main.SplashActivity}" drawable="noxcleaner" />
+
+        <!-- Phone Clone -->
+        <item component="ComponentInfo{com.hicloud.android.clone/com.huawei.android.clone.activity.sender.ChooseRecevieSendActivity}" drawable="phone_clone" />
+
+        <!-- Photo & Picture Resizer -->
+        <item component="ComponentInfo{com.simplemobilephotoresizer/com.simplemobilephotoresizer.andr.ui.StartActivity}" drawable="photo_and_picture_resizer" />
+
+        <!-- Popcorn Time -->
+        <item component="ComponentInfo{dp.ws.popcorntime/se.popcorn_time.mobile.ui.MainActivity}" drawable="popcorn_time" />
+
+        <!-- Reel Cinemas -->
+        <item component="ComponentInfo{com.reelCinema.Screens/com.reelCinema.Screens.MainActivity}" drawable="reel_cinemas" />
+
+        <!-- Roxy Cinemas -->
+        <item component="ComponentInfo{org.roxycinemas.com/org.roxycinemas.com.screens.SplashScreenActivity}" drawable="roxy_cinemas" />
+
+        <!-- Smiles -->
+        <item component="ComponentInfo{ae.etisalat.smiles/ae.etisalat.smiles.activities.SplashActivity}" drawable="smiles" />
+
+        <!-- Souq -->
+        <item component="ComponentInfo{com.souq.app/com.souq.app.activity.MainLaunchActivity}" drawable="souq" />
+
+        <!-- Study -->
+        <item component="ComponentInfo{com.chegg/com.chegg.study.home.StudyHomeScreenActivity}" drawable="study" />
+
+        <!-- SuperrichTH -->
+        <item component="ComponentInfo{com.toobaya.mobile.superrichthailand/th.co.superrich.Activity.MainActivity}" drawable="superrichth" />
+
+        <!-- Talabat -->
+        <item component="ComponentInfo{com.talabat/com.talabat.LandingScreen}" drawable="talabat" />
+
+        <!-- To-Do -->
+        <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="to-do" />
+
+        <!-- Vault -->
+        <item component="ComponentInfo{com.netqin.ps/com.netqin.ps.privacy.HideActivity}" drawable="vault" />
+
+        <!-- VOX Cinemas -->
+        <item component="ComponentInfo{com.voxcinemas.voxcinemasdev/com.voxcinemas.activities.SplashActivity}" drawable="vox_cinemas" />
+
+        <!-- WallpapersCraft -->
+        <item component="ComponentInfo{com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.ui.WelcomeActivity}" drawable="wallpaperscraft" />
+
+        <!-- Weather -->
+        <item component="ComponentInfo{com.huawei.android.totemweatherapp/com.huawei.android.totemweatherapp.WeatherHome}" drawable="weather" />
+
+        <!-- WorldRemit -->
+        <item component="ComponentInfo{com.worldremit.android/com.worldremit.android.ui.activities.StarterActivity}" drawable="worldremit" />
+
+        <!-- my AIS -->
+        <item component="ComponentInfo{com.ais.mimo.eservice/com.ais.mimo.eservice.module.splashscreen.SplashScreenActivity}" drawable="my_ais" />
+
+        <!-- RTA Dubai -->
+        <item component="ComponentInfo{com.rta.rtadubai/com.rta.rtadubai.MainDashboard.Splash}" drawable="rta_dubai" />
+
 
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />

@@ -132,6 +132,9 @@
     <item drawable="aqua_card" />
     <item drawable="auto_trader" />
     <item drawable="asus_file_manager" />
+    <item drawable="acr" />
+    <item drawable="alansariex" />
+    <item drawable="appgallery" />
 
     <category title="B" />
     <item drawable="better" />
@@ -225,6 +228,7 @@
     <item drawable="busybox_for_android" />
     <item drawable="ballz" />
     <item drawable="bromite" />
+    <item drawable="botim" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -393,6 +397,7 @@
     <item drawable="deutschlandcard" />
     <item drawable="dpd" />
     <item drawable="drivesync" />
+    <item drawable="dubai_police" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -433,6 +438,8 @@
     <item drawable="edge_launcher" />
     <item drawable="easyjet" />
     <item drawable="edge_sense_plus" />
+    <item drawable="emirates" />
+    <item drawable="emirates_nbd" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -505,6 +512,7 @@
     <item drawable="force_arena" />
     <item drawable="fenix" />
     <item drawable="fildo" />
+    <item drawable="fabs" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -634,6 +642,8 @@
     <item drawable="houzz" />
     <item drawable="hq_trivia" />
     <item drawable="hudl" />
+    <item drawable="hrdirectlite" />
+    <item drawable="huawei_video" />
 
     <category title="I" />
     <item drawable="inshorts" />
