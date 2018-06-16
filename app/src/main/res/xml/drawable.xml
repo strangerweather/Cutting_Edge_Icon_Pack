@@ -679,6 +679,7 @@
     <item drawable="image_2_wallpaper" />
     <item drawable="ifood" />
     <item drawable="ikea" />
+    <item drawable="iroster" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -732,6 +733,7 @@
     <item drawable="komoot" />
     <item drawable="kaspersky_secure_connection" />
     <item drawable="kingdom_hearts" />
+    <item drawable="k_plus" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -907,6 +909,8 @@
     <item drawable="my_ee" />
     <item drawable="maildroid" />
     <item drawable="mobdro" />
+    <item drawable="my_etisalat" />
+    <item drawable="my_ais" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -964,6 +968,7 @@
     <item drawable="night_clock" />
     <item drawable="nzb360" />
     <item drawable="naver_cloud" />
+    <item drawable="noxcleaner" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1105,6 +1110,9 @@
     <item drawable="pancake" />
     <item drawable="pad" />
     <item drawable="pof" />
+    <item drawable="phone_clone" />
+    <item drawable="photo_and_picture_resizer" />
+    <item drawable="popcorn_time" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1160,6 +1168,9 @@
     <item drawable="rocket_chat" />
     <item drawable="rapid_70" />
     <item drawable="root_checker" />
+    <item drawable="reel_cinemas" />
+    <item drawable="roxy_cinemas" />
+    <item drawable="rta_dubai" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1327,6 +1338,10 @@
     <item drawable="stream_tv" />
     <item drawable="spreaker" />
     <item drawable="storage_analyzer" />
+    <item drawable="smiles" />
+    <item drawable="souq" />
+    <item drawable="study" />
+    <item drawable="superrichth" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1439,6 +1454,8 @@
     <item drawable="transparent_clock_and_weather_premium" />
     <item drawable="tv_show_favs" />
     <item drawable="three_d_pool_game" />
+    <item drawable="talabat" />
+    <item drawable="to_do" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1497,6 +1514,8 @@
     <item drawable="vivino" />
     <item drawable="videos" />
     <item drawable="vplayer" />
+    <item drawable="vault" />
+    <item drawable="vox_cinemas" />
 
 
     <category title="W"/>
@@ -1552,6 +1571,8 @@
     <item drawable="wemo" />
     <item drawable="whoscall" />
     <item drawable="walloid" />
+    <item drawable="wallpaperscraft" />
+    <item drawable="worldremit" />
 
     <category title="X"/>
     <item drawable="xbox" />

@@ -3047,7 +3047,7 @@
         <item component="ComponentInfo{com.talabat/com.talabat.LandingScreen}" drawable="talabat" />
 
         <!-- To-Do -->
-        <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="to-do" />
+        <item component="ComponentInfo{com.microsoft.todos/com.microsoft.todos.ui.LaunchActivity}" drawable="to_do" />
 
         <!-- Vault -->
         <item component="ComponentInfo{com.netqin.ps/com.netqin.ps.privacy.HideActivity}" drawable="vault" />
