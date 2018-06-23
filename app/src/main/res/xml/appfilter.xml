@@ -3071,6 +3071,90 @@
         <item component="ComponentInfo{com.rta.rtadubai/com.rta.rtadubai.MainDashboard.Splash}" drawable="rta_dubai" />
 
 
+        <!--Version 1.1.8-->
+
+        <!-- TIMBER AD FILTER -->
+        <item component="ComponentInfo{com.mobligation.timberadblock/com.mobligation.timberadblock.PermissionActivity}" drawable="timber_ad_filter" />
+
+        <!-- PureVPN -->
+        <item component="ComponentInfo{com.gaditek.purevpnics/com.gaditek.purevpnics.main.SplashActivity}" drawable="purevpn" />
+
+        <!-- Agoda -->
+        <item component="ComponentInfo{com.agoda.mobile.consumer/com.agoda.mobile.consumer.screens.splash.AppLauncherActivity}" drawable="agoda" />
+
+        <!-- EK Platinum -->
+        <item component="ComponentInfo{com.emirates.platinum/com.emirates.platinumHybrid.MainActivity}" drawable="ek_platinum" />
+
+        <!-- AccorHotels -->
+        <item component="ComponentInfo{com.accor.appli.hybrid/fr.accor.core.ui.activity.SplashScreenActivity}" drawable="accorhotels" />
+
+        <!-- Bobby Movie -->
+        <item component="ComponentInfo{com.bkidshd.movie/com.bkidshd.movie.activity.BaseActivity}" drawable="bobby_movie" />
+
+        <!-- OGInsta+ -->
+        <item component="ComponentInfo{com.oginstagm.android/com.oginstagm.android.activity.MainTabActivity}" drawable="oginstagm" />
+
+        <!-- TutuApp -->
+        <item component="ComponentInfo{com.feng.droid.tutu/com.tutu.market.activity.TutuAppLoginActivity}" drawable="tutuapp" />
+
+        <!-- AdClear for Samsung Internet -->
+        <item component="ComponentInfo{com.seven.adclear.fsb/com.seven.adclear.sbrowser.MainActivity}" drawable="adclear_for_samsung_internet" />
+
+        <!-- AdGuard Content Blocker -->
+        <item component="ComponentInfo{com.adguard.android.contentblocker/com.adguard.android.contentblocker.MainActivity}" drawable="adguard_content_blocker" />
+
+        <!-- Skype Lite -->
+        <item component="ComponentInfo{com.skype.m2/com.skype.m2.views.HubActivity}" drawable="skype_lite" />
+
+        <!-- WhatsApp -->
+        <item component="ComponentInfo{com.whatsapp/com.whatsapp.0}" drawable="whatsapp" />
+
+        <!-- YouTube Vanced -->
+        <item component="ComponentInfo{com.vanced.android.youtube/com.google.android.youtube.app.honeycomb.Shell$HomeActivity}" drawable="youtube_vanced" />
+
+        <!-- Massimo Dutti -->
+        <item component="ComponentInfo{com.inditex.massimodutti/es.sdos.sdosproject.ui.splash.activity.LaunchActivity}" drawable="massimo_dutti" />
+
+        <!-- trivago -->
+        <item component="ComponentInfo{com.trivago/com.trivago.main.MainActivity}" drawable="trivago" />
+
+        <!-- 1Money -->
+        <item component="ComponentInfo{org.pixelrush.moneyiq/org.pixelrush.moneyiq.ActivityMoneyIQ}" drawable="1money" />
+
+        <!-- A Better Camera Unlocked -->
+        <item component="ComponentInfo{com.almalence.opencam_plus/com.almalence.opencam_plus.MainScreen}" drawable="a_better_camera_unlocked" />
+
+        <!-- Dropsync -->
+        <item component="ComponentInfo{com.ttxapps.dropsync/com.ttxapps.sync.app.MainActivity}" drawable="dropsync" />
+
+        <!-- Edru Pro -->
+        <item component="ComponentInfo{com.geekbit.edru.pro/com.geekbit.edru.pro.activities.SplashActivity}" drawable="edru" />
+
+        <!-- Fleya -->
+        <item component="ComponentInfo{fixedpointcode.fleya/fixedpointcode.fleya.FleyaActivity}" drawable="fleya" />
+
+        <!-- Hypocam -->
+        <item component="ComponentInfo{com.xnview.hypocam/com.xnview.hypocam.MainActivity}" drawable="hypocam" />
+
+        <!-- Lucid Daydream -->
+        <item component="ComponentInfo{de.j4velin.ultimateDayDream/de.j4velin.ultimateDayDream.Dummy}" drawable="lucid_daydream" />
+
+        <!-- Medication List -->
+        <item component="ComponentInfo{com.lsdinfotech.medicationlist/com.lsdinfotech.medicationlist.MainActivity}" drawable="medication_list" />
+
+        <!-- Nebula -->
+        <item component="ComponentInfo{com.rocketsloth.nebula/com.rocketsloth.nebula.utilities.SplashActivity}" drawable="nebula" />
+
+        <!-- Samsung Pass -->
+        <item component="ComponentInfo{com.samsung.android.samsungpass/com.samsung.android.samsungpass.launcher.EntryLauncher}" drawable="samsung_pass" />
+
+        <!-- SD Maid Pro -->
+        <item component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}" drawable="sd_maid" />
+
+
+
+
+
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
         <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="best_buy" />
