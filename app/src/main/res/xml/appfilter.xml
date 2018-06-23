@@ -3101,7 +3101,7 @@
         <item component="ComponentInfo{com.seven.adclear.fsb/com.seven.adclear.sbrowser.MainActivity}" drawable="adclear_for_samsung_internet" />
 
         <!-- AdGuard Content Blocker -->
-        <item component="ComponentInfo{com.adguard.android.contentblocker/com.adguard.android.contentblocker.MainActivity}" drawable="adguard_content_blocker" />
+        <item component="ComponentInfo{com.adguard.android.contentblocker/com.adguard.android.contentblocker.MainActivity}" drawable="adguard" />
 
         <!-- Skype Lite -->
         <item component="ComponentInfo{com.skype.m2/com.skype.m2.views.HubActivity}" drawable="skype_lite" />
@@ -3119,7 +3119,7 @@
         <item component="ComponentInfo{com.trivago/com.trivago.main.MainActivity}" drawable="trivago" />
 
         <!-- 1Money -->
-        <item component="ComponentInfo{org.pixelrush.moneyiq/org.pixelrush.moneyiq.ActivityMoneyIQ}" drawable="1money" />
+        <item component="ComponentInfo{org.pixelrush.moneyiq/org.pixelrush.moneyiq.ActivityMoneyIQ}" drawable="one_money" />
 
         <!-- A Better Camera Unlocked -->
         <item component="ComponentInfo{com.almalence.opencam_plus/com.almalence.opencam_plus.MainScreen}" drawable="a_better_camera_unlocked" />

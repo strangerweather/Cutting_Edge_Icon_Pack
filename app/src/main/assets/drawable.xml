@@ -135,6 +135,10 @@
     <item drawable="acr" />
     <item drawable="alansariex" />
     <item drawable="appgallery" />
+    <item drawable="agoda" />
+    <item drawable="accorhotels" />
+    <item drawable="a_better_camera_unlocked" />
+    <item drawable="adclear_for_samsung_internet" />
 
     <category title="B" />
     <item drawable="better" />
@@ -229,6 +233,7 @@
     <item drawable="ballz" />
     <item drawable="bromite" />
     <item drawable="botim" />
+    <item drawable="bobby_movie" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -398,6 +403,7 @@
     <item drawable="dpd" />
     <item drawable="drivesync" />
     <item drawable="dubai_police" />
+    <item drawable="dropsync" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -440,6 +446,8 @@
     <item drawable="edge_sense_plus" />
     <item drawable="emirates" />
     <item drawable="emirates_nbd" />
+    <item drawable="ek_platinum" />
+    <item drawable="edru" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -513,6 +521,7 @@
     <item drawable="fenix" />
     <item drawable="fildo" />
     <item drawable="fabs" />
+    <item drawable="fleya" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -644,6 +653,7 @@
     <item drawable="hudl" />
     <item drawable="hrdirectlite" />
     <item drawable="huawei_video" />
+    <item drawable="hypocam" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -782,6 +792,7 @@
     <item drawable="loffee" />
     <item drawable="lightning_qr" />
     <item drawable="lock_screen_root" />
+    <item drawable="lucid_daydream" />
 
 
     <category title="M" />
@@ -911,6 +922,8 @@
     <item drawable="mobdro" />
     <item drawable="my_etisalat" />
     <item drawable="my_ais" />
+    <item drawable="medication_list" />
+    <item drawable="massimo_dutti" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1006,6 +1019,8 @@
     <item drawable="one_more_dash" />
     <item drawable="one_more_line" />
     <item drawable="oppo_market" />
+    <item drawable="oginstagm" />
+    <item drawable="one_money" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -1113,6 +1128,7 @@
     <item drawable="phone_clone" />
     <item drawable="photo_and_picture_resizer" />
     <item drawable="popcorn_time" />
+    <item drawable="purevpn" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1342,6 +1358,7 @@
     <item drawable="souq" />
     <item drawable="study" />
     <item drawable="superrichth" />
+    <item drawable="skype_lite" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1456,6 +1473,8 @@
     <item drawable="three_d_pool_game" />
     <item drawable="talabat" />
     <item drawable="to_do" />
+    <item drawable="timber_ad_filter" />
+    <item drawable="tutuapp" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1603,6 +1622,7 @@
     <item drawable="yowhatsapp" />
     <item drawable="youmail" />
     <item drawable="ymusic" />
+    <item drawable="youtube_vanced" />
 
     <category title="Z"/>
     <item drawable="zello" />
