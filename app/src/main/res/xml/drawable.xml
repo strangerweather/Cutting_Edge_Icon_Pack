@@ -139,6 +139,7 @@
     <item drawable="accorhotels" />
     <item drawable="a_better_camera_unlocked" />
     <item drawable="adclear_for_samsung_internet" />
+    <item drawable="another_widget" />
 
     <category title="B" />
     <item drawable="better" />
@@ -598,6 +599,7 @@
     <item drawable="geometry_dash_world" />
     <item drawable="go" />
     <item drawable="glostar_tv" />
+    <item drawable="google_podcasts" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -924,6 +926,7 @@
     <item drawable="my_ais" />
     <item drawable="medication_list" />
     <item drawable="massimo_dutti" />
+    <item drawable="my_o2" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1592,6 +1595,7 @@
     <item drawable="walloid" />
     <item drawable="wallpaperscraft" />
     <item drawable="worldremit" />
+    <item drawable="wimbledon" />
 
     <category title="X"/>
     <item drawable="xbox" />

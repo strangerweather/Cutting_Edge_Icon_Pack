@@ -3152,8 +3152,12 @@
         <item component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}" drawable="sd_maid" />
 
 
+        <!--Version 1.1.9.-->
 
-
+        <item component="ComponentInfo{com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activity.MainActivity}" drawable="another_widget" />
+        <item component="ComponentInfo{uk.co.o2.android.myo2/uk.co.o2.android.myo2.activities.SplashScreenActivity}" drawable="my_o2" />
+        <item component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}" drawable="google_podcasts" />
+        <item component="ComponentInfo{com.ibm.events.android.wimbledon/com.ibm.events.android.wimbledon.ui.LoadingActivity}" drawable="wimbledon" />
 
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
