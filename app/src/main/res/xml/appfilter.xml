@@ -3159,6 +3159,26 @@
         <item component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}" drawable="google_podcasts" />
         <item component="ComponentInfo{com.ibm.events.android.wimbledon/com.ibm.events.android.wimbledon.ui.LoadingActivity}" drawable="wimbledon" />
 
+
+        <!-- Downloader -->
+        <item component="ComponentInfo{com.app.downloadmanager/com.downloaderlibrary.views.GdprActivity}" drawable="downloader" />
+
+        <!-- Beoplay -->
+        <item component="ComponentInfo{dk.beoplay.app/dk.shape.beoplay.activities.MainActivity}" drawable="beoplay" />
+
+        <!-- Wing Customer -->
+        <item component="ComponentInfo{com.finnetlimited.wings/com.finnetlimited.wings.ui.WelcomeActivity}" drawable="wing_customer" />
+
+        <!-- WesternUnion -->
+        <item component="ComponentInfo{com.westernunion.moneytransferr3app.ae/com.westernunion.moneytransferr3app.MainActivity}" drawable="westernunion" />
+
+        <item component="ComponentInfo{com.orangenose.tablefull/com.unity3d.player.UnityPlayerActivity}" drawable="ping_pong_king" />
+
+
+        <!--Version 1.2.0-->
+        <item component="ComponentInfo{com.luzapplications.alessio.topwallpapers/com.luzapplications.alessio.topwallpapers.MainActivity}" drawable="walloop" />
+
+
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
         <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="best_buy" />

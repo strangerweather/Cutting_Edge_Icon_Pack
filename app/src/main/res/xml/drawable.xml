@@ -235,6 +235,7 @@
     <item drawable="bromite" />
     <item drawable="botim" />
     <item drawable="bobby_movie" />
+    <item drawable="beoplay" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -405,6 +406,7 @@
     <item drawable="drivesync" />
     <item drawable="dubai_police" />
     <item drawable="dropsync" />
+    <item drawable="downloader" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -1132,6 +1134,7 @@
     <item drawable="photo_and_picture_resizer" />
     <item drawable="popcorn_time" />
     <item drawable="purevpn" />
+    <item drawable="ping_pong_king" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1596,6 +1599,9 @@
     <item drawable="wallpaperscraft" />
     <item drawable="worldremit" />
     <item drawable="wimbledon" />
+    <item drawable="wing_customer" />
+    <item drawable="westernunion" />
+    <item drawable="walloop" />
 
     <category title="X"/>
     <item drawable="xbox" />

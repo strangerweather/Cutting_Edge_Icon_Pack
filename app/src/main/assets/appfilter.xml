@@ -3152,7 +3152,27 @@
         <item component="ComponentInfo{eu.thedarken.sdm.unlocker/eu.thedarken.sdm.unlocker.MainActivity}" drawable="sd_maid" />
 
 
+        <!--Version 1.1.9.-->
 
+        <item component="ComponentInfo{com.tommasoberlose.anotherwidget/com.tommasoberlose.anotherwidget.ui.activity.MainActivity}" drawable="another_widget" />
+        <item component="ComponentInfo{uk.co.o2.android.myo2/uk.co.o2.android.myo2.activities.SplashScreenActivity}" drawable="my_o2" />
+        <item component="ComponentInfo{com.google.android.apps.podcasts/com.google.android.apps.podcasts.PodcastsActivity}" drawable="google_podcasts" />
+        <item component="ComponentInfo{com.ibm.events.android.wimbledon/com.ibm.events.android.wimbledon.ui.LoadingActivity}" drawable="wimbledon" />
+
+
+        <!-- Downloader -->
+        <item component="ComponentInfo{com.app.downloadmanager/com.downloaderlibrary.views.GdprActivity}" drawable="downloader" />
+
+        <!-- Beoplay -->
+        <item component="ComponentInfo{dk.beoplay.app/dk.shape.beoplay.activities.MainActivity}" drawable="beoplay" />
+
+        <!-- Wing Customer -->
+        <item component="ComponentInfo{com.finnetlimited.wings/com.finnetlimited.wings.ui.WelcomeActivity}" drawable="wing_customer" />
+
+        <!-- WesternUnion -->
+        <item component="ComponentInfo{com.westernunion.moneytransferr3app.ae/com.westernunion.moneytransferr3app.MainActivity}" drawable="westernunion" />
+
+        <item component="ComponentInfo{com.orangenose.tablefull/com.unity3d.player.UnityPlayerActivity}" drawable="ping_pong_king" />
 
 
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
