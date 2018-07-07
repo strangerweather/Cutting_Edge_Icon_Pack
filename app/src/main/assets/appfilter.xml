@@ -3175,6 +3175,48 @@
         <item component="ComponentInfo{com.orangenose.tablefull/com.unity3d.player.UnityPlayerActivity}" drawable="ping_pong_king" />
 
 
+        <!--Version 1.2.0-->
+
+        <item component="ComponentInfo{com.luzapplications.alessio.topwallpapers/com.luzapplications.alessio.topwallpapers.MainActivity}" drawable="walloop" />
+        <item component="ComponentInfo{org.halfcycle.cc/org.halfcycle.cc.views.HomeActivity}" drawable="color_calibrator" />
+
+        <!-- Aramex -->
+        <item component="ComponentInfo{net.aramex/net.aramex.activity.anonymous.LaunchActivity}" drawable="aramex" />
+
+        <!-- USPS Mobile -->
+        <item component="ComponentInfo{com.usps/com.usps.mobile.SplashScreenActivity}" drawable="usps_mobile" />
+
+        <!-- Blur Image -->
+        <item component="ComponentInfo{com.inglesdivino.blurimage/com.inglesdivino.blurimage.MainActivity}" drawable="blur_image" />
+
+        <!-- Cut Paste Photos -->
+        <item component="ComponentInfo{com.km.cutpaste.util/com.km.cutpaste.MainActivity}" drawable="cut_paste_photos" />
+
+        <!-- VPNhub -->
+        <item component="ComponentInfo{com.appatomic.vpnhub/com.appatomic.vpnhub.Normal}" drawable="vpn_hub" />
+
+        <!-- Photo Effect Eraser -->
+        <item component="ComponentInfo{deblabs.appl.imagenpaint.funPhotoEraser/deblabs.appl.imagenpaint.funPhotoEraser.ActivityCanvas}" drawable="photo_effect_eraser" />
+
+        <!-- Blurize -->
+        <item component="ComponentInfo{codeadore.blurize/codeadore.blurize.ModeSelectionActivity}" drawable="blurize" />
+
+        <!-- CutPastePhoto -->
+        <item component="ComponentInfo{com.odyssey.apps.cutpastephoto/com.odyssey.apps.cutpastephoto.SplashScreen}" drawable="cutpastephoto" />
+
+        <!-- PlayerXtreme -->
+        <item component="ComponentInfo{xmw.app.playerxtreme/com.pentaloop.playerxtreme.presentation.activities.StartActivity}" drawable="playerxtreme" />
+
+        <!-- BitTorrent -->
+        <item component="ComponentInfo{com.bittorrent.client/com.bittorrent.client.Main}" drawable="bit_torrent" />
+
+        <!-- McDonald's -->
+        <item component="ComponentInfo{com.mcdonalds.mobileapp/mcdonalds.core.SplashActivity.White}" drawable="mc_donalds" />
+
+        <!-- PRINT -->
+        <item component="ComponentInfo{jp.co.canon.bsd.ad.pixmaprint/jp.co.canon.bsd.ad.pixmaprint.EulaActivity}" drawable="canon_print" />
+
+
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
         <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="best_buy" />

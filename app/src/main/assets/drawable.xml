@@ -140,6 +140,7 @@
     <item drawable="a_better_camera_unlocked" />
     <item drawable="adclear_for_samsung_internet" />
     <item drawable="another_widget" />
+    <item drawable="aramex" />
 
     <category title="B" />
     <item drawable="better" />
@@ -236,6 +237,8 @@
     <item drawable="botim" />
     <item drawable="bobby_movie" />
     <item drawable="beoplay" />
+    <item drawable="blur_image" />
+    <item drawable="blurize" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -345,6 +348,10 @@
     <item drawable="cgv" />
     <item drawable="carbon" />
     <item drawable="cartoon_hd" />
+    <item drawable="color_calibrator" />
+    <item drawable="cut_paste_photos" />
+    <item drawable="cutpastephoto" />
+    <item drawable="canon_print" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -1135,6 +1142,8 @@
     <item drawable="popcorn_time" />
     <item drawable="purevpn" />
     <item drawable="ping_pong_king" />
+    <item drawable="photo_effect_eraser" />
+    <item drawable="playerxtreme" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1501,6 +1510,7 @@
     <item drawable="union_rewardz" />
     <item drawable="usb_backup" />
     <item drawable="us_bank" />
+    <item drawable="usps_mobile" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -1541,6 +1551,7 @@
     <item drawable="vplayer" />
     <item drawable="vault" />
     <item drawable="vox_cinemas" />
+    <item drawable="vpn_hub" />
 
 
     <category title="W"/>
@@ -1601,6 +1612,7 @@
     <item drawable="wimbledon" />
     <item drawable="wing_customer" />
     <item drawable="westernunion" />
+    <item drawable="walloop" />
 
     <category title="X"/>
     <item drawable="xbox" />
