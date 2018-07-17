@@ -458,6 +458,7 @@
     <item drawable="emirates_nbd" />
     <item drawable="ek_platinum" />
     <item drawable="edru" />
+    <item drawable="express_music" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -701,6 +702,7 @@
     <item drawable="ifood" />
     <item drawable="ikea" />
     <item drawable="iroster" />
+    <item drawable="immersive_manager" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -1552,6 +1554,7 @@
     <item drawable="vault" />
     <item drawable="vox_cinemas" />
     <item drawable="vpn_hub" />
+    <item drawable="vip_premium" />
 
 
     <category title="W"/>

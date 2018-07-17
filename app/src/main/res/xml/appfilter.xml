@@ -3217,7 +3217,28 @@
         <item component="ComponentInfo{jp.co.canon.bsd.ad.pixmaprint/jp.co.canon.bsd.ad.pixmaprint.EulaActivity}" drawable="canon_print" />
 
 
+        <!--Version 1.2.1-->
+
+        <!-- Express Music -->
+        <item component="ComponentInfo{com.expressmusic.mp3.download/com.expressmusic.mp3.download.MainActivity}" drawable="express_music" />
+
+        <!-- WallpapersCraft -->
+        <item component="ComponentInfo{com.wallpaperscraft.wallpaper/com.wallpaperscraft.wallpaper.ui.welcome.WelcomeActivity}" drawable="wallpaperscraft" />
+
+        <!-- WeTransfer -->
+        <item component="ComponentInfo{com.wetransfer.app.live/com.wetransfer.app.live.ui.launcher.LauncherActivity}" drawable="wetransfer" />
+
+        <!-- VIP Premium -->
+        <item component="ComponentInfo{com.snaptube.license/com.snaptube.license.LaunchActivity}" drawable="vip_premium" />
+
+        <item component="ComponentInfo{com.ivianuu.immersivemodemanager/com.ivianuu.immersivemodemanager.ui.MainActivity}" drawable="immersive_manager" />
+
+
+
+
+
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
+
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
         <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="best_buy" />
         <item component="ComponentInfo{com.t101.android3.recon/com.t101.android3.recon.LoginActivity}" drawable="recon_x" />
