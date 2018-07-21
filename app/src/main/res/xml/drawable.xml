@@ -141,6 +141,7 @@
     <item drawable="adclear_for_samsung_internet" />
     <item drawable="another_widget" />
     <item drawable="aramex" />
+    <item drawable="amex_mobile" />
 
     <category title="B" />
     <item drawable="better" />
@@ -240,6 +241,7 @@
     <item drawable="blur_image" />
     <item drawable="blurize" />
     <item drawable="balls_bricks_breaker" />
+    <item drawable="best_buy" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -415,6 +417,7 @@
     <item drawable="dubai_police" />
     <item drawable="dropsync" />
     <item drawable="downloader" />
+    <item drawable="directv" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -669,6 +672,7 @@
     <item drawable="hrdirectlite" />
     <item drawable="huawei_video" />
     <item drawable="hypocam" />
+    <item drawable="howtotie" />
 
     <category title="I" />
     <item drawable="inshorts" />

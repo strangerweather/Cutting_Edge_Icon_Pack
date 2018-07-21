@@ -3234,15 +3234,46 @@
         <item component="ComponentInfo{com.ivianuu.immersivemodemanager/com.ivianuu.immersivemodemanager.ui.MainActivity}" drawable="immersive_manager" />
 
 
+        <!--Version 1.2.2-->
 
+        <!-- 7fon -->
+        <item component="ComponentInfo{ru.wall7Fon/ru.wall7Fon.ui.activities.SplashActivty}" drawable="seven_fon" />
 
+        <!-- AliExpress -->
+        <item component="ComponentInfo{com.alibaba.aliexpresshd/com.aliexpress.module.home.MainActivity}" drawable="ali_express" />
+
+        <!-- Balls Bricks Breaker -->
+        <item component="ComponentInfo{balls.arcademaker.bricks.breaker.brounce.ballz/balls.arcademaker.bricks.breaker.brounce.ballz.UnityPlayerActivity}" drawable="balls_bricks_breaker" />
+
+        <!-- EON -->
+        <item component="ComponentInfo{com.ug.eon.android/com.uc.android.activity.StartActivity}" drawable="eon" />
+
+        <!-- eWeLink -->
+        <item component="ComponentInfo{com.coolkit/com.coolkit.MainActivity}" drawable="ewelink" />
+
+        <!-- Flamingo -->
+        <item component="ComponentInfo{com.samruston.twitter/com.samruston.twitter.Launcher9}" drawable="flamingo_for_twitter" />
+
+        <!-- FolderSync Pro -->
+        <item component="ComponentInfo{dk.tacit.android.foldersync.full/dk.tacit.android.foldersync.SplashActivity}" drawable="foldersync" />
+
+        <!-- IFTTT -->
+        <item component="ComponentInfo{com.ifttt.ifttt/com.ifttt.ifttt.home.HomeActivity}" drawable="ifttt" />
+
+        <!-- SoGe m-Bank -->
+        <item component="ComponentInfo{eu.newfrontier.iBanking.mobile.SOG.Retail/rs.nfinnova.mBanking.activities.SplashScreenActivity}" drawable="soge_m_bank" />
+
+        <!-- Yandex Browser -->
+        <item component="ComponentInfo{com.yandex.browser/com.yandex.browser.YandexBrowserActivity}" drawable="yandex_browser" />
 
         <item component="ComponentInfo{com.artelplus.howtotie/com.artelplus.howtotie.Main}" drawable="howtotie" />
 
         <item component="ComponentInfo{com.americanexpress.android.acctsvcs.us/com.americanexpress.android.acctsvcs.us.firstuse.StartupActivity}" drawable="amex_mobile" />
+
         <item component="ComponentInfo{com.bestbuy.android/com.bestbuy.android.activity.HomeScreen}" drawable="best_buy" />
-        <item component="ComponentInfo{com.t101.android3.recon/com.t101.android3.recon.LoginActivity}" drawable="recon_x" />
+
         <item component="ComponentInfo{com.directv.dvrscheduler/com.directv.dvrscheduler.activity.core.Setup}" drawable="directv" />
+
         <item component="ComponentInfo{com.whiz.droneapp/com.whiz.droneapp.Splash}" drawable="drone_mobile" />
         <item component="ComponentInfo{com.logitech.harmonyhub/com.logitech.harmonyhub.ui.SplashActivity}" drawable="harmony" />
         <item component="ComponentInfo{com.hs.helloscheduling/com.hs.helloscheduling.CordovaApp}" drawable="tracksmart_scheduling" />
