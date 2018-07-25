@@ -4,7 +4,7 @@
     tools:ignore="MissingTranslation">
 
     <!-- YOUR ICON PACK NAME -->
-    <string name="app_name">Cutting Edge</string>
+    <!--<string name="app_name">Cutting Edge</string>-->
 
     <string name="theme_title">Cutting Edge Icon Pack</string>
     <string name="theme_name">Cutting Edge Icon Pack</string>
