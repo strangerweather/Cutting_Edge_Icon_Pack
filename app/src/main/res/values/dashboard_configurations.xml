@@ -57,7 +57,7 @@
     <!-- More apps at Google Play Store
     * Link to google play store developer
     * If you don't want to show this part, just leave this empty -->
-    <string name="google_play_dev"></string>
+    <string name="google_play_dev">https://play.google.com/store/apps/details?id=com.strangerweather.nextgenicons.optimized</string>
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
