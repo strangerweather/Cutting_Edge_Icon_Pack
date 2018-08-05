@@ -143,6 +143,7 @@
     <item drawable="aramex" />
     <item drawable="amex_mobile" />
     <item drawable="ally_mobile" />
+    <item drawable="alarm_com" />
 
     <category title="B" />
     <item drawable="better" />
@@ -357,6 +358,7 @@
     <item drawable="cutpastephoto" />
     <item drawable="canon_print" />
     <item drawable="ct_art" />
+    <item drawable="class_dojo" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -547,6 +549,7 @@
     <item drawable="first_direct" />
     <item drawable="fasthub" />
     <item drawable="firefox_focus" />
+    <item drawable="fantasy_war" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -628,6 +631,7 @@
     <item drawable="gtasks" />
     <item drawable="google_wifi" />
     <item drawable="gitter" />
+    <item drawable="google_arts_and_culture" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -726,6 +730,7 @@
     <item drawable="ikea" />
     <item drawable="iroster" />
     <item drawable="immersive_manager" />
+    <item drawable="iherb" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -964,6 +969,8 @@
     <item drawable="massimo_dutti" />
     <item drawable="my_o2" />
     <item drawable="motion_stills" />
+    <item drawable="microsoft_translator" />
+    <item drawable="my_contacts" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1024,6 +1031,7 @@
     <item drawable="noxcleaner" />
     <item drawable="news" />
     <item drawable="ncalc" />
+    <item drawable="nfl_fantasy" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1064,6 +1072,7 @@
     <item drawable="oginstagm" />
     <item drawable="one_money" />
     <item drawable="open_keychain" />
+    <item drawable="one_plus_plus" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -1178,6 +1187,7 @@
     <item drawable="password_store" />
     <item drawable="pleco" />
     <item drawable="pixiv" />
+    <item drawable="periodic_table" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1533,6 +1543,8 @@
     <item drawable="tutuapp" />
     <item drawable="teamsip" />
     <item drawable="telstra" />
+    <item drawable="t_rowe_price" />
+    <item drawable="timbre" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1659,6 +1671,8 @@
     <item drawable="westernunion" />
     <item drawable="walloop" />
     <item drawable="whoosh" />
+    <item drawable="walli" />
+    <item drawable="wawa" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -1669,6 +1683,7 @@
     <item drawable="xda_feed" />
     <item drawable="xscope_pro" />
     <item drawable="xiialive_pro" />
+    <item drawable="xkcd" />
 
     <category title="Y"/>
     <item drawable="yubrowser" />

@@ -3332,19 +3332,17 @@
         <item component="ComponentInfo{com.saschaha.one/com.saschaha.easy4me.Main.MainActivity}" drawable="one_plus_plus" />
         <item component="ComponentInfo{com.shanga.walli/com.shanga.walli.mvp.splash.SplashActivity}" drawable="walli" />
         <item component="ComponentInfo{com.skype.m2/com.skype.m2.views.Hub}" drawable="skype_lite" />
-        <item component="ComponentInfo{com.sleeperbot/com.sleeperbot.MainActivity}" drawable="sleeperbot" />
         <item component="ComponentInfo{com.target.ui/com.target.ui.activity.NavigationActivity}" drawable="target" />
         <item component="ComponentInfo{com.telenordigital.contacts/com.telenordigital.contacts.controller.StartupActivity}" drawable="my_contacts" />
         <item component="ComponentInfo{com.trp.and.personal/com.trp.and.personal.view.common.activity.SplashActivity}" drawable="t_rowe_price" />
         <item component="ComponentInfo{com.wawa.android.app/com.wawa.android.app.activities.SplashActivity}" drawable="wawa" />
-        <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity}" drawable="easy_xkcd" />
-        <item component="ComponentInfo{jp.co.nttdocomo.carriermail/jp.co.nttdocomo.carriermail.activity.EulaViewer}" drawable="docomo_mail" />
-        <item component="ComponentInfo{jp.hazuki.yuzubrowser/jp.hazuki.yuzubrowser.BrowserActivity}" drawable="yuzu_browser" />
+        <item component="ComponentInfo{de.tap.easy_xkcd/de.tap.easy_xkcd.Activities.MainActivity}" drawable="xkcd" />
         <item component="ComponentInfo{jp.snowlife01.android.voicerecorderpro/jp.snowlife01.android.voicerecorderpro.MainActivity}" drawable="voice_recorder_pro" />
         <item component="ComponentInfo{mendeleev.redlime/redlime.pereodic.MainActivity}" drawable="periodic_table" />
         <item component="ComponentInfo{xeus.timbre/xeus.timbre.ui.main.MainActivity}" drawable="timbre" />
         <item component="ComponentInfo{com.alarm.alarmmobile.android/com.alarm.alarmmobile.android.activity.LoginActivity}" drawable="alarm_com" />
-        <item component="ComponentInfo{com.classdojo.android/com.classdojo.android.ClassDojoActivity}" drawable="class__dojo" />
+        <item component="ComponentInfo{com.classdojo.android/com.classdojo.android.ClassDojoActivity}" drawable="class_dojo" />
+
         <item component="ComponentInfo{fr.alkeo.android.danstonchat/com.antdesc.android.danstonchat.ui.activities.MainActivity}" drawable="danstonchat" />
         <item component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplashScreen}" drawable="money_lover" />
         <item component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplash}" drawable="money_lover" />
