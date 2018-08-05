@@ -356,6 +356,7 @@
     <item drawable="cut_paste_photos" />
     <item drawable="cutpastephoto" />
     <item drawable="canon_print" />
+    <item drawable="ct_art" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -468,6 +469,7 @@
     <item drawable="express_music" />
     <item drawable="eon" />
     <item drawable="ewelink" />
+    <item drawable="easilydo" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -543,6 +545,8 @@
     <item drawable="fabs" />
     <item drawable="fleya" />
     <item drawable="first_direct" />
+    <item drawable="fasthub" />
+    <item drawable="firefox_focus" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -623,6 +627,7 @@
     <item drawable="gearbest" />
     <item drawable="gtasks" />
     <item drawable="google_wifi" />
+    <item drawable="gitter" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -683,6 +688,7 @@
     <item drawable="harmony" />
     <item drawable="hyperlapse" />
     <item drawable="hi_native" />
+    <item drawable="hangouts_meet" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -774,6 +780,7 @@
     <item drawable="kaspersky_secure_connection" />
     <item drawable="kingdom_hearts" />
     <item drawable="k_plus" />
+    <item drawable="kanji_study" />
 
     <category title="L" />
     <item drawable="last_pass" />
@@ -956,6 +963,7 @@
     <item drawable="medication_list" />
     <item drawable="massimo_dutti" />
     <item drawable="my_o2" />
+    <item drawable="motion_stills" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1015,6 +1023,7 @@
     <item drawable="naver_cloud" />
     <item drawable="noxcleaner" />
     <item drawable="news" />
+    <item drawable="ncalc" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1405,6 +1414,7 @@
     <item drawable="smartthings" />
     <item drawable="spg" />
     <item drawable="shift_tracker" />
+    <item drawable="stitch_and_share" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />

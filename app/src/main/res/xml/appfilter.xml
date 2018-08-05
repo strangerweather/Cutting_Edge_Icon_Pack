@@ -3318,12 +3318,9 @@
         <item component="ComponentInfo{com.amazon.dee.app/com.amazon.dee.webapp.activity.AlexaWebAppActivity}" drawable="amazon_alexa" />
         <item component="ComponentInfo{com.amazon.dee.app/com.amazon.dee.app.Launcher}" drawable="amazon_alexa" />
         <item component="ComponentInfo{com.google.android.apps.motionstills/com.google.android.apps.motionstills.SplashActivity}" drawable="motion_stills" />
-
-        <!-- 1.2.4 -->
         <item component="ComponentInfo{com.chessking.android.learn.ctart4/com.convekta.android.peshka.ui.LoginActivity}" drawable="ct_art" />
-        <item component="ComponentInfo{com.danmemo/net.wrightflyer.toybox.AppActivity}" drawable="danmemo" />
         <item component="ComponentInfo{com.duy.calculator.free/com.duy.calculator.activities.ActivitySplashScreen}" drawable="ncalc" />
-        <item component="ComponentInfo{com.easilydo.mail/com.easilydo.mail.ui.SplashActivity}" drawable="easilydo_mail" />
+        <item component="ComponentInfo{com.easilydo.mail/com.easilydo.mail.ui.SplashActivity}" drawable="easilydo" />
         <item component="ComponentInfo{com.glitch.stitchandshare/com.glitch.stitchandshare.ui.MainActivity}" drawable="stitch_and_share" />
         <item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.activity.WebViewActivity}" drawable="google_arts_and_culture" />
         <item component="ComponentInfo{com.iherb/com.iherb.other.SplashActivity}" drawable="iherb" />
