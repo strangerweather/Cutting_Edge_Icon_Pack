@@ -144,6 +144,7 @@
     <item drawable="amex_mobile" />
     <item drawable="ally_mobile" />
     <item drawable="alarm_com" />
+    <item drawable="asus_zenfit" />
 
     <category title="B" />
     <item drawable="better" />
@@ -244,6 +245,7 @@
     <item drawable="blurize" />
     <item drawable="balls_bricks_breaker" />
     <item drawable="best_buy" />
+    <item drawable="biblia_rapida" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -359,6 +361,10 @@
     <item drawable="canon_print" />
     <item drawable="ct_art" />
     <item drawable="class_dojo" />
+    <item drawable="cartoes" />
+    <item drawable="cerco" />
+    <item drawable="ciclo" />
+    <item drawable="cine_mobits" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -424,6 +430,8 @@
     <item drawable="directv" />
     <item drawable="devcheck" />
     <item drawable="drone_mobile" />
+    <item drawable="detran_sp" />
+    <item drawable="dms_burnier" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -550,6 +558,7 @@
     <item drawable="fasthub" />
     <item drawable="firefox_focus" />
     <item drawable="fantasy_war" />
+    <item drawable="fab_pro" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -731,6 +740,7 @@
     <item drawable="iroster" />
     <item drawable="immersive_manager" />
     <item drawable="iherb" />
+    <item drawable="itau" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -971,6 +981,8 @@
     <item drawable="motion_stills" />
     <item drawable="microsoft_translator" />
     <item drawable="my_contacts" />
+    <item drawable="meu_tim" />
+    <item drawable="minha_net" />
 
     <category title="N" />
     <item drawable="nextdoor" />
