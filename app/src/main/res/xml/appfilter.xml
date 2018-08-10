@@ -3392,7 +3392,7 @@
         <item component="ComponentInfo{ninja.sesame.app.edge/ninja.sesame.app.edge.activities.MainActivity}" drawable="sesame" />
 
         <!-- Speedtest -->
-        <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest" />
+        <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest_ookla" />
 
         <!-- Ticket -->
         <item component="ComponentInfo{br.com.mobile.ticket/br.com.ticket.newapp.views.SingleActivity}" drawable="ticket" />
@@ -3411,22 +3411,18 @@
         <item component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplash}" drawable="money_lover" />
         <item component="ComponentInfo{com.giffgaffmobile.controller/com.giffgaffmobile.controller.SplashActivity}" drawable="my_giffgaff" />
         <item component="ComponentInfo{com.mycelium.wallet/com.mycelium.wallet.activity.StartupActivity}" drawable="mycelium_wallet" />
-        <item component="ComponentInfo{com.crunchyroll.android.naruto/com.crunchyroll.android.naruto.activities.SplashActivity}" drawable="naruto" />
         <item component="ComponentInfo{com.ea.gp.pvzheroes/com.ea.nimble.plugin.NimbleActivity}" drawable="pvz_heroes" />
         <item component="ComponentInfo{com.only5c.bible/activities.IntroActivity}" drawable="scriptura" />
         <item component="ComponentInfo{com.elixsr.somnio/com.elixsr.somnio.LoginActivity}" drawable="somnio" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.classic/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync_for_reddit" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.classic/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync" />
         <item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="yandex_mail" />
-        <item component="ComponentInfo{de.k4systems.abfallappes/de.k4systems.abfallappes.activity.APLaunchActivity}" drawable="abfall_esslingen" />
-
-        <!-- 1.2.5 -->
         <item component="ComponentInfo{capitecbank.remote.prd/capitecbank.remote.prd.ui.activity.MainActivity}" drawable="capitec" />
         <item component="ComponentInfo{client/vstc.vscam.activity.BSplashActivity}" drawable="eye_four" />
         <item component="ComponentInfo{com.bagatrix.mathway.android/mathway.SplashActivity}" drawable="mathway" />

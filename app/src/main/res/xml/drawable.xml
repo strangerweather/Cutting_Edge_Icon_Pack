@@ -365,6 +365,7 @@
     <item drawable="cerco" />
     <item drawable="ciclo" />
     <item drawable="cine_mobits" />
+    <item drawable="capitec" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -432,6 +433,7 @@
     <item drawable="drone_mobile" />
     <item drawable="detran_sp" />
     <item drawable="dms_burnier" />
+    <item drawable="danstonchat" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -983,6 +985,8 @@
     <item drawable="my_contacts" />
     <item drawable="meu_tim" />
     <item drawable="minha_net" />
+    <item drawable="my_giffgaff" />
+    <item drawable="mycelium_wallet" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1044,6 +1048,7 @@
     <item drawable="news" />
     <item drawable="ncalc" />
     <item drawable="nfl_fantasy" />
+    <item drawable="now_net" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1200,6 +1205,8 @@
     <item drawable="pleco" />
     <item drawable="pixiv" />
     <item drawable="periodic_table" />
+    <item drawable="pernambucanas" />
+    <item drawable="pvz_heroes" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1437,6 +1444,7 @@
     <item drawable="spg" />
     <item drawable="shift_tracker" />
     <item drawable="stitch_and_share" />
+    <item drawable="sesame" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1557,6 +1565,7 @@
     <item drawable="telstra" />
     <item drawable="t_rowe_price" />
     <item drawable="timbre" />
+    <item drawable="ticket" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1685,6 +1694,8 @@
     <item drawable="whoosh" />
     <item drawable="walli" />
     <item drawable="wawa" />
+    <item drawable="way" />
+    <item drawable="webstorage" />
 
     <category title="X"/>
     <item drawable="xbox" />
@@ -1719,6 +1730,7 @@
     <item drawable="youtube_vanced" />
     <item drawable="yandex_browser" />
     <item drawable="yonomi" />
+    <item drawable="yandex_mail" />
 
     <category title="Z"/>
     <item drawable="zello" />
@@ -1733,4 +1745,5 @@
     <item drawable="zillow" />
     <item drawable="zenui_themes" />
     <item drawable="zoom_cloud_meetings" />
+    <item drawable="zenui_help" />
 </resources>
