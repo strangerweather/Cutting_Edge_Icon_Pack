@@ -366,6 +366,7 @@
     <item drawable="ciclo" />
     <item drawable="cine_mobits" />
     <item drawable="capitec" />
+    <item drawable="coub" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -434,6 +435,7 @@
     <item drawable="detran_sp" />
     <item drawable="dms_burnier" />
     <item drawable="danstonchat" />
+    <item drawable="doordash" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -848,6 +850,7 @@
     <item drawable="lock_screen_root" />
     <item drawable="lucid_daydream" />
     <item drawable="lawnchair" />
+    <item drawable="lg_tv_plus" />
 
 
     <category title="M" />
@@ -987,6 +990,8 @@
     <item drawable="minha_net" />
     <item drawable="my_giffgaff" />
     <item drawable="mycelium_wallet" />
+    <item drawable="mathway" />
+    <item drawable="mad_barz" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1049,6 +1054,7 @@
     <item drawable="ncalc" />
     <item drawable="nfl_fantasy" />
     <item drawable="now_net" />
+    <item drawable="naruto" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1445,6 +1451,8 @@
     <item drawable="shift_tracker" />
     <item drawable="stitch_and_share" />
     <item drawable="sesame" />
+    <item drawable="scottrade" />
+    <item drawable="sense" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1630,6 +1638,7 @@
     <item drawable="vpn_hub" />
     <item drawable="vip_premium" />
     <item drawable="vanguard" />
+    <item drawable="vrv" />
 
 
     <category title="W"/>
@@ -1696,6 +1705,7 @@
     <item drawable="wawa" />
     <item drawable="way" />
     <item drawable="webstorage" />
+    <item drawable="wish" />
 
     <category title="X"/>
     <item drawable="xbox" />

@@ -3424,7 +3424,6 @@
         <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync" />
         <item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="yandex_mail" />
         <item component="ComponentInfo{capitecbank.remote.prd/capitecbank.remote.prd.ui.activity.MainActivity}" drawable="capitec" />
-        <item component="ComponentInfo{client/vstc.vscam.activity.BSplashActivity}" drawable="eye_four" />
         <item component="ComponentInfo{com.bagatrix.mathway.android/mathway.SplashActivity}" drawable="mathway" />
         <item component="ComponentInfo{com.bagatrix.mathway.*.SplashActivity}" drawable="mathway" />
         <item component="ComponentInfo{com.bandainamcoent.narutoblazingna/android.nt.project.NTActivity}" drawable="naruto" />
@@ -3437,11 +3436,10 @@
         <item component="ComponentInfo{com.dd.doordash/com.dd.doordash.activities.MainActivity}" drawable="doordash" />
         <item component="ComponentInfo{com.ellation.vrv/com.ellation.vrv.presentation.startup.StartupActivity}" drawable="vrv" />
         <item component="ComponentInfo{com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.activities.MainActivity}" drawable="az_screen_recorder" />
-        <item component="ComponentInfo{com.hipchat.beta/com.hipchat.activities.SignedOutActivity_}" drawable="hipchat" />
+        <item component="ComponentInfo{com.hipchat.beta/com.hipchat.activities.SignedOutActivity_}" drawable="hipchat_beta" />
         <item component="ComponentInfo{com.hipchat/com.hipchat.activities.SignedOutActivity_}" drawable="hipchat" />
         <item component="ComponentInfo{com.lge.app1/com.lge.app1.activity.SplashActivity}" drawable="lg_tv_plus" />
         <item component="ComponentInfo{com.madbarz.madbarzApp/com.madbarz.madbarzApp.TelerikCallbackActivity}" drawable="mad_barz" />
-        <item component="ComponentInfo{com.oculus.home/com.oculus.home.HomeActivity}" drawable="oculus" />
         <item component="ComponentInfo{com.scottrade.mobile.retail/com.scottrade.mobile.retail.SplashscreenActivity}" drawable="scottrade" />
         <item component="ComponentInfo{com.sense.androidclient/com.sense.androidclient.ui.access.StartActivity}" drawable="sense" />
         <item component="ComponentInfo{sanity.podcast.freak/sanity.podcast.freak.activities.MenuActivity}" drawable="podcast_go" />
