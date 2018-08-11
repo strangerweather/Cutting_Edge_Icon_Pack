@@ -60,6 +60,7 @@
         <item component="ComponentInfo{au.com.vodafone.mobile.gss/au.com.vodafone.mobile.gss.MyVodafone}" drawable="vodafone" />
         <item component="ComponentInfo{avg.antivirus/com.antivirus.ui.main.AntivirusMainScreen}" drawable="avg_antivirus" />
         <item component="ComponentInfo{bbc.iplayer.android/uk.co.bbc.iplayer.config.ui.ConfigLoadingActivity}" drawable="bbc_iplayer" />
+        <item component="ComponentInfo{bbc.iplayer.android/uk.co.bbc.iplayer.startup.StartupActivity}" drawable="bbc_iplayer" />
         <item component="ComponentInfo{bbc.iplayer.android/uk.co.bbc.iplayer.config.ui.ConfigLoadingActiv}" drawable="bbc_media_player"/>
         <item component="ComponentInfo{bbc.mobile.news.uk/bbc.mobile.news.v3.app.TopLevelActivity}" drawable="bbc_news"/>
         <item component="ComponentInfo{bn.ereader/bn.ereader.app.ui.SplashActivity}" drawable="nook" />
@@ -3343,29 +3344,86 @@
         <item component="ComponentInfo{com.alarm.alarmmobile.android/com.alarm.alarmmobile.android.activity.LoginActivity}" drawable="alarm_com" />
         <item component="ComponentInfo{com.classdojo.android/com.classdojo.android.ClassDojoActivity}" drawable="class_dojo" />
 
+        <!--Version 1.2.4-->
+
+        <!-- ASUS ZenFit -->
+        <item component="ComponentInfo{com.asus.wellness/com.asus.wellness.EntrySelector}" drawable="asus_zenfit" />
+
+        <!-- Biblia Rapida JW -->
+        <item component="ComponentInfo{com.ionicframework.fasttextjw456481/com.ionicframework.fasttextjw456481.MainActivity}" drawable="biblia_rapida" />
+
+        <!-- Cartões -->
+        <item component="ComponentInfo{br.com.portoseguro.cartoes/br.com.portoseguro.cartoes.activity.SplashActivity}" drawable="cartoes" />
+
+        <!-- Cerco-Pro -->
+        <item component="ComponentInfo{com.atanusanyal.cercopro/com.atanusanyal.cercopro.activities.SplashActivity}" drawable="cerco" />
+
+        <!-- Ciclo -->
+        <item component="ComponentInfo{com.osheden.ciclo/com.osheden.ciclo.activities.SplashActivity}" drawable="ciclo" />
+
+        <!-- Cine Mobits -->
+        <item component="ComponentInfo{br.com.mobits.cine/br.com.mobits.cine.BoasVindas}" drawable="cine_mobits" />
+
+        <!-- Detran.SP -->
+        <item component="ComponentInfo{br.gov.sp.detran.consultas/br.gov.sp.detran.consultas.activity.MainActivity}" drawable="detran_sp" />
+
+        <!-- DMS Burnier -->
+        <item component="ComponentInfo{app.dmsburnier.com/app.dmsburnier.com.MainActivity}" drawable="dms_burnier" />
+
+        <!-- Fab Pro -->
+        <item component="ComponentInfo{com.themezilla.fab.pro/com.themezilla.fab.pro.activities.SplashActivity}" drawable="fab_pro" />
+
+        <!-- Itaú -->
+        <item component="ComponentInfo{com.itau/br.com.itau.pf.ui.activity.SplashActivity_}" drawable="itau" />
+
+        <!-- Meu TIM -->
+        <item component="ComponentInfo{br.com.timbrasil.meutim/com.accenture.meutim.activities.SplashScreenActivity}" drawable="meu_tim" />
+
+        <!-- Minha NET -->
+        <item component="ComponentInfo{br.com.net.netapp/br.com.net.netapp.activity.SplashScreenActivity}" drawable="minha_net" />
+
+        <!-- NOW -->
+        <item component="ComponentInfo{br.com.netcombo.now/br.com.netcombo.now.ui.splashScreen.SplashScreenActivity}" drawable="now_net" />
+
+        <!-- Pernambucanas -->
+        <item component="ComponentInfo{br.com.conductor.siteportador.pernambucanas/br.com.conductor.siteportador.pernambucanas.ui.splash.SplashActivity}" drawable="pernambucanas" />
+
+        <!-- Sesame -->
+        <item component="ComponentInfo{ninja.sesame.app.edge/ninja.sesame.app.edge.activities.MainActivity}" drawable="sesame" />
+
+        <!-- Speedtest -->
+        <item component="ComponentInfo{org.zwanoo.android.speedtest/com.ookla.mobile4.screens.main.MainActivity}" drawable="speedtest_ookla" />
+
+        <!-- Ticket -->
+        <item component="ComponentInfo{br.com.mobile.ticket/br.com.ticket.newapp.views.SingleActivity}" drawable="ticket" />
+
+        <!-- Way -->
+        <item component="ComponentInfo{br.com.santander.way/br.com.santander.ewallet.ui.activities.SplashActivity}" drawable="way" />
+
+        <!-- WebStorage -->
+        <item component="ComponentInfo{com.ecareme.asuswebstorage/net.yostore.aws.view.common.SplashActivity}" drawable="webstorage" />
+
+        <!-- ZenUI Help -->
+        <item component="ComponentInfo{com.asus.userfeedback/com.asus.userfeedback.MainActivityDefaultLauncher}" drawable="zenui_help" />
+
         <item component="ComponentInfo{fr.alkeo.android.danstonchat/com.antdesc.android.danstonchat.ui.activities.MainActivity}" drawable="danstonchat" />
         <item component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplashScreen}" drawable="money_lover" />
         <item component="ComponentInfo{com.bookmark.money/com.zoostudio.moneylover.ui.ActivitySplash}" drawable="money_lover" />
         <item component="ComponentInfo{com.giffgaffmobile.controller/com.giffgaffmobile.controller.SplashActivity}" drawable="my_giffgaff" />
         <item component="ComponentInfo{com.mycelium.wallet/com.mycelium.wallet.activity.StartupActivity}" drawable="mycelium_wallet" />
-        <item component="ComponentInfo{com.crunchyroll.android.naruto/com.crunchyroll.android.naruto.activities.SplashActivity}" drawable="naruto" />
         <item component="ComponentInfo{com.ea.gp.pvzheroes/com.ea.nimble.plugin.NimbleActivity}" drawable="pvz_heroes" />
         <item component="ComponentInfo{com.only5c.bible/activities.IntroActivity}" drawable="scriptura" />
         <item component="ComponentInfo{com.elixsr.somnio/com.elixsr.somnio.LoginActivity}" drawable="somnio" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.classic/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync_for_reddit" />
-        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync_for_reddit" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.classic/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.dev/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync.pro/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.RedditActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.activities.MainActivity}" drawable="sync" />
+        <item component="ComponentInfo{com.laurencedawson.reddit_sync/com.laurencedawson.reddit_sync.ui.activities.HomeActivity}" drawable="sync" />
         <item component="ComponentInfo{ru.yandex.mail/ru.yandex.mail.ui.LoginActivity}" drawable="yandex_mail" />
-        <item component="ComponentInfo{de.k4systems.abfallappes/de.k4systems.abfallappes.activity.APLaunchActivity}" drawable="abfall_esslingen" />
-
-        <!-- 1.2.5 -->
         <item component="ComponentInfo{capitecbank.remote.prd/capitecbank.remote.prd.ui.activity.MainActivity}" drawable="capitec" />
-        <item component="ComponentInfo{client/vstc.vscam.activity.BSplashActivity}" drawable="eye_four" />
         <item component="ComponentInfo{com.bagatrix.mathway.android/mathway.SplashActivity}" drawable="mathway" />
         <item component="ComponentInfo{com.bagatrix.mathway.*.SplashActivity}" drawable="mathway" />
         <item component="ComponentInfo{com.bandainamcoent.narutoblazingna/android.nt.project.NTActivity}" drawable="naruto" />
@@ -3378,11 +3436,10 @@
         <item component="ComponentInfo{com.dd.doordash/com.dd.doordash.activities.MainActivity}" drawable="doordash" />
         <item component="ComponentInfo{com.ellation.vrv/com.ellation.vrv.presentation.startup.StartupActivity}" drawable="vrv" />
         <item component="ComponentInfo{com.hecorat.screenrecorder.free/com.hecorat.screenrecorder.free.activities.MainActivity}" drawable="az_screen_recorder" />
-        <item component="ComponentInfo{com.hipchat.beta/com.hipchat.activities.SignedOutActivity_}" drawable="hipchat" />
+        <item component="ComponentInfo{com.hipchat.beta/com.hipchat.activities.SignedOutActivity_}" drawable="hipchat_beta" />
         <item component="ComponentInfo{com.hipchat/com.hipchat.activities.SignedOutActivity_}" drawable="hipchat" />
         <item component="ComponentInfo{com.lge.app1/com.lge.app1.activity.SplashActivity}" drawable="lg_tv_plus" />
         <item component="ComponentInfo{com.madbarz.madbarzApp/com.madbarz.madbarzApp.TelerikCallbackActivity}" drawable="mad_barz" />
-        <item component="ComponentInfo{com.oculus.home/com.oculus.home.HomeActivity}" drawable="oculus" />
         <item component="ComponentInfo{com.scottrade.mobile.retail/com.scottrade.mobile.retail.SplashscreenActivity}" drawable="scottrade" />
         <item component="ComponentInfo{com.sense.androidclient/com.sense.androidclient.ui.access.StartActivity}" drawable="sense" />
         <item component="ComponentInfo{sanity.podcast.freak/sanity.podcast.freak.activities.MenuActivity}" drawable="podcast_go" />
