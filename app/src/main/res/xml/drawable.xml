@@ -145,6 +145,7 @@
     <item drawable="ally_mobile" />
     <item drawable="alarm_com" />
     <item drawable="asus_zenfit" />
+    <item drawable="andromeda" />
 
     <category title="B" />
     <item drawable="better" />
@@ -1453,6 +1454,8 @@
     <item drawable="sesame" />
     <item drawable="scottrade" />
     <item drawable="sense" />
+    <item drawable="supercloud_song_downloader" />
+    <item drawable="swift_black" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1574,6 +1577,7 @@
     <item drawable="t_rowe_price" />
     <item drawable="timbre" />
     <item drawable="ticket" />
+    <item drawable="trip_com" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1595,6 +1599,7 @@
     <item drawable="usb_backup" />
     <item drawable="us_bank" />
     <item drawable="usps_mobile" />
+    <item drawable="us_open_tennis" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -1741,6 +1746,7 @@
     <item drawable="yandex_browser" />
     <item drawable="yonomi" />
     <item drawable="yandex_mail" />
+    <item drawable="ytd2" />
 
     <category title="Z"/>
     <item drawable="zello" />

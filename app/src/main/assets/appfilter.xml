@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <resources>
 
+
 	<!-- Version 1.0 -->
         <item component=":BROWSER" drawable="browser" />
         <item component=":CALCULATOR" drawable="calculator" />
@@ -26,6 +27,7 @@
         <item component="ComponentInfo{com.huawei.KoBackup/com.huawei.KoBackup.InitializeActivity}" drawable="huawei_backup" />
         <item component="ComponentInfo{uk.co.bbc.android.iplayerradio/uk.co.bbc.android.iplayerradiov2.ui.toplevelcomponents.mainactivity.MainActivity}" drawable="bbc_iplayer_radio" />
         <item component="ComponentInfo{com.strangerweather.nextgenicons/com.strangerweather.nextgenicons.activities.SplashActivity}" drawable="cutting_edge" />
+        <item component="ComponentInfo{com.strangerweather.nextgenicons.optimized/com.strangerweather.nextgenicons.activities.SplashActivity}" drawable="cutting_edge" />
         <item component="ComponentInfo{com.chilternrailways/com.masabi.ukrail.android.app.mainmenu.DynamicMenuActivity}" drawable="chiltern_railways" />
         <item component="ComponentInfo{com.notquiteinsane.galaxybuttonlights2/com.notquiteinsane.galaxybuttonlights2.MainActivity}" drawable="galaxy_button_lights2" />
         <item component="ComponentInfo{com.shredderchess.android/com.shredderchess.android.SplashController}" drawable="shredder_chess" />
@@ -3442,6 +3444,34 @@
         <item component="ComponentInfo{com.madbarz.madbarzApp/com.madbarz.madbarzApp.TelerikCallbackActivity}" drawable="mad_barz" />
         <item component="ComponentInfo{com.scottrade.mobile.retail/com.scottrade.mobile.retail.SplashscreenActivity}" drawable="scottrade" />
         <item component="ComponentInfo{com.sense.androidclient/com.sense.androidclient.ui.access.StartActivity}" drawable="sense" />
+
+
+        <!--Version 1.2.5-->
+
+        <!-- andromeda -->
+        <item component="ComponentInfo{projekt.andromeda/projekt.andromeda.activities.InfoActivity}" drawable="andromeda" />
+
+        <!-- LINE Lite -->
+        <item component="ComponentInfo{com.linecorp.linelite/com.linecorp.linelite.ui.android.main.IntroActivity}" drawable="line" />
+
+        <!-- SuperCloud Song Downloader -->
+        <item component="ComponentInfo{com.yall.ddb/com.yall.ddb.MainActivity}" drawable="supercloud_song_downloader" />
+
+        <!-- Swift Black -->
+        <item component="ComponentInfo{com.brit.swiftblack.layers/com.brit.swiftblack.layers.Launcher}" drawable="swift_black" />
+
+        <!-- Trip.com -->
+        <item component="ComponentInfo{ctrip.english/com.ctrip.ibu.myctrip.main.module.home.IBUHomeActivity}" drawable="trip_com" />
+
+        <!-- YTD2 -->
+        <item component="ComponentInfo{com.akashpopat.ytd2/com.akashpopat.ytd2.MainActivity}" drawable="ytd2" />
+
+
+        <item component="ComponentInfo{com.ibm.events.android.usopen/com.ibm.events.android.usopen.ui.activities.LoadingActivity}" drawable="us_open_tennis" />
+
+
+
+
         <item component="ComponentInfo{sanity.podcast.freak/sanity.podcast.freak.activities.MenuActivity}" drawable="podcast_go" />
         <item component="ComponentInfo{studios.gr8bit.schoolmanager/studios.gr8bit.schoolmanager.SplashScreen}" drawable="egenda" />
         <item component="ComponentInfo{za.com.mrp/za.com.mrp.activity.StoreActivity}" drawable="mrp_fashion" />

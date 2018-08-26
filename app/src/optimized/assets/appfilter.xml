@@ -3472,7 +3472,7 @@
         <item component="ComponentInfo{com.ibm.events.android.usopen/com.ibm.events.android.usopen.ui.activities.LoadingActivity}" drawable="us_open_tennis" />
 
 
-
+    
         <item component="ComponentInfo{sanity.podcast.freak/sanity.podcast.freak.activities.MenuActivity}" drawable="podcast_go" />
         <item component="ComponentInfo{studios.gr8bit.schoolmanager/studios.gr8bit.schoolmanager.SplashScreen}" drawable="egenda" />
         <item component="ComponentInfo{za.com.mrp/za.com.mrp.activity.StoreActivity}" drawable="mrp_fashion" />
