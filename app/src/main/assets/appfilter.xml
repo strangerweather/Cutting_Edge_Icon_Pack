@@ -3326,6 +3326,7 @@
         <item component="ComponentInfo{com.easilydo.mail/com.easilydo.mail.ui.SplashActivity}" drawable="easilydo" />
         <item component="ComponentInfo{com.glitch.stitchandshare/com.glitch.stitchandshare.ui.MainActivity}" drawable="stitch_and_share" />
         <item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.activity.WebViewActivity}" drawable="google_arts_and_culture" />
+        <item component="ComponentInfo{com.google.android.apps.cultural/com.google.android.apps.cultural.web.WebViewActivity}" drawable="google_arts_and_culture" />
         <item component="ComponentInfo{com.iherb/com.iherb.other.SplashActivity}" drawable="iherb" />
         <item component="ComponentInfo{com.ikea.kompis/com.ikea.kompis.SplashActivity}" drawable="ikea" />
         <item component="ComponentInfo{com.microsoft.translator/com.microsoft.translator.activity.SplashActivity}" drawable="microsoft_translator" />
@@ -3470,32 +3471,65 @@
         <item component="ComponentInfo{com.ibm.events.android.usopen/com.ibm.events.android.usopen.ui.activities.LoadingActivity}" drawable="us_open_tennis" />
 
 
+        <!--Version 1.2.6-->
 
+        <item component="ComponentInfo{com.luxa.luxagram/com.mmm.instagram.MainActivity}" drawable="real_followers_instagram" />
+        <item component="ComponentInfo{wow_bit_bbsr.gallery/wow_bit_bbsr.gallery.Activities.SplashScreen}" drawable="gallery" />
+
+        <!-- ACR Pro Licence -->
+        <item component="ComponentInfo{com.nll.acr.license/com.nll.acr.license.MainActivity}" drawable="acr_pro" />
+
+        <!-- Application Inspector -->
+        <item component="ComponentInfo{com.ubqsoft.sec01/com.ubqsoft.sec01.ItemListActivity}" drawable="app_inspector" />
+
+        <!-- PaySend -->
+        <item component="ComponentInfo{com.paysend.app/com.paysend.app.ui.activity.Init_}" drawable="paysend" />
+
+        <item component="ComponentInfo{com.noodlecake.altosodyssey/com.unity3d.player.UnityPlayerActivity}" drawable="odyssey" />
 
         <item component="ComponentInfo{sanity.podcast.freak/sanity.podcast.freak.activities.MenuActivity}" drawable="podcast_go" />
+
         <item component="ComponentInfo{studios.gr8bit.schoolmanager/studios.gr8bit.schoolmanager.SplashScreen}" drawable="egenda" />
+
         <item component="ComponentInfo{za.com.mrp/za.com.mrp.activity.StoreActivity}" drawable="mrp_fashion" />
+
         <item component="ComponentInfo{com.bagatrix.mathway.android/md579d9a19e4b7285c81947942d274096a8.SplashActivity}" drawable="mathway" />
         <item component="ComponentInfo{com.bagatrix.mathway.android/md54cfc43e6ef8d0d3ecf07aed855f5c0eb.SplashActivity}" drawable="mathway" />
+
         <item component="ComponentInfo{mymacros.com.mymacros/mymacros.com.mymacros.LeftSideMenu.MealContainerActivity}" drawable="my_macros" />
+
         <item component="ComponentInfo{edu.umich.michigan/edu.umich.michigan.activities.SplashScreenActivity}" drawable="university_of_michigan" />
+
         <item component="ComponentInfo{com.androidapplication.uncrate/com.androidapplication.uncrate.activities.MainActivity}" drawable="uncrate" />
+
         <item component="ComponentInfo{com.hypebeast.editorial/com.hkm.editorial.HBSplash}" drawable="hypebeast" />
 
-        <!-- 1.2.6 -->
         <item component="ComponentInfo{com.allstate.view/com.allstate.view.login.LoginSplashActivity}" drawable="allstate" />
+
         <item component="ComponentInfo{com.amazon.drive/com.amazon.drive.activity.MainActivity}" drawable="amazon_drive" />
+
         <item component="ComponentInfo{com.rovio.baba/rovio.baba.facebook.AbbaUnityActivity}" drawable="angry_birds_two" />
+
         <item component="ComponentInfo{com.orbital.brainiton/com.prime31.UnityPlayerNativeActivity}" drawable="brain_it_on" />
+
         <item component="ComponentInfo{com.essential.klik/com.essential.klik.Camera}" drawable="camera" />
+
         <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="camera_roll" />
+
         <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu" />
+
         <item component="ComponentInfo{com.nike.omega/com.nike.mynike.ui.SplashScreenActivity}" drawable="nike" />
+
         <item component="ComponentInfo{org.frap129.spectrum/org.frap129.spectrum.SplashActivity}" drawable="spectrum" />
+
         <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="xbox" />
+
         <item component="ComponentInfo{de.eos.uptrade.android.fahrinfo.berlin/de.hafas.main.HafasApp}" drawable="bvg" />
+
         <item component="ComponentInfo{de.flixbus.app/de.meinfernbus.Main}" drawable="flixbus" />
+
         <item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.MainActivity}" drawable="warnwetter" />
+
         <item component="ComponentInfo{com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity}" drawable="zdf_mediathek" />
 
         <!-- 1.2.8 -->

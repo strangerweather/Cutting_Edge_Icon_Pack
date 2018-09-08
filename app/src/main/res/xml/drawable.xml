@@ -148,6 +148,8 @@
     <item drawable="andromeda" />
     <item drawable="acr_pro" />
     <item drawable="app_inspector" />
+    <item drawable="allstate" />
+    <item drawable="angry_birds_two" />
 
     <category title="B" />
     <item drawable="better" />
@@ -249,6 +251,8 @@
     <item drawable="balls_bricks_breaker" />
     <item drawable="best_buy" />
     <item drawable="biblia_rapida" />
+    <item drawable="brain_it_on" />
+    <item drawable="bvg" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -370,6 +374,7 @@
     <item drawable="cine_mobits" />
     <item drawable="capitec" />
     <item drawable="coub" />
+    <item drawable="camera_roll" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -567,6 +572,7 @@
     <item drawable="firefox_focus" />
     <item drawable="fantasy_war" />
     <item drawable="fab_pro" />
+    <item drawable="flixbus" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -1466,6 +1472,7 @@
     <item drawable="sense" />
     <item drawable="supercloud_song_downloader" />
     <item drawable="swift_black" />
+    <item drawable="spectrum" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />

@@ -3507,17 +3507,29 @@
         <item component="ComponentInfo{com.allstate.view/com.allstate.view.login.LoginSplashActivity}" drawable="allstate" />
 
         <item component="ComponentInfo{com.amazon.drive/com.amazon.drive.activity.MainActivity}" drawable="amazon_drive" />
+
         <item component="ComponentInfo{com.rovio.baba/rovio.baba.facebook.AbbaUnityActivity}" drawable="angry_birds_two" />
+
         <item component="ComponentInfo{com.orbital.brainiton/com.prime31.UnityPlayerNativeActivity}" drawable="brain_it_on" />
+
         <item component="ComponentInfo{com.essential.klik/com.essential.klik.Camera}" drawable="camera" />
+
         <item component="ComponentInfo{us.koller.cameraroll/us.koller.cameraroll.ui.MainActivity}" drawable="camera_roll" />
+
         <item component="ComponentInfo{com.hulu.plus/com.hulu.features.splash.SplashActivity}" drawable="hulu" />
+
         <item component="ComponentInfo{com.nike.omega/com.nike.mynike.ui.SplashScreenActivity}" drawable="nike" />
+
         <item component="ComponentInfo{org.frap129.spectrum/org.frap129.spectrum.SplashActivity}" drawable="spectrum" />
+
         <item component="ComponentInfo{com.microsoft.xboxone.smartglass/com.microsoft.xbox.xle.app.MainActivity}" drawable="xbox" />
+
         <item component="ComponentInfo{de.eos.uptrade.android.fahrinfo.berlin/de.hafas.main.HafasApp}" drawable="bvg" />
+
         <item component="ComponentInfo{de.flixbus.app/de.meinfernbus.Main}" drawable="flixbus" />
+
         <item component="ComponentInfo{de.dwd.warnapp/de.dwd.warnapp.MainActivity}" drawable="warnwetter" />
+
         <item component="ComponentInfo{com.zdf.android.mediathek/com.zdf.android.mediathek.ui.splash.SplashActivity}" drawable="zdf_mediathek" />
 
         <!-- 1.2.8 -->
