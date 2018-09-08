@@ -146,6 +146,8 @@
     <item drawable="alarm_com" />
     <item drawable="asus_zenfit" />
     <item drawable="andromeda" />
+    <item drawable="acr_pro" />
+    <item drawable="app_inspector" />
 
     <category title="B" />
     <item drawable="better" />
@@ -485,6 +487,7 @@
     <item drawable="eon" />
     <item drawable="ewelink" />
     <item drawable="easilydo" />
+    <item drawable="egenda" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -707,6 +710,7 @@
     <item drawable="hyperlapse" />
     <item drawable="hi_native" />
     <item drawable="hangouts_meet" />
+    <item drawable="hypebeast" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -993,6 +997,8 @@
     <item drawable="mycelium_wallet" />
     <item drawable="mathway" />
     <item drawable="mad_barz" />
+    <item drawable="mrp_fashion" />
+    <item drawable="my_macros" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1097,6 +1103,7 @@
     <item drawable="one_money" />
     <item drawable="open_keychain" />
     <item drawable="one_plus_plus" />
+    <item drawable="odyssey" />
 
     <category title="P" />
 	<item drawable="playstation" />
@@ -1214,6 +1221,8 @@
     <item drawable="periodic_table" />
     <item drawable="pernambucanas" />
     <item drawable="pvz_heroes" />
+    <item drawable="paysend" />
+    <item drawable="podcast_go" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1273,6 +1282,7 @@
     <item drawable="reel_cinemas" />
     <item drawable="roxy_cinemas" />
     <item drawable="rta_dubai" />
+    <item drawable="real_followers_instagram" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1600,6 +1610,8 @@
     <item drawable="us_bank" />
     <item drawable="usps_mobile" />
     <item drawable="us_open_tennis" />
+    <item drawable="university_of_michigan" />
+    <item drawable="uncrate" />
 
     <category title="V" />
     <item drawable="voicemail" />
