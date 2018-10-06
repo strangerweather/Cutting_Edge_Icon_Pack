@@ -253,6 +253,7 @@
     <item drawable="biblia_rapida" />
     <item drawable="brain_it_on" />
     <item drawable="bvg" />
+    <item drawable="between_the_lines" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -375,6 +376,7 @@
     <item drawable="capitec" />
     <item drawable="coub" />
     <item drawable="camera_roll" />
+    <item drawable="color_switch" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -493,6 +495,7 @@
     <item drawable="ewelink" />
     <item drawable="easilydo" />
     <item drawable="egenda" />
+    <item drawable="eventbrite" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -573,6 +576,7 @@
     <item drawable="fantasy_war" />
     <item drawable="fab_pro" />
     <item drawable="flixbus" />
+    <item drawable="freeprints" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -655,6 +659,7 @@
     <item drawable="google_wifi" />
     <item drawable="gitter" />
     <item drawable="google_arts_and_culture" />
+    <item drawable="geek" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -717,6 +722,8 @@
     <item drawable="hi_native" />
     <item drawable="hangouts_meet" />
     <item drawable="hypebeast" />
+    <item drawable="hi_translate" />
+    <item drawable="happy_glass" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -771,6 +778,7 @@
     <item drawable="jed" />
     <item drawable="jetblue" />
     <item drawable="just_giving" />
+    <item drawable="joom" />
 
 
     <category title="K" />
@@ -862,6 +870,8 @@
     <item drawable="lucid_daydream" />
     <item drawable="lawnchair" />
     <item drawable="lg_tv_plus" />
+    <item drawable="little_alchemy" />
+    <item drawable="line_puzzle" />
 
 
     <category title="M" />
@@ -1005,6 +1015,7 @@
     <item drawable="mad_barz" />
     <item drawable="mrp_fashion" />
     <item drawable="my_macros" />
+    <item drawable="mama" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1068,6 +1079,7 @@
     <item drawable="nfl_fantasy" />
     <item drawable="now_net" />
     <item drawable="naruto" />
+    <item drawable="niagara_launcher" />
 
     <category title="O" />
     <item drawable="operavpn" />
@@ -1229,6 +1241,9 @@
     <item drawable="pvz_heroes" />
     <item drawable="paysend" />
     <item drawable="podcast_go" />
+    <item drawable="pokemon_tcg" />
+    <item drawable="paperland_pro" />
+    <item drawable="paperland" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1289,6 +1304,8 @@
     <item drawable="roxy_cinemas" />
     <item drawable="rta_dubai" />
     <item drawable="real_followers_instagram" />
+    <item drawable="real_followers_fast" />
+    <item drawable="rise_up" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1473,6 +1490,10 @@
     <item drawable="supercloud_song_downloader" />
     <item drawable="swift_black" />
     <item drawable="spectrum" />
+    <item drawable="safari_queue" />
+    <item drawable="scene" />
+    <item drawable="solitaire" />
+    <item drawable="shpock" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1595,6 +1616,8 @@
     <item drawable="timbre" />
     <item drawable="ticket" />
     <item drawable="trip_com" />
+    <item drawable="tiktok" />
+    <item drawable="trainline" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1619,6 +1642,7 @@
     <item drawable="us_open_tennis" />
     <item drawable="university_of_michigan" />
     <item drawable="uncrate" />
+    <item drawable="uber_eats" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -1730,6 +1754,7 @@
     <item drawable="way" />
     <item drawable="webstorage" />
     <item drawable="wish" />
+    <item drawable="word_link" />
 
     <category title="X"/>
     <item drawable="xbox" />
