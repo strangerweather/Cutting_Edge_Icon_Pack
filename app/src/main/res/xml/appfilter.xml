@@ -3575,6 +3575,12 @@
         <item component="ComponentInfo{com.colorswitch.switch2/com.unity3d.player.UnityPlayerActivity}" drawable="color_switch"/>
         <item component="ComponentInfo{bitpit.launcher/bitpit.launcher.ui.HomeActivity}" drawable="niagara_launcher"/>
         <item component="ComponentInfo{com.eventbrite.attendee/com.eventbrite.attendee.activities.MainActivity}" drawable="eventbrite"/>
+        <item component="ComponentInfo{com.agminstruments.drumpadmachine/com.agminstruments.drumpadmachine.SplashActivity}" drawable="dpm"/>
+        <item component="ComponentInfo{com.itv.thismorning/co.monterosa.fancompanion.ui.SplashActivity}" drawable="this_morning"/>
+        <item component="ComponentInfo{com.deliveroo.orderapp/com.deliveroo.orderapp.activities.RooNavActivity}" drawable="deliveroo"/>
+        <item component="ComponentInfo{com.app.emotes.dances.fortnite/com.unity3d.player.UnityPlayerActivity}" drawable="dances_from_fortnite"/>
+        <item component="ComponentInfo{com.ccl.emotesfbr/com.ovortex.simplewebview.MainActivity}" drawable="battle_royale_emotes"/>
+        <item component="ComponentInfo{com.mixtiles.android/com.mixtiles.android.landing.SplashActivity}" drawable="mixtiles"/>
 
 
         <item component="ComponentInfo{com.seccia.desire/com.unity3d.player.UnityPlayerActivity}" drawable="desire"/>

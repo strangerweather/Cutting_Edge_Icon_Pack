@@ -254,6 +254,7 @@
     <item drawable="brain_it_on" />
     <item drawable="bvg" />
     <item drawable="between_the_lines" />
+    <item drawable="battle_royale_emotes" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -446,6 +447,9 @@
     <item drawable="dms_burnier" />
     <item drawable="danstonchat" />
     <item drawable="doordash" />
+    <item drawable="dpm" />
+    <item drawable="deliveroo" />
+    <item drawable="dances_from_fortnite" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -1618,6 +1622,7 @@
     <item drawable="trip_com" />
     <item drawable="tiktok" />
     <item drawable="trainline" />
+    <item drawable="this_morning" />
 
     <category title="U" />
     <item drawable="unified_remote" />
