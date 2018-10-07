@@ -450,6 +450,7 @@
     <item drawable="dpm" />
     <item drawable="deliveroo" />
     <item drawable="dances_from_fortnite" />
+    <item drawable="desire" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -664,6 +665,8 @@
     <item drawable="gitter" />
     <item drawable="google_arts_and_culture" />
     <item drawable="geek" />
+    <item drawable="google_files_go" />
+    <item drawable="google_datally" />
 
     <category title="H" />
     <item drawable="hq_music" />
@@ -783,6 +786,7 @@
     <item drawable="jetblue" />
     <item drawable="just_giving" />
     <item drawable="joom" />
+    <item drawable="jotterpad" />
 
 
     <category title="K" />
@@ -1020,6 +1024,7 @@
     <item drawable="mrp_fashion" />
     <item drawable="my_macros" />
     <item drawable="mama" />
+    <item drawable="mixtiles" />
 
     <category title="N" />
     <item drawable="nextdoor" />
