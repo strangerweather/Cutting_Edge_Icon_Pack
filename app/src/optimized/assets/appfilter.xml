@@ -3587,7 +3587,40 @@
     <item component="ComponentInfo{com.google.android.apps.nbu.files/com.google.android.apps.nbu.files.home.HomeActivity}" drawable="google_files_go" />
     <item component="ComponentInfo{com.jotterpad.x/com.jotterpad.x.MainActivity}" drawable="jotterpad"/>
 
-    
+    <!--1.2.9-->
+
+    <!-- PDF to Word -->
+    <item component="ComponentInfo{com.cometdocs.pdftoword/com.cometdocs.pdftoword.MainActivity}" drawable="pdf_to_word" />
+
+    <!-- Photo & Picture Resizer -->
+    <item component="ComponentInfo{com.simplemobilephotoresizer/com.simplemobilephotoresizer.andr.ui.SplashscreenActivity}" drawable="photo_and_picture_resizer" />
+
+    <!-- Digital clock Xperia™ -->
+    <item component="ComponentInfo{com.sonyericsson.digitalclockwidget2/com.sonyericsson.digitalclockwidget2.Info}" drawable="digital_clock_xperia" />
+
+    <!-- Forest -->
+    <item component="ComponentInfo{kaka.wallpaper.forest/kaka.wallpaper.forest.android.SettingsActivity}" drawable="forest" />
+
+    <!-- FrogWeather -->
+    <item component="ComponentInfo{jp.miyavi.androiod.gnws/jp.miyavi.androiod.gnws.MainActivity}" drawable="frogweather" />
+
+    <!-- Moto Help -->
+    <item component="ComponentInfo{com.motorola.genie/com.motorola.genie.view.start.LaunchActivity}" drawable="moto_help" />
+
+    <!-- Application Inspector -->
+    <item component="ComponentInfo{com.ubqsoft.sec01/com.ubqsoft.sec01.MainActivity}" drawable="app_inspector" />
+
+    <!-- Find iDevices -->
+    <item component="ComponentInfo{com.mak.findip/com.mak.findip.views.login.LoginActivity}" drawable="find_idevices" />
+
+    <!-- Hi U -->
+    <item component="ComponentInfo{ae.uae.ott.hiu/ae.uae.ott.hiu.BOTStartPage}" drawable="hi_u" />
+
+    <!--Wordscapes-->
+    <item component="ComponentInfo{com.peoplefun.wordcross/com.peoplefun.wordcross.MonkeyGame}" drawable="wordscapes" />
+
+
+
         <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed"/>
         <item component="ComponentInfo{com.safariflow.queue/oreilly.queue.ContentNavigationActivity}" drawable="safari_queue"/>
         <item component="ComponentInfo{com.plexapp.android/com.plexapp.plex.activities.SplashActivity}" drawable="plex"/>

@@ -451,6 +451,7 @@
     <item drawable="deliveroo" />
     <item drawable="dances_from_fortnite" />
     <item drawable="desire" />
+    <item drawable="digital_clock_xperia" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -582,6 +583,9 @@
     <item drawable="fab_pro" />
     <item drawable="flixbus" />
     <item drawable="freeprints" />
+    <item drawable="forest" />
+    <item drawable="frogweather" />
+    <item drawable="find_idevices" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -731,6 +735,7 @@
     <item drawable="hypebeast" />
     <item drawable="hi_translate" />
     <item drawable="happy_glass" />
+    <item drawable="hi_u" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -1025,6 +1030,7 @@
     <item drawable="my_macros" />
     <item drawable="mama" />
     <item drawable="mixtiles" />
+    <item drawable="moto_help" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1253,6 +1259,7 @@
     <item drawable="pokemon_tcg" />
     <item drawable="paperland_pro" />
     <item drawable="paperland" />
+    <item drawable="pdf_to_word" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1765,6 +1772,7 @@
     <item drawable="webstorage" />
     <item drawable="wish" />
     <item drawable="word_link" />
+    <item drawable="wordscapes" />
 
     <category title="X"/>
     <item drawable="xbox" />

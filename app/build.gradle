@@ -13,8 +13,8 @@ android {
         applicationId "com.strangerweather.nextgenicons"
         minSdkVersion rootProject.ext.MinSdk
         targetSdkVersion rootProject.ext.TargetSdk
-        versionCode 29
-        versionName "1.2.8"
+        versionCode 30
+        versionName "1.2.9"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
     }
     buildTypes {
@@ -33,12 +33,12 @@ android {
         optimized {
             applicationId "com.strangerweather.nextgenicons.optimized"
             resValue "string", "app_name", "Cutting Edge Optimized"
-            versionCode 29
-            versionName "1.2.8"
+            versionCode 30
+            versionName "1.2.9"
         }
     }
 
-    buildToolsVersion '28.0.2'
+    buildToolsVersion '28.0.3'
 
 }
 
