@@ -3620,6 +3620,87 @@
     <item component="ComponentInfo{com.peoplefun.wordcross/com.peoplefun.wordcross.MonkeyGame}" drawable="wordscapes" />
 
 
+    <!--Version 1.3.0-->
+
+    <!-- AppMgr III -->
+    <item component="ComponentInfo{com.a0soft.gphone.app2sd/com.a0soft.gphone.app2sd.free.MainWnd}" drawable="appmgr_iii" />
+
+    <!-- Citibank IN -->
+    <item component="ComponentInfo{com.citiuat/com.citiuat.mobeix.MainActivity}" drawable="citi" />
+
+    <!-- D Notes -->
+    <item component="ComponentInfo{com.dvdb.bergnotes/com.dvdb.dnotes.MainActivity}" drawable="d_notes" />
+
+    <!-- Diaro -->
+    <item component="ComponentInfo{com.pixelcrater.Diaro/com.pixelcrater.Diaro.MainActivity}" drawable="diaro" />
+
+    <!-- English Grammar -->
+    <item component="ComponentInfo{com.maxlogix.englishgrammar/com.maxlogix.activity.SplashScreenActivity}" drawable="english_grammar" />
+
+    <!-- English Idiom -->
+    <item component="ComponentInfo{app.smartdev.englishidiom/app.smartdev.englishidiom.activities.MainActivity}" drawable="english_idiom" />
+
+    <!-- Holy Bible KJV -->
+    <item component="ComponentInfo{org.appsleluia.kjv/org.appsleluia.kjv.activity.HomeActivity}" drawable="bible" />
+
+    <!-- Idioms & Phrases -->
+    <item component="ComponentInfo{mng.com.idiomandphrasal/mng.com.idiomandphrasal.MainActivity}" drawable="idioms_and_phrases" />
+
+    <!-- Material Notes -->
+    <item component="ComponentInfo{com.dinosaur.cwfei.materialnotes/com.dinosaur.cwfei.materialnotes.Activities.MainActivity}" drawable="material_notes" />
+
+    <!-- Memorix -->
+    <item component="ComponentInfo{panama.android.notes/panama.android.notes.OverviewActivity}" drawable="memorix" />
+
+    <!-- Music Player -->
+    <item component="ComponentInfo{media.audioplayer.musicplayer/com.ijoysoft.music.activity.WelcomeActivity}" drawable="music_player" />
+
+    <!-- MX Player -->
+    <item component="ComponentInfo{com.mxtech.videoplayer.ad/com.mxtech.videoplayer.ad.ActivityWelcomeMX}" drawable="mx_player" />
+
+    <!-- RAM Cleanup -->
+    <item component="ComponentInfo{com.kosajun.easymemorycleaner/com.kosajun.easymemorycleaner.MainActivity}" drawable="ram_cleanup" />
+
+    <!-- Urban Dictionary -->
+    <item component="ComponentInfo{com.urbandictionary.android/host.exp.exponent.experience.ShellAppActivity}" drawable="urbandict" />
+
+    <!-- Weather & Clock Widget -->
+    <item component="ComponentInfo{com.devexpert.weather/com.devexpert.weather.view.HomeActivity}" drawable="weather_and_clock_widget" />
+
+    <!-- Shop & Ship -->
+    <item component="ComponentInfo{net.aramex.sas/com.aramex.shopandshipmobile.ui.splash.SplashActivity}" drawable="shop_and_ship" />
+
+    <!-- Pest repellent sound -->
+    <item component="ComponentInfo{com.toolsandutilities.pestrepellentsound/com.toolsandutilities.pestrepellentsound.MainActivity}" drawable="pest_repellent_sound" />
+
+    <!-- Spring -->
+    <item component="ComponentInfo{com.emirates.spring/com.emirates.spring.MainActivity}" drawable="spring" />
+
+    <!-- Conjugation -->
+    <item component="ComponentInfo{com.wsandhu.conjugation/com.wsandhu.conjugation.Splash}" drawable="conjugation" />
+
+    <!-- My Galaxy -->
+    <item component="ComponentInfo{com.mygalaxy/com.mygalaxy.SplashScreenActivity}" drawable="my_galaxy" />
+
+    <!-- Samsung Cloud -->
+    <item component="ComponentInfo{com.samsung.android.scloud/com.samsung.android.scloud.app.ui.splash.launcher}" drawable="samsung_cloud" />
+
+    <!-- Samsung Pay mini -->
+    <item component="ComponentInfo{com.samsung.android.spaymini/com.samsung.android.spay.ui.SpayMainActivity}" drawable="samsung_pay_mini" />
+
+    <!-- Spanish Slang-Proverbs-Idioms -->
+    <item component="ComponentInfo{com.tatteam.languagerealm.spanish/com.tatteam.languagerealm.ui.activity.SplashActivity}" drawable="spanish_slang_proverbs_idioms" />
+
+    <!-- The Idioms Book -->
+    <item component="ComponentInfo{com.theidiomsbook/com.theidiomsbook.MainActivity}" drawable="the_idioms_book" />
+
+    <item component="ComponentInfo{com.mewe/com.mewe.ui.activity.SplashActivity}" drawable="mewe" />
+
+    <item component="ComponentInfo{com.google.android.apps.wellbeing/com.google.android.apps.wellbeing.settings.LauncherActivity}" drawable="digital_wellbeing" />
+
+    <item component="ComponentInfo{com.treydev.mns/com.treydev.mns.MainActivity}" drawable="material_notification_shade" />
+
+
 
         <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed"/>
         <item component="ComponentInfo{com.safariflow.queue/oreilly.queue.ContentNavigationActivity}" drawable="safari_queue"/>

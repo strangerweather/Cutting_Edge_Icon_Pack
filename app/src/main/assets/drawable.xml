@@ -150,6 +150,7 @@
     <item drawable="app_inspector" />
     <item drawable="allstate" />
     <item drawable="angry_birds_two" />
+    <item drawable="appmgr_iii" />
 
     <category title="B" />
     <item drawable="better" />
@@ -378,6 +379,7 @@
     <item drawable="coub" />
     <item drawable="camera_roll" />
     <item drawable="color_switch" />
+    <item drawable="conjugation" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -452,6 +454,8 @@
     <item drawable="dances_from_fortnite" />
     <item drawable="desire" />
     <item drawable="digital_clock_xperia" />
+    <item drawable="d_notes" />
+    <item drawable="digital_wellbeing" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -502,6 +506,8 @@
     <item drawable="easilydo" />
     <item drawable="egenda" />
     <item drawable="eventbrite" />
+    <item drawable="english_grammar" />
+    <item drawable="english_idiom" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -775,6 +781,7 @@
     <item drawable="immersive_manager" />
     <item drawable="iherb" />
     <item drawable="itau" />
+    <item drawable="idioms_and_phrases" />
 
     <category title="J" />
     <item drawable="journey" />
@@ -1031,6 +1038,12 @@
     <item drawable="mama" />
     <item drawable="mixtiles" />
     <item drawable="moto_help" />
+    <item drawable="material_notes" />
+    <item drawable="memorix" />
+    <item drawable="music_player" />
+    <item drawable="my_galaxy" />
+    <item drawable="mewe" />
+    <item drawable="material_notification_shade" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1260,6 +1273,7 @@
     <item drawable="paperland_pro" />
     <item drawable="paperland" />
     <item drawable="pdf_to_word" />
+    <item drawable="pest_repellent_sound" />
 
     <category title="Q" />
     <item drawable="quora" />
@@ -1322,6 +1336,7 @@
     <item drawable="real_followers_instagram" />
     <item drawable="real_followers_fast" />
     <item drawable="rise_up" />
+    <item drawable="ram_cleanup" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1510,6 +1525,11 @@
     <item drawable="scene" />
     <item drawable="solitaire" />
     <item drawable="shpock" />
+    <item drawable="shop_and_ship" />
+    <item drawable="spring" />
+    <item drawable="samsung_cloud" />
+    <item drawable="samsung_pay_mini" />
+    <item drawable="spanish_slang_proverbs_idioms" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1635,6 +1655,7 @@
     <item drawable="tiktok" />
     <item drawable="trainline" />
     <item drawable="this_morning" />
+    <item drawable="the_idioms_book" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1773,6 +1794,7 @@
     <item drawable="wish" />
     <item drawable="word_link" />
     <item drawable="wordscapes" />
+    <item drawable="weather_and_clock_widget" />
 
     <category title="X"/>
     <item drawable="xbox" />
