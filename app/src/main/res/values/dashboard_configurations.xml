@@ -57,7 +57,7 @@
     <!-- More apps at Google Play Store
     * Link to google play store developer
     * If you don't want to show this part, just leave this empty -->
-    <string name="google_play_dev">https://play.google.com/store/apps/details?id=com.strangerweather.nextgenicons.optimized</string>
+    <string name="google_play_dev"></string>
 
     <!-- CONFIG: NAVIGATION VIEW HEADER -->
 
@@ -102,12 +102,12 @@
     <!-- Enable or disable regular icon request
     * default: true
     * change to false to disable it -->
-    <bool name="enable_icon_request">false</bool>
+    <bool name="enable_icon_request">true</bool>
 
     <!-- Enable regular icon request limit
     * default: false
     * change to true to enable it -->
-    <bool name="enable_icon_request_limit">false</bool>
+    <bool name="enable_icon_request_limit">true</bool>
 
     <!-- Limit regular icon request
     * IGNORE if icon request limit is disabled
@@ -121,12 +121,12 @@
     * but you also want user able to make 10 request again after update, then enable this option
     * default: false
     * change to true to enable it -->
-    <bool name="reset_icon_request_limit">false</bool>
+    <bool name="reset_icon_request_limit">true</bool>
 
     <!-- Enable or disable premium request
     * default: false
     * change to true to enable it -->
-    <bool name="enable_premium_request">true</bool>
+    <bool name="enable_premium_request">false</bool>
 
     <!-- Take a look inside License.java for premium request product -->
 
@@ -204,7 +204,7 @@
         <!--<item>https://www.instagram.com/_u/yourusername</item>-->
         <!--<item>https://twitter.com/</item>-->
         <!--<item>https://www.behance.net/</item>-->
-        <item>https://plus.google.com/u/1/communities/109485894650147904637</item>
+        <item>https://forum.xda-developers.com/android/themes/icon-pack-cutting-edge-icon-pack-t3753906</item>
         <!--<item>http://github.com/yourusername</item>-->
         <!--<item>http://www.yourwebsite.com</item>-->
         <!--<item>your@email.com</item>-->

@@ -151,6 +151,12 @@
     <item drawable="allstate" />
     <item drawable="angry_birds_two" />
     <item drawable="appmgr_iii" />
+    <item drawable="ab_friends" />
+    <item drawable="adw_extensions_pack" />
+    <item drawable="adapticons" />
+    <item drawable="angry_birds_rio" />
+    <item drawable="appstract" />
+    <item drawable="airtime_rewards" />
 
     <category title="B" />
     <item drawable="better" />
@@ -256,6 +262,10 @@
     <item drawable="bvg" />
     <item drawable="between_the_lines" />
     <item drawable="battle_royale_emotes" />
+    <item drawable="battery_usage" />
+    <item drawable="beast_circles" />
+    <item drawable="bejewel_4" />
+    <item drawable="bejeweled_blitz" />
 
     <category title="C" />
     <item drawable="coincalc" />
@@ -380,6 +390,8 @@
     <item drawable="camera_roll" />
     <item drawable="color_switch" />
     <item drawable="conjugation" />
+    <item drawable="cloud_print" />
+    <item drawable="crystal_for_samsung_internet" />
 
     <category title="D" />
     <item drawable="diaro" />
@@ -456,6 +468,7 @@
     <item drawable="digital_clock_xperia" />
     <item drawable="d_notes" />
     <item drawable="digital_wellbeing" />
+    <item drawable="disconnect_for_samsung_internet_browser" />
 
     <category title="E" />
     <item drawable="evolve_sms" />
@@ -508,6 +521,8 @@
     <item drawable="eventbrite" />
     <item drawable="english_grammar" />
     <item drawable="english_idiom" />
+    <item drawable="eurostar" />
+    <item drawable="edge_screen_s9" />
 
     <category title="F" />
     <item drawable="foursquare_swarm" />
@@ -592,6 +607,7 @@
     <item drawable="forest" />
     <item drawable="frogweather" />
     <item drawable="find_idevices" />
+    <item drawable="foodvisor" />
 
     <category title="G" />
     <item drawable="geekbench" />
@@ -742,6 +758,7 @@
     <item drawable="hi_translate" />
     <item drawable="happy_glass" />
     <item drawable="hi_u" />
+    <item drawable="hidden_folks" />
 
     <category title="I" />
     <item drawable="inshorts" />
@@ -892,6 +909,7 @@
     <item drawable="lg_tv_plus" />
     <item drawable="little_alchemy" />
     <item drawable="line_puzzle" />
+    <item drawable="live_transcribe" />
 
 
     <category title="M" />
@@ -1044,6 +1062,8 @@
     <item drawable="my_galaxy" />
     <item drawable="mewe" />
     <item drawable="material_notification_shade" />
+    <item drawable="movieboxpro" />
+    <item drawable="maf_carrefour" />
 
     <category title="N" />
     <item drawable="nextdoor" />
@@ -1290,6 +1310,7 @@
     <item drawable="quick_for_wear" />
     <item drawable="quicky" />
     <item drawable="qantas" />
+    <item drawable="quran" />
 
     <category title="R" />
     <item drawable="rediffmail" />
@@ -1337,6 +1358,8 @@
     <item drawable="real_followers_fast" />
     <item drawable="rise_up" />
     <item drawable="ram_cleanup" />
+    <item drawable="rootless_pixel_launcher" />
+    <item drawable="radarscope" />
 
     <category title="S" />
     <item drawable="samsung_pay" />
@@ -1530,6 +1553,13 @@
     <item drawable="samsung_cloud" />
     <item drawable="samsung_pay_mini" />
     <item drawable="spanish_slang_proverbs_idioms" />
+    <item drawable="s7_airlines" />
+    <item drawable="shapical_x" />
+    <item drawable="skyline" />
+    <item drawable="sound_assistant" />
+    <item drawable="star_walk_2" />
+    <item drawable="skyscanner" />
+    <item drawable="sun_sand_sports" />
 
     <category title="T" />
     <item drawable="three_six_five_scores" />
@@ -1656,6 +1686,7 @@
     <item drawable="trainline" />
     <item drawable="this_morning" />
     <item drawable="the_idioms_book" />
+    <item drawable="touchless_notifications_pro" />
 
     <category title="U" />
     <item drawable="unified_remote" />
@@ -1681,6 +1712,9 @@
     <item drawable="university_of_michigan" />
     <item drawable="uncrate" />
     <item drawable="uber_eats" />
+    <item drawable="udemy" />
+    <item drawable="underburn" />
+    <item drawable="unicorn" />
 
     <category title="V" />
     <item drawable="voicemail" />
@@ -1795,6 +1829,8 @@
     <item drawable="word_link" />
     <item drawable="wordscapes" />
     <item drawable="weather_and_clock_widget" />
+    <item drawable="wells_fargo" />
+    <item drawable="wallhub" />
 
     <category title="X"/>
     <item drawable="xbox" />

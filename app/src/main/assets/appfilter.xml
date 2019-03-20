@@ -3702,7 +3702,231 @@
         <item component="ComponentInfo{com.treydev.mns/com.treydev.mns.MainActivity}" drawable="material_notification_shade" />
 
 
-        <item component="ComponentInfo{com.ubisoft.dance.justdance2015companion/com.ubisoft.playground.unity.PgUnityActivity}" drawable="just_dance_controller"/>
+        <!--Version 1.3.1-->
+
+        <!-- S7 Airlines -->
+        <item component="ComponentInfo{ru.s7.android/ru.s7.android.ui.activities.SplashActivity}" drawable="s7_airlines" />
+
+        <!-- Study -->
+        <item component="ComponentInfo{com.chegg/com.chegg.home.HomeScreenActivity}" drawable="study" />
+
+        <!-- Quran -->
+        <item component="ComponentInfo{com.quran.labs.androidquran/com.quran.labs.androidquran.QuranDataActivity}" drawable="quran" />
+
+
+        <!--Version 1.3.2-->
+
+        <!-- Cloud Print -->
+        <item component="ComponentInfo{com.sec.cloudprint/com.sec.cloudprint.activity.AnySharpLoginActivity}" drawable="cloud_print" />
+
+
+        <!--Version 1.3.4-->
+
+	<!-- Foodvisor -->
+	<item
+		component="ComponentInfo{io.foodvisor.foodvisor/io.foodvisor.foodvisor.App.SplashScreen.SplashScreenActivity}"
+		drawable="foodvisor"/>
+
+	<!-- Google -->
+	<item
+		component="ComponentInfo{com.google.android.googlequicksearchbox/com.google.android.apps.gsa.staticplugins.opa.EnterOpaActivityFromLauncher}"
+		drawable="google"/>
+
+	<!-- Rootless_Pixel_Launcher -->
+	<item
+		component="ComponentInfo{amirz.rootless.nexuslauncher/com.google.android.apps.nexuslauncher.NexusLauncherActivity}"
+		drawable="rootless_pixel_launcher"/>
+
+	<!-- Tennis_TV -->
+	<item
+		component="ComponentInfo{com.deltatre.atp.tennis.android/com.tennistv.android.app.ui.view.SplashActivity}"
+		drawable="tennis_tv"/>
+
+	<!-- Udemy -->
+	<item
+		component="ComponentInfo{com.udemy.android/com.udemy.android.SplashActivity}"
+		drawable="udemy"/>
+
+    	<!-- AccuWeather -->
+	<item
+		component="ComponentInfo{com.accuweather.android/com.accuweather.onboarding.SplashScreen}"
+		drawable="accu_weather"/>
+
+	<!-- PS_Vue -->
+	<item
+		component="ComponentInfo{com.snei.vue.android/com.snei.vue.ui.LaunchActivity}"
+		drawable="playstation_vue"/>
+
+	<!-- RadarScope -->
+	<item
+		component="ComponentInfo{com.basevelocity.radarscope/com.basevelocity.radarscope.map.RsMapActivity}"
+		drawable="radarscope"/>
+
+	<!-- Wells_Fargo -->
+	<item
+		component="ComponentInfo{com.wf.wellsfargomobile/com.wf.wellsfargomobile.LauncherActivity}"
+		drawable="wells_fargo"/>
+
+    <!-- Live_Transcribe -->
+    <item
+        component="ComponentInfo{com.google.audio.hearing.visualization.accessibility.scribe/com.google.audio.hearing.visualization.accessibility.scribe.MainActivity}"
+        drawable="live_transcribe"/>
+
+    <!-- Eurostar -->
+    <item
+        component="ComponentInfo{com.eurostar.androidapp/com.eurostar.androidapp.MainActivity}"
+        drawable="eurostar"/>
+
+
+
+        <!--Version 1.3.5-->
+
+    <!-- MovieBoxPro -->
+    <item component="ComponentInfo{com.movieboxpro.android/com.movieboxpro.android.view.activity.SplashActivity}" drawable="movieboxpro" />
+
+    <!-- MAF Carrefour -->
+    <item component="ComponentInfo{com.aswat.carrefouruae/com.aswat.carrefouruae.activity.SplashActivity}" drawable="maf_carrefour" />
+
+    <!-- PDF to Word -->
+    <item component="ComponentInfo{com.cometdocs.pdftoword/com.cometdocs.pdftoword.activities.MainActivity}" drawable="pdf_to_word" />
+
+    <!-- Crystal_for_Samsung_Internet -->
+    <item
+        component="ComponentInfo{co.crystalapp.crystal/co.crystalapp.crystal.contentblocker.MainPreferences}"
+        drawable="crystal_for_samsung_internet"/>
+
+    <!-- Edge_Screen_S9 -->
+    <item
+        component="ComponentInfo{com.tools.vietbm.peopledge/com.tools.vietbm.peopledge.activity.Splashscreen}"
+        drawable="edge_screen_s9"/>
+
+    <!-- Hidden_Folks -->
+    <item
+        component="ComponentInfo{com.adriaandejongh.hiddenfolks/com.unity3d.player.UnityPlayerActivity}"
+        drawable="hidden_folks"/>
+
+    <!-- Shapical_X -->
+    <item
+        component="ComponentInfo{com.sixhandsapps.shapicalx/com.sixhandsapps.shapicalx.MainActivity}"
+        drawable="shapical_x"/>
+
+    <!-- Skyline -->
+    <item
+        component="ComponentInfo{com.JustZht.Skyline/com.justzht.skyline.activity.UnityPlayerActivity}"
+        drawable="skyline"/>
+
+    <!-- Sound_Assistant -->
+    <item
+        component="ComponentInfo{com.samsung.android.soundassistant/com.sec.android.soundassistant.activities.MainActivity}"
+        drawable="sound_assistant"/>
+
+    <!-- Star_Walk_2 -->
+    <item
+        component="ComponentInfo{com.vitotechnology.StarWalk2/com.vitotechnology.common.GooglePlayBillingActivityFirebase}"
+        drawable="star_walk_2"/>
+
+    <!-- Touchless_Notifications_Pro -->
+    <item
+        component="ComponentInfo{hu.viczian.notifications.pro/hu.viczian.notifications.pro.AliasActivity1}"
+        drawable="touchless_notifications_pro"/>
+
+    <!-- Underburn -->
+    <item
+        component="ComponentInfo{com.out386.underburn/com.out386.underburn.activities.MainActivity}"
+        drawable="underburn"/>
+
+    <!-- WallHub -->
+    <item
+        component="ComponentInfo{com.Hastamev.WallHubPro/jahirfiquitiva.apps.frames.sample.MainActivity}"
+        drawable="wallhub"/>
+
+    <!-- Grab -->
+    <item component="ComponentInfo{com.grabtaxi.passenger/com.grab.pax.newface.presentation.newface.NewFace}" drawable="grab" />
+
+    <!-- Skyscanner -->
+    <item component="ComponentInfo{net.skyscanner.android.main/net.skyscanner.app.presentation.view.splash.SplashActivity}" drawable="skyscanner" />
+
+    <!-- trivago -->
+    <item component="ComponentInfo{com.trivago/com.trivago.ui.main.MainActivity}" drawable="trivago" />
+
+    <!-- AB_Friends -->
+    <item
+        component="ComponentInfo{com.rovio.angrybirdsfriends/com.rovio.fusion.App}"
+        drawable="ab_friends"/>
+
+    <!-- ADW_Extensions_Pack -->
+    <item
+        component="ComponentInfo{org.adw.launcher.extensionspack/org.adw.launcher.extensionspack.MainActivity}"
+        drawable="adw_extensions_pack"/>
+
+    <!-- Adapticons -->
+    <item
+        component="ComponentInfo{pl.damianpiwowarski.adapticons/pl.damianpiwowarski.adapticons.MainActivity_}"
+        drawable="adapticons"/>
+
+    <!-- Angry_Birds -->
+    <item
+        component="ComponentInfo{com.rovio.angrybirdsrio/com.rovio.fusion.App}"
+        drawable="angry_birds_rio"/>
+
+    <!-- Apex_Launcher_Classic -->
+    <item
+        component="ComponentInfo{com.anddoes.gingerapex/com.anddoes.launcher.Launcher}"
+        drawable="apex_launcher"/>
+
+    <!-- Appstract -->
+    <item
+        component="ComponentInfo{com.melon.appstract/jahirfiquitiva.apps.blueprint.demo.MainActivity}"
+        drawable="appstract"/>
+
+    <!-- Battery_Usage -->
+    <item
+        component="ComponentInfo{com.jaredharen.batteryusageshortcut/com.jaredharen.batteryusageshortcut.BatteryUsageActivity}"
+        drawable="battery_usage"/>
+
+    <!-- Beast_Circles -->
+    <item
+        component="ComponentInfo{holotype.beast.app/holotype.beast.app.HomeActivity}"
+        drawable="beast_circles"/>
+
+    <!-- Bejewel_4 -->
+    <item
+        component="ComponentInfo{com.vbpl.bejewelsfour/com.unity3d.player.UnityPlayerProxyActivity}"
+        drawable="bejewel_4"/>
+
+    <!-- Bejeweled_Blitz -->
+    <item
+        component="ComponentInfo{com.ea.BejeweledBlitz_na/com.popcap.BejeweledBlitz.BejeweledBlitzGameActivity}"
+        drawable="bejeweled_blitz"/>
+
+    <!-- AdGuard_Content_Blocker -->
+    <item
+        component="ComponentInfo{com.adguard.android.contentblocker/com.adguard.android.contentblocker.ui.MainActivity}"
+        drawable="adguard"/>
+
+    <!-- Disconnect_for_Samsung_Internet_Browser -->
+    <item
+        component="ComponentInfo{com.disconnect.samsungcontentblocker/com.disconnect.samsungcontentblocker.MainActivity}"
+        drawable="disconnect_for_samsung_internet_browser"/>
+
+    <!-- Sun_Sand_Sports -->
+    <item
+        component="ComponentInfo{com.sssports.sssports/com.sssports.sssports.ui.splash.SplashScreenActivity}"
+        drawable="sun_sand_sports"/>
+
+    <!-- Unicorn -->
+    <item
+        component="ComponentInfo{kr.co.lylstudio.unicorn/kr.co.lylstudio.unicorn.MainActivity}"
+        drawable="unicorn"/>
+
+    <!-- Airtime_Rewards -->
+    <item
+        component="ComponentInfo{com.karrot/com.karrot.SplashActivity}"
+        drawable="airtime_rewards"/>
+
+
+
+    <item component="ComponentInfo{com.ubisoft.dance.justdance2015companion/com.ubisoft.playground.unity.PgUnityActivity}" drawable="just_dance_controller"/>
         <item component="ComponentInfo{com.commit451.gitlab/com.commit451.gitlab.activity.LaunchActivity}" drawable="labcoat"/>
         <item component="ComponentInfo{com.acmeandroid.listen/com.acmeandroid.listen.SplashActivity}" drawable="listen"/>
         <item component="ComponentInfo{net.he.networktools/net.he.networktools.MainActivity}" drawable="network_tools"/>

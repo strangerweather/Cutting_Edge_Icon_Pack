@@ -3701,6 +3701,16 @@
     <item component="ComponentInfo{com.treydev.mns/com.treydev.mns.MainActivity}" drawable="material_notification_shade" />
 
 
+    <!--Version 1.3.1-->
+
+    <!-- S7 Airlines -->
+    <item component="ComponentInfo{ru.s7.android/ru.s7.android.ui.activities.SplashActivity}" drawable="s7_airlines" />
+
+    <!-- Study -->
+    <item component="ComponentInfo{com.chegg/com.chegg.home.HomeScreenActivity}" drawable="study" />
+
+    <!-- Quran -->
+    <item component="ComponentInfo{com.quran.labs.androidquran/com.quran.labs.androidquran.QuranDataActivity}" drawable="quran" />
 
         <item component="ComponentInfo{com.niksoftware.snapseed/com.google.android.apps.snapseed.WelcomeScreenActivity}" drawable="snapseed"/>
         <item component="ComponentInfo{com.safariflow.queue/oreilly.queue.ContentNavigationActivity}" drawable="safari_queue"/>
